@@ -1,0 +1,23 @@
+<html metal:use-macro="context/@@layout/layout">
+  <metal:block fill-slot="body">
+    <tal:block define="site_url context/@@layout/site_url">
+      <h1>
+        <tal:block content="python: context.functie.naam"/>
+      </h1>
+      <span class="functie">
+        <a
+          tal:attributes="href string:${site_url}/personen/${context/persoon/id}"
+          ><tal:block content="context/persoon/voornaam"/>
+          <tal:block content="context/persoon/tussenvoegsel"/>
+          <tal:block content="context/persoon/geslachtsnaam"/></a>,
+        <a
+          tal:attributes="href string:${site_url}/instellingen/${context/instelling/id}/#"
+          ><tal:block content="context/instelling/naam"/></a>
+
+          (<tal:block content="context/van_als_bekend"/>
+          -
+          <tal:block content="context/tot_als_bekend"/>).
+      </span>
+    </tal:block>
+  </metal:block>
+</html>

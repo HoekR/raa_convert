@@ -1,0 +1,47 @@
+<html metal:use-macro="context/@@layout/layout">
+  <metal:block fill-slot="body">
+
+    <h3>toelichting voor: <tal:block replace="context/naam"/></h3>
+    <tal:block
+      tal:define="site_url context/@@layout/site_url"
+      >
+      <script type="text/javascript"
+        tal:attributes="src string:${site_url}/++resource++js/tiny_mce.js">
+      </script>
+      <script type="text/javascript"
+        tal:attributes="src string:${site_url}/++resource++js/tinymce_config.js">
+      </script>
+    </tal:block>
+
+    <form method="POST" enctype="multipart/form-data"
+      tal:attributes="action action_url | string:${request/URL0}"
+      >
+      <table>
+        <tbody>
+            <tr>
+              <td>
+              <textarea style="width:100%; height: 550px"
+                tal:attributes="
+                  id string:${view/prefix}.toelichting;
+                  name string:${view/prefix}.toelichting;"
+                tal:content="view/toelichting"
+                >
+              </textarea>
+              </td>
+            </tr>
+        </tbody>
+        <tfoot>
+          <tr class="controls">
+            <td class="align-left">
+              <input
+                tal:repeat="action view/actions"
+                tal:replace="structure action/render"
+              />
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </form>
+
+  </metal:block>
+</html>

@@ -1,0 +1,5 @@
+<a
+  tal:define="site_url context/@@layout/site_url"
+  tal:attributes="href string:${site_url}/instellingen/${context/id}/#"
+  tal:content="context/naam"
+/>

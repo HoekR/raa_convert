@@ -1,0 +1,50 @@
+<html metal:use-macro="context/@@search/search">
+  <metal:block fill-slot="form-table-body">
+    <tbody>
+      <tr
+        tal:define="widget nocall:view/widgets/naam"
+        >
+        <td style="white-space: nowrap;">
+          <tal:block
+            replace="python: '%s %s'%(view.prefix, widget.label)"
+          />&nbsp;<span class="note"
+            tal:condition="widget/hint"><a
+              class="sorting"
+              tal:attributes="
+                onClick string:javascript:newWin('${site_url}/help#${widget/label}')"
+              >?</a></span>
+        </td>
+        <td>
+          <tal:block replace="structure widget"/>
+          <div class="note"
+            tal:attributes="id string:${widget/name}-note"
+            >
+            <tal:block content="widget/hint" />
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </metal:block>
+  <metal:block fill-slot="actions">
+    <span class="sorting">
+      <a class="refine" id="hide-form"
+        onclick="javascript:hideForm(this); return false;"
+        tal:condition="view/batch"
+        >verberg formulier,</a>
+        <a
+          tal:condition="view/batch"
+          tal:attributes="href request/URL"
+          >nieuwe zoekopdracht...</a>
+    </span>
+      <span class="sorting"
+        tal:define="widget nocall:view/widgets/apply"
+        >
+        <tal:block replace="structure widget"/>
+        <tal:block replace="widget/hint"/>
+      </span>
+      <p>
+        <input tal:repeat="action view/actions"
+          tal:replace="structure action/render" />
+      </p>
+  </metal:block>
+</html>

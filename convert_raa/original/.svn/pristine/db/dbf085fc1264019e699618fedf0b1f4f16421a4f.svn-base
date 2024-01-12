@@ -1,0 +1,16 @@
+<html metal:use-macro="context/@@layout/layout">
+  <metal:block fill-slot="body">
+    <tal:block define="site_url context/@@layout/site_url">
+      <h1>
+        <tal:block content="context/naam"/>
+      </h1>
+      <a class="sorting"
+        tal:attributes="href string:${site_url}/aanstellingen/by?aanstelling.functie=${context/id}"
+        >aanstellingen voor deze functie...</a>
+        <br/>
+        <a class="sorting"
+          tal:attributes="href string:${site_url}/personen/by?persoon.functie=${context/id}"
+          >personen die deze functie bekleedden..</a>
+    </tal:block>
+  </metal:block>
+</html>

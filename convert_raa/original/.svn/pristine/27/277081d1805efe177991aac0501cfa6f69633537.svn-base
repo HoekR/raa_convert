@@ -1,0 +1,128 @@
+<configure
+  xmlns="http://namespaces.zope.org/zope"
+  xmlns:zcml="http://namespaces.zope.org/zcml"
+  xmlns:browser="http://namespaces.zope.org/browser"
+  xmlns:five="http://namespaces.zope.org/five"
+  xmlns:sqlos="http://namespaces.sqlobject.org/sqlos"
+  xmlns:rdb='http://namespaces.zope.org/rdb'
+  i18n_domain="sqlos">
+
+  <adapter
+    provides="sqlos.interfaces.IZopeSQLConnection"
+    for="zope.app.rdb.interfaces.IZopeConnection"
+    permission="zope.Public"
+    factory="sqlos.adapter.MySQLAdapter"
+  />
+
+  <rdb:provideConnection
+    name='raa'
+    component='mysqldbda.adapter.MySQLdbAdapter'
+    dsn='dbi://webuser@sql.inghist.nl/webraa;charset=utf8'
+  />
+
+  <sqlos:factory
+    id="persoon"
+    title="Persoon"
+    description="Persoon factory"
+    component=".model.Persoon"
+  />
+
+  <sqlos:factory
+    id="aanstelling"
+    title="Aanstelling"
+    description="Aanstelling factory"
+    component=".model.Aanstelling"
+  />
+
+  <sqlos:factory
+    id="instelling"
+    title="Instelling"
+    description="Instelling factory"
+    component=".model.Instelling"
+  />
+
+  <sqlos:factory
+    id="functie"
+    title="Functies"
+    description="Functie factory"
+    component=".model.Functie"
+  />
+
+  <sqlos:factory
+    id="lokaal"
+    title="Lokaal"
+    description="Lokaal factory"
+    component=".model.Lokaal"
+  />
+
+  <sqlos:factory
+    id="provincie"
+    title="Provnicies"
+    description="Provincie factory"
+    component=".model.Provincie"
+  />
+
+  <sqlos:factory
+    id="regio"
+    title="regios"
+    description="Regio factory"
+    component=".model.Regio"
+  />
+
+  <five:traversable class=".container.Raa"/>
+  <five:defaultViewable class=".container.Raa"/>
+
+  <five:traversable class=".container.Container"/>
+  <five:defaultViewable class=".container.Container"/>
+
+  <five:traversable class=".model.Object"/>
+  <five:defaultViewable class=".model.Object"/>
+
+  <content class=".container.Raa">
+    <factory
+      id="raa.Raa"
+      title="RAA Application Object"
+      description="Main RAA application object that expose data containers" />
+    <require
+      permission="zope2.View"
+      interface="zope.app.container.interfaces.IReadContainer"
+    />
+    <require
+      permission="zope.ManageContent"
+      interface="zope.app.container.interfaces.IWriteContainer"
+    />
+  </content>
+
+  <adapter
+    provides=".interfaces.IQuery"
+    for=".container.Instellingen"
+    factory=".query.InstellingenQuery"
+  />
+
+  <adapter
+    provides=".interfaces.IQuery"
+    for=".container.Functies"
+    factory=".query.FunctieQuery"
+  />
+
+  <adapter
+    provides=".interfaces.IQuery"
+    for=".container.Personen"
+    factory=".query.PersoonQuery"
+  />
+
+  <adapter
+    provides=".interfaces.IQuery"
+    for=".container.Raa"
+    factory=".query.PersoonQuery"
+  />
+
+  <adapter
+    provides=".interfaces.IQuery"
+    for=".container.Aanstellingen"
+    factory=".query.AanstellingQuery"
+  />
+
+  <include package=".browser"/>
+
+</configure>

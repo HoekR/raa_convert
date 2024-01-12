@@ -1,0 +1,25 @@
+RAA - Repertorium Ambtenaren en Ambtsdragers 1428-1861
+
+1.1
+===
+
+Feature changes
+
+- person search on date expanded to three independant date ranges
+- added sort on overlijdensdatum
+- added doopjaar detection and display
+- added approximation of birth or death (ca.)
+- added message when Institutional Description not present
+- changed behavior wildcards: term* becomes also *term*
+
+Bugs Fixed
+
+- database backend talks now correct unicode
+- sorting issues solved due to correct encoding stored in mysql tables
+- sorting results now defaults alphabetically
+
+
+1.0
+==
+
+Original release

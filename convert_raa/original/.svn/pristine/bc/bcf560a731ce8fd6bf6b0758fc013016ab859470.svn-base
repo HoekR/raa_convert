@@ -1,0 +1,73 @@
+<input type="text" size="4"
+  tal:attributes="
+    name string:${view/name}.year:int;
+    id string:${view/name}.year:int"
+/>
+
+/
+
+<select
+  tal:attributes="
+    name string:${view/name}.month:int;
+    id string:${view/name}.month:int"
+  >
+  <option value="0">--</option>
+  <option
+    tal:repeat="month python:['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'october', 'november', 'december']"
+    tal:attributes="value repeat/month/number"
+    tal:content="month"
+  />
+</select>
+
+/
+
+<select
+  tal:attributes="
+    name string:${view/name}.day:int;
+    id string:${view/name}.day:int"
+  >
+  <option value="0">--</option>
+  <option
+    tal:repeat="day python: range(1,32)"
+    tal:attributes="value day"
+    tal:content="day"
+  />
+</select>
+
+-
+
+<input type="text" size="4"
+  tal:attributes="
+    name string:${view/name}.to.year:int;
+    id string:${view/name}.to.year:int"
+/>
+
+/
+
+<select
+  tal:attributes="
+    name string:${view/name}.to.month:int;
+    id string:${view/name}.to.month:int"
+  >
+  <option value="0">--</option>
+  <option
+    tal:repeat="month python:['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'october', 'november', 'december']"
+    tal:attributes="value repeat/month/number"
+    tal:content="month"
+  />
+</select>
+
+/
+
+<select
+  tal:attributes="
+    name string:${view/name}.to.day:int;
+    id string:${view/name}.to.day:int"
+  >
+  <option value="0">--</option>
+  <option
+    tal:repeat="day python: range(1,32)"
+    tal:attributes="value day"
+    tal:content="day"
+  />
+</select>

@@ -1,0 +1,223 @@
+import time
+
+# find it at: https://networkx.lanl.gov/svn/networkx/tags/networkx-0.29
+import networkx as nx
+from networkx import search
+
+import MySQLdb as mysqldb
+import MySQLdb.cursors as cursors
+
+# install with: sudo easy_install-2.4 SQLOBJECT==bugfix
+import sqlobject
+from sqlobject import UnicodeCol, IntCol, BoolCol
+from sqlobject.dbconnection import ConnectionHub, connectionForURI
+
+def init_doubles(data_file):
+    doubles = nx.Graph()
+    for line in data_file:
+        line = line.strip()
+        if not line:
+            continue
+        t, db_1, db_2, id_1, id_2 = line.split()
+        doubles.add_edge((db_1, t, int(id_1)), (db_2, t, int(id_2)))
+    return doubles
+
+class C(cursors.DictCursor):
+
+    def execute(self, q, *args, **kwargs):
+        #print q+';', '#', repr(args)
+        super(C, self).execute(q, *args, **kwargs)
+
+    def fetchone(self):
+        r  = super(C, self).fetchone()
+        if r is None:
+            return None
+        data = {}
+        for k, v in r.items():
+            data[k.lower()] = v
+        return data
+
+    def fetchall(self):
+        for r in super(C, self).fetchall():
+            data = {}
+            for k, v in r.items():
+                data[k.lower()] = v
+            yield data
+
+hub = ConnectionHub()
+
+class Dubbel(sqlobject.SQLObject):
+
+    _connection = hub
+
+    class sqlmeta:
+        table = 'dubbelen.dubbel'
+
+    table_name = UnicodeCol()
+
+    batfra = IntCol(default=None)
+    negentien = IntCol(default=None)
+    republiek = IntCol(default=None)
+    negentien = IntCol(default=None)
+    divperioden = IntCol(default=None)
+    me = IntCol(default=None)
+
+    updated_ref = BoolCol(default=False)
+
+def insert(d):
+    items = d.items()
+    columns = ','.join([k for k,v in items])
+    values_spec = ','.join(['%s']*len(items))
+    values = []
+    for k, v in items:
+        if type(v) is type(u''):
+            v = v.encode('latin-1')
+        values.append(v)
+    return columns, values_spec, values
+
+if __name__ == '__main__':
+    import sys
+    import random
+    random.seed('Foo Bar Baz Qux')
+
+    url = "mysql://root@localhost/"#?debug=True"
+    hub.threadConnection = connectionForURI(url)
+
+    Dubbel.dropTable(ifExists=True)
+    Dubbel.createTable(ifNotExists=True)
+
+    data_file = open('./dubbelen.dat', 'r')
+    doubles = init_doubles(data_file)
+    for component in nx.connected_components(doubles):
+        data = {}
+        for db, table, id in component:
+            data[db] = id
+        d = Dubbel(table_name=table, **data)
+
+    connection = mysqldb.connect(
+        host='localhost', user='root', cursorclass=C, use_unicode=True)
+
+    c = connection.cursor()
+    c.execute('SET FOREIGN_KEY_CHECKS=0;') # dangerous
+
+    ref = 'ra_negentien'
+    source_database = ['ra_batfra', 'ra_dubbelen', 'ra_republiek', 'ra_me']
+    merge_tables = [
+        ('academischetitel', ['regent']),
+        ('adellijketitel', ['regent']),
+        ('bron', ['bronregentdetails']),
+
+        ('functie', ['bovenlokaalcollegeregentdetails']),
+
+        ('regent', ['aliassen', 'bronregentdetails', 'bovenlokaalcollegeregentdetails']),
+
+        ('college', ['bovenlokaalcollegeregentdetails']),
+        ('provinciaal', ['bovenlokaalcollegeregentdetails']),
+        ('lokaal', ['bovenlokaalcollegeregentdetails']),
+        ('regio', ['bovenlokaalcollegeregentdetails']),
+        ('stand', ['bovenlokaalcollegeregentdetails']),
+
+        ('aliassen', []),
+        ('bronregentdetails', []),
+        ('bovenlokaalcollegeregentdetails', []),
+        ]
+
+    _rands = {}
+
+    def _r():
+        return random.randint(1000000,10000000)
+
+    def _id():
+        r = _r()
+        while r in _rands:
+            r = _r()
+        _rands[r] = None
+        return r
+
+    def insert_new(table, data):
+        columns, values_spec, values = insert(data)
+        c.execute("INSERT INTO %s.%s (%s) VALUES (%s)" % (
+            ref, tb, columns, values_spec), values)
+
+    def insert_new_ref(table, data):
+        new_id = _id()
+        data['id'+table] = new_id
+        columns, values_spec, values = insert(data)
+        c.execute("INSERT INTO %s.%s (%s) VALUES (%s)" % (
+            ref, tb, columns, values_spec), values)
+        return new_id
+
+    def update_refs(db, refs, column, old_id, new_id):
+        for ref in refs:
+            c.execute("UPDATE %s.%s SET %s=%s WHERE %s=%s" % (
+                db, ref, column, new_id, column, old_id))
+
+    for db in source_database:
+        for tb, refs in merge_tables:
+            c.execute("SELECT * FROM %s.%s" % (db, tb))
+            for row in c.fetchall():
+                if 'id'+tb not in row:
+                    # id-less, just insert and be done with it; continue to next
+                    insert_new(tb, row)
+                    continue
+
+                id = row['id'+tb]
+                c.execute(
+                    "SELECT * FROM dubbelen.dubbel WHERE table_name = '%s' AND %s = %s" % (
+                    tb, db, id)
+                    )
+                dubbel = c.fetchone()
+                if dubbel is None:
+                    # no double, add to ref and update id's in source db
+                    try:
+                        new_id = insert_new_ref(tb, row)
+                    except Exception, e:
+                        # special case for bronregentdetails which has an unique
+                        # key on IDBron,IDRegent. We skip subsequent inserts
+                        # for this combination
+                        if tb == 'bronregentdetails':
+                            print 'SKIPPING:', db, tb, row, e
+                        else:
+                            raise
+                    update_refs(db, refs, 'id'+tb, id, new_id)
+                else:
+                    # there's a double, see if the ref has it or not
+                    ref_id = dubbel[ref]
+                    if ref_id is None:
+                        # no yet in ref, insert it there which results in a new
+                        # id.
+                        new_ref_id = insert_new_ref(tb, row)
+                    else:
+                        if not dubbel['updated_ref']:
+                            # to prevent clashes we generate a new id and update
+                            # the reference db to use it. We do this only once.
+                            new_ref_id = _id()
+                            c.execute(
+                                "UPDATE %s.%s SET id%s=%s WHERE id%s = %s" % (
+                                ref, tb, tb, new_ref_id, tb, ref_id)
+                                )
+                            # update refs with the ref's new id
+                            update_refs(ref, refs, 'id'+tb, ref_id, new_ref_id)
+                        else:
+                            new_ref_id = ref_id
+                    # update the source database to use the new id
+                    update_refs(db, refs, 'id'+tb, id, new_ref_id)
+                    # make sure to add to the dubbel table too for the
+                    # next round to come and flag is as updated.
+                    c.execute(
+                        "UPDATE dubbelen.dubbel SET updated_ref=1,%s=%s WHERE table_name = '%s' AND %s = %s" % (
+                        ref, new_ref_id, tb, db, id)
+                        )
+                    # XXX update periode information here?
+
+    #post consolidation: we give each alias record an id
+    id = 1
+    c.execute("SELECT * FROM %s.aliassen" % ref)
+    for row in c.fetchall():
+        alias, idregent = row['alias'], row['idregent']
+        c.execute("UPDATE %s.aliassen SET id=%s WHERE alias = \"%s\" AND IDRegent = %s" % (
+            ref, id, alias, idregent))
+        id += 1
+
+    connection.commit()
+    sys.exit(0)

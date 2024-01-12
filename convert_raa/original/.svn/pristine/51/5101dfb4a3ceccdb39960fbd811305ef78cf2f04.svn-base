@@ -1,0 +1,237 @@
+<metal:block define-macro="search">
+  <tal:block
+    tal:define="site_url context/@@layout/site_url"
+    >
+  <html metal:use-macro="context/@@layout/layout">
+    <metal:block fill-slot="body">
+      <script type="text/javascript"
+        tal:attributes="src string:${site_url}/scripts/newwin.js">
+      </script>
+      <script type="text/javascript"
+        tal:attributes="src string:${site_url}/scripts/tooltip.js">
+      </script>
+      <script type="text/javascript">
+        function showForm(element) {
+          element.style.display = 'none';
+          hide_element = document.getElementById('hide-form');
+          hide_element.style.display = 'inline'
+          form_element = document.getElementById('form-hide');
+          form_element.style.display = 'block';
+        }
+        function hideForm(element) {
+          element.style.display = 'none';
+          show_element = document.getElementById('show-form');
+          show_element.style.display = 'inline'
+          form_element = document.getElementById('form-hide');
+          form_element.style.display = 'none';
+        }
+      </script>
+      <h1>
+        <tal:block content="python: view.label.capitalize()"/>
+        <tal:block condition="not: view/batch">zoeken</tal:block>
+      </h1>
+      <h3 tal:condition="python: view.batch is not None and (len(view.batch) == 0)">
+        geen resultaten.
+      </h3>
+      <metal:block define-macro="form">
+      <div class="form"
+        tal:attributes="id python: view.batch and 'form-hide' or 'form'"
+        >
+        <form method="GET" enctype="multipart/form-data" 
+          tal:attributes="action action_url | string:${request/URL0}"
+          >
+          <table class="listing">
+            <thead>
+              <tr>
+                <th class="label-column">
+                </th>
+                <th>
+                </th>
+              </tr>
+            </thead>
+            <tr><td><input tal:repeat="action view/actions"
+                      tal:replace="structure action/render" />
+		    <input type="reset" name="reset" value="wis" onClick="document.forms[0].reset();"></td>
+            </tr>
+
+            <metal:block define-slot="form-table-body">
+            <tbody>
+              <tal:block repeat="widget view/widgets">
+                <tr tal:define="odd repeat/widget/odd"
+                  notal:attributes="class python: odd and 'odd' or 'even'">
+                  <td  style="white-space: nowrap;">
+                    <tal:block
+                      replace="widget/label"
+                    />&nbsp;
+                    <span class="note"
+                      tal:condition="widget/hint"
+                      ><a
+                        class="sorting"
+                        tal:attributes="
+                          onClick string:javascript:newWin('${site_url}/help#${widget/label}')
+                          "
+                        >?</a></span>
+                  </td>
+                  <td>
+                    <tal:block replace="structure widget"/>
+                    <div class="note"
+                      tal:attributes="id string:${widget/name}-note"
+                      >
+                      <tal:block content="widget/hint" />
+                    </div>
+                  </td>
+                </tr>
+              </tal:block>
+            </tbody>
+            </metal:block>
+            <tfoot>
+              <tr class="controls">
+                <td>
+                </td>
+                <td class="align-left">
+                  <metal:block define-slot="actions">
+                    <span class="sorting">
+                      <a class="refine" id="hide-form"
+                        onclick="javascript:hideForm(this); return false;"
+                        tal:condition="view/batch"
+                        >verberg formulier,</a>
+                        <a
+                          tal:condition="view/batch"
+                          tal:attributes="href request/URL"
+                          >nieuwe zoekopdracht...</a>
+                    </span>
+                    <input tal:repeat="action view/actions"
+                      tal:replace="structure action/render" />
+		    <input type="reset" name="reset" value="wis" onClick="document.forms[0].reset();">
+                  </metal:block>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </form>
+      </div>
+      </metal:block>
+
+      <tal:block condition="python: view.batch is not None">
+        <div tal:define="items view/batch">
+          <div class="batch-links"
+            tal:define="
+              prev view/previousBatchURL;
+              next view/nextBatchURL;
+              "
+            >
+            <div class="previous-batch">
+              <a href=""
+                tal:condition="prev"
+                tal:attributes="href prev"
+                >vorige</a>&nbsp;
+            </div>
+            <div class="next-batch">
+              <a href=""
+                tal:condition="next"
+                tal:attributes="href next"
+                >volgende</a>&nbsp;
+            </div>
+            <div class="current-batch">
+              <tal:block condition="python: prev or next"
+                >
+                <tal:block replace="items/startNumber"/>
+                tot
+                <tal:block replace="items/endNumber"/>
+                van
+                <tal:block replace="items/total"/>
+                resultaten
+              </tal:block>
+              <tal:block condition="python: not (prev or next) and len(view.batch) > 1"
+                >
+                <tal:block replace="items/total"/>
+                resultaten
+              </tal:block>
+              <tal:block condition="python: len(view.batch) == 1"
+                >
+                1 resultaat
+              </tal:block>
+              <span class="sorting">
+                <a class="refine" id="show-form" onclick="javascript:showForm(this); return false;"
+                  tal:condition="view/batch"
+                  >pas de zoekopdracht aan,</a>
+              </span>
+            </div>
+          </div>
+          <div class="sorting"
+            tal:condition="python: len(view.batch) > 1"
+            >
+            <tal:block
+              repeat="item view/groupableItems"
+              >
+              <tal:block condition="repeat/item/start">
+                groepeer op:
+              </tal:block>
+              <a
+                tal:attributes="href item/url"
+                ><span tal:content="item/name"/></a>
+                <tal:block condition="not:repeat/item/end">,</tal:block>
+            </tal:block>
+          </div>
+          <div class="sorting"
+            tal:condition="python: len(view.batch) > 1"
+            >
+            <tal:block
+              repeat="item view/orderableItems"
+              >
+              <tal:block condition="repeat/item/start">
+                sorteer op:
+              </tal:block>
+              <span tal:content="item/name"/>
+              <a
+                tal:attributes="href item/ascending_url"
+                >&#x2191;</a>
+              <a
+                tal:attributes="href item/descending_url"
+                >&#x2193;</a>
+              <tal:block condition="not:repeat/item/end">,</tal:block>
+            </tal:block>
+          </div>
+        </div>
+        <div class="results"
+          metal:define-slot="listing"
+          >
+          <tal:block repeat="item python: iter(view.batch)">
+            <div
+              tal:define="odd repeat/item/odd"
+              tal:content="structure item/@@listing"
+              tal:attributes="class python: odd and 'odd' or 'even'"
+            />
+          </tal:block>
+        </div>
+      </tal:block>
+    </metal:block>
+  </html>
+  </tal:block>
+</metal:block>
+
+<!-- widget should be defined -->
+<tal:block condition="nothing">
+<metal:block define-macro="widget">
+  <tr>
+    <td style="white-space: nowrap;">
+      <tal:block
+        replace="widget/label"
+      />&nbsp;<span class="note"
+        tal:condition="widget/hint"><a
+          class="sorting"
+          tal:attributes="
+            onClick string:javascript:newWin('${site_url}/help#${widget/label}')"
+          >?</a></span>
+    </td>
+    <td>
+      <tal:block replace="structure widget"/>
+      <div class="note"
+        tal:attributes="id string:${widget/name}-note"
+        >
+        <tal:block content="widget/hint" />
+      </div>
+    </td>
+  </tr>
+</metal:block>
+</tal:block>

@@ -1,0 +1,10 @@
+<a
+  tal:define="site_url context/@@layout/site_url"
+  tal:attributes="href string:${site_url}/personen/${context/id}"
+  ><tal:block replace="context/geslachtsnaam"/>,
+  <tal:block replace="context/voornaam"/>
+  <tal:block replace="context/tussenvoegsel"/></a>
+
+(<tal:block tal:condition="context/onbepaaldgeboortedatum" replace="string:ca. "/><tal:block replace="context/geboortedatum_als_bekend"/>
+-
+<tal:block tal:condition="context/onbepaaldoverlijdensdatum" replace="string:ca. "/><tal:block replace="context/overlijdensdatum_als_bekend"/>)

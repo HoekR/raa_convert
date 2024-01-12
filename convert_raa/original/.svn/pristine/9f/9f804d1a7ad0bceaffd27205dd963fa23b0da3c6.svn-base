@@ -1,0 +1,12 @@
+<html metal:use-macro="context/@@layout/layout">
+  <metal:block fill-slot="body">
+    <tal:block define="site_url context/@@absolute_url">
+      <h1>
+        Repertorium van ambtenaren en ambtsdragers
+      </h1>
+      <p>
+        Uitleg
+      </p>
+    </tal:block>
+  </metal:block>
+</html>

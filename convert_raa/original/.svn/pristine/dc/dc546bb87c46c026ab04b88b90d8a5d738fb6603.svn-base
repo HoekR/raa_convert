@@ -1,0 +1,15 @@
+<tal:block
+  define="
+    persoon context/persoon;
+    site_url context/@@layout/site_url;
+    "
+  >
+  <a tal:attributes="href string:${site_url}/personen/${persoon/id}"
+    ><tal:block replace="persoon/geslachtsnaam"/>,
+    <tal:block replace="persoon/voornaam"/>
+    <tal:block replace="persoon/tussenvoegsel"/></a>
+</tal:block>
+
+(<tal:block replace="context/van_als_bekend"/>
+-
+<tal:block replace="context/tot_als_bekend"/>)

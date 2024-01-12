@@ -1,0 +1,98 @@
+<html metal:use-macro="context/@@search/search">
+  <metal:block fill-slot="form-table-body">
+    <tbody>
+      <tal:block define="widget python:view.widgets['periode']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+      <tal:block define="widget python:view.widgets['functie']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+      <tal:block define="widget python:view.widgets['functie_and_query']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+      <tal:block define="widget python:view.widgets['instelling']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+      <tal:block define="widget python:view.widgets['instelling_and_query']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+      <tr>
+        <td  style="white-space: nowrap;">
+          vertegenwoordiging&nbsp;<span class="note"><a
+            class="sorting"
+            tal:attributes="
+              onClick string:javascript:newWin('${site_url}/help#vertegenwoordiging')"
+          >?</a></span>
+        </td>
+        <td style="white-space: nowrap;">
+          <table id="regio" cellspacing="0" cellpadding="0">
+            <tr>
+              <th>provinciaal</th>
+              <th>regionaal</th>
+              <th>lokaal</th>
+            </tr>
+            <tr>
+              <td>
+                <tal:block define="widget python:view.widgets['provincie']">
+                  <tal:block replace="structure widget"/>
+                </tal:block>
+              </td>
+              <td>
+                <tal:block define="widget python:view.widgets['regio']">
+                  <tal:block replace="structure widget"/>
+                </tal:block>
+              </td>
+              <td>
+                <tal:block define="widget python:view.widgets['lokaal']">
+                  <tal:block replace="structure widget"/>
+                </tal:block>
+              </td>
+            </tr>
+          </table>
+          <div class="note" id="vertegenwoordiging-note">
+            hint
+          </div>
+        </td>
+      </tr>
+      <tal:block define="widget python:view.widgets['stand']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+      <tal:block define="widget python:view.widgets['adel']">
+        <metal:block use-macro="context/@@search/widget"/>
+      </tal:block>
+
+    </tbody>
+  </metal:block>
+
+  <metal:block fill-slot="listing">
+    <div>
+      <tal:block define="groups view/groupedItems">
+        <ul>
+          <tal:block repeat="outer python: groups.keys()">
+            <li
+              tal:define="outer python: view.wrappit(outer)"
+              tal:content="structure outer/@@name_and_or_link"
+            />
+            <ul>
+              <tal:block repeat="inner python: groups[outer].keys()">
+                <li
+                  tal:define="inner python: view.wrappit(inner)"
+                  tal:content="structure inner/@@name_and_or_link"
+                />
+                <ul>
+                  <tal:block repeat="item python: groups[outer][inner]">
+                    <li
+                      tal:define="odd repeat/item/odd"
+                      tal:content="structure item/@@listing"
+                      tal:attributes="class python: odd and 'odd' or 'even'"
+                    />
+                  </tal:block>
+                </ul>
+              </tal:block>
+            </ul>
+          </tal:block>
+        </ul>
+      </tal:block>
+    </div>
+  </metal:block>
+</html>

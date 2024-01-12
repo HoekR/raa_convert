@@ -1,0 +1,401 @@
+	alias	IDPersoon
+0	Pieter Claesz. Seylemaecker	1264
+1	Cornelis Thomasz. Sevenhuijsen	1272
+2	Thijman Osdorp	567
+3	Sebastiaen Egberti	787
+4	Gerard Adriaensz. Koel	931
+5	Jan Maertsz.	1129
+6	Dirk Dirksz. Ben	1137
+7	Albert Borritsz.	1138
+8	Johan d'Edel	408
+9	Jacob van der Meer	915
+10	Cornelis Tetrode van Weesp	857
+11	Jan Jansz. Secretaris	1214
+12	Cornelis Jansz. du Bois	1215
+13	Cornelis Jacobsz. Everhardt	1211
+14	Willem Jacobsz. Brassen	1017
+15	Johan van Duvenvoirde (vÃ³Ã³r 1600)	188
+16	Nicolaus Bulius	1043
+17	Pouwels Claesz. Haring	1283
+18	Hendrik Jansz. Snouck	971
+19	Henrick Melisz. Coppens	1222
+20	Adriaen Dircxz. Jong(e)	1604
+21	Anthony Leemans	1005
+22	Francois Pietersz. Maekschoon	1128
+23	Brienen Manchon	970
+24	Claas Jansz. 't Hoen	1595
+25	Gerard Pietersz. Twisch	1149
+26	Engbert Engbertsz. Versteegh	958
+27	Joan Schott	431
+28	Aelbrecht van der Graaff	412
+29	Claes Jacobsz. Simonsz.	1055
+30	Nicolaas le Febre	1741
+31	Johan van Wassenaer	1686
+32	Thomas van de Nieuburg	1268
+33	Franco de Vree	889
+34	Wilhem Bardesius	1965
+35	Rutger Wessel van den Boetzelaer	1335
+36	Johan Claasz. Dirout	982
+37	Hans Colterman	1717
+38	Pieter van Blankenbort	1317
+39	Gerard Hoeufft	2042
+40	Capiteyn Vinck	2089
+41	Adriaen Pietersz. van Vlaerdingen	2092
+42	Oom Jan Pietersz.	2128
+43	Jacob Pietersz. Muusses	2131
+44	Jacob Pietersz. Meuwisz.	2131
+45	Bertram Philip Sigismund Albrecht graaf van Gronsfeld Diepenbroick Impel	2022
+46	Willem Jacobsz. Brassaert	1017
+47	Willem Reyersz. Kievit	2177
+48	Michiel Michielsz. Feltron	2336
+49	Wenceslaus van den Boetzelaer	1335
+50	Wouter Jacobsz. Scherf	2007
+51	Adriaen Cornelisz. Stockman	2352
+52	Johan Swinnes	2391
+53	Johan Swijsnas	2391
+54	Cornelis Tymonsz. Schipper	2357
+55	Claes Jacobsz. Haringcarspel	2355
+56	Jacob Claesz. Haringcarspel	2401
+57	Jacob Schoen	1051
+58	Jan Cornelisz. Schellinger	2310
+59	Jan Teen	2309
+60	Jan Tedijn	2309
+61	Jan Symonsz. Soutman	2311
+62	Willem Jansz. Swan	2000
+63	Jan Cornelisz. Schipper	2310
+64	Dirck Heyndricksz. Dyckgraeff	2493
+65	Gerard Fladderack	2463
+66	Jacob Josias Wybout	454
+67	Symon Cornelisz. Hugens	2361
+68	Diederik Diederiksz. 't Hooft	1796
+69	Diederik Diederiksz. Theuft	1796
+70	Johan Eliasz. van Loo	2449
+71	Louis Huriblock	2188
+72	Jacob Pauli	2706
+73	Adriaen de Jongh	1646
+74	Cornelis de Neyn	1818
+75	Franchois Regius	2785
+76	Dirk Thierry Jansz. van Woerden	2787
+77	Evert de Neyn	1825
+78	Geraart Montaigne	1635
+79	Cornelis Neostadius	1682
+80	Dirk van de Nieuburg	1625
+81	Frederik Harmens	1634
+82	Jan Arnold Ludolf Mulert tot Baeckenhagen	3520
+83	Arent Hendrik ten Oever	3362
+84	Arent van Lauwick	3379
+85	Ernst van der Ceurbeecke	3538
+86	Jan Gijsbert Reinder Opten Noort	3550
+87	Jan Veen	3593
+88	Diederik van Romond	3605
+89	Pieter Derk Golts	3409
+90	Rutger van Haersolte tot Toutenburg	3655
+91	Rutger van Haersolte tot Hoenlo	3656
+92	Roelof van Hoevel tot Nijenhuis	3681
+93	Arend Veen	3686
+94	Johan Everhard Adolf van Rechteren tot de Eze	3695
+95	Lodewijk Arend Gansneb genaamd Tengnagel tot Oldhuis	3519
+96	Lodewijk Arend Gansneb genaamd Tengnagel tot Oldenhof	3519
+97	Gijsbert Kuijper	3295
+98	Jan van Schrick	3292
+99	Bartold ter Barhurst	3540
+100	Theymen Vrieze	3598
+101	Diederich van Willig tot Oldenhof	3636
+102	Carl Philip Crafft van Huffel van NeÃ¿windeck	3517
+103	Adolf Carel Bentinck tot Nijenhuis	3717
+104	Borchard Amelis van Coeverden tot Hengelo	3720
+105	Georg Otto von Munchausen tot Oldemeule	3721
+106	Jan Zeger Sloet tot Grimberg	3723
+107	Johan van Echten tot Olduitenborgh	3724
+108	Boldewijn Sloet tot Lindenhorst	3366
+109	Rutger van Haersolte tot Paaslo	3655
+110	Hendrik van Isselmuden tot Hogenhuys	3371
+111	Philip Gerrit van Echten tot Oldruitenborgh	3661
+112	Sloet tot Lindenhorst	3735
+113	Christoffel Hendriksz. Grauweijck	3747
+114	Engbert Claasz. Engberts	3591
+115	Marten Albertsz. Martens	3340
+116	Johan Louwensz. Buijs	3755
+117	Hendrik Crachtsz. Stuirman	3760
+118	Dirk Hendriksz. Vrese	3682
+119	Otto van Bijssel	3762
+120	Herman Ewouts	3779
+121	Herman ter Beecke	3739
+122	Erasmus van Romondt	3607
+123	Alexander Wijdenbrugh	2262
+124	Arent Rijckarsse	3870
+125	Johan de Bruyne	3145
+126	Taems Gerritsz. van der Does	2396
+127	Dirck Jacobsz. Seijs	2486
+128	John Melvill	69
+129	Jacob Fransz. Wittens	142
+130	Carel Antoni Maclaine	561
+131	Willem van Goedereede	671
+132	Hugo van Erkel	724
+133	Thomas Verver	3288
+134	Joan van der Beek	3291
+135	Goswijn Hogers	3294
+136	Janus Dousa	2824
+137	Pieter de Hiniossa	1676
+138	Apollonius Schotte	1683
+139	Ellert de Veer	1712
+140	Jacob Gerritsz. Koorn	1715
+141	George Rataller	1736
+142	Jacob Scotte	1753
+143	Nicolaas Ruysch Claassen	2837
+144	Dirk Jansz. Graswinckel	1754
+145	Cornelis Boey	2766
+146	Cornelis Boyus Ictus	2766
+147	Jacob Jes	1679
+148	Dirck Outgersz. Oostzanen	515
+149	Claes Allert Doctor	1043
+150	Nicasius de Sille	1959
+151	Johan Bets	1631
+152	Joris van Hoogwerf	2600
+153	Johan Swijnaart	2391
+154	Johan Swijnas	2391
+155	Duvenvoorde	2335
+156	David Jacobsz. Verheul	2326
+157	Antoine Genits	2838
+158	Ellert de Veer	2826
+159	Jacob Gerritsz. Cassaties	2860
+160	Hendrick Dircksz. Wems	2865
+161	Hendrick Dircksz. Wemmes	2865
+162	FranÃ§ois Riccen	1779
+163	Hendrick Dircksz. Wemes	2865
+164	Jan Tijmonsz. Gast	1519
+165	Jacob Jansz. Mars	1307
+166	Gerardt Duesen	1616
+167	Hubrecht Jan Anthonisse	2946
+168	Cornelis Fransz. Wittens	143
+169	Cornelis Fransz. de Witte	143
+170	Hubrecht de Jonge	2946
+171	Dirk van Teylingen	696
+172	Albrecht van Schagen	2014
+173	Theodoricus van Leyden van Leeuwen	1613
+174	Gerardt Doesze	1616
+175	Gerardt Deuse	1616
+176	Gerardt Deusze	1616
+177	Frederick Boymer	2853
+178	Floris Schoterbosch	1667
+179	Andries Cornelisz. de Witte	1708
+180	Frederik de Lier	1804
+181	Johan Iman Cau van de Dussen	2735
+182	Johan van Zuijrendael	2791
+183	Franchois Boot	2796
+184	Cornelis van Groendijk	1785
+185	Meinardus van Buuren	2799
+186	Johan Raven	1847
+187	Evert Both van der Eem	2840
+188	Pieter Rosa (vanaf 1682)	238
+189	Jan Arentsz. Snyder	3011
+190	Dirck Reynersz. Bood	3015
+191	Jan Adriaensz. Croon	3018
+192	Bouwen Heijnsz.	1175
+193	Govert Christiaensz. van Slingeland	2516
+194	Adriaan Andriesz. de Lange	959
+195	Everard Verschuyr	2328
+196	Adriaan van Clevesteijn	1072
+197	Willem Keyzer	1403
+198	Diderik van der Meyden	1926
+199	Gerrit Aertsz. van Hasselt	2339
+200	Wouter Jacobsz. Schaep	2007
+201	Wouter Jacobsz. Scharp	2007
+202	Jan Dircksz. van der Zeijde	2353
+203	David Jacobsz. van den Heuvel	2326
+204	Johan Pauli	1621
+205	Pieter Arijensz. Bois	1026
+206	Pieter Arijensz. Boys	1026
+207	Carel Bosgaert	1409
+208	Bruine Arendsz. van der Dussen	1022
+209	Cornelis Mesen	1032
+210	Nicolaas Ewoutsz. Vermeulen	2284
+211	Zacharias Hoffdijck van Beresteyn	346
+212	Dirk Jansz. Heemskerk van Beest	298
+213	Michiel Willemsz. van Hoyst	1330
+214	Jan Pietersz. Reijnse	543
+215	Cornelis de Jonge	592
+216	Arnout Daye de Jode jr.	852
+217	Nicasius de Sylla	1959
+218	Paulus Bordsen	1689
+219	Paulus Baertssen	1689
+220	Paulus Basson	1689
+221	Louis Heuriblocq	2188
+222	Louis Huerenblock	2188
+223	Pieter Claesz. Verhorst	2367
+224	Job Pietersz. Ruvere	1970
+225	Job Pietersz. van Ruiven	1970
+226	Job Pietersz. van Roeren	1970
+227	Willem Vrancken	2368
+228	Pieter Rodincx	1994
+229	Jan Cornelisz. VerhÃ©	2002
+230	Mattheus Augustijnsz. Steyns	2006
+231	Jan Cornelisz. Schellingen	2310
+232	Cornelis Nicolai	660
+233	Cornelis Florisz. Blom	2494
+234	Wigbold Adriaan Graaf van Nassau-Bergen	2660
+235	Cornelis Teymon	2877
+236	Jacob de Block	2960
+237	Nicolaas de Block	2959
+238	Johan Ghyselingh	3119
+239	Gasper Ingelsen	3120
+240	Ingel Leunissen	3115
+241	Adriaan Mannemaker	3057
+242	Diderik Buysero	2994
+243	Johan Gijseling	3193
+244	Salomon Dierquens	418
+245	AndrÃ© Hesselt van Dinther	3227
+246	Andries Hessels van Dinther	3227
+247	Mattheus Hessels van Dinther	3231
+248	Jasper van Kinschot	407
+249	Boudewijn van Barlicom	3245
+250	Gijsbrecht van Loen	3253
+251	Cornelis Vrancken	3252
+252	Derk Frederik van Voorst tot Alerdinck	3413
+253	Borchard Joost van Welvelde tot Buckhorst	3268
+254	Wolter Jan van Broeckhuysen tot den Doorn	3272
+255	Wolf Bentinck tot Langevelso	3273
+256	August Leopold van Pallandt tot Eerde	3277
+257	Gerrit Helmich van Voorst tot Alerdinck	3279
+258	Robert Hendrik van Hambroeck tot Welefelt	3330
+259	Frederik Gijsbert van Dedem tot den Pekkedam	3331
+260	Frederik Gijsbert van Dedem tot Hackmeule	3331
+261	Arend van Raesfelt tot Elssen	3329
+262	Arend Coenraad van der Lauwick tot Benthuis	3445
+263	Christoffel Aemilius van Voorst tot Hagenvoorde	3499
+264	Gillis de Geerbode	994
+265	Adriaan van Allemande	1003
+266	Jacob Wormersen van Schonen	1051
+267	Cornelis van Nierop	1066
+268	Joachim van Nierop	1067
+269	Adriaan de Raat	1099
+270	Cornelis Cornelisz. Butterkooper	1231
+271	Adriaen 't Jonk	1646
+272	Kasper van Poelgeest	1983
+273	Joos de Huybert	3156
+274	Cornelis Joansz. Steengracht de Wehl	3186
+275	Gerhardt Doncker	3290
+276	Roelof van den Clooster tot Groenlo	3509
+277	Pieter Stas	3258
+278	Henrick Nieulandt	3565
+279	Johan d'Alles	3178
+280	Cornelis Munnicken	2880
+281	Bonaventura Broen de Keijzer	2924
+282	Jacob Arent Baron de Perponcher Sedlnitsky	430
+283	Willem Coux	2928
+284	George Rathaller	1736
+285	Alexander Widenbrug	2262
+286	Crijn Takesz. Ossekooper	1235
+287	Frederik Ricxen	1759
+288	Jacob Pietersz. Tromp	2130
+289	Nanning Kayser	2241
+290	Jan Jansz. Teengh van Berkhout	2309
+291	Willem van der Aa	2368
+292	Jacob Johansz. van Meeuwen	2479
+293	Willem Cornelisz. de Jonge	2521
+294	Aelbert Nierop	2715
+295	Johan Valentijn Sprenger	3167
+296	Gerhard Joan van Suchtelen	3306
+297	Berent de Lespierre	3743
+298	Roelof van Hoevell tot Nijenhuis	3808
+299	Roelof van Hoevell tot den Dam	3808
+300	Pieter de Hynojossa	1676
+301	Jodocus de Huybert	3156
+302	Pieter Ingelveert	3053
+303	Pieter Engelvaart	3053
+304	Cornelis Staefnisse	3144
+305	Cornelis Staefvenisse	3144
+306	Joos Ewoudsz. Teeling	3079
+307	Pieter Duijvelaer	3157
+308	FranÃ§ois Valerius	4043
+309	David Hubert Verelst	3852
+310	Jan van de Werke	3140
+311	Nicolaas Willemsz. van Cromstryen	4059
+312	Dirck Stickingh	3283
+313	Lambert ter Cuelen	3812
+314	Lambert ter Coelen	3812
+315	Hendrik Haga	3364
+316	Diederik Stikke	3283
+317	Arnold Lemker	3296
+318	Casper ter Borchorst	3339
+319	Casper ter Borgersz.	3339
+320	Hendrik ter Coelen	3381
+321	Steven Cornelisz. Nijs	3067
+322	Pieter Jansz. Liorne	4078
+323	Pieter Jansz. Livorne	4078
+324	Willem Pietersz. Caescooper	2524
+325	Theodorus Huberti	3816
+326	Willem Ripperda tot Hengelo	3317
+327	Ernst van Ittersum tot de Hofstede	3631
+328	Willem Ripperda tot Boekelo	3317
+329	Arend Sloet tot Tweenijenhuizen	3455
+330	Willem Jurjen van den Boetzelaer tot Westerholt	3706
+331	Peter van Uterwyck tot Alerdinck	3436
+332	Ernst van Ittersum tot Beverveurde	3437
+333	Gerrit Sloet tot Bannevelt	3453
+334	Arend Herman Sloet tot Tweenijenhuizen	3732
+335	FranÃ§ois Francq	1655
+336	Crijn Takesz. Osseweyer	1235
+337	Pieter Ingelbert	3053
+338	Feynte Fredericx	4109
+339	George de Bie	3997
+340	Jacques Walravens	4110
+341	Fento Rixen	4109
+342	Fento Fredericsz. Blauvelt	4109
+343	Pieter van Borre	3257
+344	Augustinus Bakker	3969
+345	Jacob Fabrice Bouman	3989
+346	Jacob van Aerssen	3230
+347	Pierre Changuion	4149
+348	Hendrik Verburch	4171
+349	Casper Fagel	770
+350	Hendrik Huigh	1162
+351	Comen Reyner Fransz.	1195
+352	Adolphus Transisulanus van Voorst	1852
+353	Hendrik Willemsz. van den Broeck	1972
+354	Willem van Lijere	2019
+355	Galenus Bevers	2990
+356	Jodocus Fockinck	3574
+357	Theodorus Berdenis	3742
+358	Johan ter Beeck	3810
+359	Adriaan van der Hooge	2834
+360	Nicolaas Willem Symonsz. Cromstryen	4059
+361	Johan Ghiselyn	3193
+362	FranÃ§ois Francken	1655
+363	Johan van Boeckhoven	2954
+364	Diederik van Egmond van de Nijenburg	1625
+365	Gerrit Jansz. van de Nieuburch	1266
+366	Cornelis Jansz. van de Nieuwburg	1980
+367	Johan Gerritsz. van de Nijenburgh	1275
+368	Lucas Siberti	4200
+369	Gasper Jacob van Citters	2940
+370	Jan AndrÃ© van der Meulen	4239
+371	Meynart van Hensz.	4212
+372	Meynart van Huessen	4212
+373	Meynart van Huissen	4212
+374	Jacob van Beresteyn	4211
+375	Jan Claasz. Noortland	2232
+376	Joachim van den Boetzelaer tot Toutenburg	4096
+377	Van Pallandt tot Beerse	3716
+378	Van Wassenaer van Starrenburg	250
+379	Hendrik Jansz. Mossel van Stralen	471
+380	Steengracht van Oosterland	2216
+381	Griffioen van Waarder	2852
+382	Sloet van Warmelo	3415
+383	Sloet van Westerholt	3417
+384	Van Rhemen van Rhemenshuizen	3501
+385	Van Rhemen van Rhemenshuizen en de Geldersche Toren	3501
+386	Van Isselmuden van Zwollingercamp	3502
+387	Van Heerdt tot Eversberg	3522
+388	Gansneb genaamd Tengnagel van de Luttenberg	3676
+389	Van Pallandt van Eerde	3716
+390	Sloet van Tweenyenhuizen en Bredenhorst	3736
+391	Borssele van der Hooghe	3839
+392	Van Nagell van Ampsen	4249
+393	Van Boetzelaer van Kijfhoek	1957
+394	Calkoen van Kortenhoef	755
+395	FranÃ§ois van Harencarspel Decker van Beverwijk	2126
+396	Van Kuffeler van Hoogeveen	2088
+397	Van der Mandere van Ouwerkerk	3869
+398	Nagell	4249
+399	Buyesius	1669

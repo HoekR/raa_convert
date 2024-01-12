@@ -1,0 +1,183 @@
+<configure
+  xmlns="http://namespaces.zope.org/browser"
+  xmlns:zope="http://namespaces.zope.org/zope"
+  xmlns:five="http://namespaces.zope.org/five">
+
+  <!-- default views -->
+
+  <defaultView
+    for="..interfaces.IRaa"
+    name="index.html"
+  />
+
+  <defaultView
+    for="sqlos.interfaces.container.ISQLObjectContainer"
+    name="index.html"
+  />
+
+  <!--Main layout macro-->
+  <page
+    name="layout"
+    for="*"
+    template="templates/layout.pt"
+    class=".views.Layout"
+    permission="zope.Public"
+  />
+
+  <page
+    name="search"
+    for="*"
+    template="templates/search.pt"
+    permission="zope.Public"
+  />
+
+  <page
+    name="index.html"
+    for="..container.Raa"
+    template="templates/raa.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..container.Personen"
+    class=".form.PersoonSearchForm"
+    permission="zope2.View"
+  />
+
+  <page
+    name="by"
+    for="..container.Personen"
+    class=".form.PersonenBy"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..model.Persoon"
+    class=".views.Persoon"
+    template="templates/persoon.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="listing"
+    for="..model.Persoon"
+    template="templates/persoon_listing.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..container.Aanstellingen"
+    class=".form.AanstellingSearchForm"
+    permission="zope2.View"
+  />
+
+  <page
+    name="by"
+    for="..container.Aanstellingen"
+    class=".form.AanstellingenBy"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..model.Aanstelling"
+    template="templates/aanstelling.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="listing"
+    for="..model.Aanstelling"
+    template="templates/aanstelling_listing.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="listing"
+    for="..interfaces.INamed"
+    template="templates/named_listing.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..model.Instelling"
+    class=".views.Instelling"
+    template="templates/instelling.pt"
+    permission="zope2.View"
+  />
+  
+  <page
+    name="listing"
+    for="..model.Instelling"
+    template="templates/instelling_listing.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="edit"
+    for="..model.Instelling"
+    class=".form.EditToelichtingForm"
+    permission="zope2.ManageProperties"
+  />
+
+  <page
+    name="name_and_or_link"
+    for="..model.Instelling"
+    template="templates/name_and_link.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..container.Instellingen"
+    class=".form.InstellingSearchForm"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..model.Functie"
+    template="templates/functie.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="name_and_or_link"
+    for="..model.Functie"
+    template="templates/name_no_link.pt"
+    permission="zope2.View"
+  />
+
+  <page
+    name="index.html"
+    for="..container.Functies"
+    class=".form.FunctieSearchForm"
+    permission="zope2.View"
+  />
+
+  <zope:view
+    type="zope.publisher.interfaces.browser.IBrowserRequest"
+    for="..interfaces.ITimePeriod"
+    provides="zope.app.form.interfaces.IDisplayWidget"
+    factory=".widget.TimePeriodWidget"
+    permission="zope.Public"
+  />
+
+  <zope:view
+    type="zope.publisher.interfaces.browser.IBrowserRequest"
+    for="..interfaces.ITimePeriod"
+    provides="zope.app.form.interfaces.IInputWidget"
+    factory=".widget.TimePeriodWidget"
+    permission="zope.Public"
+  />
+
+  <resourceDirectory
+    name='js'
+    directory='js'
+  />
+
+</configure>

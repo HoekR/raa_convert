@@ -1,0 +1,30 @@
+<html metal:use-macro="context/@@layout/layout">
+  <metal:block fill-slot="body">
+    <tal:block define="site_url context/@@layout/site_url">
+      <h1>
+        <tal:block content="context/naam"/>
+      </h1>
+      In het bestand zijn de volgende functies opgenomen:
+      <ul>
+        <li tal:repeat="functie view/functies">
+          <a
+            tal:attributes="href string:${site_url}/aanstellingen/by?aanstelling.instelling=${context/id}&aanstelling.functie=${functie/id}"
+            tal:content="functie/naam"
+          />
+        </li>
+      </ul>
+    </tal:block>
+    <tal:block condition="context/toelichting">
+      <h1>Toelichting:</h1>
+      <div class="toelichting">
+        <tal:block content="structure context/toelichting"/>
+      </div>
+    </tal:block>
+    <tal:block condition="not:context/toelichting">
+      <div tal:content="structure container/linknaargids" />
+      <!-- <div class="toelichting">
+       Voor de instellingen die alleen tussen 1795 en 1813 bestonden zijn nog geen institutionele toelichtingen beschikbaar.
+      </div>  -->
+    </tal:block>
+  </metal:block>
+</html>

@@ -1,0 +1,106 @@
+<metal:block define-macro="layout" >
+  <tal:block 
+      define="dummy python:request.RESPONSE.setHeader('content-type', 'text/html;;charset=UTF-8')"/>
+  <tal:block
+    replace="structure python:context.standard_html_header(context, request)"
+  />
+  <!--
+  This should really go in the head element of course :|
+  -->
+<style type="text/css"> 
+    .naam {
+	font-size:150%;
+   	font-variant:small-caps;
+	          }
+			  
+	h2 {font-size:110%;
+        }
+  
+  
+    table.listing {
+    width: 75%;
+    }
+    .label-column {
+    width:20%;
+    }
+    .note, .sorting, .sorting a {
+    font-style: italic;
+    color: grey;
+    font-size: 100%;
+    }
+    .sorting input[type=checkbox] {
+    position: relative;
+    top: 0.2em;
+    }
+    div.note {
+    display: none;
+    }
+    .align-right {
+    text-align: right;
+    }
+    div.batch-links {
+    font-size: 80%;
+    }
+    div.previous-batch {
+    float: left;
+    }
+    div.next-batch {
+    float: right;
+    }
+    div.sorting {
+    }
+    div.results {
+    margin-top: 1.5em;
+    }
+    div.results div {
+    margin-bottom: 0.25em;
+    }
+    a.refine, a.sorting {
+    cursor: pointer;
+    text-decoration: underline;
+    }
+    #form-hide, #hide-form {
+    display: none;
+    }
+    div.value, div.inlineme {
+    display: inline;
+    }
+    input[type=text] {
+    width: 25em;
+    }
+    input[type=text].year {
+    width: 4em;
+    }
+    table#regio {
+    padding: 0;
+    margin: 0;
+    }
+    table#titels tr th, table#titles tr td {
+    padding-right: 0.2em;
+    }
+    table#titels tr th {
+    font-size: 80%;
+    padding: 0;
+    }
+    table#regio tr th, table#regio tr td {
+    padding-right: 0.2em;
+    }
+    table#regio tr th {
+    font-size: 80%;
+    padding: 0;
+    }
+    table#regio td  tr select {
+    width: 100%;
+    }
+    div.toelichting {
+    border: 1px solid rgb(230,230,230);
+    margin:2em;
+    padding:1em;
+    }
+  </style>
+
+  <metal:block define-slot="body"/>
+  <tal:block
+    replace="structure python:context.standard_html_footer(context, request)"
+  />
+</metal:block>

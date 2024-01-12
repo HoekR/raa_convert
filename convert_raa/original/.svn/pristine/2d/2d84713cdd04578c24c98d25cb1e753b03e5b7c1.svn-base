@@ -1,0 +1,162 @@
+<html metal:use-macro="context/@@layout/layout"
+  >
+  <metal:block fill-slot="body"
+    tal:define="site_url context/@@layout/site_url;"
+    >
+    <h1 class="naam">
+      <tal:block content="view/naam"/>
+    </h1>
+
+    <div class="details">
+      <p tal:condition="context/heerlijkheid">
+        heer van
+        <span class="heerlijkheid">
+          <tal:block content="context/heerlijkheid"
+              /></span>.
+      </p>
+      <p
+        tal:define="aliassen context/aliassen"
+        tal:condition="aliassen"
+        >
+        Ook bekend als
+        <span tal:repeat="alias aliassen" class="alias">
+          <tal:block content="alias/naam"
+            /><tal:block condition="not:repeat/alias/end">,</tal:block></span>.
+      </p>
+      <p>
+        <tal:block condition="context/geboortedatum_als_bekend">
+          <tal:block
+            content="python: context.doopjaar and 'gedoopt' or 'geboren'"
+            />:
+            <tal:block tal:condition="context/onbepaaldgeboortedatum" replace="string:ca. "/>
+	    <tal:block content="context/geboortedatum_als_bekend"/>
+        </tal:block>
+        <tal:block condition="not: context/geboortedatum_als_bekend">
+          geboren: -
+        </tal:block>
+        <tal:block condition="context/geboorteplaats">
+          te <tal:block content="context/geboorteplaats"/>
+        </tal:block>
+        <br/>
+        overleden: 
+	<tal:block tal:condition="context/onbepaaldoverlijdensdatum" replace="string:ca. "/>
+        <tal:block content="python: context.overlijdensdatum_als_bekend or '-'"
+        />
+        <tal:block condition="context/overlijdensplaats">
+          te <tal:block content="context/overlijdensplaats"/>
+        </tal:block>
+      </p>
+
+      <div>
+        <tal:block
+          define="aanstellingen view/lokale_aanstellingen;"
+          condition="aanstellingen"
+          >
+          <span class="functie"
+            tal:repeat="aanstelling aanstellingen">
+            <tal:block content="python: aanstelling.functie.naam"/>
+            <tal:block content="aanstelling/instelling/naam"/>
+            (<tal:block content="aanstelling/van_als_bekend"/>
+            -
+            <tal:block content="aanstelling/tot_als_bekend"/>).
+            <tal:block
+              define="opm aanstelling/opmerkingen"
+              condition="opm"
+              >
+              <span class="opmerkingen"
+                tal:content="opm"
+              />
+            </tal:block>
+          </span>
+        </tal:block>
+      </div>
+    </div>
+
+    <tal:block
+      define="opm view/opmerkingen"
+      condition="opm"
+      >
+      <h2>opmerkingen</h2>
+      <p class="opmerkingen"
+        tal:content="structure opm"
+      />
+    </tal:block>
+
+    <tal:block
+      define="bronnen context/bronnen"
+      condition="bronnen"
+      >
+      <h2>bron<tal:block condition="python: len(bronnen)>1">nen</tal:block>
+        voor de persoonsgegevens</h2>
+      <tal:block repeat="bron view/bronnen">
+        <p class="bronnen">
+          <tal:block content="bron/naam"/>
+          <span
+            tal:condition="bron/details"
+            tal:content="string:${bron/details}"
+          />
+        </p>
+      </tal:block>
+    </tal:block>
+
+    <h2>functies in bovenlokale instellingen</h2>
+
+    <tal:block
+      define="aanstellingen view/aanstellingen_bovenlokaal;"
+      condition="aanstellingen"
+      >
+      <div class="results"
+        tal:repeat="aanstelling aanstellingen">
+        functie: <tal:block content="aanstelling/functie/naam"/>
+        <br/>
+        <tal:block condition="aanstelling/instelling">
+          instelling:
+          <a
+            tal:attributes="href string:${site_url}/instellingen/${aanstelling/instelling/id}/#"
+            ><tal:block content="aanstelling/instelling/naam"/></a>
+            <span class="sorting"
+              tal:condition="aanstelling/vertegenwoordigend">(vertegenwoordigend)</span>
+        </tal:block>
+        <br/>
+        van:
+        <tal:block content="aanstelling/van_als_bekend"/>
+        -
+        <tal:block content="aanstelling/tot_als_bekend"/>
+        <tal:block
+          define="
+            provincie aanstelling/provincie/naam | nothing;
+            regio aanstelling/regio/naam | nothing;
+            lokaal aanstelling/lokaal/naam | nothing;
+            stand aanstelling/stand/naam | nothing;"
+          condition="python: lokaal or regio or provincie or stand"
+          >
+          <br/>
+          namens:
+          <tal:block repeat="item python:[item for item in [provincie, regio, lokaal, stand] if item]">
+            <tal:block content="item"/><tal:block condition="not:repeat/item/end">,</tal:block>
+          </tal:block>
+        </tal:block>
+        <br/>
+        <tal:block condition="aanstelling/instelling">
+        <a class="sorting"
+          tal:attributes="href string:${site_url}/aanstellingen/by?aanstelling.functie=${aanstelling/functie/id}&aanstelling.instelling=${aanstelling/instelling/id}"
+          >anderen met deze aanstelling...</a>
+        </tal:block>
+        <tal:block condition="not: aanstelling/instelling">
+        <a class="sorting"
+          tal:attributes="href string:${site_url}/aanstellingen/by?aanstelling.functie=${aanstelling/functie/id}"
+          >anderen met deze aanstelling...</a>
+        </tal:block>
+        <tal:block
+          define="opm aanstelling/opmerkingen"
+          condition="opm"
+          >
+          <br/>
+          <p class="opmerkingen"
+            tal:content="opm"
+          />
+        </tal:block>
+      </div>
+    </tal:block>
+  </metal:block>
+</html>

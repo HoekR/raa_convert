@@ -1,0 +1,55 @@
+	IDFunctie	Periode	Functie	Volgnummer	Lokaal	Id
+0	1	1	gecommitteerde	2	0	1
+1	2	1	ordinaris raadsheer	6	0	2
+2	3	1	extraordinaris raadsheer	7	0	3
+3	4	1	president-raadsheer	4	0	4
+4	5	1	raadsheer	5	0	5
+5	8	1	ordinaris gedeputeerde	1	0	8
+6	10	1	advocaat-fiscaal	15	0	10
+7	11	1	agent	23	0	11
+8	12	1	auditeur	18	0	13
+9	13	1	commies	21	0	14
+10	15	1	griffier	19	0	16
+11	16	1	landsadvocaat	12	0	17
+12	17	1	ontvanger-generaal	17	0	18
+13	18	1	ontvanger-generaal van de Unie	11	0	19
+14	19	1	procureur-generaal	14	0	20
+15	20	1	raadpensionaris	13	0	21
+16	21	1	secretaris	16	0	22
+17	22	1	substituut-griffier	20	0	23
+18	23	1	thesaurier-generaal van de Unie	10	0	24
+19	26	1	ontvanger-generaal in het Noorderkwartier	17	0	27
+20	28	1	lid	0	1	2
+21	41	1	tweede advocaat-fiscaal	0	0	0
+22	42	1	tweede secretaris	0	0	0
+23	43	1	advocaat-fiscaal crimineel	0	0	0
+24	44	1	advocaat-fiscaal civiel	0	0	0
+25	48	1	procureur-generaal crimineel	0	0	0
+26	49	1	procureur-generaal civiel	0	0	0
+27	50	1	gedeputeerde	0	0	0
+28	51	1	thesaurier	0	0	0
+29	53	1	ontvanger van de exploten	0	0	0
+30	55	1	tweede griffier	0	0	0
+31	57	1	rekenmeester	0	0	0
+32	61	1	tweede ontvanger-generaal	0	0	0
+33	62	1	tweede procureur-generaal	0	0	0
+34	63	1	tweede agent	0	0	0
+35	64	1	extraordinaris commies-generaal van de con. en lic	0	0	0
+36	66	1	commies-generaal van de convooien en licenten	0	0	0
+37	67	1	tweede commies-generaal van de convooien en lic.	0	0	0
+38	68	1	thesaurier-generaal van Zeeland	0	0	0
+39	69	1	ontvanger-generaal van Zeeland	0	0	0
+40	70	1	adjunct advocaat-fiscaal	0	0	0
+41	71	1	adjunct procureur-generaal	0	0	0
+42	72	1	ontvanger-generaal van Holland	0	0	0
+43	73	1	adjunct secretaris	0	0	0
+44	74	1	substituut secretaris	0	0	0
+45	76	1	lid	0	0	0
+46	79	1	luitenant	0	0	0
+47	80	1	extraordinaris gecommiteerde	0	0	0
+48	81	1	kanselier	0	0	0
+49	82	1	momber	0	0	0
+50	83	1	maarschalk	0	0	0
+51	84	1	president	0	0	0
+52	85	1	extraordinaris gedeputeerde	0	0	0
+53	90	1	bewindhebber	0	0	0

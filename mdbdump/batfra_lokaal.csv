@@ -1,0 +1,501 @@
+	IDlokaal	lokaal	volgnummer
+0	1	Arrondissement Amsterdam	0
+1	2	Arrondissement Appingedam	0
+2	3	Arrondissement Den Briel	0
+3	4	Arrondissement Zierikzee	0
+4	5	Arrondissement Nijmegen	0
+5	6	Arrondissement Zutphen	0
+6	7	Arrondissement Eindhoven	0
+7	8	Arrondissement Rotterdam	0
+8	9	Arrondissement Zwolle	0
+9	10	Arrondissement Jever	0
+10	11	Arrondissement Groningen	0
+11	12	Arrondissement Emden	0
+12	13	Arrondissement Tiel	0
+13	14	Arrondissement Den Haag	0
+14	15	Arrondissement Alkmaar	0
+15	16	Arrondissement Leiden	0
+16	17	Arrondissement Deventer	0
+17	18	Arrondissement Gorinchem	0
+18	19	Arrondissement Leeuwarden	0
+19	20	Arrondissement Assen	0
+20	21	Arrondissement Heerenveen	0
+21	22	Arrondissement Hoorn	0
+22	23	Arrondissement Arnhem	0
+23	24	Arrondissement Goes	0
+24	25	Arrondissement Dordrecht	0
+25	26	Arrondissement Almelo	0
+26	27	Arrondissement Utrecht	0
+27	28	Arrondissement Haarlem	0
+28	29	Arrondissement Sneek	0
+29	30	Arrondissement Winschoten	0
+30	31	District Ferwerd	0
+31	32	District Balk	0
+32	33	District Amsterdam-I	0
+33	34	District Amsterdam-II	0
+34	35	District Amsterdam-III	0
+35	36	District Amsterdam-IV	0
+36	37	District Amsterdam-V	0
+37	38	District Amsterdam-VI	0
+38	39	District Amsterdam-VII	0
+39	40	District Amsterdam-VIII	0
+40	41	District Amsterdam-IX	0
+41	42	District Amsterdam-X	0
+42	43	District Amsterdam-XI	0
+43	44	District Amsterdam-XII	0
+44	45	District Amsterdam-XIII	0
+45	46	District Soestdijk	0
+46	47	District Zeist	0
+47	48	District Onderdendam	0
+48	49	District Harlingen	0
+49	50	District Leeuwarderadeel	0
+50	51	District Leeuwarden	0
+51	52	District Dokkum	0
+52	53	District Brielle	0
+53	54	District Middelburg-A	0
+54	55	District Goor	0
+55	56	District Middelburg-B	0
+56	57	District Zuidhorn	0
+57	58	District Tilburg	0
+58	59	District Drachten	0
+59	60	District Kampen	0
+60	61	District Kortgene	0
+61	62	District Doesburg	0
+62	63	District Elst	0
+63	64	District Groningen-I	0
+64	65	District Groningen-II	0
+65	66	District Delft	0
+66	67	District Zwolle	0
+67	68	District Berlikum	0
+68	69	District Polanen	0
+69	70	District Gouda	0
+70	71	District Enkhuizen	0
+71	72	District Rotterdam-I	0
+72	73	District Almelo	0
+73	74	District Appingedam	0
+74	75	District Lochem	0
+75	76	District Sliedrecht-Geertruidenberg	0
+76	77	District Oirschot	0
+77	78	District Zaltbommel	0
+78	79	District Breda	0
+79	80	District Medemblik	0
+80	81	District Dordrecht	0
+81	82	District Haarlem-I	0
+82	83	District Haarlem-II	0
+83	84	District Montfoort	0
+84	85	District Sneek	0
+85	86	District Schoonhoven	0
+86	87	District Harderwijk	0
+87	88	District Gorinchem	0
+88	89	District Deventer	0
+89	90	District Bredevoort	0
+90	91	District Vries	0
+91	92	District Den Haag-I	0
+92	93	District Den Haag-II	0
+93	94	District Den Haag-III	0
+94	95	District Amsterdam XIV	0
+95	96	District Den Bosch	0
+96	97	District Weesp	0
+97	98	District Zierikzee	0
+98	99	District Steenbergen-Bergen op Zoom	0
+99	100	District Tilburg	0
+100	101	District Doetinchem	0
+101	102	District Grave	0
+102	103	District Rotterdam-II	0
+103	104	District Rotterdam-III	0
+104	105	District Nijmegen	0
+105	106	District Ommen	0
+106	107	District Arnhem	0
+107	108	District Hengelo	0
+108	109	District Barneveld	0
+109	110	District Oisterwijk	0
+110	111	District Etten	0
+111	112	District Den Helder	0
+112	113	District Hoorn	0
+113	114	District Buren-Culemborg	0
+114	115	District Nieuwersluis	0
+115	116	District Oosterwierum	0
+116	117	District Beverwijk	0
+117	118	District Veghel	0
+118	119	District Helmond	0
+119	120	District Utrecht-I	0
+120	121	District Utrecht-II	0
+121	122	District Leiden-I	0
+122	123	District Leiden-II	0
+123	124	District Rotterdam-IV	0
+124	125	District Raalte	0
+125	126	District Wolvega	0
+126	127	District Vlaardingen	0
+127	128	District Leende	0
+128	129	District Eindhoven	0
+129	130	District Nieuwerkerk	0
+130	131	District Zutphen	0
+131	132	District Middelharnis	0
+132	133	District Amersfoort	0
+133	134	District Zweelo	0
+134	135	District Hattem	0
+135	136	District Amstelveen	0
+136	137	District Ridderkerk	0
+137	138	District Winschoten	0
+138	139	District Alkmaar	0
+139	140	District West-Zaandam	0
+140	141	District Meppel	0
+141	142	District Oldenzaal	0
+142	143	District Geertruidenberg	0
+143	144	District Oost-Zaandam	0
+144	145	District Noordwijk	0
+145	146	District Tiel	0
+146	147	District Druten	0
+147	148	District Veendam	0
+148	149	District Assen	0
+149	150	District Bodegraven	0
+150	151	District Schiedam	0
+151	152	District Wateringen	0
+152	153	District Heusden	0
+153	154	District Strijen	0
+154	155	District Leidschendam	0
+155	156	District Hazerswoude	0
+156	157	District Scheemda-Veendam	0
+157	158	District Purmerend	0
+158	159	District Vollenhove	0
+159	160	District Oss	0
+160	161	District Bergen op Zoom	0
+161	162	District Groenlo	0
+162	163	District Hunsingo	0
+163	164	District Fivelgo	0
+164	165	Stad Groningen	0
+165	166	District Westerkwartier	0
+166	167	Baarderadeel	0
+167	168	Tietjerksteradeel	0
+168	169	Opsterland	0
+169	170	Baarderadeel	0
+170	171	Smallingerland	0
+171	172	Menaldumadeel	0
+172	174	Barradeel	0
+173	175	Leeuwarderadeel	0
+174	176	Oostdongeradeel	0
+175	177	Idaarderadeel	0
+176	178	Franekeradeel	0
+177	179	Lemsterland	0
+178	180	Schoterland	0
+179	181	Hemelumer Oldeferd	0
+180	182	Hennaarderadeel	0
+181	183	Gaasterland-Sloten	0
+182	184	Ferwerderadeel	0
+183	185	Wymbritseradeel	0
+184	186	Achtkarspelen	0
+185	187	Het Bildt	0
+186	188	Weststellingwerf	0
+187	189	Haskerland	0
+188	190	Kollumerland	0
+189	191	Westdongeradeel	0
+190	192	Wonseradeel	0
+191	193	Rauwerderhem	0
+192	194	District Haarlem	0
+193	195	Aengwirden	0
+194	196	Utingeradeel	0
+195	197	District Middelburg	0
+196	198	District Amsterdam-XIV	0
+197	199	District Goes	0
+198	200	District Sliedrecht	0
+199	201	Oost-Friesland	0
+200	202	District Middelburg-II/Vlissingen	0
+201	203	Arrondissement Amersfoort	0
+202	204	District Scheemda	0
+203	205	District Den Haag-III/Leidschendam	0
+204	206	Stad Almelo	0
+205	207	Landgericht Almelo	0
+206	208	Blokzijl	0
+207	209	Borne	0
+208	210	Colmschate	0
+209	211	Dalfsen	0
+210	212	Stad Delden	0
+211	213	Landgericht Delden	0
+212	214	Deventer	0
+213	215	Stad Diepenheim	0
+214	216	Stad Enschede	0
+215	217	Landgericht Enschede	0
+216	218	Stad Genemuiden	0
+217	219	Schoutambt Genemuiden	0
+218	220	Giethoorn	0
+219	221	Goor	0
+220	222	Grafhorst	0
+221	223	Gramsbergen	0
+222	224	Haaksbergen	0
+223	225	Stad Hardenberg	0
+224	226	Schoutambt Hardenberg	0
+225	227	Stad Hasselt	0
+226	228	Schoutambt Nieuwesluis en Hasselerkerspel	0
+227	229	Heino	0
+228	230	Hellendoorn	0
+229	231	Holten en Bathmen	0
+230	232	Kampen	0
+231	233	Kamperveen	0
+232	234	Landgericht Kedingen	0
+233	235	Markelo	0
+234	236	Kuinre en Blankenham	0
+235	237	Stad Oldenzaal	0
+236	238	Landgericht Oldenzaal	0
+237	239	Olst	0
+238	240	Stad Ommen	0
+239	241	Schoutambt Ommen en Den Ham	0
+240	242	Stad Ootmarsum	0
+241	243	Raalte	0
+242	244	Rijssen	0
+243	245	Staphorst, Rouveen en IJhorst	0
+244	246	Stad Steenwijk	0
+245	247	Schoutambt Steenwijk en Steenwijkerkerspelen	0
+246	248	Stad Vollenhove	0
+247	249	Schoutambt Vollenhove	0
+248	250	Vriezenveen	0
+249	251	Wanneperveen en Dinxterveen	0
+250	252	Wijhe	0
+251	253	IJsselham, Oldemarkt en Paasloo	0
+252	254	IJsselmuiden	0
+253	255	Zalk en Veecaten	0
+254	256	Zwartsluis	0
+255	257	Stad Zwolle	0
+256	258	Schoutambt Zwolle	0
+257	259	Landgericht Diepenheim	0
+258	260	Landgericht Ootmarsum	0
+259	261	Wilsum	0
+260	262	Arnhem	0
+261	263	Wageningen	0
+262	264	Harderwijk	0
+263	265	Elburg	0
+264	266	Hattem	0
+265	267	Ede	0
+266	268	Barneveld	0
+267	269	Nijkerk	0
+268	270	Putten	0
+269	271	Ermelo	0
+270	272	Doornspijk	0
+271	273	Oldebroek	0
+272	274	Heerde	0
+273	275	Epe	0
+274	276	Nijbroek	0
+275	277	Apeldoorn	0
+276	278	Voorst	0
+277	279	Brummen	0
+278	280	Rheden	0
+279	281	Renkum	0
+280	282	Scherpenzeel	0
+281	283	Hoevelaken	0
+282	284	Rosendaal (Geld.)	0
+283	285	Doorwerth	0
+284	286	Nijmegen	0
+285	287	Rijk van Nijmegen	0
+286	288	Ambt van Nederbetuwe	0
+287	289	Ambt van Maas en Waal	0
+288	290	Ambt van Tielerwaard (met Beesd en Rhenoy)	0
+289	291	Ambt van Bommelerwaard	0
+290	292	Tiel	0
+291	293	Zaltbommel	0
+292	294	Ambt van Overbetuwe	0
+293	295	Doesburg	0
+294	296	Doetinchem	0
+295	297	Lochem	0
+296	298	Groenlo	0
+297	299	Zutphen	0
+298	300	Eerste Departement - Beek	0
+299	301	Eerste Departement - Didam	0
+300	302	Eerste Departement - Angerlo	0
+301	303	Eerste Departement - Bahr en Latum	0
+302	304	Eerste Departement - Westervoort	0
+303	305	Eerste Departement - Drempt	0
+304	306	Eerste Departement - Hoog- en Laag-Keppel	0
+305	307	Tweede Departement - Steenderen	0
+306	308	Tweede Departement - Bronkhorst	0
+307	309	Tweede Departement - Hummelo	0
+308	310	Tweede Departement - Vorden	0
+309	311	Tweede Departement - Warnsveld en Wichmond	0
+310	312	Tweede Departement - Almen	0
+311	313	Tweede Departement - Gorssel	0
+312	314	Derde Departement - Zeddam	0
+313	315	Derde Departement - 's-Heerenberg	0
+314	316	Derde Departement - Stokkum	0
+315	317	Derde Departement - Netterden	0
+316	318	Derde Departement - Etten	0
+317	319	Vierde Departement - Terborg	0
+318	320	Vierde Departement - Varsseveld	0
+319	321	Vierde Departement - Silvolde	0
+320	322	Vierde Departement - Ligtenberg	0
+321	323	Vierde Departement - Lichtenvoorde	0
+322	324	Vijfde Departement - Richterambt Doetinchem	0
+323	325	Vijfde Departement - Zelhem	0
+324	326	Vijfde Departement - Roderlo	0
+325	327	Vijfde Departement - Hengelo	0
+326	328	Zesde Departement - Bredevoort	0
+327	329	Zesde Departement - Aalten	0
+328	330	Zesde Departement - Winterswijk	0
+329	331	Zesde Departement - Dinxperlo	0
+330	332	Zevende Departement - Borculo	0
+331	333	Zevende Departement - Beltrum	0
+332	334	Zevende Departement - Eibergen	0
+333	335	Zevende Departement - Neede	0
+334	336	Zevende Departement - Rekken	0
+335	337	Achtste Departement - Scholtambt Lochem	0
+336	338	Achtste Departement - Laren	0
+337	339	Achtste Departement - Verwolde	0
+338	340	Achtste Departement - Geesteren	0
+339	341	Achtste Departement - Gelselaar	0
+340	342	Achtste Departement - Dorth	0
+341	343	Kwartier van Nijmegen	0
+342	344	Kwartier van Zutphen	0
+343	345	Kwartier van de Veluwe	0
+344	346	Kwartier Arnhem	0
+345	347	Kwartier Zutphen	0
+346	348	Kwartier Nijmegen	0
+347	349	Ring van Gorinchem	0
+348	350	Ring van Tiel	0
+349	351	Ring van Utrecht	0
+350	352	Ring van Amersfoort	0
+351	353	Ring van Arnhem	0
+352	354	Ring van Doesburg	0
+353	355	Ring van Zutphen	0
+354	356	Ring van Tiel	0
+355	357	Middelburg	0
+356	358	Zierikzee	0
+357	359	Goes	0
+358	360	Tholen	0
+359	361	Vlissingen	0
+360	362	Veere	0
+361	363	Walcheren en Sint Joosland	0
+362	364	Schouwen-Duiveland en Sommelsdijk	0
+363	365	Zuid-Beveland	0
+364	366	Tholen en Sint Philipsland	0
+365	367	Noord-Beveland en Wolphaartsdijk	0
+366	368	Kwartier Maasland	0
+367	369	Kwartier Peelland	0
+368	370	Kwartier Kempenland	0
+369	371	Stad en Land van Breda	0
+370	372	Grave en het Land van Cuijk	0
+371	373	Steden en Landen van Bergen op Zoom en Steenbergen	0
+372	374	's-Hertogenbosch	0
+373	375	Kwartier Oisterwijk	0
+374	376	Kwartier I Leiden	0
+375	377	Kwartier II Rotterdam	0
+376	378	Kwartier III Dordrecht	0
+377	379	Kwartier IV Goeree en Overflakkee	0
+378	380	Kwartier II Hoorn	0
+379	381	Kwartier van Breda	0
+380	382	Kwartier van 's-Hertogenbosch	0
+381	383	Kwartier van Eindhoven	0
+382	384	Arrondissement Middelburg	0
+383	385	Arrondissement Meppel	0
+384	386	Schouwen (eiland)	0
+385	387	Noord- en Zuid-Beveland	0
+386	388	Arrondissement Flakkee	0
+387	389	Dantumadeel	0
+388	390	Ooststellingwerf	0
+389	391	Doniawerstal	0
+390	392	Stavoren	0
+391	393	Groningen	0
+392	394	Bolsward	0
+393	395	Dokkum	0
+394	396	IJlst	0
+395	397	Leeuwarden	0
+396	398	Franeker	0
+397	399	Harlingen	0
+398	400	Workum	0
+399	401	Sneek	0
+400	402	Zuidlaren	0
+401	403	Vries	0
+402	404	Peize	0
+403	405	Assen	0
+404	406	Gasselternijveen	0
+405	407	Zweelo	0
+406	408	Beilen	0
+407	409	Dwingeloo	0
+408	410	Oosterhesselen	0
+409	411	Eelde	0
+410	412	Anloo	0
+411	413	Ruinen	0
+412	414	Wapserveen	0
+413	415	Vledder	0
+414	416	Pesse, Echten en Ansen	0
+415	417	Roswinkel	0
+416	418	Schoonebeek	0
+417	419	Nijeveen	0
+418	420	Zuidwolde	0
+419	421	Rolde	0
+420	422	Emmen	0
+421	423	Hoogeveen	0
+422	424	Sleen	0
+423	425	Diever	0
+424	426	Kolderveen	0
+425	427	Roden	0
+426	428	Borger	0
+427	429	Havelte	0
+428	430	Anloo	0
+429	431	Meppel	0
+430	432	Gasselte	0
+431	433	Gieten	0
+432	434	Norg	0
+433	435	Ruinerwold	0
+434	436	Roden	0
+435	437	Dalen	0
+436	438	Coevorden	0
+437	439	Odoorn	0
+438	440	De Wijk	0
+439	441	Smilde	0
+440	442	Koekange	0
+441	443	Westerbork	0
+442	444	Hindeloopen	0
+443	445	Heerenveen	0
+444	446	Gouda	0
+445	447	Schiedam	0
+446	448	Monnickendam	0
+447	449	Schoonhoven	0
+448	450	Rotterdam	0
+449	451	Alkmaar	0
+450	452	Enkhuizen	0
+451	453	Purmerend	0
+452	454	Delft	0
+453	455	Hoorn	0
+454	456	Banne Westzaan	0
+455	457	Banne Oostzaan	0
+456	458	Wormerveer	0
+457	459	Gorinchem	0
+458	460	Amsterdam	0
+459	461	Edam	0
+460	462	Medemblik	0
+461	463	Dordrecht	0
+462	464	's-Gravenhage	0
+463	465	Vlaardingen	0
+464	466	Den Briel	0
+465	467	Leimuiden	0
+466	468	Haarlem	0
+467	469	Naarden en Gooiland	0
+468	470	Maassluis	0
+469	471	Oostzaan	0
+470	472	Heusden	0
+471	473	Rijnland	0
+472	474	Dorpen rond Hillegom	0
+473	475	Schermer	0
+474	476	Dorpen rond Castricum	0
+475	477	Dorpen rond Haarlem	0
+476	478	Beemster	0
+477	479	Woudrichem	0
+478	480	Leiden	0
+479	481	Delfshaven	0
+480	482	Texel	0
+481	483	Krimpenerwaard	0
+482	484	Delfland	0
+483	485	Alblasserwaard	0
+484	486	Hoeksewaard	0
+485	487	Leerdam	0
+486	488	Geertruidenberg	0
+487	489	Krimpenerwaard	0
+488	490	Schieland	0
+489	491	Dorpen rond Zevenbergen	0
+490	492	Dorpen rond Raamsdonk	0
+491	493	Hoge en Lage Zwaluwe	0
+492	494	's Grevelduin Kapelle	0
+493	495	Oudewater	0
+494	496	Schagen	0
+495	497	Dorpen rond Bussum	0
+496	498	Overschie	0
+497	499	Dorpen rond Ouder- en Nieuweramstel	0
+498	500	Voorne-Putten	0
+499	501	Terschelling	0

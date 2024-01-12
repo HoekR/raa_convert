@@ -1,0 +1,551 @@
+	alias	IDPersoon
+0	Van der Capellen van Berkenwoude	3860
+1	Repelaer van Driel	3867
+2	Pélichy de Lichtervelde	3870
+3	Van Ewijck van Oostbroek en De Bilt	3877
+4	Von Müntz van Heuvelwijk	3904
+5	Provó Kluit van Rijnsaterwoude	3945
+6	Noiret de Bruyn van Melis- en Mariekerke	3965
+7	Melort van Middelharnis (1840)	3968
+8	Evertsz	3969
+9	De Vos van Nederveen Cappel	3974
+10	Van Hugenpoth tot den Beerenclaauw	4107
+11	Rau van Gameren	4015
+12	De Lange van Wijngaarden	4047
+13	Van Panhuys van Haeren	4092
+14	Ver Loren van Themaat	4130
+15	Coenen van 's Gravesloot	4138
+16	Van Rijckevorsel van Rijsenburg	4141
+17	Van Oosthuyse van Rijckevorsel van Rijsenburg	4141
+18	Van Doorn van Koudekerke	4145
+19	Lambrechtsen van Ritthem	4148
+20	Schorer van St. Philipsland	4150
+21	Versluys van Krabbendijke en Nieuwlande	4151
+22	De Bruyn van Melis- en Mariekerke	4161
+23	De Jongh van Hedikhuizen	4137
+24	Van Middachten van Vrieswijk en Oldhagensdorp	3014
+25	De Vos van Steenwijk van den Oldenhof	3027
+26	Strick van Linschoten van Bunnik en Vechten	3306
+27	Van der Burgh van Kroonenburgh	3224
+28	Von Schwartz van Ansen	4168
+29	Van Hoey van Vlijmen	4171
+30	Van Teylingen van Hilvarenbeek	4179
+31	Van Heeckeren van Brandsenburg en Boelestein	3505
+32	De Marees van Swinderen van Allersma	3199
+33	Rietvelt van Herpt en Sprang	3141
+34	Van Wickevoort Crommelin van Berkenrode	2727
+35	Cuypers van Spangen	3466
+36	Van Haersma van Nederhorst den Berg	3244
+37	Van Berenbroeck	2849
+38	François van Harencarspel Decker van Beverwijk	3043
+39	Taets van Amerongen van Natewisch	2884
+40	De Jonge van Ellemeet	2885
+41	Van der Lek de Clercq van Stavenisse	2886
+42	Paspoort van Grijpskerke	2887
+43	Gevers van Endegeest	2890
+44	't Hooft van Benthuizen	2893
+45	Huughe van Peutevin	2904
+46	Van Tets van Goudriaan	2908
+47	Van Borssele van Wadenoyen	2913
+48	Van Bylandt Halt	2917
+49	Van der Capellen van Rijsselt	2918
+50	Van Dedem van Vosbergen	2920
+51	Engelen van Angerstein	2925
+52	Van Heeckeren van de Wiersse	2931
+53	Van Heeckeren van Nettelhorst	2932
+54	Van Hövell tot Westerflier en Wezeveld	2933
+55	Van Loë van Overdijck	2937
+56	Van Lynden van Oldenaller en de Snor	2938
+57	Mackay van Ophemert en Zennewijnen	2939
+58	Van Nagell van Ampsen	2940
+59	Van Pabst van Bingerden	2944
+60	Van Pallandt van Keppel	2945
+61	Van Rappard van Balgoy	2948
+62	Van Rhemen van Rhemenshuizen	2950
+63	Singendonck van Dieden	2954
+64	Van Spaen van Schouwenburg	2955
+65	Staring van den Wildenborch	2957
+66	Van Westerholt van Hacfort	2965
+67	Van Zuylen van Nievelt van den Schaffelaar	2966
+68	Van der Haer van Campensnieuwland	2976
+69	Bentinck van Schoonheten	2997
+70	Bentinck van Schoonheten	2998
+71	Van Dedem van de Rollecate	3000
+72	Gansneb genaamd Tengnagel van de Luttenberg	3003
+73	Van Haersolte tot den Doorn	3005
+74	Van Isselmuden van Zwollingercamp	3009
+75	Van Ittersum van Relaer	3010
+76	Van Rechteren van de Hofstede	3019
+77	Van Rechteren Limpurg van Rechteren	3020
+78	Beelaerts van Emmichoven	3033
+79	Bisdom van Vliet	3036
+80	Van der Goes van Naters	3054
+81	De Heere van Holy	3057
+82	Niclas Kyronius	3064
+83	Van Lockhorst van Toll en Venhuizen	3074
+84	Van Poeliën van Nuland	3085
+85	Reepmaker van Strevelshoek	3089
+86	De Roo van Westmaas	3091
+87	Six van Hillegom	3095
+88	Van Boetzelaer van Kijfhoek	2692
+89	Calkoen van Kortenhoef	2693
+90	Van der Heyden van Baak	2694
+91	Van Aerschot van Schoonhoven	2702
+92	Van Aylva van Waardenburg en Neerijnen	2704
+93	Van Boetzelaer van Dubbeldam	2711
+94	Van Brienen van de Groote Lindt	2715
+95	Van Brienen van de Groote Lindt	2716
+96	De Goër de Forêt	2737
+97	Van der Goes van Dirxland	2738
+98	Van Heeckeren van Enghuizen	2745
+99	Van Heeckeren van Enghuizen en Beverweerd	2746
+100	Van Heerdt tot Eversberg	2747
+101	De Hemricourt de Ramioul	2750
+102	De Keverberg d'Aldengoor	2760
+103	Van Leyden van Westbarendrecht	2764
+104	Liedekerke de Beaufort prins de Gavre	2765
+105	De Liedel de Well	2766
+106	Van Limburg Stirum Noordwijk	2769
+107	Van Lynden van Hemmen	2773
+108	Van Lynden van Lunenburg	2774
+109	Van Nes van Meerkerk	2783
+110	De Néverlée de la Fortelle	2784
+111	Van Pallandt van Eerde	2790
+112	Van Pallandt van Beerse	2791
+113	De Pesters van Cattenbroek	2792
+114	Schimmelpenninck van Nijenhuis	2803
+115	Schimmelpenninck van der Oye van den Poll	2804
+116	Sloet van Warmelo	2806
+117	Van Spaen van Biljoen	2807
+118	Van Spaen la Lecq van Hardenstein	2808
+119	Steengracht van Oosterland	2810
+120	De Stockhem de Heers	2811
+121	Van Swinderen van Rensuma	2813
+122	Van Tuyll van Serooskerken van Zuylen	2820
+123	Vaernewijck d'Angest	2821
+124	Fontein Verschuir van Heiloo, Oesdom en ter Coulster	2823
+125	De Vinck de Wesel	2824
+126	De Vos van Steenwijk van den Hogenhof	2825
+127	Van Wassenaer van Starrenburg	2828
+128	Van Weede van Dijkveld	2829
+129	Van Pallandt van Waardenburg en Neerijnen	2836
+130	Van Rhemen van Rhemenshuizen	2840
+131	Van Goltstein van Oldenaller	2842
+132	Sichterman van de Brake	2847
+133	Boreel van Hogelanden	2874
+134	Van Heeckeren van Wassenaer	2876
+135	Soetens van Royen	2877
+136	De Vos van Steenwijk van Voorstonden	2878
+137	Martens van Sevenhoven	2880
+138	Huydecoper van Maarsseveen	2883
+139	Van der Staal van Piershil	3097
+140	Van der Werff van Zuidland	3106
+141	Wittert van Bloemendaal	3108
+142	Van Zuylen van Nijevelt van de Ehze	3109
+143	Van Hogendorp van Hofwegen	3128
+144	Jantzon van Nieuwland	3133
+145	De Jonge van Helvoirt	3135
+146	Nahuys van Burgst	3138
+147	De Grancy van Haanwijck	3145
+148	De Smeth van Deurne	3146
+149	Trip van Zoudtlandt	3150
+150	De Voocht van het Hof te Tongelre	3154
+151	Van Weichs van Winnen van Geysteren	3156
+152	De Jonge van Campensnieuwland	3166
+153	De Jonge van Ellemeet	3167
+154	Mogge Muilman van Haamstede	3169
+155	D'Aulnis de Bourouill van Bijma	3176
+156	Polman Gruys van Garreweer	3180
+157	Van Holthe van Echten	3182
+158	Van In- en Kniphuizen van de Nienoord	3185
+159	Wijchgel van Lellens	3206
+160	Berg van Dussen-Muilkerk	3212
+161	Hoeufft van Velsen	3254
+162	Hovy van Spanderswoud	3259
+163	Huydecoper van Maarsseveen	3260
+164	Van Nellesteyn van Broekhuizen	3280
+165	Nutges van Bennebroek	3283
+166	Van Reede van Middachten	3292
+167	Rendorp van Marquette	3293
+168	Van Renesse van Wilp	3294
+169	Six van Oterleek	3298
+170	Taets van Amerongen van Woudenberg	3310
+171	Van Bredehoff de Vicq van Oosthuizen	3313
+172	Van Heiden Reinestein tot Laarwoud	3322
+173	Van Heeckeren van Kell	3350
+174	Van Lynden van Hoevelaken	3351
+175	Van Nagell tot Ampsen	3356
+176	Hora Siccama van Slochteren	3367
+177	Van Schuylenburch van Bommenede	3389
+178	Van Wassenaer van Sint Pancras	3392
+179	Canneman van de Mijle	3398
+180	Groeninx van Zoelen van Ridderkerk	3401
+181	Collot d'Escury van Heinenoord	3403
+182	Van Rhemen van Rhemenshuizen	3407
+183	Caen	3746
+184	Warin van Schonauwen	3408
+185	Donker Curtius van Tienhoven	3415
+186	Repelaer van Molenaarsgraaf	3422
+187	Röell van Hazerswoude	3429
+188	Van Hoorn van Burgh en Westland	3430
+189	Mackay van Ophemert	3449
+190	De Leonaerdts d'Achel	3454
+191	Van der Brugghen van Croy	3465
+192	Half-Wassenaer van Onsenoord	3467
+193	Van Tuyll van Serooskerken van Heeze	3470
+194	Sandberg van Essenburg	3484
+195	Van Suchtelen van de Haare	3485
+196	Bentinck van Nijenhuis	3486
+197	Sandberg van 't Laar	3491
+198	Van Rechteren van Appeltern	3495
+199	Voet van Winssen van Sevenhoven	3500
+200	Van Utenhove van Heemstede	3501
+201	Van Tuyll van Serooskerken van Coelhorst	3502
+202	Bijleveld van Serooskerke	3512
+203	Egter van Wissekerke	3513
+204	Slicher van Domburg	3514
+205	Van Reenen van Loenen	3526
+206	Van Walchren van Wadenoyen	3531
+207	Mensonides van Hensbroek	3577
+208	Schimmelpenninck van Nijenhuis	3584
+209	Van Zuylen van Nijevelt van de Ehze	3601
+210	Schuurbeque Boeye van de Haamstede	3622
+211	De Geer van Jutphaas	3630
+212	Van Tuyll van Serooskerken van Heeze en Leende	3636
+213	Van Doorn van Westkapelle	3684
+214	Gaiffier van de Velde d'Emeville	3688
+215	Van Hambroick van Weleveld	3692
+216	Van der Heim van Duivendijke	3694
+217	koning Willem III	3705
+218	koning Willem I	3706
+219	koning Willem II	3707
+220	prins Frederik	3708
+221	prins Willem	3709
+222	Van Pabst van Bingerden	3711
+223	Van Rechteren van Ahnem	3715
+224	Gericke van Herwijnen	3724
+225	Pronck Appelius	3729
+226	Brantsen van de Zijp	3742
+227	De Crombrugghe van Looringhe	3751
+228	De Gijzelaar	3760
+229	Van Goltstein van Oldenaller	3764
+230	Van der Gracht d'Eeghen	3766
+231	Hemricourt de Ramioulle	3769
+232	De Jongh van Son tot Raamsdonk	3777
+233	Schimmelpenninck van der Oye tot den Poll	3805
+234	Six van Oterleek	3808
+235	Van Wassenaer Spanbroeck	3820
+236	Van Heeckeren van Beverweerd	2745
+237	Van Dedem van de Berg	3000
+238	Del Court van Krimpen	3041
+239	Van Heeckeren van Wassenaer-Twickel	2876
+240	Wittert van Hoogland	3108
+241	De Jonge van Zwijnsbergen	3135
+242	Van Reede van Ginkel	3292
+243	Gevers van Kethel en Spaland	3823
+244	De Coninck d'Outryve	3828
+245	Bentinck van Nijenhuis	3835
+246	Verstolk van Soelen	3832
+247	Van Tets van Goudriaan	3838
+248	Bentinck van Buckhorst	3841
+249	Van der Wyck tot de Klencke	4208
+250	Van der Wyck tot de Klencke	4289
+251	De Vos van Steenwijk van den Havixhorst	4295
+252	Van Asbeck van Luilema	4297
+253	Tjarda van Starkenborgh van Wehe	4303
+254	Tjarda van Starkenborgh Stachouwer van Wehe	4313
+255	Hora Siccama van Slochteren	4316
+256	De Savornin Lohman van Zonnemaire	4320
+257	De Marees van Swinderen van Allersma	4436
+258	Beelaerts van Blokland van Oosterwijk	4587
+259	Hinlopen van Sterkenburg	4588
+260	Van Nellesteyn van Broekhuizen en Darthuizen	4589
+261	Van Collen van Gunterstein	4600
+262	Van Reede van ter Aa	4601
+263	Duuring van Oudaen en Breukelen-St. Pieter	4602
+264	Strick van Linschoten van Rijnauwen	4603
+265	Beeldsnijder van Voshol en Vrije Nes	4607
+266	Van Beusechem van Harmelen	4609
+267	Van der Brugghen van Lauwerecht	4610
+268	Van Zijll van den Ham	4613
+269	Van Nooten van Honkoop	4617
+270	Strick van Linschoten van Vlooswijk	4618
+271	Van Hardenbroek van Lockhorst	4620
+272	De Perponcher Sedlnitsky van Wolphaartsdijk	4625
+273	Utenhove van Bottestein en Amelisweerd	4626
+274	Van Reede van Athlone	4627
+275	Taets van Amerongen van Deyl	4628
+276	Taets van Amerongen van Renswoude en Emmikhuizen	4629
+277	Van Tuyll van Serooskerken van Maarssen	4630
+278	Von Derfelden van Hindersteyn	4632
+279	Taets van Amerongen van Woudenberg	4634
+280	Beelaerts van Blokland van Remmerstein	4635
+281	De Pesters van Cattenbroek	4637
+282	Van Boetzelaer van Dubbeldam	4639
+283	Van Zuylen van Nijevelt van Hinderstein	4640
+284	Van Tuyll van Serooskerken van Zuylen	4641
+285	Story van Blokland	4653
+286	Nepveu van Herlaer	4663
+287	Ram van Bottestein	4666
+288	Van der Muelen van Maarssenbroek	4667
+289	Van Hardenbroek van Hardenbroek	4675
+290	Van Hardenbroek van Lockhorst	4692
+291	De Geer van Oudegein	4700
+292	De Heus van Nyenrode	4712
+293	Bosch van Oud-Amelisweerd	4720
+294	De Muralt van Vlijmen	4721
+295	Strick van Linschoten van Nieuw-Helvoet	4603
+296	Cramer van Ootmarsum	4933
+297	Von Bönninghausen van Herinkhave	4936
+298	Blijdenstein van Enschede	4937
+299	Von Bönninghausen van de Eeshof	4941
+300	Sloet van Warmelo	4955
+301	Roessingh Udink van Singraven	4956
+302	Van Foreest van Heemse	4961
+303	Sandberg van 't Laar	4966
+304	Van der Wyck van Archem	4967
+305	Teding van Berkhout tot Hoenlo	4973
+306	Van Ittersum tot den Oosterhof	5000
+307	Van Pallandt van Eerde	5001
+308	Van Raesfelt van Elsen	5002
+309	Sloet van Tweenyenhuizen en Bredenhorst	5004
+310	Sloet van Westerholt	5006
+311	Van Haersolte tot den Doorn	5007
+312	Coninck Bentinck	5009
+313	Van Coeverden van Kampferbeek	5010
+314	Van Voërst tot Hagevoorde en Bergentheim	5014
+315	De Vos van Steenwijk van den Oldenhof	5015
+316	Mulert tot de Leemcule	5017
+317	Van Fridagh tot Rutenberg	5019
+318	Van Rechteren Limpurg van den Schulenborg	5021
+319	Bentinck tot Nijenhuis	5022
+320	Van Pallandt tot Eerde	5023
+321	De Vos van Steenwijk van Windesheim	5024
+322	Sandberg van Essenburg	5025
+323	Van Ittersum tot den Oosterhof	5026
+324	Van Knobelsdorff tot de Gelder, Krijtenberg en Scherpenzeel	5027
+325	Van Dedem tot de Rollecate	5029
+326	De Vos van Steenwijk van Abbenbroek	5035
+327	Sandberg van 't Laar	5078
+328	Van Naamen van Eemnes	5083
+329	Von Bönninghausen van Herinkhave	5090
+330	Bentinck van Schoonheten	5128
+331	Van Coeverden van Wegdam	5138
+332	Van Ittersum van Plattenburg	5000
+333	Bentinck van Buckhorst	5009
+334	Van Lanschot van Berlicum	5140
+335	Smits van Oyen	5150
+336	De Roy van Zuydewijn-Capelle	5161
+337	Verschoor van Sleeuwijk	5165
+338	Van Panhuys van Haeren	5181
+339	De Jongh van Son van Raamsdonk	5186
+340	Van Hugenpoth tot den Beerenclaauw	5187
+341	Billehé de Valensart van Leuth	5188
+342	De Geloes van Elsloo	5189
+343	Van Kretschmar van Veen	5190
+344	Van Reede van Ginkel	5192
+345	Speelman van Wulverhorst	5193
+346	Martini van Geffen	5196
+347	Wesselman van Helmond	5223
+348	Speelman van Heeswijk en Dinther	5249
+349	Verheijen van Estvelt	5265
+350	Van Dam van Hekendorp en Polanen	5285
+351	Van Reede van Doeveren	5192
+352	Thibaut van Aagtekerke	6089
+353	Van der Mandere van Ouwerkerk	6114
+354	Paspoort van Grijpskerke	6119
+355	Lambrechtsen van Ritthem	6145
+356	Moens van Blois	6151
+357	Sprenger van Duinbeek	6166
+358	Verschoor van Nisse	6173
+359	Lenshoek van Zwake	6178
+360	Steengracht van Moyland	6199
+361	De Clercq van Stavenisse	6222
+362	Mulock Houwer van Noordgouwe	6223
+363	Van Barnevelt van Noordeloos	6283
+364	Barnaart van Bergen	6289
+365	Griffioen van Waarder	6293
+366	Van Bredehoff de Vicq van Oosthuizen	6300
+367	Jantzon van Erffrenten van Capelle en Hoogeveen	6301
+368	Kwak van Zwartewaal	6306
+369	Van Tuyll van Serooskerken van Vleuten	6309
+370	Weldijk van Limmen	6310
+371	Vlielander van Rockanje	6311
+372	Van Boetzelaer van Kijfhoek	6314
+373	Diemont van Langerak	6316
+374	Gevers van Endegeest en Kethel en Spaland	6321
+375	Van Hees van Berkel	6324
+376	De Raadt van Hendrik-Ido-Ambacht	6326
+377	De Dieu Fontein Verschuir van Heiloo	6328
+378	Sandenberg Matthiessen van Petten en Nolmerban	6329
+379	Van Weel van Sommelsdijk	6331
+380	Repelaer van Spijkenisse	6333
+381	Vlielander van Nieuwenhoorn	6334
+382	Van Leyden Gael van Vlaardingen	6335
+383	Boreel van Hogelanden	6342
+384	Van Pallandt van Eerde	6345
+385	Van de Wall van Puttershoek	6356
+386	Van Boetzelaer van Dubbeldam	6357
+387	Huydecoper van Zeist	6358
+388	Steengracht van Duivenvoorde	6359
+389	Van Tets van Langerak	6381
+390	Van Kuffeler van Hoogeveen	6389
+391	Van Tets van Goudriaan	6391
+392	De Lange van Wijngaarden	6392
+393	Reepmaker van Strevelshoek	6409
+394	Van Dam van Noordeloos	6411
+395	Bachman van Schipluiden en Hodenpijl	6424
+396	Ham van Sluipwijk	6427
+397	Snouck van Loosen	3390
+398	Gevaerts van Geervliet	3050
+399	Peelen van Honswijk	3285
+400	Van Zuylen van Nijevelt van Nieuw-Beijerland	3109
+401	Maas van Zuid-Scharwoude	6453
+402	Van Naamen van Scherpenzeel	6457
+403	Hooft van Vreeland	6460
+404	Hooft van Woudenberg en Geerestein	6469
+405	Stokbroo van Hoog- en Aartswoud	6479
+406	Hoeufft van Velsen	6501
+407	Berg van Dussen-Muilkerk	6521
+408	Lette van Oostvoorne	6561
+409	Cremer van den Berch van Heemstede	6571
+410	Van Rijckevorsel van Rijsenburg	6589
+411	Rengers van Warmenhuyzen	6592
+412	Rijkee van Alblasserdam	6594
+413	Hein van Rockanje	6622
+414	Bisdom van Vliet	6639
+415	Lette van Oostvoorne	6675
+416	Van der Goes van Naters	6677
+417	Jantzon van Erffrenten van Babylonienbroek	6679
+418	Van Asbeck zu Bergen und Munsterhausen	6709
+419	Van Asbeck tot Berge en Munsterhausen	2703
+420	Bijleveld van den Ham	4598
+421	Caan van Maurick	3746
+422	Van Lynden van Hoevelaken	6967
+423	Van den Bogaerde van Terbrugge	6974
+424	Van Tuyll van Serooskerken van Vleuten	6976
+425	van Lommessem Strijthagen	7108
+426	De Liedel de Well	7126
+427	Van Riemsdijk van Gemert	7130
+428	D'Ansembourg de Neuborg	7134
+429	Kerkhoffs	7115
+430	Kerkhoffs	7166
+431	Corten van Oensel	7469
+432	Wouters van Beringen	7478
+433	Schiervel d'Altembrouck	7481
+434	De Heusch de Bombrouck	7485
+435	Clermont de Vaelshoek	7514
+436	Arazola Déonata	7515
+437	Van Erp tot Baerlo en Holt	7521
+438	Bloemaerts	7571
+439	Kerens Cadet	3458
+440	De Rosen de Haren	7575
+441	De Stenbier de Wideux	7576
+442	Van Balveren van Leur	7582
+443	Van der Borch van Vorden	7583
+444	Van Brakell tot den Brakell en Vredestein	3358
+445	Van Bylandt van Mariënweerd	7584
+446	Van Eck van Vieracker en Ommershof	2923
+447	Van Heeckeren van Overlaer	7586
+448	D'Isendoorn à Blois van Cannenburg	7587
+449	Van Nagell van Wisch	7589
+450	Van Neukirchen genaamd Nyvenheim tot Eck en Wiel	7590
+451	Van Rouwenoort van Ulenpas	7591
+452	Schimmelpenninck van der Oye van de Poll	7592
+453	Van Spaen van Hulshorst	2955
+454	Van Heeckeren van Overlaer	7593
+455	Van Heeckeren van Oldoolde	7593
+456	Van Pallandt van Eerde	7596
+457	Van Heeckeren van Molecaten	7599
+458	Van Heeckeren van Marhulsen	7601
+459	Van Heeckeren van de Cloese	7602
+460	Van Eck van Overbeek	7604
+461	Van Lynden van Hemmen	7605
+462	Van Haersolte van Staverden	7606
+463	Van Heeckeren van de Beurze	2746
+464	Van Zuylen van Nievelt van den Brielert	7607
+465	Reint Willem van Middachten	3014
+466	Elders J.H.	3114
+467	Van Pallandt van Barlham	7608
+468	Van Pallandt van Keppel	7608
+469	Van Pallandt van Waardenburg en Neerijnen	7608
+470	Van Bylandt van Mariënwaerd	7611
+471	Van Wassenaer van Katwijk	7613
+472	Van Ranzow van Meinerswijk	7614
+473	Torck van Rosendael	7617
+474	Van der Heyden van Doornenburg en Suideras	7618
+475	Van Pallandt van Oud-Beyerland	7620
+476	Van Balveren van Echteld en Leur	7621
+477	Van Nagell van Wisch	7622
+478	Van Zuylen van Nievelt van de Schaffelaar	7624
+479	Van Voorst tot Voorst en Ploen	7625
+480	Van Brakell van Wadenoyen en Doorwerth	7626
+481	Van Heeckeren van de Wiersse	7627
+482	Sloet van Zwanenburg	7631
+483	Van Kretschmar van Veen	7632
+484	Van Randwijck van Rossum	7634
+485	De Vos van Steenwijk genaamd van Essen van Abbenbroek	7638
+486	Van Wijnbergen van Bussloo	7639
+487	Van Schuylenburch van den Ulenpas	7640
+488	Mollerus van Westkerke en Wulpendaal	7642
+489	Brantsen van de Zijp	7651
+490	Van Pallandt van Westervoort	7655
+491	Van Coeverden van Putten en den Schuylenburg	7668
+492	Van Hasselt van Empe	7710
+493	Sloet van de Beele	7712
+494	Boesses van Leeuwen en Puiflijk	7716
+495	Engelen van 't Celle	7718
+496	Vermeulen van 't Munnikeland	7721
+497	Van Brakell van Geldermalsen	7722
+498	Bouwens van Horssen	7724
+499	Sloet van Diepenbroeck en Sinderen	7725
+500	Van Heeckeren van Molecaten	7727
+501	Van Meurs van Hulshorst	2837
+502	Van Rhemen van Rhemenshuizen en de Geldersche Toren	2950
+503	Sloet tot Oldhuis van de Beele	7738
+504	Brantsen van Rhederoord	7744
+505	Van der Borch van den Ulenpas	7745
+506	Van der Borch tot Helbergen	7745
+507	Van der Borch van Vorden	7748
+508	Van Pallandt van Walfort en Klarenbeek	7753
+509	Van Heeckeren van Marhulsen	7758
+510	Van Nispen van Velde	7763
+511	De Nerée van Babberich	7766
+512	De Nerée van Babberich	7768
+513	Van Westerholt van Hackfort	7782
+514	Van den Steen van Wadestein	2958
+515	Van Barneveld van Meteren en Geldermalsen	7793
+516	Van Nagell van Ampsen	7814
+517	Van Scherpenzeel Heusch van Dreumel en Oosterhout	7781
+518	Viruly van Vuren en Dalem	7838
+519	Van Wassenaer van Catwijck	7842
+520	Six tot Oterleek	7905
+521	Evertz	3969
+522	Sweerts de Landas van Oirschot	2697
+523	Repelaer van Valkenswaard	6333
+524	De Sandra Veldtman van Slochteren	4352
+525	Hendrik Jansz. Mossel van Stralen	2812
+526	Van Pallandt tot Beerse	2790
+527	Van Gennip	2736
+528	Nagell	2940
+529	Van Pallandt van Barlham	2945
+530	Pierre Hofstede	3181
+531	Kijmmel	3188
+532	De Vos van Steenwijk tot Havoxhorst	3205
+533	Gaschard	3368
+534	Van Gobbelschroy van Spoelbeeck	3824
+535	Arend Jacob Drabbe	3936
+536	A.J.F. van Galen	4106
+537	Muentz	3904
+538	Sijpkens	3913
+539	Slingenburg	4213
+540	Van Limburg Stirum van de Wildenborch	4304
+541	Eppo Cremers	4323
+542	Verhousen	5155
+543	Linsen de Jonge	5221
+544	Van Kinsbergen van Doggersbank	7598
+545	Aaldert Schouten	7779
+546	Borssele van der Hooghe	6092
+547	Sloet tot Lindenhorst	3021
+548	Lamoraal Johan Joachim Rengers	2984
+549	Hans Hendrik Boreel van Haersma	3244

@@ -1,0 +1,120 @@
+	IDCollege	Periode	College	VolgnummerBasiscollege	Basis	Id
+0	7	1	Gecommitteerde Raden van Holland in het Zuiderkwartier (1590-1795)	0.0	0	8
+1	8	1	Gecommitteerde Raden van Holland in het Noorderkwartier (1573-1795)	0.0	0	9
+2	9	1	Rekenkamer ter Auditie van Holland in het Zuiderkwartier (1590-1752)	0.0	0	10
+3	10	1	Rekenkamer ter Auditie van Holland in het Noorderkwartier (1590-1752)	0.0	0	11
+4	11	1	Provinciale Rekenkamer van Holland (1752-1795)	0.0	0	12
+5	12	1	Hoge Raad van Holland en Zeeland (1582-1795)	0.0	0	13
+6	13	1	Hof van Holland en Zeeland (1572-1795)	0.0	0	14
+7	14	1	Gecommitteerde Raden van Zeeland (1578-1795)	0.0	0	15
+8	15	1	Provinciale Rekenkamer van Zeeland (1596-1795)	0.0	0	16
+9	19	1	Gedeputeerde Staten van Friesland (1577-1795)	0.0	0	22
+10	20	1	Provinciale Rekenkamer van Friesland (1582-1795)	0.0	0	23
+11	21	1	Hof van Friesland (15??-1795)	0.0	0	24
+12	22	1	Gedeputeerde Staten van Overijssel (1591-1795)	0.0	0	25
+13	26	1	Staten van Holland (1572-1795)	0.0	0	29
+14	27	1	Staten-Generaal der Verenigde Nederlanden (1588-1795)	0.0	0	30
+15	28	1	Raad van State (1588-1795)	0.0	0	31
+16	29	1	Generaliteitsrekenkamer (1608-1799)	0.0	0	32
+17	30	1	Admiraliteit op de Maze (1586-1795)	0.0	0	33
+18	31	1	Admiraliteit te Amsterdam (1586-1795)	0.0	0	34
+19	32	1	Admiraliteit in Zeeland (1584-1795)	0.0	0	35
+20	33	1	Admiraliteit in het Noorderkwartier (1589-1795)	0.0	0	36
+21	34	1	Admiraliteit in Friesland (1596-1795)	0.0	0	37
+22	35	1	VOC ter Kamer Amsterdam	0.0	0	38
+23	36	1	VOC ter Kamer Zeeland	0.0	0	39
+24	37	1	VOC ter Kamer Delft	0.0	0	40
+25	38	1	VOC ter Kamer Rotterdam	0.0	0	41
+26	39	1	VOC ter Kamer Hoorn	0.0	0	42
+27	40	1	VOC ter Kamer Enkhuizen	0.0	0	43
+28	41	1	WIC ter Kamer Amsterdam	0.0	0	44
+29	42	1	WIC ter Kamer Zeeland	0.0	0	45
+30	43	1	WIC ter Kamer op de Maze	0.0	0	46
+31	44	1	WIC ter Kamer van het Noorderkwartier	0.0	0	47
+32	45	1	WIC ter Kamer Stad en Lande	0.0	0	48
+33	46	1	Raad van Brabant (1591-1795)	0.0	0	49
+34	47	1	Raad van Vlaanderen (1599-1795)	0.0	0	50
+35	49	1	Staten van Zeeland (1578-1795)	0.0	0	52
+36	51	1	Staten van Friesland	0.0	0	54
+37	52	1	Staten van Overijssel	0.0	0	55
+38	54	1	Ridderschap van het Kwartier Nijmegen		1	1
+39	55	1	Ridderschap van het Graafschap Zutphen		1	2
+40	56	1	Ridderschap van het Kwartier Veluwe		1	3
+41	57	1	Raad van Nijmegen		1	4
+42	58	1	Raad van Tiel		1	5
+43	59	1	Raad van Zaltbommel		1	6
+44	60	1	Raad van Zutphen		1	7
+45	61	1	Raad van Doesburg		1	8
+46	62	1	Raad van Doetinchem		1	9
+47	63	1	Raad van Lochem		1	10
+48	64	1	Raad van Groenlo		1	11
+49	65	1	Raad van Arnhem		1	12
+50	66	1	Raad van Harderwijk		1	13
+51	67	1	Raad van Wageningen		1	14
+52	68	1	Raad van Hattem		1	15
+53	69	1	Raad van Elburg		1	16
+54	70	1	Ridderschap van Holland	1.0	1	17
+55	72	1	Vroedschap van Haarlem	3.0	1	23
+56	73	1	Vroedschap van Delft	4.0	1	24
+57	74	1	Vroedschap van Leiden	5.0	1	25
+58	75	1	Vroedschap van Amsterdam	6.0	1	26
+59	76	1	Vroedschap van Gouda	8.0	1	27
+60	77	1	Vroedschap van Rotterdam	9.0	1	28
+61	78	1	Vroedschap van Gorinchem	11.0	1	29
+62	79	1	Vroedschap van Schiedam	12.0	1	30
+63	80	1	Vroedschap van Schoonhoven	13.0	1	31
+64	81	1	Vroedschap van Den Briel	14.0	1	32
+65	82	1	Vroedschap van Alkmaar	15.0	1	33
+66	83	1	Vroedschap van Hoorn	16.0	1	34
+67	84	1	Vroedschap van Enkhuizen	17.0	1	35
+68	85	1	Vroedschap van Edam	18.0	1	36
+69	86	1	Vroedschap van Monnickendam	19.0	1	37
+70	87	1	Vroedschap van Medemblik	20.0	1	38
+71	88	1	Vroedschap van Purmerend	21.0	1	39
+72	89	1	Representant van de Eerste Edele in Zeeland		1	40
+73	91	1	Vroedschap van Zierikzee		1	42
+74	92	1	Vroedschap van Goes		1	43
+75	94	1	Vroedschap van Veere		1	45
+76	95	1	Vroedschap van Vlissingen		1	46
+77	96	1	College van Geëligeerden van Utrecht		1	47
+78	97	1	Ridderschap van Utrecht		1	48
+79	98	1	Vroedschap van Utrecht		1	49
+80	99	1	Vroedschap van Amersfoort		1	50
+81	100	1	Vroedschap van Rhenen		1	51
+82	101	1	"Vroedschap van Montfoort
+Vroedschap van Wijk bij Duurstede"		1	52
+83	102	1	Vroedschap van Leeuwarden		1	56
+84	103	1	Vroedschap van Bolsward		1	57
+85	104	1	Vroedschap van Franeker		1	58
+86	105	1	Vroedschap van Sneek		1	59
+87	106	1	Vroedschap van Dokkum		1	60
+88	107	1	Vroedschap van Harlingen		1	61
+89	108	1	Vroedschap van Stavoren		1	62
+90	109	1	Vroedschap van Sloten		1	63
+91	110	1	Vroedschap van Workum		1	64
+92	111	1	Vroedschap van IJlst		1	65
+93	112	1	Vroedschap van Hindeloopen		1	66
+94	116	1	Raad van Deventer		1	70
+95	117	1	Raad van Kampen		1	71
+96	118	1	Raad van Zwolle		1	72
+97	119	1	Raad van Groningen		1	73
+98	130	1	College van Superintendentie der Admiralteit (1589-1593)	0.0	0	0
+99	138	1	Provinciale Rekenkamer van Groningen (1596-1795)	0.0	0	0
+100	139	1	Gedeputeerde Staten van Groningen (1595-1795)	0.0	0	0
+101	142	1	Hof van Gelre en Zutphen (1588-1795)	0.0	0	0
+102	143	1	Hof van Utrecht (1588-1795)	0.0	0	0
+103	145	1	Gedeputeerde Staten van Utrecht (1577-1795)	0.0	0	0
+104	146	1	Staten van Utrecht	0.0	0	0
+105	160	1	Vroedschap van Wijk bij Duurstede	0.0	1	0
+106	161	1	Provinciale Rekenkamer van Gelderland (1581-1795)	0.0	0	0
+107	164	1	Gedeputeerde Staten van het Graafschap Zutphen (1598-1795)	0.0	0	0
+108	90	1	Vroedschap van Middelburg		1	41
+109	162	1	Gedeputeerde Staten van het Kwartier Veluwe (1580-1795)	0.0	0	0
+110	71	1	Vroedschap van Dordrecht	2.0	1	18
+111	93	1	Vroedschap van Tholen		1	44
+112	137	1	Grafelijkheidsrekenkamer van Holland (1588-1728)	0.0	0	0
+113	144	1	Kamer ter Finantie van Utrecht (1663-1795)	0.0	0	0
+114	163	1	Gedeputeerde Staten van het Kwartier Nijmegen (1593-1795)	0.0	0	0
+115	129	1	Ridderschap van Overijssel	0.0	1	0
+116	120	1	Ommelander Vergadering [onderverdelen in 3 kwartieren]		1	74
+117	140	1	Hoofdmannenkamer, vanaf 1749 Hoge Justitiekamer van Groningen (1594-1795)	0.0	0	0

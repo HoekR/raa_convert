@@ -1,0 +1,223 @@
+	alias	IDPersoon
+0	Bertrand dit Béto	154
+1	Rooie Pieter	638
+2	Ville-sur-Illon, Comte de Lacépède.	145
+3	Verhuell, Graaf van Sevenaer.	35
+4	Twenth van Raephorst, Graaf van Rozenburg.	15
+5	Winter, Graaf van Huessen	207
+6	Cambacérès, Prince-Duc de Parme	71
+7	Caulaincourt, Duc de Vicence	129
+8	Clarke, Duc de Feltre	77
+9	Duroc, Duc de Frioul.	126
+10	Gaudin, Duc de Gaëte	81
+11	Moncey, Duc de Conegliano	94
+12	Lebrun, Prince-Duc de Plaisance	100
+13	Maret, Duc de Bassano	73
+14	Nompère de Champagny, Duc de Cadore	80
+15	Régnier, Duc de Massa	84
+16	Savary, Duc de Rovigo	85
+17	Pol	871
+18	Dedden	1442
+19	Tymmerman	1486
+20	Nanninks	1489
+21	Borgerink	1325
+22	Bruins	1308
+23	Brons	1308
+24	Heumelder	1505
+25	Snijders	1387
+26	Meilink	1676
+27	Leeuwenkamp	1746
+28	Adriaansen	1761
+29	Kaelcken	1802
+30	Nieuwenhuis	1818
+31	Baars	1856
+32	Caen	2438
+33	Noever, Ten	861
+34	Vrijdag	1306
+35	Sut	2349
+36	Bisschop	2572
+37	Gerritzen	2629
+38	Drochlet	2845
+39	Droilhet	2845
+40	Jalink	2806
+41		2573
+42	Issing	2907
+43	Orklij	2749
+44	Pijpers	2842
+45	Dingman	2998
+46	Haagen.	378
+47	Gaschard	2987
+48	Bonnikerhausen	3096
+49	Feijt	2812
+50	Schneitter	3175
+51	Ogelwigt	3162
+52	Suermond	2698
+53		3112
+54		1171
+55		2192
+56		462
+57		122
+58		65
+59		1748
+60		2510
+61		1682
+62		234
+63	Van Middachten van Vrieswijk en Oldhagensdorp	1319
+64	Muentz	1256
+65	Sijpkens	350
+66	L' Espinasse	831
+67	Tobias.	57
+68	Vermoedelijk Goske Cassa.	2832
+69	Aufmorth	2598
+70	Migchels	3339
+71	Verhousen	20
+72	Naam las eerst als Masehoek.	3368
+73	Vatenbender	934
+74	Heijden	3385
+75	Of J.G.C.	3362
+76	Blijswijk Parde	3371
+77	Raay	3390
+78	Fallee en Galle.	3367
+79		3386
+80	F.H. zou ook kunnen.	3207
+81	NB Elders lijkt er sprake te zijn van andere voorletters in rijtje met dezelfde collega's (C.A. voor C.A. van Ray? Dus vermoedelijk gewoon een fout.)	2661
+82	Elders J.H.	3185
+83	Boudewijn (zie Van der Aa.)	629
+84	Adrianus Francois	69
+85	Jacob George Jeronimo	498
+86		2986
+87	Zou ook Tilenius kunnen zijn, zie hiertoe Van der Aa.	2893
+88	Fromant	210
+89	Gazinget	2968
+90	Gerritsen	2629
+91	Goetzee	1563
+92	Zeylstra	1117
+93	Kijmmel	2975
+94	Kok	2885
+95	Kühl	2753
+96	Lelijveld	2646
+97	Mallevault	259
+98	Marnet	592
+99	Covert	1014
+100	Polarin	3393
+101	Reijn	2887
+102	Romerts	1632
+103	Reynders	1604
+104	Nijenhuis	1657
+105	Barink	1659
+106	Stokebrand	1672
+107	Braak	1680
+108	Lammerdink	1726
+109	Haasewinkel	1740
+110	Schuijseman	1741
+111	Bekman	1749
+112	Geurts	1783
+113	Vooren	2829
+114	Volckar	2902
+115	Okke	2712
+116	Siebes	3432
+117	Berkhof	3348
+118	Bisschop	2577
+119	Bernhofft	2850
+120	Scheffer	3403
+121	Slingenburg	3295
+122	Clé, J. la	528
+123	Ekkenhuisen	2782
+124	Deurveldt	3280
+125	Bisschop	3486
+126	Saaijmans	2888
+127	Eikendal	2756
+128	De Coninck d'Outryve	135
+129	Wittert van Bloemendaal	3569
+130	Harij	2995
+131	Calkoen van Kortenhoef	422
+132	Van Asbeck tot Berge en Munsterhausen	439
+133	Van Aylva van Waardenburg en Neerijnen	693
+134	Van Brienen van de Groote Lindt	222
+135	Van Wickevoort Crommelin van Berkenrode	4
+136	Van der Goes van Dirxland	17
+137	Van Heeckeren van Enghuizen	1566
+138	Van Heeckeren van Beverweerd	1566
+139	Van Leyden van Westbarendrecht	14
+140	Van Lynden van Lunenburg	180
+141	Van Pallandt van Eerde	465
+142	Van Pallandt tot Beerse	465
+143	Sloet van Warmelo	3086
+144	Van Spaen van Biljoen	915
+145	Van Spaen la Lecq van Hardenstein	3190
+146	Hendrik Jansz. Mossel van Stralen	392
+147	Fontein Verschuir van Heiloo, Oesdom en ter Coulster	298
+148	De Vos van Steenwijk van den Hogenhof	181
+149	Van Bylandt Halt	726
+150	Nagell	3257
+151	Van Pallandt van Keppel	428
+152	Van Pallandt van Barlham	428
+153	Van Rhemen van Rhemenshuizen	886
+154	Singendonck van Dieden	909
+155	Staring van den Wildenborch	1513
+156	Van Zuylen van Nievelt van den Schaffelaar	961
+157	Van Dedem van de Rollecate	2516
+158	Van Dedem van de Berg	2516
+159	Van Haersolte tot den Doorn	777
+160	Reint Willem van Middachten	1319
+161	Beelaerts van Emmichoven	2680
+162	Gevaerts van Geervliet	2112
+163	Reepmaker van Strevelshoek	565
+164	Six van Hillegom	912
+165	Jantzon van Nieuwland	2497
+166	Nahuys van Burgst	1967
+167	Trip van Zoudtlandt	931
+168	Pierre Hofstede	138
+169	Van Holthe van Echten	795
+170	De Vos van Steenwijk tot Havixhorst	636
+171	Van Haersma van Nederhorst den Berg	1106
+172	Huydecoper van Maarsseveen	2803
+173	Six van Oterleek	7
+174	Taets van Amerongen van Woudenberg	2935
+175	Van Heiden Reinestein tot Laarwoud	785
+176	Van Schuylenburch van Bommenede	904
+177	Canneman van de Mijle	26
+178	Groeninx van Zoelen van Ridderkerk	2480
+179	Collot d'Escury van Heinenoord	2476
+180	Warin van Schonauwen	3071
+181	Van der Brugghen van Croy	2467
+182	Cuypers van Spangen	438
+183	Sandberg van 't Laar	3315
+184	Van Heeckeren van Brandsenburg en Boelestein	3523
+185	Caan van Maurick	2438
+186	Van Gobbelschroy van Spoelbeeck	237
+187	Verstolk van Soelen	141
+188	Van der Capellen van Berkenwoude	16
+189	Repelaer van Driel	429
+190	Von Müntz van Heuvelwijk	1256
+191	Van Limburg Stirum van de Wildenborch	179
+192	Eppo Cremers	182
+193	De Sandra Veldtman van Slochteren	2951
+194	Bijleveld van den Ham	2930
+195	De Perponcher Sedlnitsky van Wolphaartsdijk	3115
+196	Cramer van Ootmarsum	631
+197	Blijdenstein van Enschede	706
+198	Sloet van Tweenyenhuizen en Bredenhorst	2936
+199	De Jongh van Son van Raamsdonk	1008
+200	Van Kretschmar van Veen	3270
+201	Speelman van Heeswijk en Dinther	916
+202	Lambrechtsen van Ritthem	1893
+203	Gevers van Endegeest en Kethel en Spaland	427
+204	Van Hees van Berkel	2473
+205	Repelaer van Spijkenisse	884
+206	Repelaer van Valkenswaard	884
+207	Van Tets van Goudriaan	3094
+208	Van Tuyll van Serooskerken van Vleuten	301
+209	Van der Borch van Vorden	294
+210	Van Pallandt van Eerde	450
+211	Van Kinsbergen van Doggersbank	232
+212	Van Heeckeren van de Cloese	304
+213	Van Haersolte van Staverden	314
+214	Van Pallandt van Walfort en Klarenbeek	1574
+215	Aaldert Schouten	1628
+216	Wittert van Hoogland	3569
+217	Van Doorn van Westkapelle	3088
+218	Linsen de Jonge	2463
+219	Van Gennip	460
+220	Van Nagell van Ampsen	3257
+221	Van Rhemen van Rhemenshuizen en de Geldersche Toren	886

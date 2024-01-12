@@ -1,0 +1,895 @@
+	IDRegent	Geslachtsnaam	Tussenvoegsel	IDAdellijkeTitel	IDAcademischeTitel	Voornaam	Adel	Adelspredikaat	Heerlijkheid	Heerlijkheid2	Geboortejaar	OnbepaaldGeboortedatum	Overlijdensjaar	OnbepaaldOverlijdensdatum	Opmerkingen	Periode
+0	1	Beukelaar		8	3	Thomas	1		Alblasserdam	Ottoland, 's-Heeraartsberg		0	1516.0	0	Overig: rentmeester van de beden Holland 1478-1488. Rentmeester van Noord-Holland (1492-1499), Zuid-Holland (1480-1484 en 1492-1498), West-Friesland en Kennemerland (1495-1498) en van de kwartieren Woerden, Gorcum, Amstelland en Gooiland (1492-1498). Rentmeester exploten Hof van Holland, als opvolger van de overleden Jan van Assendelft, 25 januari 1486 - 30 december 1489. Ontvanger-generaal Staten van Holland 1497-1504 (bron: NA, StvH, nrs. 1721-1730).	0
+1	2	Stalpaart		1	1	Jan	0					0	1510.0	0		0
+2	3	Ernesink		1	1	Frank	0					0		0		0
+3	4	Cornelisz.		1	3	Vincent	0					0		0		0
+4	5	Boullin		1	3	Cornelis	0					0		0	Persoonsgegevens: zoon van Jan Boullin.	0
+5	6	Dullekom	van	1	1	Tielman	0					0		0	Overig: ontvanger espargnes als opvolger van Pieter van Teilingen 29 augustus 1497.	0
+6	7	Essche	van	1	3	Klaas	0					0	1543.0	0	"Persoonsgegevens: zoon van Jan van Essche.
+Overig: muntmeester-generaal van Holland en Zeeland 1480-. Rentmeester van Noord-Holland en Woerden 1486-1491. Rentmeester exploten Hof van Holland als opvolger van Thomas Beukelaar 29 december 1489-26 maart 1491."	0
+7	8	Dammas		1	3	Vincent	0					0	1554.0	0		0
+8	9	Renoy	van	1	3	Gerard	0					0	1567.0	0	"Persoonsgegevens: Bos-Rops, Power of money, geeft 1561 als sterfjaar.
+Overig: landrentmeester-generaal Gelre 30 januari 1545-1548."	0
+9	10	Alveringen	van	1	1	Zeger	0					0	1544.0	0		0
+10	11	Sint Pieter	van	1	3	Pieter	0					0	1549.0	0	Persoonsgegevens: Bos-Rops, Power of money, geeft 1550 als sterfjaar.	0
+11	13	Loo	van	1	1	Albert	0				1519.0	0	1573.0	0	Persoonsgegevens: broer van Dirk van Loo. Mogelijk overleden in 1571 (Baelde, Collaterale Raden).	0
+12	14	Numan		1	3	Adriaan	0					0	1576.0	0		0
+13	17	Does	van der	1	3	Reinier	0					0		0		0
+14	19	Schouten		1	3	Willem Jansz.	0				1528.0	0	1604.0	0	Overig: auditeur der rekeningen van Zeeland 1568-1570 en 1573-1574.	0
+15	20	Gramaye		1	1	Gijsbert	0					0		0	Persoonsgegevens: broer van Thomas Gramaye de Jonge.	0
+16	21	Meyster		1	3	Maarten	0					0		0		0
+17	22	Rataller		1	1	Louis	0					0		0	Overig: auditeur Rekenkamer Utrecht 1 januari 1576 tot 31 december 1580.	0
+18	26	Hanneman		1	1	Jan	0					0		0	Overig: rentmeester van Noord-Holland en van Gouda en Schoonhoven (1539-1572) en van het kwartier Woerden (1539-1557).	0
+19	38	Bol		1	1	Pieter	0					0		0		0
+20	39	Splinter		1	1	Jacob	0					0	1564.0	0		0
+21	40	"Krusink
+Krusink"		1	1	Frank	0					0	1505.0	0		0
+22	41	Teilingen	van	1	1	Lucas	0					0	1517.0	1	Persoonsgegevens: Bos-Rops, Power of money, geeft 1509 als sterfjaar.	0
+23	44	Goes	van der	1	1	Pieter	0					0		0		0
+24	47	Goes	van der	1	1	Willem	0					0		0		0
+25	48	Wallerand		1	1	Govert	0					0	1568.0	0	Persoonsgegevens: Bos-Rops, Power of money, geeft 1569 als sterfjaar.	0
+26	53	Dam	van	1	1	Jan	0					0	1568.0	0	Overig: in 1540 opgetreden als onbezoldigd secretaris in het Hof van Holland. In 1553 genoemd als griffier van de Rekenkamer Holland.	0
+27	57	Jonge	de	1	1	Jacob	0					0		0	Persoonsgegevens: zoon van Cornelis de Jonge.	0
+28	59	Ernst		1	3	Bartold	0					0	1583.0	0		0
+29	60	Hanneman		1	3	Pieter	0					0	1593.0	0		0
+30	62	Boekhorst	van der	1	3	Cornelis	0					0		0		0
+31	63	Wijngaarden	van	1	3	Gerard	0					0		0		0
+32	64	Hoef	van der	1	3	Adriaan	0					0		0		0
+33	65	Valckesteyn	van	1	1	François	0					0	1574.0	0		0
+34	68	Brunt		1	3	Reinier	0					0	1539.0	0		0
+35	69	Grenier		1	1	Karel	0				1463.0	1	1520.0	0	Overig: rentmeester exploten Hof van Holland als opvolger van Jacob Clamp 20 augustus 1494-februari 1509.	0
+36	73	Waard	de	1	3	Christiaan	0					0	1568.0	0	Persoonsgegevens: afkomstig uit Holland.	0
+37	74	Uitwijk	van	1	3	Cornelis	0					0	1559.0	0		0
+38	75	Moons		1	3	Reinier	0				1523.0	0	1571.0	0		0
+39	76	Bie	van der	1	1	Frank	0					0		0		0
+40	77	Wely		1	3	Bernard	0					0	1582.0	0		0
+41	78	Calff		1	1	Willem Maartensz.	0					0	1586.0	0		0
+42	80	Dam	van	1	1	Klaas	0					0		0	Overig: in de jaren 1510-1521 opgetreden als onbezoldigd secretaris in het Hof van Holland.	0
+43	81	Spiering		1	1	Jan	0					0		0		0
+44	82	Cachapyn		1	1	Thomas	0					0		0		0
+45	87	Betz		1	3	Joost	0					0	1520.0	0		0
+46	91	Goudt		1	3	Jacob Aerntsz.	1		Lek			0	1510.0	0	Overig: rentmeester Noord-Holland en Gouda en Schoonhoven 1501-1510. Rentmeester van de beden Holland 1507-1510. Ontvanger-generaal Staten van Holland 1508-1509.	0
+47	92	Assendelft	van	1	3	Hugo	0				1466.0	0	1540.0	0		0
+48	94	Boudijnsz.		1	2	Jacob	0				1453.0	1	1515.0	1		0
+49	95	Renesse	van	1	1	Frederik	0					0		0		0
+50	1506	Houve	van der	1	1	Frank	0					0	1546.0	1		0
+51	96	Coulster	van	6	3	Abel	1				1468.0	1	1548.0	0		0
+52	97	Veer	de	1	2	Evert	0				1468.0	1	1532.0	0		0
+53	98	Duivenvoorde	van	6	3	Jan	1		Warmond	Esselijkerwoude, Alkemade, Starrenburg, Noordwijkerhout	1467.0	0	1543.0	0		0
+54	99	Jonge	de	1	3	Reinier Cornelisz.	1		Baardwijk	Lek	1475.0	1	1514.0	0	Persoonsgegevens: zoon van Cornelis de Jonge (ov. 1504).	0
+55	101	Oudheusden	van	8	3	Jan	1		Oudheusden	Emmikhoven, Giessen, Poederoijen		0	1537.0	0	Overig: rentmeester Zuid-Holland, Westfriesland en Kennemerland, Gouda en Schoonhoven, Amstelland en Gooiland: 1499-1500. NB: bij Ter Braake niet als raadsheer genoemd.	0
+56	102	Bennink		1	3	Johan	0					0		0		0
+57	103	Kats	van	1	3	Klaas Lievensz.	0					0	1521.0	0	Overig: baljuw van Zierikzee. Auditeur der rekeningen van Zeeland 1506-1507.	0
+58	104	Loo	van	1	3	Albert	0				1472.0	1	1525.0	0	Overig: landsadvocaat Staten van Holland september 1513-1524.	0
+59	110	Chalons	van	10	1	René	1		Nassau	Breda	1519.0	0	1544.0	0	"Persoonsgegevens: zoon van Hendrik (III) van Nassau.
+Adelstitel: prins van Oranje, graaf van Nassau, graaf van Vianden, baron van Breda
+Overig: ridder in de Orde van het Gulden Vlies 1540. Stadhouder van Holland, Zeeland, Friesland en Utrecht 1541-1544, van Gelderland 1543-1544."	0
+60	114	Briëlis		1	3	Jan	1		Rapenburg			0		0		0
+61	115	Weldam	van	1	3	Cornelis Hendriksz.	0					0	1561.0	0		0
+62	116	Bourgondië	van	9	1	Maximiliaan	1		Beveren	Veere en Vlissingen, Tornehem	1514.0	0	1558.0	0	Adelstitel: markgraaf van Veere.	0
+63	117	Nidzen	van der	1	3	Karel	0					0		0		0
+64	119	Drogendijk	van	1	3	Dammas	0					0	1560.0	0		0
+65	121	Berge	van den	1	3	Frank	0					0		0		0
+66	122	Oranje	van	10	1	Willem	1		Breda		1533.0	0	1584.0	0	"Persoonsgegevens: broer van Johan van Nassau.
+Adelstitel: graaf van Nassau, prins van Oranje.
+Overig: ridder in de Orde van het Gulden Vlies 1556. Stadhouder Franche-Comté 1559. Auditeur der rekeningen van Zeeland 1563. Stadhouder van Friesland 1580-1584."	0
+67	123	Ouderkerk	van	1	3	Boudewijn Jacobsz.	0					0		0	Persoonsgegevens: mogelijk dezelfde als Boudijn Jacob Cranendonck.	0
+68	124	Mierop	van	1	2	Cornelis Vincentsz.	0				1507.0	0	1572.0	0	Overig: in Memorialen Rosa vermeld als onbezoldigd raadsheer in het Hof van Holland 1534 en 1536.	0
+69	125	Zuiderhuizen	van	1	3	Herman	0					0	1536.0	0		0
+70	126	Sandelijn		1	3	Arend	0					0	1535.0	0		0
+71	128	Bronkhorst	van	1	1	Andries	0					0		0		0
+72	130	Lalaing	van	3	1	Antoon	1		Montigny	Culemborg, Evere, Leuze	1480.0	0	1540.0	0	"Persoonsgegevens: zoon van Joost van Lalaing.
+Adelstitel: graaf van Hoogstraten 1518.
+Overig: ridder in de Orde van het Gulden Vlies 1516. Lid van de Geheime Raad 1516."	0
+73	134	Beauvoir	de	1	1	Jaspar	0					0		0	Overig: in de jaren 1510-1517, 1522 en 1524 opgetreden als onbezoldigd secretaris in het Hof van Holland.	0
+74	135	Malsen	van	1	1	Otto	0					0	1558.0	0		0
+75	1507	Kats	van	1	3	Anthonis	0					0		0		0
+76	137	Sandelijn		1	1	Cornelis	0					0		0		0
+77	138	Jonge	de	1	1	Willem	0					0		0		0
+78	143	Uitwijk	van	1	1	Filips	0					0		0		0
+79	145	Snellenburg	van	1	1	Loef	0					0		0		0
+80	146	Purtijk		1	1	Jan Evertsz.	0					0		0		0
+81	147	Jonge	de	1	1	Jacob Jacobsz.	0					0		0		0
+82	149	Wielen	van der	1	3	Adriaan	0					0	1540.0	0		0
+83	156	Krusink		1	3	Jacob	0					0	1493.0	0	Overig: Memorialen Rosa vermeldt Jacob Krusink als onbezoldigd raadsheer in het Hof van Holland in 1448, 1459, 1467 en 1470; als onbezoldigd secretaris in de jaren 1447-1463. Rekenmeester Rekenkamer van Brabant 1464-1473 en Mechelen 1474-1477.	0
+84	158	Rijswijk	van	1	3	Dirk	0					0	1501.0	1	Overig: als onbezoldigd raadsheer in het Hof van Holland vermeld 1496-1497.	0
+85	160	Antonisz.		1	3	Cornelis	0					0	1540.0	1		0
+86	207	Meer van Berendrecht	van der	1	1	Willem	0					0		0		0
+87	210	Glarges	de	1	1	Claude	0					0		0		0
+88	214	Wolff	van der	1	1	Cornelis	0					0	1574.0	0		0
+89	219	Hanneman		1	1	Dirk	0					0	1584.0	0		0
+90	220	Waatselaar	van	1	3	Dirk Pelle	0					0	1511.0	0		0
+91	222	Assendelft	van	1	2	Bertout	0				1438.0	1	1512.0	1	Overig: als onbezoldigd raadsheer in het Hof van Holland vermeld in 1491. Landsadvocaat Staten van Holland juni 1480-1489 en augustus 1494-1497.	0
+92	225	Bronkhorst	van de	1	3	Dirk	0					0	1574.0	0		0
+93	229	Brasser		1	3	Adriaan	0					0	1579.0	0		0
+94	231	Loon	van	1	3	Pelgrim	0					0	1587.0	0		0
+95	232	Kamerling		1	3	Nicolaas Cornelisz.	0					0	1586.0	0	Overig: burgemeester van Delft 1573.	0
+96	233	Bakker	de	1	3	Cornelis Adriaanz.	0					0	1583.0	0		0
+97	237	Verhorst		1	3	Frederik	0					0	1608.0	0		0
+98	238	Duesen		1	3	Gerard	0					0	1595.0	0		0
+99	240	Carondelet		1	2	Jean (II)	1		Champvans		1469.0	0	1545.0	0	"Persoonsgegevens: zoon van Jean (I) Carondelet.
+Overig: aartsbisschop van Palermo 1520."	0
+100	241	Schore	van	6	2	Lodewijk	1				1492.0	1	1548.0	0	Adelstitel: in 1538 door Karel V in de adelstand verheven.	0
+101	242	Saint-Mauris	de	1	2	Jean	1		Montbarrey			0	1555.0	0	Overig: raadsheer Raad van Luxemburg 1540.	0
+102	243	Aytta	van Zwichem	1	2	Wigle	0				1507.0	0	1577.0	0		0
+103	244	Tayspil		6	1	Pieter	1				1490.0	0	1541.0	0	Overig: voorzitter Raad van Vlaanderen 1527.	0
+104	245	Tisnacq		1	1	Karel	0				1500.0	1	1573.0	0	Overig: raadsheer en advocaat-fiscaal Raad van Brabant 1545. Thesaurier van de Orde van het Gulden Vlies 1562.	0
+105	246	Lannoy	van	1	1	Filips	1		Molenbaix		1487.0	0	1543.0	0	Overig: ridder in de Orde van het Gulden Vlies 1531.	0
+106	247	Luxemburg	van	3	1	Jacob (III)	1		Fiennes		1465.0	1	1532.0	0	"Adelstitel: graaf van Gavere.
+Overig: ridder in de Orde van het Gulden Vlies 1519. Stadhouder van Waals-Vlaanderen 1513, Vlaanderen en Artesië 1517."	0
+107	248	Croy	van	4	1	Filips (II)	1		Aarschot	Renty	1496.0	0	1549.0	0	"Adelstitels: markies van Renty, hertog van Aarschot.
+Overig: ridder in de Orde van het Gulden Vlies 1516. Stadhouder van Henegouwen 1521-1541, van Luxemburg en van Chiny 1531-1533."	0
+108	250	Berlaymont	van	3	1	Karel	1				1510.0	0	1578.0	0	"Overig: ridder in de Orde van het Gulden Vlies 1556.
+Overig: stadhouder van Namen 1554."	0
+109	251	Croy	van	3	1	Adriaan	1		Roeulx	Beaurain	1492.0	0	1553.0	0	"Adelstitels: graaf van Roeulx 1530.
+Overig: ridder in de Orde van het Gulden Vlies 1519. Stadhouder van Artesië 1524, van Waals-Vlaanderen 1532, van Vlaanderen december 1540."	0
+110	252	Croy	van	4	1	Karel	1					0	1551.0	0	"Persoonsgegevens: zoon van Filips (II) van Croy.
+Adelstitels: hertog van Aarschot."	0
+111	253	Montmorency	van	3	1	Filips	1		Altena	Weert, Heusden, Wessem, Bouchout, Cortessem, Nieuwenaer, Meurs, Saarwerden	1524.0	0	1568.0	0	"Persoonsgegevens: Baelde, Collaterale raden, geeft 1518 als geboortejaar.
+Adelstitel: graaf van Horn 1540.
+Overig: ridder in de Orde van het Gulden Vlies 1556."	0
+112	256	Vilain		2	1	Maximiliaan	1		Rassenghien			0	1583.0	0	"Adelstitel: baron van Rassenghien.
+Overig: ridder in de orde van het Gulden Vlies. Stadhouder van Artesië."	0
+113	258	Longin		1	1	Laurens	0					0	1554.0	0		0
+114	259	Boisot	de	1	1	Pieter	0					0		0	"Persoonsgegevens: waarschijnlijk een broer van Charles de Boisot.
+Overig: thesaurier van de Orde van het Gulden Vlies 1554."	0
+115	260	Schetz		2	1	Gaspard	1		Grobbendonk		1513.0	0	1580.0	0	"Adelstitel: baron van Wesemaele.
+Overig: factor van Filips II sinds 1555 ."	0
+116	261	Micault		1	1	Jan	0					0	1539.0	0	Overig: ontvanger-generaal 1506. Thesaurier van de Orde van het Gulden Vlies. Rekenmeester in de Rekenkamer van Brussel.	0
+117	262	Stercke		1	1	Hendrik	0					0		0		0
+118	263	Bouloigne	de	1	1	Robert	0				1500.0	1	1559.0	0		0
+119	264	Wouters		1	1	Lievin	0					0	1579.0	0	Overig: tresorier van oorlog van Karel V.	0
+120	265	Baert		1	1	Niklaas	0					0		0		0
+121	266	Montmorency	van	1	1	Filips	1		Hachicourt			0	1566.0	0	Overig: ridder in de Orde van het Gulden Vlies 1559.	0
+122	267	Perrenin		1	1	Antoon	0					0		0	Overig: staatssecretaris bij Karel V.	0
+123	268	Lypinne	de	1	1	Henri	0					0		0		0
+124	270	Loets		1	1	Rombout	1		Haren			0	1565.0	0	Overig: charterbewaarder Raad van Financiën en Raad van State 1551. Raadsheer Rekenkamer Brabant 1557.	0
+125	271	Doolman		1	1	Frans	0					0	1563.0	0		0
+126	272	Gilles		1	1	Jan	0					0		0	Overig: secretaris van de Raad van Brabant. Griffier Staten-Generaal 1577.	0
+127	273	Reingout		1	1	Jacobus	0					0		0		0
+128	274	Stercke		1	1	Filips	0					0		0		0
+129	281	Espleghem	d'	1	1	Georges	0					0	1556.0	0		0
+130	282	Hontzocht	van	1	1	Joachim	0					0	1561.0	0		0
+131	284	Berty		1	3	Baptist	0					0	1579.0	0		0
+132	285	Verreycken		1	1	Pieter	0					0	1552.0	0		0
+133	286	Overloepe	van	1	3	Pieter	1		Hamme	Sint-Anna	1520.0	1	1600.0	0	Overig: secretaris Raad van Brabant 1552. Audiëncier Brabant 1568. Gecommitteerde in de Raad van Financiën 1578.	0
+134	290	Franco		1	1	Jan	0					0		0	Overig: voor de reorganisatie van 1531 ook secretaris in de Geheime Raad.	0
+135	291	Grutere	de	1	1	Jan	0					0		0		0
+136	293	Hardinck		1	1	Leonard	0					0		0		0
+137	294	Sauch	de le	1	1	Jean	0					0	1539.0	0		0
+138	295	Pyrannis		1	1	Christoffel	0					0	1559.0	0		0
+139	296	Stric		1	1	Mathieu	0					0	1557.0	0		0
+140	298	Langhe	de	1	1	Jan	0					0	1571.0	0		0
+141	299	Gouverneur	le	1	1	Nicolas	0					0		0	Overig: raadsheer Raad van Luxemburg 1556.	0
+142	300	Gouy	de	1	3	Jan	0					0		0		0
+143	301	Strepen	van	1	1	Jan	0					0	1554.0	0	Persoonsgegevens: zijn vader heette Van Monchoven, bijgenaamd van der Strepen.	0
+144	303	Bave		1	1	Joost	0					0	1581.0	0		0
+145	304	Veltwyck		6	1	Gerard	1				1505.0	1	1555.0	0	Overig: ridder in de Orde van het Gulden Vlies 1549 en tevens thesaurier.	0
+146	305	Torre	de la	1	1	Jacobus	0				1500.0	1	1581.0	0		0
+147	307	Symandres	de	1	1	Désiré	0					0		0		0
+148	309	Mesdach		1	1	Jan	0					0		0		0
+149	311	Boodt	de	1	1	Jan	0					0		0		0
+150	314	Berty		1	1	Theodoor	0					0		0	Persoonsgegevens: zoon van Baptist Berty.	0
+151	319	Marnier		1	1	Claude	0					0	1535.0	0		0
+152	320	Themseke	van	1	2	Joris	0				1450.0	1	1536.0	0		0
+153	321	Truyes	aux	6	1	Jean	1					0	1541.0	0	1518: lid Geheime Raad. Volgt Louis van Schore op in de Grote Raad, zelf opgevolgd door Jacques Muesart (nr. 976) In de Geheime Raad in 1536 opgevolgd door Hermes van Wingene (nr. 324). Zie voor zijn gelijknamige zoon nr. 987.	0
+154	323	Nigri		1	2	Filips	0				1490.0	1	1563.0	0	Overig: kanselier van de Orde van het Gulden Vlies sedert 1532.	0
+155	324	Wingene	van	1	2	Hermes	0					0	1574.0	0		0
+156	325	Boisot	de	6	2	Charles	1					0	1546.0	0		0
+157	326	Pamele	van	1	1	Adolf	0					0	1547.0	0		0
+158	327	Nicolai		6	2	Everard	1				1497.0	1	1561.0	0	Persoonsgegevens: het geboortejaar is mogelijk 1498. Zoon van Nicolas Everaerts (1462-1532).	0
+159	328	Colins		6	2	Jan	1					0	1572.0	0		0
+160	329	Scheyfve		1	2	Jan	0				1515.0	0	1581.0	0	Overig: burgemeester van Antwerpen 1545. Kanselier van Brabant 1557-1579.	0
+161	331	Bruxelles	de	1	2	Filibert	1		Grandreng	Heysbroeck	1518.0	0	1570.0	0	Persoonsgegevens: zoon van Raoul de Bruxelles.	0
+162	332	Renesse van Wulven	van	1	1	Adriaan	0				1501.0	1	1559.0	0	Persoonsgegevens: Van de Water, Groot Placaatboek, geeft 1501 als geboortejaar.	0
+163	334	Coebel		1	1	Filips	0					0	1566.0	0	"Persoonsgegevens: broer van Aernout Coebel.
+Overig: aanvankelijk werkzaam in de Rijkskamer te Spiers."	0
+164	335	Hopper		6	2	Joachim	1		Daelen		1523.0	0	1576.0	0	Persoonsgegevens: geboren te Sneek.	0
+165	337	Rio	del	1	1	Louis	0					0	1578.0	0		0
+166	339	Fonck		1	2	Jan	0					0	1585.0	0	"Persoonsgegevens: geboren te Amersfoort.
+Overig: kanselier van de Orde van het Gulden Vlies 1581."	0
+167	345	Stavele	van	2	1	Filips	1		Glajon		1509.0	0	1563.0	0	"Adelstitel: baron van Chaumont en Haveskerke.
+Overig: ridder in de Orde van het Gulden Vlies 1556."	0
+168	346	Glymes	van	1	1	Jan (III)	1		Bergen op Zoom	Walhain	1452.0	0	1532.0	0	"Persoonsgegevens: broer van Hendrik van Glymes.
+Overig: ridder in de Orde van het Gulden Vlies 1481. Stadhouder van Namen 1509."	0
+169	347	Perrenot		1	2	Antoon	1		Granvelle		1517.0	0	1586.0	0	"Persoonsgegevens: zoon van Nicolaas Perrenot.
+Overig: bisschop van Arras 1538. Kardinaal 1561. Aartsbisschop van Mechelen 1561."	0
+170	348	Glymes	van	5	1	Jan (IV)	1		Bergen op Zoom		1528.0	0	1567.0	0	"Persoonsgegevens: zoon van Antoon van Glymes.
+Overig: ridder in de Orde van het Gulden Vlies 1555. Gouverneur van Valenciennes en Kamerijk 1560."	0
+171	354	Naves	van	1	1	Jan	0				1523.0	0	1579.0	0		0
+172	356	Croy	van	3	1	Jan	1					0	1581.0	0	"Persoonsgegevens: zoon van Adriaan van Croy.
+Adelstitel: graaf van Roeulx.
+Overig: stadhouder van Vlaanderen 1572."	0
+173	357	Berlaymont	van	2	1	Gillis	1					0	1579.0	0	"Persoonsgegevens: zoon van Karel van Berlaymont.
+Adelstitel: baron van Hierges.
+Overig: ridder in de Orde van het Gulden Vlies 1572. Stadhouder Stad en Lande van Groningen 1572-1573. stadhouder van Friesland 1572, kort daarna van Gelderland en in 1578 van Namen en Artesië. Vanwege gevangenschap van Maximiliaan van Hénin-Liétard waarnemend stadhouder te Utrecht."	0
+174	366	Nassau	van	3	1	Hendrik (III)	1				1483.0	0	1538.0	0	"Adelstitel: graaf van Nassau-Dillenburg en Dietz.
+Overig: ridder in de Orde van het Gulden Vlies 1505. Lid van de Geheime Raad van Karel V vanaf 1515, van Margaretha van Oostenrijk 1525-1526. Actief in de Raad van State zonder er lid van te zijn 1531-1538."	0
+175	367	Hannart		7	1	Jan	1					0	1539.0	0	"Adelstitel: burggraaf van Liedekerke.
+Overig: raadsheer in de Geheime Raad 1520."	0
+176	369	Egmond	van	3	1	Floris	1		Buren	Leerdam, IJsselstein, St. Maartensdijk	1469.0	0	1539.0	0	"Persoonsgegevens: zoon van Frederik van Egmond.
+Adelstitel: graaf van Buren.
+Overig: ridder in de Orde van het Gulden Vlies 1505. Lid van de raad van Margaretha van Oostenrijk 1506. Stadhouder van Gelre 1510, van Friesland 1515-1517, van Holland en Zeeland 1518-1522."	0
+177	370	Hogelande	van	1	5	Jasper Lievensz.	0					0	1546.0	0		0
+178	373	Burch	van der	6	3	Adriaan	1		Burch		1501.0	0	1557.0	0	Overig: kanselier van de Raad van Brabant 1540. Voorzitter Raad van Vlaanderen 16 oogst 1556.	0
+179	375	Bellechier		1	3	Jacob	0					0		0		0
+180	378	Claesz.		1	1	Ommaer	0					0	1501.0	1	Persoonsgegevens: mogelijk in 1510 overleden.	0
+181	379	Zoes		1	3	Thomas	0					0	1598.0	0	"Persoonsgegevens: geboren te Amersfoort.
+Overig: na 1583 hoogleraar burgerlijk recht in Leiden en later in Würzburg."	0
+182	381	Hardenbroek	van	1	1	Gijsbert	0				1480.0	1	1532.0	0		0
+183	382	Clercq	de	1	3	Peter	0					0	1555.0	1	Overig: ontvanger exploiten Rekenkamer Utrecht 1545-1548 (HUA, Fin. Inst. 69).	0
+184	383	Beusichem	van	1	3	Jacob	0					0	1566.0	0		0
+185	384	Beuchem	van	1	1	Louis	0					0	1573.0	0		0
+186	385	Wijckersloot	van	1	1	Willem Roelofsz.	0				1510.0	1	1579.0	0		0
+187	387	Pottere	de	1	1	Jacques	0					0		0		0
+188	389	Scryvers		1	3	Ghislain	0					0	1574.0	0		0
+189	391	Rataller		1	3	Filips	0					0	1595.0	0	Persoonsgegevens: zoon van Joris Rataller.	0
+190	395	Woerden	van	1	3	Jan	0					0	1538.0	0		0
+191	396	Slacheck		1	1	Jan	0				1484.0	0	1543.0	0	Persoonsgegevens: afkomstig uit Westfalen. Domproost 1530.	0
+192	400	Canter		1	3	Lambert	0				1513.0	0	1553.0	0	Overig: afkomstig uit Groningen.	0
+193	401	Nicolai		6	2	Adriaan	1				1507.0	1	1568.0	0	Persoonsgegevens: zoon van Nicolaas Everaerts (1462-1532).	0
+194	402	Lent	van	1	3	Jan	0					0		0	Overig: in 1567 lid van de Utrechtse Raad van Beroerten.	0
+195	403	Grysperre	van	6	3	Antonis	1					0	1584.0	0	Overig: in 1567 lid van de Utrechtse Raad van Beroerten.	0
+196	405	Pauw		1	3	Hubert	0					0	1587.0	0	Eed op 4 apr. 1565 en aan de Staten op 22 okt. 1580.	0
+197	407	Bergh	van den	1	3	Paulus	0				1530.0	0	1587.0	0		0
+198	409	Gilkens		1	3	Leo	0					0	1571.0	0		0
+199	410	Bruxelles	de	1	3	Caspar	1		Grandreng			0	1595.0	0		0
+200	412	Hondt	de	1	3	Jacob	0					0		0		0
+201	413	Ruysch		1	3	Peter	0					0	1595.0	0	Overig: burgemeester van Utrecht.	0
+202	414	Radelant		1	3	Willem	0					0	1612.0	0	"Persoonsgegevens: geboren te Eemnes.
+Overig: secretaris van het college der Nadere Unie mei 1579."	0
+203	415	Loon	van	1	3	Antonis	0					0	1606.0	0		0
+204	418	Hermale	van	1	3	Floris	0					0		0		0
+205	421	Wynhoff		1	3	Herman	0					0		0		0
+206	423	Soete	de	1	1	Joost	1		Villers			0	1589.0	0		0
+207	424	Hennin-Lietard	van	3	1	Maximiliaan	1				1542.0	0	1578.0	0	"Persoonsgegevens: zoon van Jan van Hennin.
+Adelstitel: graaf van Boussu."	0
+208	425	Meurs	van	3	1	Adolf	1		Meurs	Limburg (a.d. Lenne)		0	1589.0	0	"Adelstitel: graaf van Nieuwenaar 1578.
+Overig: stadhouder van Overijssel 1587."	0
+209	429	Apostole	l'	6	2	Pierre	1				1466.0	1	1532.0	0		0
+210	430	Arthus		6	5	Jean	1					0	1524.0	0		0
+211	431	Auffay	d'	1	1	Jean	0					0		0		0
+212	432	Bacq	de	1	1	Louis	0					0	1502.0	1		0
+213	433	Baenst	de	1	1	Guy	0					0	1502.0	1	Overig: raadsheer in de Raad van Vlaanderen 1485-1492.	0
+214	434	Baenst	de	1	1	Paul	0				1442.0	1	1497.0	1	Overig: president Raad van Vlaanderen 1480-1487 en 1489-1496.	0
+215	435	Beken	van der	1	2	Arnold	0					0		0	Overig: extraordinaris 1463 en ordinaris raadsheer Raad van Brabant1467.	0
+216	436	Glymes	van	1	1	Dismas	0					0	1524.0	0	"Persoonsgegevens: halfbroer van Hendrik van Glymes.
+Overig: raadsheer in de Geheime Raad 1510."	0
+217	438	Blieck		1	1	Adriaan	0					0		0		0
+218	439	Bogaert		6	5	Arthus	1					0	1555.0	1		0
+219	440	Bogaert		1	2	Pierre	0					0	1492.0	0		0
+220	441	Bois	du	1	5	Jean	0					0	1492.0	1		0
+221	442	Boncamp	van	1	1		0					0		0		0
+222	443	Bouverie	van der	6	5	Jan	1		Wiere	Longfossé		0	1493.0	0	Overig: procureur-generaal Grote Raad 1467-1473. Ridder in de Orde van het Gulden Vlies 1478. Kanselier van Brabant 1481-1483.	0
+223	445	Briarde	de	6	2	Lambert	1				1490.0	1	1557.0	0		0
+224	447	Bruxelles	de	6	1	Raoul	1		Grandreng			0	1539.0	0	Overig: ridder in de Orde van het Gulden Vlies.	0
+225	448	Busleyden	de	1	2	François	0				1450.0	1	1502.0	0	"Persoonsgegevns: Kerckhoffs-de Hey, Biografieën van raadsheren, plaats zijn geboortedatum tussen 1465 en 1470.
+Overig: aartsbisschop van Besançon 1498. Kardinaal 1502."	0
+226	449	Busleyden	de	1	2	Jerôme	0				1470.0	0	1517.0	0	"Persoonsgegevens: broer van François van Busleyden.
+Overig: raadsheer in de Geheime Raad juni 1517; op 27 augustus overleden."	0
+227	453	Caulier		1	5	Jean	0					0	1531.0	0	Overig: hoofd van de Geheime Raad, als opvolger van Claude Carondelet, in 1518 of 1520, president 22 mei 1522.	0
+228	456	Clervaulx	de	1	2	Pierre	0					0		0		0
+229	461	Courteville	de	6	1	Jean	1					0		0	Overig: mogelijk dezelfde als Jan de jonge van Courteville.	0
+230	466	Doublet		1	1	Jean	0					0	1498.0	0		0
+231	467	Ducret		1	1	Estienne	0					0		0		0
+232	468	Duret		1	1	Pierre	0					0	1495.0	0		0
+233	469	Ee	van der	6	5	Lambert	1					0	1503.0	1		0
+234	471	Espacht	van	1	2	Jan	0					0	1488.0	1	Overig: lid van de Raad van Bourgondië. Raadsheer raadkamer Maastricht 1473-1477.	0
+235	473	Eynatten	van	1	2	Johan Franciscus	0					0	1530.0	0	Overig: raadsheer raadkamer van Maastricht 1473-1477. Raad van keizer Maximiliaan en aartshertog Filips.	0
+236	474	Fernemont		1	1		0					0		0		0
+237	475	Gaasbeek		1	1		0					0		0	Persoonsgegevens: mogelijk is dit Filips van Horne, heer van Gaasbeek (1423-1488).	0
+238	476	Gattinara	de	6	2	Mercurino	1				1465.0	0	1530.0	0	Overig: hoofd van de Geheime Raad van Margaretha van Oostenrijk 1516. Kardinaal 1529.	0
+239	477	Gillet		6	1	Jean	1					0		0		0
+240	478	Gondebault	de	1	3	Jacques	0					0	1510.0	1		0
+241	479	Gonnet		1	2	Jean	0					0		0		0
+242	481	Gronsvelt	van	1	5	Gerard	0					0	1514.0	0		0
+243	482	Gronsvelt	van	1	1	Gerard	0					0	1518.0	0	Persoonsgegevens: zoon van Gerard van Gronsvelt (ov. 1514). Stroobant, Magistrats, geeft als voornaam Jean.	0
+244	483	Gros		6	2	Guillaume	1		Tart	Marliens		0	1512.0	0		0
+245	486	Haneton		1	5	Jean	0					0		0		0
+246	487	Hoochstraten	van	1	1	Pieter	0					0		0		0
+247	492	Lauwereyns		6	2	Joost	1		Terdeghem			0	1527.0	0		0
+248	493	Lennert		1	1		0					0		0		0
+249	494	Leyden	van der	6	1	Jean	1					0	1521.0	0		0
+250	496	Longueil	de	1	3	Pierre	0					0		0		0
+251	497	Lucenne	de	6	5	Fernand	1					0	1512.0	0	Persoonsgegevens: afkomstig uit Portugal.	0
+252	498	Lucenne	de	6	2	Tristam	1					0	1523.0	0	Persoonsgegevens: zoon van Fernand de Lucenne.	0
+253	499	Marques	le	1	5	Guillaume	0					0	1521.0	0		0
+254	500	Metteneye	de	6	1	Pierre	1					0	1522.0	0		0
+255	501	Moerkerken	van	6	1	Roeland	1					0	1512.0	0	Overig: raadsheer Raad van Vlaanderen 1488. Raadsheer-rekestmeester bij de Geheime Raad 1484.	0
+256	504	Mouscron	de	1	2	Jean Louis	0					0	1535.0	0		0
+257	505	Mulert		6	3	Gerard	1					0	1538.0	0	"Persoonsgegevens: geboren te Utrecht.
+Overig: Memorialen Rosa vermeldt Gerard Mulert als onbezoldigd raadsheer in het Hof van Holland 1516-1519 en 1529. Raadsheer in de Geheime Raad in 1519 of 1523."	0
+258	506	Noot	van der	6	5	Geldolf	1		Risoir		1414.0	0	1492.0	0	Overig: ridder in de Orde van het Gulden Vlies 1451. Raadsheer Raad van Brabant 1451-1492 en kanselier 1477-1481.	0
+259	507	Papoire	de la	1	3	Thomas	1		Pipaix			0	1511.0	0		0
+260	511	Poitiers	de	1	2	Adrien	0					0	1508.0	0		0
+261	512	Prevost		1	3	Jean	0					0		0		0
+262	513	Quevin		1	5	Joost	1		Olsene	Lede		0	1523.0	1	Persoonsgegevens: zoon van Jan Quevin.	0
+263	515	Reynghere		6	1	Richard	1					0		0	Overig: voorzitter Raad van Vlaanderen 1510 en opnieuw 1518, tot 1520 of 1524.	0
+264	516	Rochefort	de	1	3	Guillaume	1		Plumost			0		0	"Persoonsgegevens: broer van Guy de Rochefort.
+Overig: kanselier van Frankrijk 1483-1492."	0
+265	518	Rolin		1	5	Jean	0				1408.0	0	1483.0	0		0
+266	519	Roubaix	de	6	1	Andrieu	1					0	1543.0	0		0
+267	520	Rouck	de	1	5	Jacques	0					0	1549.0	0		0
+268	522	Ruter	de	1	3	Nicolaas	0				1440.0	1	1509.0	0	Overig: raadsheer-rekestmeester bij de Geheime Raad 1500. Bisschop van Arras 1502.	0
+269	523	Ruychrock van de Werve		1	3	Filips	0				1431.0	1	1504.0	1	Persoonsgegevens: zoon van Jan Ruychrock. Afkomstig uit Holland of Zeeland.	0
+270	524	Sarto	de	1	5	Conrard	0					0	1502.0	0		0
+271	525	Wilde	de	6	5	Jan	1		Schobeek	Bierbeek, Itterbeek, Sterrebeek	1455.0	0	1518.0	0	Overig: raadsheer Raad van Vlaanderen, president 1497. Ridder in de Orde van het Gulden Vlies 1503. Hoofd van de Geheime Raad, als opvolger van Thomas de Plaine, van 24 juni 1508 tot 8 november 1511. Kanselier van Brabant 1509-1514.	0
+272	526	Stradio	de	1	5	Willem	1		Maleves	Orbais, La Marcke, La Pierre		0	1504.0	0	Overig: kanselier van Brabant 1499-1504.	0
+273	527	Straeten	van der	1	1	Jan	0					0	1522.0	0		0
+274	529	Tannerie	van der	1	5	Willem	0					0	1499.0	1		0
+275	531	Turpin		1	1	Jean	1		Mortier			0		0		0
+276	532	Uutenhove		1	1	Richard	0					0		0	Persoonsgegevens: identifcatie onzeker.	0
+277	534	Veer	van der	1	1	Cornelis Jacobsz.	0					0	1510.0	1		0
+278	536	Vurry		1	5	Louis	0					0		0		0
+279	538	Wittem	van	1	1	Frederik	1		Wittem	Epen, Nieuwstad, La Rochette		0	1503.0	0		0
+280	539	Wilde	de	1	2	Gosewijn	0					0	1449.0	0	Overig: raadsheer Raad van Vlaanderen 1425-1440, president 1440-1445. Raadsheer-rekestmeester Grote Raad 1437-1445. In 1449 op slot Loevestein onthoofd na beschuldiging van sodomie.	0
+281	540	Halewijn	van	1	2	Jan	1		Zwevezeele			0	1478.0	0		0
+282	541	Uutkerke	van	6	1	Roeland	1		Heestert	Hemsrode, Heist, Nieuwenburg, Oterleek, Ursem, St. Pancras, Riederwaard		0	1442.0	0	Overig: ridder in de orde van het Gulden Vlies 1430.	0
+283	546	Lalaing	van	6	1	Willem	1		Bugnicourt	Lalaing, Fressin, Hordaing	1391.0	0	1475.0	0		0
+284	550	Lalaing	van	6	1	Joost	1		Montigny	Hantes	1437.0	1	1483.0	0	Overig: ridder in de Orde van het Gulden Vlies 1478.	0
+285	551	Say		1	1	Bengaert Jansz.	0					0	1466.0	1		0
+286	553	Cabotre	de	1	3	Gillis	0					0		0		0
+287	554	Blocke	van den	1	3	Jacob	0					0	1459.0	1		0
+288	555	Wilde	de	1	3	Michiel	0					0		0		0
+289	559	Duyst		1	1	Klaas Pietersz.	0					0	1495.0	1	Overig: inde jaren 1478-1479, 1481 en 1494 (Memorialen Rosa geeft 1477-1479, 1492 en 1495) opgetreden als onbezoldigd secretaris in het Hof van Holland.	0
+290	560	Rietveld	van	1	1	Jan	0					0	1495.0	0		0
+291	563	Mensin		1	1	Paul	0					0	1480.0	1	Overig: auditeur Rekenkamer van Brabant 1464-1473 en Mechelen 1473-1477.	0
+292	568	Rosa		1	3	Jan	0					0	1447.0	0		0
+293	569	Cleve	van	1	3	Adam Dirksz.	1		Cranenbroek			0	1485.0	0		0
+294	570	Bolle		1	1	Willem	1		Zaanden	's-Gravenpolder		0		0		0
+295	571	Marchant		1	1	Wouter	0					0		0		0
+296	572	Pijn		1	1	Gijsbrecht	0					0	1461.0	1		0
+297	574	Nesse	van	1	1	Frank	0					0		0		0
+298	575	Zwieten	van	1	1	Dirk Boudijnsz.	1		Endegeest	Oegstgeest, Poelgeest		0	1482.0	0		0
+299	577	Lodijk		1	3	Jan	0					0	1497.0	0		0
+300	578	Baroen		1	1	Cornelis	0					0	1462.0	1		0
+301	580	Wieringen	van	1	6	Allard	0					0		0		0
+302	581	Grenier		1	3	Jan	0					0	1471.0	1		0
+303	583	Lange	de	1	1	Jacob Jansz.	0					0	1442.0	0		0
+304	584	Ee	van der	1	3	Adriaan	0					0	1464.0	0		0
+305	585	Goes	van der	1	1	Hendrik	0					0	1462.0	1		0
+306	586	Wandele		1	3	Jan	0					0	1480.0	1		0
+307	588	Kats	van	8	1	Jacob Laurensz.	1					0	1464.0	1		0
+308	593	Kruiningen	van	6	1	Jan	1		Kruiningen	Pamele, Heenvliet, Woensdrecht, Hazerswoude, Steenbergen, Acquoy	1460.0	1	1513.0	0	Overig: ridder in de Orde van het Gulden Vlies 1491.	0
+309	594	Schoonhoven	van	1	3	Jan	0					0	1503.0	0	Overig: pensionaris van Dordrecht.	0
+310	595	Wissenkerke	van	1	2	Gillis	1		Vossemeer			0	1453.0	0		0
+311	596	Jansz.		1	1	Wouter	0					0		0		0
+312	598	Wissenkerke	van	1	1	Klaas Jansz.	0					0	1478.0	1		0
+313	599	Kats	van	6	1	Jan	1		Sinoutskerke			0	1488.0	0		0
+314	600	Zwieten	van	1	1	Boudijn	1		Maarssenbroek	Zwieten, Loenersloot		0	1454.0	0		0
+315	601	Michiels		1	3	Anton	0					0	1470.0	0		0
+316	604	Berendrecht	van	1	2	Willem	0				1447.0	1	1527.0	0		0
+317	606	Mije	van der	1	2	Hendrik	0					0	1491.0	1		0
+318	612	Oem van Wijngaerden		1	3	Tielman	1		Hendrik-Ludenambacht	Groot-Waspik, Schrevelduin		0	1495.0	1	Persoonsgegevens: zoon van Godschalk Oem van Wijngaerden.	0
+319	613	Wassenaar	van	7	6	Jan	1		Wassenaar	Valkenburg, Voorschoten, Katwijk, Wimmenum, Oegstgeest	1427.0	0	1496.0	0	"Persoonsgegevens: zoon van Hendrik van Wassenaar.
+Adelstitel: ridder 1452, burggraaf van Leiden."	0
+320	614	Egmond	van	3	1	Jan (III)	1		Egmond	Baer, Purmerend, Hoog- en Aartswoud	1438.0	0	1516.0	0	"Persoonsgegevens: zoon van Willem van Egmond (ov. 1483).
+Adelstitels: ridder 1465, graaf van Egmond 1486.
+Overig: ridder in de Orde van het Gulden Vlies1491."	0
+321	615	Wassenaar	van	6	1	Filips	1		Voorburg			0	1493.0	0	Adelstitel: ridder 1461.	0
+322	620	Brederode	van	1	1	Gijsbrecht	0				1418.0	0	1476.0	0	Overig: in 1459 vermeld als bisschoppelijke raad in Utrecht.	0
+323	626	Treslong	van	6	1	Lodewijk	1		Cabauw			0	1470.0	0		0
+324	628	Boekhorst	van der	6	1	Jan	1		Noordwijk	Offem		0	1450.0	0		0
+325	634	Heerman		1	1	Gijsbrecht	0					0	1463.0	0		0
+326	640	Naaldwijk	van	1	1	Willem	1		Naaldwijk	Wateringen, Vlaardingen		0	1444.0	0	"Persoonsgegevens: broer van Albrecht van Naaldwijk.
+Overig: erfmaarschalk van Holland."	0
+327	641	Naaldwijk	van	1	1	Albrecht	1		Dirksland	Sliedrecht, Bergambacht		0	1470.0	0	Persoonsgegevens: broer van Willem van Naaldwijk.	0
+328	646	Zwieten	van	6	1	Dirk Boudijnsz.	1		Schobbelandsambacht	Zoetermeer		0	1451.0	0	"Persoonsgegevens: zoon van Boudijn van Zwieten. Vader van Willem de bastaard van Zwieten.
+Adelstitel: ridder 1451.
+Overig: burgemeester van Leiden 1429-1430."	0
+329	648	Roon	van	6	2	Boudewijn	1					0	1578.0	0	Overig: kanselier Raad van Overijssel tot 1 juli 1576.	0
+330	650	Straten	van der	1	2	Johan	0					0	1561.0	0		0
+331	651	Meurs	van	3	1	Christoffel	1		Meurs	Sarwerden		0	1566.0	0	Overig: stadhouder Stad en Lande van Groningen 1519-1522, tevens van Oostergo, Westergo en Zevenwolden.	0
+332	652	Wytenhorst	van	1	1	Johan	1		ter Horst			0	1569.0	0		0
+333	653	Pieck		1	1	Jacob	1		IJzendoorn			0	1570.0	0		0
+334	654	Keppel	van	1	1	Jan	0					0	1564.0	0		0
+335	655	Cranevelt	van	1	3	Joost	0					0		0	Overig: eerste raad en vice-kanselier Hof te Roermond 1581-1582.	0
+336	656	Gillis		1	3	Jan	0					0	1558.0	0		0
+337	657	Keppel	van	1	1	Frederik	1		Verwolde			0	1549.0	0		0
+338	658	Stalbergen	van	1	2	Johan	0					0	1573.0	0		0
+339	659	Lettin		1	3	Jeronimus	0					0	1566.0	0		0
+340	661	Pannecoeck		1	2	Godert	0					0	1576.0	0		0
+341	663	Boymer		1	3	Frederik	0					0		0		0
+342	664	Heeckeren	van	1	1	Evert	1		Nettelhorst	Roderlo		0	1561.0	0	Overig: Nederland's Adelsboek geeft als sterfjaar 1562 en vermeldt zijn zoon Evert als raadsheer in het Hof van Gelre en Zutphen.	0
+343	666	Appeltorn	van	1	2	Peter	0					0		0		0
+344	668	Wesenhage	van der	1	3	Dionys	0					0	1582.0	0	Overig: raadsheer en momber in het Hof van Roermond 1580-1582.	0
+345	669	Gent	van	1	3	Willem	1		Oijen en Dieden			0	1603.0	0	Overig: raadsheer in het Hof van Roermond 1580.	0
+346	670	Stalbergen	van	1	2	Leonard	0					0		0	"Persoonsgegevens: zoon van Johan van Stalbergen.
+Overig: raadsheer in het Hof van Roermond 1580-1592."	0
+347	671	Voorst	van	1	1	Frederik	0					0	1577.0	0	Overig: waldgraaf van het Nederrijkswald.	0
+348	672	Nyel	van	1	2	Johan	0					0		0	Overig: raadsheer in het Hof van Roermond 1580.	0
+349	673	Dart	van	1	1	Johan	0					0		0		0
+350	674	Mekeren	van	1	1	Koenraad	0					0		0		0
+351	675	Berck	van	1	5	Jacob	0					0		0	"Persoonsgegevens: Johansz.
+Overig: raadsheer in het Hof van Roermond 1580-na 1600."	0
+352	677	Goer	van	1	1	Adolf	1		Caldenbroek			0		0		0
+353	678	Voet		1	2	Gerard	0					0	1607.0	0		0
+354	679	Sande	van den	1	2	Reinier	0					0	1603.0	0		0
+355	680	Heeckeren	van	1	1	Jacob	0					0	1579.0	0		0
+356	681	Appeltern	van	1	1	Otto	1		Persingen	Poederoyen		0	1579.0	0		0
+357	682	Bentinck		1	1	Alexander	1		Aller		1548.0	0	1582.0	0		0
+358	683	Bonenberch	van	1	1	Arend	1		Ubbergen			0		0	Overig: gouverneur van de vesting Arnhem.	0
+359	684	Kreynck		1	1	Jasper	0					0	1589.0	0		0
+360	685	Munster	van	1	1	Hendrik	0					0	1585.0	0		0
+361	686	Capellen	van der	1	1	Geerlich	1		Den Dam			0	1625.0	0		0
+362	687	Pieck		1	1	Gillis	1		Enspijk			0	1584.0	0		0
+363	689	Roos		1	3	Thomas	0					0		0		0
+364	690	Sluysken		1	3	Willem	0					0		0		0
+365	691	Renssen	van	1	3	Daniel	0					0	1584.0	0		0
+366	692	Varick	van	1	5	Jasper	0					0		0		0
+367	693	Cleyningh	van	1	2	Hendrik	0					0	1601.0	0		0
+368	694	Brimeu	van	3	1	Karel	1		Megen	Humbercourt		0	1572.0	0	"Adelstitel: graaf van Megen.
+Overig: stadhouder Stad en Lande van Groningen 1568-1572."	0
+369	695	Nassau	van	3	1	Johan	1		Dietz		1535.0	0	1606.0	0	"Persoonsgegevens: broer van Willem van Nassau.
+Adelstitel: graaf van Nassau-Dillenburg-Katzenelnbogen."	0
+370	696	Bergh	van den	3	1	Willem	1		Bergh			0		0		0
+371	699	Haneron		1	3	Antonis	0					0		0	Overig: aartsdiaken Kamerijk. Bisschoppelijke raad Utrecht (in 1456 vermeld).	0
+372	707	Brederode	van	6	1	Reinout	1		Brederode	Vianen, Ameide, Voshol. Schoorl	1415.0	0	1473.0	0	Overig: ridder in de Orde van het Gulden Vlies 1445. In 1459 vermeld als bisschoppelijke raad in Utrecht.	0
+373	711	Amerongen	van	1	3	Folpert	0					0		0	Overig: in 1459 vermeld als bisschoppelijke raad in Utrecht.	0
+374	718	Clite	van der	6	1	Collard	1		Renescure	Watten		0		0		0
+375	726	Veen	van den	1	5	Ludolf	0					0	1508.0	0	Overig: vermeld als bisschoppelijke raad in Utrecht tussen 1470 en 1508.	0
+376	746	Weer	uter	1	3	Dirk	0					0	1483.0	0	Overig: van 1460 (vermelding) tot 1483 bisschoppelijke raad in Utrecht.	0
+377	750	Bevervoorde	van	1	1	Roelof	0					0		0	Overig: in 1461 en 1490 vermeld als bisschoppelijke raad in Utrecht.	0
+378	784	Duclerc		1	1	Filips	0					0	1484.0	1	Overig: in 1471 vermeld als bisschoppelijke raad in Utrecht.	0
+379	786	Carvijn		1	3	Johan	0					0		0	Overig: in 1473 vermeld als bisschoppelijke raad in Utrecht.	0
+380	790	Gent	van	1	1	Hendrik	0					0		0	Persoonsgegevens: mogelijk dezelfde als Hendrik van Gendt, bisschoppelijke raad in 1499.	0
+381	794	Alkmaar	van	1	3	Hendrik Woutersz.	0					0		0		0
+382	830	Assendelft	van	1	3	Bertout	0				1472.0	0	1549.0	0		0
+383	831	Houven	van der	1	1	Gideon	0					0	1574.0	0		0
+384	833	Boe	van der	1	1	Boudewijn	0					0		0		0
+385	834	Bentinck		1	1	Johan	0					0		0		0
+386	836	Varick	van	1	1	Gossen	0					0	1623.0	0		0
+387	837	Tollekens		1	1	Rutger	0					0	1586.0	0		0
+388	838	Ommeren	van	1	1	Jacob	0					0	1593.0	0		0
+389	839	Dibbets		1	1	Reinier	0					0	1598.0	0		0
+390	840	Eem	van der	1	1	Goossen	0					0		0		0
+391	846	Diemen	van	1	3	Willem	1		Develstein		1508.0	0	1583.0	0	"Persoonsgegevens: geboren te Rotterdam.
+Overig: substituut-stadhouder Utrechts Leenhof 1557-1560."	0
+392	862	Selem	van	1	3	Hendrik Lottensz.	0					0		0		0
+393	863	Mulart		1	3	Arnt	0					0		0		0
+394	864	Stoep		1	3	Jan	0					0		0		0
+395	865	Plancken	van der	1	1	Antonius	0					0		0		0
+396	866	Reve	van	1	1	Johan	0					0		0		0
+397	867	Theoderici		1	1	Henricus	0					0		0	Persoonsgegevens: identificatie onzeker.	0
+398	868	Wolff van Everdingen		1	1	Dirk	0					0		0		0
+399	869	Middachten	van	6	1	Arnt	1					0		0		0
+400	870	Oest	van	6	1	Dirk	1					0		0		0
+401	871	Bockhorst	van	6	1	Willem	1					0		0		0
+402	872	Coeppen		1	3	Hendrik	0					0		0		0
+403	875	Kye		1	3	Willem	0					0		0		0
+404	876	Huet	van	1	1	Gerard	0					0		0		0
+405	877	Gorys		1	1	D.	0					0		0		0
+406	878	Fryon		1	3	Stephan	0					0		0	Overig: secretaris van de hertog van Bourgondië.	0
+407	904	Wittensz.		1	3	Witte	0					0		0		0
+408	1461	Ee	van der	1	1	Lambert	0					0		0		0
+409	908	Oem van Wijngaerden		1	2	Cornelis	0					0	1599.0	0		0
+410	909	Criep	van der	6	3	Willem	1				1535.0	0	1610.0	0	"Persoonsgegevens: geboren te Delft.
+Overig: kanselier raadkamer Roermond 15 september 1582."	0
+411	911	Duin	van der	1	3	Reinier	0					0		0		0
+412	912	Serooskerke	van	6	3	Jeronimus	1		Serooskerke	Welland, Moermond, Stavenisse, St. Annaland	1500.0	0	1571.0	0	Overig: rentmeester-generaal Zeeland Beoosten Schelde 1534 en 1541. Vice-admiraal kwartier Zeeland Bewesten Schelde 1543. Burggraaf van Zeeland 1533 en 1557.	0
+413	914	Smytere	de	1	3	Karel	0					0		0		0
+414	921	Essche	van	1	1	Jan	0					0	1505.0	0	Persoonsgegevens: Damen, Staat van dienst, geeft 1498 als sterfjaar.	0
+415	923	Egmond van de Nijenburg	van	1	3	Cornelis Jansz.	0					0	1562.0	0		0
+416	924	Loo	van	1	3	Dirk	0				1532.0	0	1564.0	0	Persoonsgegevens: broer van Albert van Loo.	0
+417	925	Quesnoy	de	1	3	Jacob	0					0		0		0
+418	936	Lamsweerde	van	1	3	Willem	0					0		0		0
+419	939	Gouda	van	1	1	Dirk	0					0	1584.0	0		0
+420	955	Oem van Wijngaerden		1	2	Floris Jansz.	0				1467.0	1	1527.0	0	Overig: ontvanger-generaal Staten van Holland 1504-1505 (bron: NA, StvH, nr. 1736), 1507 (bron: NA, StvH, nr. 1745). Pensionaris van Dordrecht.	0
+421	956	Coebel		1	3	Frans	1		de Loo		1470.0	1	1532.0	0	Overig: landrentmeester-generaal Staten van Holland augustus 1500-1513. Ontvanger-generaal Staten van Holland 1505-1506 (bron: NA, StvH, nrs. 1738-1741).	0
+422	966	Enschede	van	1	1	Huich Egbertsz.	0					0		0		0
+423	969	Bruel	de	6	1	Pierre	1					0	1543.0	0		0
+424	970	Masnuy	de	6	1	Jean	1		Ferne	Lompret		0	1569.0	0		0
+425	971	Baert		6	1	Jean	1					0	1559.0	0		0
+426	973	Glimes	de	6	2	Jean	1		Waeterdyck			0	1583.0	0	Overig: volgens Stroobant, Magistrats, 'conseiller du conseil d'Hollande'.	0
+427	975	Clamp		1	1	Jacob	0				1445.0	1	1521.0	1	Overig: rentmeester exploten Hof van Holland september 1492-1494 (afgetreden in verband met schulden). Ontvanger espargnes 8 augustus 1494-29 augustus 1495.	0
+428	976	Martigny	de	6	1	Louis	1					0	1554.0	0	Overig: president Raad van Artois 1547.	0
+429	977	Muesart		6	1	Jacques	1					0	1549.0	0	Overig: president Raad van Namen 1548.	0
+430	979	Espinoy	l'	1	2	Philippe	0					0	1557.0	0		0
+431	980	Griboval	de	6	1	Florent	1		Berquin	Plessis		0	1562.0	0		0
+432	981	Vilain		6	1	Louis	1		Jollin			0	1548.0	0	Overig: raadsheer Raad van Artois.	0
+433	982	Wasteel		6	1	Jacques	1					0	1568.0	0		0
+434	983	Uutenhove		6	1	Nicolaas	1					0	1549.0	0	Overig: raadsheer Raad van Vlaanderen.	0
+435	985	Muinck	de	6	1	Corneille	1					0	1557.0	0	Persoonsgegevens: geboren te Oostende.	0
+436	986	Rebreviettes	de	6	1	Jacques	1					0		0	Overig: raadsheer Raad van Artois 1546, president 1554.	0
+437	987	Truyes	aux	6	1	Jean	1					0		0	Persoonsgegevens: zoon van Jean aux Truyes (ov. 1541).	0
+438	990	Bergh	van den	6	1	Franco	1					0	1558.0	0	"Persoonsgegevens: geboren te Delft.
+Overig: volgens Stroobant, Magistrats, voor 1557 raadsheer in het Hof van Holland."	0
+439	991	Oudegerst	d'	6	1	Jean	1					0		0		0
+440	992	Dreulx		1	5	Remi	0					0		0	Overig: bisschop van Brugge en Mechelen 1569.	0
+441	993	Biese	de	6	1	Jan Lieven	1					0		0	Overig: voor 1558 raad en advocaat-fiscaal Raad van Vlaanderen. In 1567 advocaat-fiscaal van de Bloedraad van Alva.	0
+442	995	Contault		1	1	Antoine	0					0	1573.0	0		0
+443	996	Mont Saint-Eloy	du	6	1	Charles	1					0	1590.0	1	Overig: raadsheer-pensionaris van Atrecht.	0
+444	997	Verleysen		6	1	François	1					0		0		0
+445	998	Pamele	van	6	1	Willem	1					0	1592.0	0	Overig: voorzitter Raad van Vlaanderen 1575. Hoofd-president van de Geheime Raad 1581.	0
+446	999	Blasere	van	6	1	Jan	1					0		0	Overig: rechter in de Bloedraad van Alva 1568. President Raad van Vlaanderen 1582.	0
+447	1000	Bois	du	6	1	"Jean
+Jean"	1					0	1585.0	1	Overig: procureur-generaal Bloedraad van Alva 1568.	0
+448	1001	Richardot		1	2	Jean	1		Batly			0		0	"Persoonsgegevens: afkomstig uit Bourgondie.
+Overig: voorzitter Raad van Artois 1582."	0
+449	1002	Porry		1	2	Louis	0					0	1578.0	0		0
+450	1003	Rantre	de	1	3	Jan	0					0		0		0
+451	1004	France	de	6	1	Jérome	1		Vacquerie			0	1606.0	0	Overig: president Raad van Artois 1586.	0
+452	1006	Bogaerts		6	1	Jacques	1				1512.0	0	1589.0	0	Overig: president Raad van Vlaanderen 1589.	0
+453	1007	Charles		6	3	Jan	1				1534.0	0	1598.0	0	Persoonsgegevens: Stroobant, Magistrats, geeft 1526 als geboortejaar.	0
+454	1010	Montzima	a	1	2	Foliard	0				1546.0	0	1605.0	0	Persoonsgegevens: geboren te Leeuwarden.	0
+455	1011	Vuesels		1	2	Godfried	0					0	1592.0	0	Overig: priester. Bisschop van Namen 1592.	0
+456	1023	Assendelft	van	1	1	Jan	1		Kortenbosch			0	1486.0	0	Overig: rentmeester van Noord-Holland 1469-1486.	0
+457	1024	Abbenbroek	van	6	1	Gerrit	1		Abbenbroek	's-Gravenambacht		0	1494.0	0	Adelstitel: ridder1486.	0
+458	1027	Beoostenzweene	van	1	2	Pieter	1		Renesse			0	1459.0	1		0
+459	1028	Boekhorst	van der	1	1	Floris	1		Boekhorst			0	1462.0	0		0
+460	1031	Diepenburg	van	8	1	Klaas	1		Diepenburg			0	1440.0	0		0
+461	1032	Dorp	van	6	1	Cornelis	1		Dorp	Benthuizen	1425.0	1	1503.0	0	Adelstitel: rdder 1486.	0
+462	1035	Engelbrechtsz.		1	1	Willem	0					0	1455.0	1		0
+463	1040	Holland	de bastaard van	6	1	Willem	1		Schagen			0	1473.0	0		0
+464	1044	Mije	van der	1	1	Jan	1		Ter Mije			0	1447.0	0		0
+465	1055	Potter van der Loo		1	2	Jacob	0					0	1453.0	0	Persoonsgegevens: zoon van Dirk Potter.	0
+466	1056	Pressy	van	6	1	Jan	1		Maisnil			0	1452.0	1		0
+467	1057	Rietveld	van	1	6	Gijsbrecht	0					0	1448.0	0		0
+468	1060	Steeland	van	1	3	Joost	0					0	1438.0	1		0
+469	1061	Tannerie	van der	1	1	Pieter	0					0	1439.0	0		0
+470	1062	Truye	à la	1	3	Bartholomeus	0					0	1446.0	0		0
+471	1063	Vriese	de	1	1	Klaas	1		Vossemeer	Rijsoord, Schrevelshoek		0	1475.0	1	Overig: rentmeester exploten Hof van Holland 1457-1463.	0
+472	1064	Wassenaar	van	6	1	Jan	1		Voorburg			0		0	"Persoonsgegevens: broer van Hendrik van Wassenaar.
+Adelstitel: knaap 1420, ridder 1426."	0
+473	1101	Longueville	de	1	1	Jean	0					0		0	Overig: secretaris Raad van Karel de Stoute en van koning Maximiliaan en zijn zoon aarshertog Filips.	0
+474	1103	Lettin		1	1	Jean	0				1472.0	0	1562.0	0	"Persoonsgegevens: zoon van Jean Lettin.
+Overig: secretaris Hof en Grote Raad van Filips de Schone. Stroobant geeft 1495-1573 als levensjaren."	0
+475	1105	Rousseau		1	1	Evrard	0					0		0	Overig: secretaris van de keizer.	0
+476	1106	Boullin		1	1	Alexandre	0					0	1574.0	0		0
+477	1108	Buisset		1	1	Jacques	0					0	1578.0	0		0
+478	1109	Mares	des	1	1	Porus	0					0	1586.0	0		0
+479	1110	Bailly	le	1	1	Jean	0					0	1583.0	0		0
+480	1117	Lignaga	de	1	1	Estienne	0					0		0		0
+481	1118	Ferte	de la	1	1	Filibert	0					0		0		0
+482	1120	Gorges	de	1	1	Pierre	0					0		0		0
+483	1123	Montjoie		1	1	Antoine	0					0		0		0
+484	1126	Gerart		1	1	Antoine	0					0		0		0
+485	1130	Spangen	van	6	1	Filips	1		Spangen	Vlijmen, 's-Gravenmoer, Nagtegaal, Raamsdonk, Waspik	1430.0	1	1509.0	0	Adelstitel: ridder 1486.	0
+486	1223	Westrum tot Langendonk	van	1	1	Dirk	0					0		0		0
+487	1278	Hogestein	van	1	3	Adriaan	0					0	1501.0	0		0
+488	1279	Mije	van der	1	3	Gerrit	0				1457.0	0	1528.0	1		0
+489	1280	Oem van Wijngaerden		6	1	Floris Florisz.	1		Oost-IJsselmonde		1460.0	1	1532.0	0	Overig: pensionaris van Dordrecht. In 1482 (Memorialen Rosa geeft 1481) opgetreden als onbezoldigd secretaris in het Hof van Holland.	0
+490	1288	Hanneman		1	1	Pieter	0					0		0		0
+491	1307	Cooman		6	3	Jan Jansz.	1					0	1587.0	0		0
+492	1322	Wissenkerke	van	1	3	Jan Jansz.	0					0	1494.0	0	Persoonsgegevens: broer van Hendrik van Wissenkerke.	0
+493	1325	Brançion	de	6	2	Antoine	1		La Mure			0	1543.0	0		0
+494	1326	Bubbe		1	1	François	0					0		0		0
+495	1345	Longueval	de	3	1	Maximiliaan	1		Vaulx			0	1581.0	0	"Adelstitle: graaf van Bucquoy.
+Overig: stadhouder Atrecht."	0
+496	1403	Goudt		1	3	Christoffel	0					0		0		0
+497	1404	Goes	van der	1	3	Arnout	0					0		0	Overig: pensionaris van Schiedam rond 1563.	0
+498	1466	Claesz.		1	3	Hendrik	0					0		0		0
+499	1408	Barry	van	1	3	Jacob	0					0	1500.0	0		0
+500	1417	Delen	van	1	1	Wouter	0					0		0		0
+501	1427	Beveren	van	1	1	Jan	0					0		0		0
+502	1475	Schoonbeke	van	1	1	Gilbert	0				1519.0	0	1557.0	0		0
+503	1478	Vianen	van	6	1	Jan	1		Noordeloos	Nieuwkoop, 't Goy		0	1442.0	1	Adelstitel: ridder 1411.	0
+504	12	Ketel	van de	1	3	Heiman Vincentsz.	0					0	1560.0	0	Overig: ontvanger espargnes 1534-1548. Ontvanger-generaal Staten van Holland 1540-1544 (NA, StvH, nrs. 1783-1785).	0
+505	1482	Simonsz.		1	1	Hendrik	0					0		0		0
+506	1484	Minnesanck	Barend	1	1		0					0		0		0
+507	1492	Dam	van	1	1	Joost	0					0		0		0
+508	1502	Wenyns		1	1	Michiel	0					0		0		0
+509	1503	Boymer		1	1	Arent	0					0		0		0
+510	1517	Kesele	de	1	1	Olivier	0					0		0		0
+511	1518	Comines	de	1	1	Michel	0					0		0		0
+512	1520	Ovrebeke	d'	1	1	Guillaume	0					0		0		0
+513	1521	Lettin		1	1	Jean	0					0		0		0
+514	1522	Oderne		1	1	Hues	0					0		0		0
+515	1523	Berthoz	de	1	1	Jean	0					0		0		0
+516	1524	Faurel		1	1	Nicolaas	0					0		0		0
+517	1533	Brimeu	van	1	1	Filips	0					0		0		0
+518	1534	Rotu	de	1	1	Paul	0					0		0		0
+519	1535	Clugny	de	1	1	Guillaume	0					0		0	Persoonsgegevens: de jonge.	0
+520	1536	Bouffereau		1	1	Pierre	0					0		0		0
+521	1537	Marqueron		1	1	Guy	0					0		0		0
+522	1538	Lyon		1	1	Jean	0					0		0		0
+523	1539	Clugny	de	1	3	Guillaume	1					0		0	Overig: in 1477 trad Guillaume de Clugny in dienst van Lodewijk XI.	0
+524	1540	Bourbon	de	1	1	Artus	1					0		0		0
+525	1541	Jacquelin		1	1	Jean	0					0		0		0
+526	1542	Espotes	d'	1	1	Lienart	0					0		0		0
+527	665	Wrdt		1	3	Johan	0					0		0	Overig: kanselier van Overijssel januari 1578.	0
+528	1563	Gramaye		1	1	Thomas	0					0		0	Persoonsgegevens: de Jonge.	0
+529	566	Boshuizen	van	1	1	Brunink	1		Blotinge			0	1498.0	0	Overig: Memorialen Rosa vermeldt Brunink van Boshuizen als onbezoldigd raadsheer in het Hof van Holland in 1468-1477. Burgemeester van Leiden 1479-1481, vroedschap 1479-1489.	0
+530	623	Assendelft	van	8	1	Gerrit	1		Assendelft	Assumburg, Heinenoord, Bezoijen	1420.0	1	1486.0	0	Overig: rentmeester West-Friesland. IN 1459 vermeld als bisschoppelijke raad in Utrecht.	0
+531	106	Assendelft	van	6	2	Gerrit	1				1488.0	0	1558.0	0		0
+532	845	Kerk	van der	1	3	Rutger	0					0	1548.0	0		0
+533	388	Broekhoven	van	1	3	Jacob	0					0	1553.0	0		0
+534	355	Croy	van	5	1	Karel Filips	1				1549.0	0	1613.0	0	"Persoonsgegevens: postume zoon van Filips (II) van Croy.
+Adelstitel: markies van Havré.
+Overig: hoofd van Financiën, benoemd door de Staten 1577. In 1579 koos hij de zijde van de koning."	0
+535	835	Buren	van	1	1	Dirk	0					0	1578.0	0		0
+536	458	Cocq	le	6	1	Baudouin	1		La Motte	Broyaert, Groenhove, Winterpoele		0	1558.0	0		0
+537	444	Bouzan		6	2	Louis	1					0		0	Overig: raadsheer in de Geheime Raad 1515.	0
+538	234	Loosen	van	1	3	Sebastiaan	0					0	1597.0	0	"Persoonsgegevens: hoewel de functies van gecommitteerde in de Raad van State en raadsheer in de Hoge Raad later onverenigbare ambten zijn, blijkt uit een resolutie van de Staten van Holland van 14 april 1588, waarin Van Loosen als gecommitteerde in de Raad van State met 'raadsheer' wordt aangeduid, alsmede uit het Jaarboekje van de regterlijke magt (1839) 33, dat het hier één en dezelfde persoon betreft.
+Overig: was pensionaris van Gorinchem. Gedeputeerde ter Staten-Generaal voor Zeeland 1577."	0
+539	667	Amstel van Mijnden tot Cronenburgh	van	6	3	Amelis	1				1531.0	0	1593.0	0		0
+540	662	Deyn		6	3	Diederick	1					0	1582.0	1	Persoonsgegevens: het jaar van overlijden is mogelijk 1583.	0
+541	609	Utenhove		1	3	Hendrik	0					0	1455.0	0	Overig: raadsheer-rekestmeester Grote Raad 1432-1450.	0
+542	54	Suys		1	3	Cornelis	1		Rijswijk		1514.0	0	1580.0	0	Overig: 1 juni 1577 (eed 8 juni) substituut-registermeester als vervanger van Arnoud Sasbout.	0
+543	350	Assonleville	d'	6	2	Christoffel	1		Hauteville		1528.0	0	1607.0	0		0
+544	420	Berg	van den	1	3	Jan	0					0		0		0
+545	1342	Glymes	van	5	1	Antoon	1		Bergen op Zoom	Walhain	1500.0	0	1541.0	0	"Persoonsgegevens: zoon van Jan (III) van Glymes.
+Adelstitels: graaf van Walhain april 1533, markies van Bergen op Zoom mei 1533.
+Overig: stadhouder van Namen 1527, van Luxemburg 1533. Ridder in de Orde van het Gulden Vlies 1531."	0
+546	1458	Vandenberge		1	1	Martin	0					0	1573.0	0		0
+547	931	Lannoy	van	3	1	Ferdinand	1		La Roche			0		0	Overig: stadhouder van Artesië.	0
+548	1469	Hove	van	1	3	Paulus	0					0	1575.0	0		0
+549	404	Ratingen	van	1	3	Gerrit	0					0		0		0
+550	489	Horne	van	1	1	François	1		Lokeren			0		0		0
+551	1462	Ennetieres	d'	6	1	Arnold	1					0	1592.0	0	Adelstitel: ridder 1588.	0
+552	607	Petitpas		1	5	Jan	0					0	1474.0	1	Overig: raadsheer-rekestmeester Grote Raad 1453-1464.	0
+553	287	Pottelsberge	van	1	1	Cornelis	0					0	1579.0	0		0
+554	535	Vincent		1	2	Jean	1					0	1505.0	0		0
+555	463	Kruibeke	van	1	1	Filips	1		Kruibeke			0	1479.0	0		0
+556	590	Wissenkerke	van	1	1	Hendrik Jansz.	0					0	1469.0	0	Persoonsgegevens: de oude (zijn broer is 'de jonge').	0
+557	118	Boot		1	3	Dominicus Frankensz.	0					0		0		0
+558	459	Colghenensz.		1	1	Jan	0					0		0		0
+559	1402	Goes	de jonge van der	1	3	Aert	0					0	1550.0	0		0
+560	1496	Geniets (de jonge)		1	1	Anthonis	0					0		0		0
+561	488	Horne	van	1	1		0					0		0	Persoonsgegevens: identificatie onzeker. Het gaat om de heer van Horne.	0
+562	702	Militis		1	3	Johan	0					0		0	Overig:als bisschoppelijke raad vermeld in 1457.	0
+563	1495	Hogenhouck	van	1	1	Gijsbert Joostensz.	0					0	1620.0	0		0
+564	107	Mijle	van der	1	3	Adriaan Arentsz.	1		Bleskensgraaf	Dubbeldam	1538.0	0	1590.0	0		0
+565	108	Nicolai		1	3	Aarnout	0				1528.0	0	1592.0	0	Overig: zoon van Everard Nicolai en broer van Carel Nicolai, raad in de Grote Raad van Mechelen.	0
+566	617	Abeele	van den	6	1	Floris	1		Welsingen	Ritthem		0	1440.0	0	Adelstitel: ridder 1397.	0
+567	472	Everaerts		6	2	Nicolaas	1				1462.0	1	1532.0	0	Persoonsgegevens: geboren te Middelburg of Grijpskerke.	0
+568	109	Nicolai		6	3	Nicolaas	1				1504.0	1	1570.0	1	"Persoonsgegevens: zoon van Nicolaas Everaerts (1462-1532).
+Overig: griffier van de Orde van het Gulden Vlies 1542-1561."	0
+569	1008	Grysperre	van	6	1	Willem	1				1544.0	0	1622.0	0		0
+570	411	Ham	uten	1	1	Frederik	0					0		0		0
+571	399	Hompens		1	3	Hayo Hermannus	0				1495.0	1	1540.0	0		0
+572	633	Haymansz.		1	1	Poppe	0					0	1468.0	0	Overig: burgemeester van Zierikzee.	0
+573	747	Bouchout	van	1	1	Johan	1		Boeler			0		0	Overig: in 1460 vermeld als bisschoppelijke raad in Utrecht.	0
+574	1128	Muet	le	1	1	Jaques	0					0	1498.0	0		0
+575	629	Borselen	van	3	1	Hendrik (II)	1		Veere	Zandenburg, Vlissingen, Heemsrode, Abbenbroek, Sloten, Osdorp, Amstelveen. 's-Gravenpolder, Bergen	1404.0	1	1474.0	0	"Adelstitels: ridder, graaf van Grandpré.
+Overig: ridder in de orde van het Gulden Vlies 1445."	0
+576	627	Lottinsz.		1	2	Adriaan	0					0		0		0
+577	1519	Valee	de la	1	1	Louis	0					0		0	Overig: auditeur Rekenkamer Rijsel 1491, buitengewoon lid 1495, lid 1497.	0
+578	558	Meindertsz.		1	1	Jan	0					0		0		0
+579	392	"Gramaye
+Ysendoorn"		1	1	Thomas	0					0	1583.0	1	Persoonsgegevens: de Oude.	0
+580	397	Freys van Dolre		1	1	Jacob	1	jonkheer				0	1533.0	0	Overig: burgemeester en later schout van Amersfoort.	0
+581	1217	Leuwe	de	1	2	Elbertus	0				1518.0	0	1598.0	0	Overig: lid Raad van State 1578-1581.	0
+582	556	Zwieten	de bastaard van	1	1	Willem	1		Amerongen			0	1482.0	0	"Persoonsgegevens: zoon van Boudijn van Zwieten.
+Overig: Memorialen Rosa vermeldt Willem van Zwieten als onbezoldigd raadsheer in het Hof van Holland in 1462."	0
+583	502	Mont Saint-Eloy	du	6	1	Florens	1					0	1540.0	0		0
+584	86	Nieuwstad	van der	1	3	Cornelis Mathiasz.	1		Zevenhoven	de Koppel	1549.0	1	1606.0	0		0
+585	426	Almonde	van	1	3	Jacob	1		Weena	Beukelsdijk en Blommersdijk		0	1506.0	1	Persoonsgegevens: afkomstig uit Holland.	0
+586	1131	Pijnssen		1	2	Jacob	1		Offem	's-Heeraartsberg 1502	1453.0	1	1519.0	1	Overig: Memorialen Rosa vermeld Jacob Pijnssen als onbezoldigd raadsheer 1516-1517.	0
+587	1454	Bacq	de	6	1	Philippe	1					0	1522.0	0	Persoonsgegevens: Stroobant, Magistrats, geeft als voornaam Jean.	0
+588	544	Borselen	van	6	1	Filips	1		Borselen	Kortgene	1380.0	1	1431.0	0		0
+589	16	Wielen	Stalpart van der	1	1	Adriaan	0					0	1557.0	0	Overig: rentmeester-generaal van Kennemerland en West-Friesland en van Amstelland en Gooiland 1524-1553.	0
+590	279	Pensart		1	1	Willem	1		Herlaar			0	1557.0	0		0
+591	70	Wielen	Stalpart van der	6	3	Jacob	1					0	1529.0	0	Persoonsgegevens: afkomstig uit 's-Gravenhage.	0
+592	374	Rataller		1	3	Joost	1	jonkheer			1528.0	0	1581.0	0	Persoonsgegevens: geboren te Leeuwarden.. Raadsheer Raad van Artesië.	0
+593	422	Hogelande	van	1	3	Jan	0					0	1578.0	0	Overig: deken van Sint-Marie.	0
+594	530	Trazegnies	van	6	1	Arnoud	1		Arnemuiden			0	1506.0	1		0
+595	545	Lannoy	van	6	1	Hugo	1		Santes	Beaumont, Oostambacht IJsselmonde	1384.0	0	1456.0	0	"Adelstitel: ridder 1405.
+Overig: ridder in de Orde van het Gulden Vlies 1430."	0
+596	462	Cranevelt	van	1	2	François	0				1485.0	0	1564.0	0	"Persoonsgegevens: geboren te Nijmegen.
+Overig: stadpensionaris van Brugge 1515."	0
+597	491	Lalaing	van	1	2	Arnoud	0				1447.0	1	1483.0	0		0
+598	454	Kapelle	van de	1	3	Richard	1		Nieuwkapelle			0	1511.0	0		0
+599	390	Burch	van der	1	3	Adriaan	1		Burch			0	1606.0	0	Persoonsgegevens: zoon van de gelijknamige president van het Hof van Utrecht.	0
+600	984	Meulenaere	de	6	1	Antoine	1					0	1571.0	0	Overig: raad van Vlaanderen.	0
+601	120	Weitssen		1	3	Quinten	0					0	1565.0	0	Overig: auditeur der rekeningen van Zeeland 1561-1562.	0
+602	51	Godijn		1	1	Jacob	0					0		0		0
+603	852	Egmond	van	6	1	Willem	1		Egmond	Leerdam, IJsselstein, Schoonderwoerd, Baer, Haastrecht	1412.0	0	1483.0	0	"Adelstitels: ridder 1444.
+Overig: ridder in de orde van het Gulden Vlies 1478."	0
+604	417	Canter		1	1	Dirk	1	jonkheer			1545.0	0	1617.0	0	Persoonsgegevens: zoon van Lambert Canter.	0
+605	364	Brederode	van	6	1	Reinout	1		Brederode	Vianen	1490.0	1	1556.0	0	"Adelstitel: tot 1531 voerde Reinout van Brederode de titel graaf van Holland, waarvan hij in 1534 definitief afstand deed (na doodvonnis en gratie).
+Overig: ridder in de Orde van het Gulden Vlies 1531."	0
+606	372	Hoxwier	van	6	3	Hector	1		Rijnauwen		1502.0	0	1546.0	0	Adelstitel: ridder 1545.	0
+607	72	Persijn		1	3	Hippolitus	1		Persijn			0	1568.0	0	Overig: vermeld als onbezoldigd raadsheer in het Hof van Holland 1542 en 1549.	0
+608	52	Trompes	des	1	1	Jan	1		Berlaymont			0	1576.0	0	Overig: stadhouder land en graafschap van Namen. Auditeur Rekenkamer Rijssel 1570.	0
+609	582	Ruychrock		1	3	Jan	1		's Heer Arendskerke	Heinkenszand, 's Heer Hendrikskinderen		0	1474.0	0	Overig: in 1848 trad Jan Ruychrock onbezoldigd op als procureur-generaal in het Hof van Holland.	0
+610	636	Klaasz.		1	1	Meindert	0					0	1437.0	0	Overig: burgemeester van Haarlem.	0
+611	144	Nicolai		1	1	Nicolaas	0					0	1564.0	0	Persoonsgegevens: de jonge.	0
+612	965	Vos	de	1	3	Marius	0					0	1561.0	0		0
+613	1561	Carondelet		1	1	Claude	0				1513.0	0	1564.0	0	Overig: geestelijke.	0
+614	635	Kijfhoek	van	1	1	Floris	1		Zwijndrecht	Nieuw-Goudriaan, Schildmanskinderenambacht, Stolwijk	1380.0	1	1448.0	1		0
+615	603	Zwieten	van	1	1	Hugo	1		Zwieten	Zoeterwoude		0	1482.0	0	Overig: burgemeester van Leiden 1475-1477.	0
+616	239	Oranje	van	10	1	Maurits	1				1567.0	0	1625.0	0	"Persoonsgegevens: zoon van Willem van Oranje.
+Adelstitel: graaf van Nassau, prins van Oranje."	0
+617	450	Carondelet		1	2	Claude	0				1467.0	0	1518.0	0	"Persoonsgegevens: zoon van Jean (I) Carondelet.
+Overig: raadsheer en in 1516 of 1517 hoofd van de Geheime Raad, tot zijn overlijden op 31 mei 1518."	0
+618	631	Gaasbeek	van	1	1	Jacob	1	jonkheer	Gaasbeek	Abcoude, Wijk bij Duurstede, Putten, Strijen		0	1459.0	0		0
+619	543	Borselen	van	1	1	Floris	1		Souburg			0	1447.0	0		0
+620	71	Meer	van der	1	3	Willem Willemsz.	0				1494.0	0	1543.0	0	Overig :pensionaris van Delft.	0
+621	542	Borselen	van	3	1	Frank (II)	1		Sint Maartensdijk	Scherpenisse, Zuilen, Westbroek, Hoogstraaten, Kortgene, Zuid-Beveland, Voorne, Evere	1395.0	1	1470.0	0	"Adelstitels: ridder, graaf van Oostervant.
+Overig: ridder in de Orde van het Gulden Vlies 1445."	0
+622	618	Eycke	van der	1	3	Lodewijk	0					0	1477.0	1	Overig: raadsheer Raad van Vlaanderen 1438-1442. Raadsheer-rekestmeester Grote Raad 1439.	0
+623	625	Gent	van	6	1	Arend	1		Giessen en Hardinxveld	Nieuwkerk, Ottoland, Goudriaan, Papendrecht, Wijngaarden, Spanbroek, Obdam, Hensbroek		0	1457.0	1	Adelstitel: ridder 1426.	0
+624	632	Haamstede	van	6	1	Floris	1		Kerkwerve	Kouwerve, Bergen (N-H)		0	1438.0	1	Adelstitel: ridder 1409.	0
+625	27	Laan	van der	1	3	Nicolaas Mathijsz.	0				1510.0	1	1584.0	0	"Persoonsgegevens: Kok, In dienst van het recht, geeft 1575 als sterfjaar.
+Overig: burgemeester van Haarlem. Commissaris van de Rekenkamer van Holland, op 9 januari 1573 samen met Engelbert Cornelisz. van Maasland ook rekenmeester genoemd. Ontvanger-generaal Rekenkamer ter auditie 1574."	0
+626	619	Montfoort	van	6	1	Lodewijk	1		Hazerswoude			0	1451.0	0	"Persoonsgegevens: broer van Jan van Montfoort.
+Adelstitel: ridder 1408."	0
+627	393	Nijenrode	van	1	3	Frans	1		Velsen	Poel		0	1560.0	0		0
+628	552	Bossaert		1	3	Jacob	1		Belle	Bellesteyn (Wassenaer)		0	1483.0	0	Overig: als onbezoldigd raadsheer in het Hof van Holland vermeld in 1466 en 1469-1478. Memorialen Rosa geeft 1464-1465 en 1469-1476.	0
+629	1052	Poelgeest	van	6	1	Gerrit Dirksz.	1		Hoogmade			0	1459.0	1	Adelstitel: knaap 1416, ridder 1426.	0
+630	537	Wielant		6	5	Filips	1		Bavikhove	Landegem, Harsoit, Everbeek	1441.0	1	1520.0	0	Overig: lid Raad van Vlaanderen 1482.	0
+631	874	Zwieten	van	1	1	Dirk Willemsz.	0					0	1502.0	0	"Persoonsgegevens: zoon van Willem van Zwieten.
+Overig: rentmeester exploten Hof van Holland 18 juni 1491-1492."	0
+632	419	Renesse	van	1	1	Johan	1	jonkheer	Wilp	Wulven	1537.0	1	1584.0	0		0
+633	437	Glymes	van	1	2	Hendrik	0				1449.0	0	1502.0	0	Overig: bisschop van Kamerijk 1480. Kanselier van de Orde van het Gulden Vlies 1493.	0
+634	624	Marck	van der	6	2	Adolf	1					0		0	Overig: in 1459 vermeld als bisschoppelijke raad in Utrecht.	0
+635	1477	Vandenberge		1	1	Antoon	0					0		0		0
+636	1340	Bourgondië	van	6	1	Adolf	1		Beveren	Veere en Vlissingen, Tornehem en Brouwershaven, Wackene en Kapelle	1489.0	1	1540.0	0	Overig: ridder in de Orde van het Gulden Vlies 1516.	0
+637	621	Brakel	van	1	1	Willem	1		Spaarndam	Spaarnland		0	1484.0	1		0
+638	227	Casembroot	de	1	3	Leonard	0					0	1604.0	0		0
+639	611	Alkemade	van	6	1	Willem	1		Engelen en Vlijmen			0	1473.0	0	Overig: lid vroedschap Leiden.	0
+640	283	Aa	van der	1	1	Jan	0					0		0		0
+641	380	Agylaeus		1	3	Hendrik	0				1532.0	1	1595.0	0	"Persoonsgegevens: geboren te 's-Hertogenbosch.
+Overig: protestants advocaat."	0
+642	427	Amerongen	van	1	1	Jacob	0					0	1521.0	0	Persoonsgegevens: zoon van Folpert van Amerongen. Geboren te Utrecht.	0
+643	312	Boonen		1	1	Ambrosius	0					0		0	Overig: raadsheer van Brabant.	0
+644	428	Apostole	l'	1	5	Jérome	0					0	1529.0	0	Persoonsgegevens: zoon van Pierre l'Apostole.	0
+645	226	Borre	van	1	3	Jeronimus	0					0	1595.0	0		0
+646	361	Lalaing	van	3	1	Filips	1		Schorisse			0	1555.0	0	"Persoonsgegevens: broer van Karel van Lalaing.
+Adelstitels: graaf van Hoogstraten 1540.
+Overig: ridder in de Orde van het Gulden Vlies 1546. Actief in de Raad van State zonder lid te zijn 1540-1555."	0
+647	565	Cruce	van der	1	3	Andries	1		Ruychbroek	Krooswijk		0	1463.0	0		0
+648	84	Menijn	de	1	3	Joos	0					0		0	Overig: was pensionaris van Dordrecht.	0
+649	592	Borselen	de bastaard van	6	1	Jacob	1		Clevendamme	Akkersdijk		0	1503.0	0		0
+650	905	Mersche	van der	1	3	Jacob	0					0		0		0
+651	90	Boullin		1	3	Jan	0					0	1500.0	1	Overig: controleur van de grafelijke ambtenaren 1469 en 1471.	0
+652	289	Bourgeois		1	1	Sebastiaan	0				1505.0	1	1575.0	0		0
+653	317	Boisset	de	1	1	Claude	0					0	1546.0	0	Overig: aartsdiaken van Atrecht.	0
+654	446	Brugge	van	10	1	Lodewijk	1		Gruuthuse	Oostkamp, Tielt-ten-Hove, Avelgem, Spiere, Haamstede, Heemstede	1422.0	1	1492.0	0	"Adelstitel: ridder 1453, prins van Steenhuize, graaf van Winchester.
+Overig: ridder in de Orde van het Gulden Vlies 1461."	0
+655	451	Carondelet		1	2	Ferry	0				1473.0	1	1528.0	0	Persoonsgegevens: zoon van Jean (I) Carondelet.	0
+656	452	Carondelet		6	1	Jean (I)	1		Champvans	Solre, Potelles	1428.0	1	1501.0	0		0
+657	336	Boisschot	van	1	1	Jan	0				1516.0	0	1580.0	0	Overig: pensionaris van Brussel 1565. Advocaat-fiscaal Raad van Brabant 1569.	0
+658	610	Gent	van	1	1	Lyon	0					0	1460.0	0		0
+659	457	Clugny	de	1	2	Ferry	0					0	1483.0	0	Overig: kanselier van de Orde van het Gulden Vlies 1473-1480. Bisschop van Doornik 1473. Kardinaal 1480.	0
+660	464	Dale	van den	6	2	Engelbert	1		Leefdaal	Wilderen	1496.0	0	1556.0	0	Overig: kanselier van Brabant 1540.	0
+661	906	Coornhuysen	van	1	3	Willem	0					0		0		0
+662	460	Cottereau		1	5	Leonard	1		Glabbeek	Terrepont, Velpen		0	1527.0	0	Overig: raadsheer Raad van Brabant 1493-1527.	0
+663	1022	Cranendonck	van	6	2	Boudijn Jacob	1				1518.0	0	1601.0	0	"Persoonsgegevens: mogelijk dezelfde als Boudewijn Jacobsz. van Ouderkerk. Geboren te Dordrecht.
+Overig: volgens Stroobant, Magistrats, raadsheer in het Hof van Holland."	0
+664	136	Dam	van	1	1	Willem	0					0		0		0
+665	302	Brant		1	1	Etienne	0					0		0		0
+666	275	Croonendaele	van	1	1	Paul	0					0		0		0
+667	1459	Dam	van	1	3	Willem	0					0	1522.0	0		0
+668	1341	Croy	van	6	1	Antoon	1		Sempy	Tours-sur-Marne, Saint-Piat		0	1546.0	0	"Persoonsgegevens: zoon van Filips van Croy.
+Overig: ridder in de Orde van het Gulden Vlies 1516."	0
+669	465	Dorpe	van den	6	3	Hieronymus	1					0	1532.0	0	"Persoonsgegevens: wellicht afkomstig uit Naaldwijk.
+Overig: president van de raadkamer Gelre 1506-1512."	0
+670	455	Croy	van	3	1	Filips	1		Sempy	Escaussines, Tours-sur-Marne	1434.0	0	1482.0	0	"Adelstitels: ridder 1453, baron van Quiévrain, burggraaf van Limoges, graaf van Chimay 1473.
+Overig: ridder in de Orde van het Gulden Vlies 1473. Stadhouder van Gelre 1474."	0
+671	255	Croy	van	4	1	Filips (III)	1		Havré		1526.0	0	1595.0	0	"Persoonsgegevens: zoon van Filips (II) van Croy.
+Adelstitel: hertog van Aarschot 1551.
+Overig: ridder in de Orde van het Gulden Vlies 1556."	0
+672	1460	Damhoudere	de	1	2	Joost	0				1507.0	0	1581.0	0		0
+673	557	Drabbe		1	1	Adriaan	0					0	1503.0	1		0
+674	907	Lesanen	van	1	3	Johan Angeli	0					0		0		0
+675	343	Egmond	van	3	1	Lamoraal	1		Zottegem		1522.0	0	1568.0	0	"Adelstitel: prins van Gavre 1553, graaf van Egmond.
+Overig: ridder in de Orde van het Gulden  Vlies 1546. Stadhouder van Vlaanderen 1559-1567."	0
+676	362	Egmond	van	3	1	Maximiliaan	1		IJsselstein	Maartensdijk	1509.0	0	1548.0	0	"Persoonsgegevens: zoon van Floris van Egmond.
+Adelstitels: graaf van Buren en Leerdam.
+Overig: ridder in de orde van het Gulden Vlies 1540. Stadhouder van Friesland 1540."	0
+677	470	Egmond	van	6	1	Willem	1		IJsselstein		1387.0	1	1451.0	0	Adelstitel: ridder 1416.	0
+678	989	Everaerts		6	1	Lieven	1					0	1574.0	0	Overig: raad van Vlaanderen.	0
+679	1473	Oyenbrugge	van	1	1	Engelbert	1					0	1630.0	0	"Adelstitel: verheven door keizer Matthias 1617.
+Overig: burgemeester van Antwerpen 1624."	0
+680	416	Foeck		1	1	Albert	0					0		0	Overig: schepen Utrecht.	0
+681	322	Schepper	de	1	1	Cornelius Duplicius	1		Eke		1500.0	0	1555.0	0	Overig: raadsheer Karel V 1526.	0
+682	676	Gent	van	6	1	Bartholt	1		Loenen	Wolferen		0	1595.0	0	"Persoonsgegevens: D'Ablaing, Ridderschap kwartier Nijmegen, geeft sterfjaar 1593.
+Overig: gouverneur van Arnhem 1588."	0
+683	480	Gracht	van der	1	1	Wouter	1		Moorslede			0	1505.0	0		0
+684	1464	Grammez	van	1	1	Hugo	0					0	1549.0	1		0
+685	484	Grote	de	1	3	Karel	0					0	1486.0	0	Overig: kanselier van Brabant 1483.	0
+686	1116	Halewijn	van	1	1	Antonius	1		La Chapelle			0	1479.0	0		0
+687	490	Jauly	de	1	1	Jean	1		Montilles			0		0	Overig: in 1499 als raadsheer bij het Parlement van Bourgondië in Franse dienst.	0
+688	157	Jonge	de	1	6	Cornelis	1		Baardwijk		1445.0	1	1504.0	0	Overig: pensionaris van Dordrecht 1473-1477.	0
+689	318	Jonglet		1	1	Jan	1		Marets			0	1540.0	0	Overig: voorzitter Raad van Namen 1507.	0
+690	637	Kralingen	van	6	1	Gillis	1		Zuidwijk	Voorschoten		0	1440.0	1	"Adelstitel: ridder 1397.
+Overig: rentmeester van Noord-Holland 1422-1425."	0
+691	249	Lalaing	van	3	1	Karel	1				1506.0	0	1558.0	0	"Persoonsgegevens: broer van Filips van Lalaing.
+Adelstitel: graaf van Lalaing, baron van Schorisse en Montigny.
+Overig: ridder in de Orde van het Gulden Vlies 1531. Stadhouder van Henegouwen 1549-1558."	0
+692	547	Lannoy	van	6	1	Jan (III)	1		Lannoy	Lys, Watignies, Bersées, Neufville, Sebourg, Rumes, Willems, Bossuyt	1410.0	0	1493.0	0	"Adelstitel: ridder 1430.
+Overig: ridder in de Orde van het Gulden Vlies 1451. Stadhouder Waals-Vlaanderen 1459-1462."	0
+693	269	Bourguignon		1	1	Willem	0					0	1538.0	0		0
+694	1562	Haneton		1	1	Karel	0					0	1560.0	0		0
+695	1119	Lyon		1	3	Jean	0					0		0	Persoonsgegevens: afkomstig uit de Nederlanden.	0
+696	352	Mansfelt	van	3	1	Pieter Ernest	1				1517.0	0	1604.0	0	"Adelstitel: graaf van Mansfelt.
+Overig: stadhouder Luxemburg 1545. Ridder in de Orde van het Gulden Vlies 1546."	0
+697	368	Marck	van der	1	1	Evrard	1		Luik		1472.0	0	1538.0	0	Overig: prins-bisschop van Luik 1505. Aartsbisschop van Valencia 1520. Kardinaal 1521.	0
+698	549	Borselen	van	3	1	Wolfert (VI)	1		Grandpré en Buchan	Veere, Zandenburg, Vlissingen, Heemsrode, Abbebbroek, Sloten, Osdorp, Amstelveen, 's-Gravenpolder, Bergen, Ridderkerk	1430.0	1	1486.0	0	"Adelstitels: ridder, graaf van Grandpré en Buchan.
+Overig: ridder in de Orde van het Gulden Vlies 1478."	0
+699	278	Marnix	van	6	1	Jan	1		Toulouse	Marnix		0	1533.0	0	"Adelstitel: ridder 1522.
+Overig: thesaurier en ontvanger-generaal van Margareta van Oostenrijk. Secretaris van de Geheime Raad 1517-1531."	0
+700	926	Meer	van der	1	3	Pieter	0				1534.0	0	1616.0	0	"Persoonsgegevens: zoon van Willem van der Meer.
+Overig: was pensionaris van Delft 1578-1616."	0
+701	1504	Neck	van	1	1	Jan	0					0	1448.0	0		0
+702	308	Prats		1	1	Etienne	0					0	1585.0	0		0
+703	1467	Koning	de	1	3	François	0					0	1613.0	0		0
+704	230	Duivenvoorde	van	6	3	Jacob	1		Warmond		1509.0	0	1577.0	0	Persoonsgegevens: zoon van Jan van Duivenvoorde.	0
+705	638	Merwede	van der	6	1	Dirk	1		Sliedrecht	Eethen en Meeuwen, Burgst, Babiloniënbroek, 's-Gravenmoer, Hendrik-Ludenambacht, Zuidwinde, Baardwijk		0	1452.0	0	Adelstitel: ridder 1426.	0
+706	333	Micault		1	1	Nicolaas	1		Indevelde		1518.0	0	1589.0	0	Persoonsgegevens: zoon van Jan Micault.	0
+707	573	Mije	van der	1	1	Gijsbrecht	0					0	1483.0	1		0
+708	639	Montfoort	van	6	5	Jan	1		Diemerbroek	Harmelen, Zuid-Polsbroek, Linschoten, Hekendorp, Snelrewaard, Purmerend, Neck		0	1448.0	0	"Persoonsgegevens: broer van Lodewijk van Montfoort.
+Adelstitel: burggraaf van Montfoort 1413, ridder 1418."	0
+709	503	Moulins	des	1	1	Odo	0					0		0	Overig: lid van de Geheime Raad 1504.	0
+710	1471	Mouwerisz.		1	3	Jacob	0					0	1522.0	0		0
+711	1470	Jonge	de	1	3	Jan	0					0	1543.0	0		0
+712	236	Leeuwen	van	1	1	Dirk	0					0	1596.0	0		0
+713	371	Naarden	van	1	3	Maarten	0				1490.0	0	1567.0	1	Overig: luitenant Hoofdmannenkamer Groningen 1541-1557.	0
+714	642	Oem van Wijngaerden		1	1	Godschalk	1		Wijngaarden	Groot Wassenaar, Schrevelduin, Raamsdonk, Oost-IJsselmonde, Grijsoord, Duvenweerd, Oude en Nieuwe Tonge, Bleskensgraaf		0	1462.0	0		0
+715	589	Oem van Wijngaerden		1	2	Hendrik	0					0	1472.0	0	Persoonsgegevens: zoon van Godschalk Oem van Wijngaerden.	0
+716	643	Paedze		1	1	Floris	1		Zonneveld			0	1448.0	0	Overig: burgemeester van Leiden.	0
+717	15	Jonge	de	1	3	Cornelis	1		Baardwijk			0	1578.0	0	Persoonsgegevens: zoon van Jacob de Jonge.	0
+718	1474	Perrenot		1	2	Nicolaas	1		Granvelle	Chantonnay, Champagney, Cantecroy	1486.0	0	1550.0	0		0
+719	129	Pijnssen		1	3	Willem	0					0	1545.0	0	Persoonsgegevens: zoon van Jacob Pijnssen.	0
+720	509	Plaine	de	1	5	Gérard	1		La Roche	Courcelles, Magny-sur-Tille, Gorenans	1480.0	1	1524.0	0	"Persoonsgegevens: Kerckhoffs-de Hey, Biografieën van raadsheren, geeft circa 1465 als geboortejaar. Zoon van Thomas de Plaine.
+Overig: hoofd-president van de Geheime Raad 1511-1515 als opvolger van Jan de Wilde, nadien rekestmeester bij deze Raad."	0
+721	351	Roda	van	1	5	Jeronimo	0					0		0		0
+722	576	Poes		1	1	Dirk Sijbrantsz.	1		Binckhorst			0	1471.0	0		0
+723	510	Plaine	de	6	5	Thomas	1		La Roche	Magny-sur-Tille, Courcelles, Tart, Marliens, Berlaar, Gestel	1444.0	1	1507.0	0	Overig: voorzitter Raad van Vlaanderen 1475. Kanselier van Philips de Schone 1496.	0
+724	1121	Poitiers	van	7	1	Jan	1		Arcey	Vadans		0		0	Adelstitel: burggraaf van Antwerpen.	0
+725	587	Potter		1	3	Dirk Dirksz.	0					0		0		0
+726	306	Vlierden	van	1	1	Jan	0					0	1575.0	0		0
+727	605	Potter van der Loo		1	1	Gerrit	1		Hubrechtsambacht	Snijdelwijk	1395.0	1	1454.0	0	Persoonsgegevens: zoon van Dirk Potter.	0
+728	313	Prats		1	1	Filips	0					0		0	Persoonsgegevens: zoon van Etienne Prats.	0
+729	564	Quevin		1	3	Jan	0					0	1476.0	0	Overig: rentmeester van Zeeland bewestenschelde 1441. Raadsheer Raad van Vlaanderen.	0
+730	514	Ranchicourt	de	1	5	Charles	0					0	1515.0	1		0
+731	406	Reede	van	6	1	Godard	1		Saasveld	Amerongen, Zuilenstein, Nederhorst	1516.0	0	1585.0	0	Overig: schout Utrecht 1555.	0
+732	330	Renard		6	2	Simon	1		Brémont		1513.0	1	1573.0	0	Overig: professor te Vesoul.	0
+733	408	Renesse van der Aa	van	1	1	Gerrit	0					0	1568.0	0	Overig: Vermeld als onbezoldigd raadsheer in het Hof van Holland 1538 en 1549-1558. Terechtgesteld.	0
+734	788	Renesse	van	1	1	Johan Johansz.	0					0		0		0
+735	789	Rijn	van	1	1	Gerrit	0					0		0	Overig: schout Utrecht.	0
+736	660	Ripperda		6	1	Hayo	1		Farmsum			0	1558.0	0	Adelstitel: ridder 1555.	0
+737	521	Roussel		6	1	Jean	1		Hornettes	Hove		0	1522.0	0	Overig: eerste raadsheer Raad van Namen 1491-1494.	0
+738	257	Ruffault		1	1	Jan	1		Neufville		1471.0	0		0	Overig: sinds 1489 in dienst van de Rijsselse Rekenkamer, in 1516 daar thesaurier-generaal. Benoeming tot griffier van Brabant 5 december 1542.	0
+739	608	Ruysch		1	2	Jacob	0				1439.0	1	1519.0	0	Overig: pensionaris van Amsterdam 1467-1473. Priester 1473.	0
+740	616	Strijen	van	6	1	Arend	1		Zevenbergen			0	1492.0	0	Adelstitel: ridder 1458.	0
+741	338	Rijm		1	2	Charles	1		Bellem		1533.0	1	1584.0	0	Overig: raadsheer Raad van Luxemburg. 1555.	0
+742	974	Burch	van der	6	1	Jan	1					0	1595.0	0	"Persoonsgegevens: zoon van Adriaan van der Burch.
+Overig: raadsheer Raad van Vlaanderen. Raadsheer in de Geheime Raad 1584, president 1592."	0
+743	85	Nicolai		1	3	Ruis	0					0		0	Persoonsgegevens: volgens Kok, In dienst van het recht, Nicolai Ruysch.	0
+744	528	Sucquet		6	1	Jean	1				1460.0	1	1522.0	0	Adelstitel: ridder circa 1514.	0
+745	647	Sasbout		1	2	Joost	0				1487.0	0	1546.0	0	Overig: burgemeester van Delft.	0
+746	111	Sasbout		6	3	Arnoud	1		Spalant			0	1583.0	0	Persoonsgegevens: zoon van Joost Sasbout.	0
+747	344	Hennin	van	3	1	Jan	1				1480.0	0	1562.0	0	"Adelstitel: graaf van Boussu 1552
+Overig: ridder in de Orde van het Gulden Vlies."	0
+748	1009	Schetz van Grobbendonk		6	1	Jan Karel	1		Grobbendonk			0	1595.0	0	"Persoonsgegevens: zoon van Gaspard Schetz.
+Overig: ridder in de orde van het Gulden Vlies 1588."	0
+749	533	Vacquerie	de la	1	5	Jean	0				1430.0	1	1497.0	0	Overig: raadsheer-pensionaris van Arras 1474. Na 1477 in Franse dienst.	0
+750	254	Sint Aldegonde	van	6	1	Filips	1		Noircarmes	Sint Aldegonde, Maingoval, Bugnicourt	1520.0	1	1574.0	0	Overig: ridder in de Orde van het Gulden Vlies 1566.	0
+751	18	Snouckaert van Binckhorst		1	1	Jacob	1		Binckhorst		1527.0	0	1575.0	0		0
+752	112	Snouckaert van Binckhorst		6	2	Willem	1		Binckhorst		1518.0	0	1565.0	0	Adelstitel: paltsgraaf 1544.	0
+753	1476	Claesz.		1	1	Nicasius	0					0	1555.0	0		0
+754	310	Vasseur	le	1	1	Frans	1		Moriensart		1535.0	1	1603.0	0	Overig: griffier van de Orde van het Gulden Vlies 1581. Secretaris van de Raad van State en de Geheime Raad 1581.	0
+755	644	Vianen	van	1	1	Gijsbrecht	1		Noordeloos	Nieuwkoop, Slingeland		0	1458.0	1	Persoonsgegevens: zoon van Jan van Vianen.	0
+756	113	Vlaanderen	van	1	1	Lodewijk	1		Praat		1488.0	0	1555.0	0	Overig: raadsheer in de Geheime Raad 1517. Ridder in de orde van het Gulden Vlies 1531.	0
+757	645	Wassenaar	van	7	1	Hendrik	1		Wassenaar			0	1447.0	0	"Adelstitel: ridder 1413, burggraaf van Leiden 1420, heer van Wassenaar 1428.
+Overig: rentmeester van Noord-Holland 1426-1434."	0
+758	591	Witte	de	1	1	Jan Jansz.	1		Bulgerstein			0	1478.0	0		0
+759	1481	Witte	de	1	1	Jan	0					0		0	Persoonsgegevens: volgens Damen, Staat van dienst, mogelijk dezelfde als Jan Jansz. de Witte.	0
+760	398	Ysendoorn	van	1	3	Ernst	1		Sterkenborg			0	1538.0	0	"Persoonsgegevens: afkomstig uit het Nedersticht.
+Overig: bisschoppelijke raad in Utrecht na 1496."	0
+761	127	Zegers		6	3	Guillam	1		's-Heeraertsberg	Wassenhoven		0		0		0
+762	622	Zijl	van	6	1	Gerrit	1		Purmerend	Ilpendam		0	1453.0	0	Adelstitel: ridder 1410.	0
+763	562	Boudijnsz.		1	3	Jan	0				1452.0	1	1514.0	0	Overig: landsadvocaat Staten van Holland juni 1489-14 augustus 1494.	0
+764	89	Zevender	van	1	1	Jan	0					0		0	Overig: in 1496 opgetreden als onbezoldigd secretaris in het Hof van Holland.	0
+765	141	Steinemolen		1	3	Rombout	0					0		0		0
+766	235	Hynojossa	d'	1	3	Pieter	0					0	1616.0	0		0
+767	508	Pieters		6	2	Jan	1		Cats			0	1521.0	0	Overig: raadsheer Raad van Vlaanderen 1483-1488.	0
+768	1526	Numan		1	1	Gerard	0					0	1500.0	0		0
+769	988	Fabri		1	1	Philippe	0					0	1559.0	0	Overig: deken van de collegiale kerk te Zierikzee.	0
+770	1104	Botechou	le	1	1	Jean	0					0		0		0
+771	1102	Fevre	le	1	1	Barthelemy	0					0	1525.0	1	Overig: secretaris van de Raad van Filips de Schone.	0
+772	1527	Haneton		6	1	Filips	1		Linth			0	1528.0	0	Overig: tresorier van de Orde van het Gulden Vlies 1520.	0
+773	288	Blioul	du	1	1	Laurens	1		Sart			0	1542.0	0	Overig: griffier van de Orde van het Gulden Vlies 1496.	0
+774	1525	Gros		1	1	Jean (III)	0					0		0		0
+775	1127	Hugonet		1	3	Guillaume	1		Saillant	Liz		0	1477.0	0	Persoonsgegevens: op 3 april 1477 te Gent terechtgesteld.	0
+776	1005	Mouchet		1	2	Pierre	1		Roulleau			0	1578.0	0		0
+777	1124	Brimeu	van	3	1	Guy	1		Humbercourt		1434.0	1	1477.0	0	"Adelstitel: ridder 1452. Ridder in de Orde van het Gulden Vlies 1473. Graaf van Megen.
+Overig: terechtgesteld te Gent 3 april 1477."	0
+778	1012	Peckius		1	2	Pieter	0				1529.0	0	1589.0	0	Persoonsgegevens: geboren te Zierikzee.	0
+779	1457	Courtewille	van	1	1	Joost	1		Pollinkhove			0	1572.0	0	Overig: griffier van de Orde van het Gulden Vlies 1561.	0
+780	297	Zoete	de	1	1	Louis	0					0	1556.0	0		0
+781	1122	Lalaing	van	6	1	Simon	1		Montigny	Hantes	1405.0	1	1477.0	0	"Adelstitel: ridder 1426 of 1429.
+Overig: ridder in de Orde van het Gulden Vlies 1431 (eed 1433). Lid van de Geheime Raad 1462-1467."	0

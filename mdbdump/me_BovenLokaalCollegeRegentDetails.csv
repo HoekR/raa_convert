@@ -1,0 +1,1116 @@
+	ID	Periode	IDRegent	IDFunctie	IDCollege	Begindag	Beginmaand	Beginjaar	Einddag	Eindmaand	Eindjaar	Vertegenwoordigend	provinciaal	Opmerkingen	lokaal	regio	stand
+0	2	0	1	1	1	6.0	6.0	1499.0			1503.0	0	0.0				
+1	4	0	3	1	1			1505.0			1508.0	0	0.0				
+2	5	0	4	1	1	25.0	1.0	1509.0			1541.0	0	0.0				
+3	8	0	7	1	1	30.0	8.0	1510.0			1543.0	0	0.0				
+4	9	0	8	1	1	12.0	11.0	1531.0			1554.0	0	0.0				
+5	12	0	11	1	1	30.0	7.0	1543.0			1549.0	0	0.0	Opvolger van Klaas van Essche. Eed 16 augustus 1543. Beëindigd door overlijden.			
+6	13	0	12	1	1	31.0	6.0	1544.0			1549.0	0	0.0	Opvolger van Zeger van Alveringen. Eed 13 augustus. Bos-Rops, Power of money, geeft 30 juni 1544 als commissie en 1553 als jaar van terugtreden.			
+7	14	0	13	1	1	11.0	3.0	1549.0			1551.0	0	0.0	Eed 28 maart 1549. Bos-Rops, Power of money, geeft 1552 als jaar van terugtreden.			
+8	18	0	17	1	1	12.0	9.0	1554.0			1567.0	0	0.0	Opvolger van Vincent Dammas. Eed 26 september 1554. Continuatie op 28 juli 1556 door Filips II als eerder door zijn vader Karel V, eed op 29 oktober 1556. Bos-Rops, Power of money, heeft 28 jan. 1552 als commissie en terugtreden in 1559 als rekenmeester.			
+9	27	0	26	1	1						1573.0	0	0.0				
+10	37	0	8	4	1	2.0	9.0	1516.0	10.0	3.0	1532.0	0	0.0	Vincent Dammas was in 1516 klerk-ordinaris van de Rekenkamer en onder de eerste secretaris en audiëncier mr. Filips Haneton klerk van de rekening van de rechten. Eed 16 september 1516. De eerste rekening begint op 17 juni 1526.			
+11	4024	0	991	24	28	19.0	6.0	1558.0			1559.0	0	0.0		0.0	0.0	0.0
+12	79	0	13	4	1	19.0	7.0	1543.0	11.0	3.0	1549.0	0	0.0				
+13	81	0	9	4	1	12.0	11.0	1531.0	2.0	12.0	1541.0	0	0.0	Bos-Rops, Power of money,  geeft 12 november 1543 als commissiedatum.			
+14	82	0	38	4	1	11.0	3.0	1532.0	19.0	7.0	1543.0	0	0.0	Op de gegeven einddatum als gevlucht auditeur opgevolgd door Albert van Loo. Volgens Bos-Rops, Power of money, commissie op 12 november 1531 en in 1543 ontslagen.			
+15	87	0	41	1	1	16.0	12.0	1488.0			1508.0	0	0.0				
+16	102	0	41	4	1	1.0	8.0	1477.0	24.0	8.0	1489.0	0	0.0	Bos-Rops, Power of money, geeft 27 juni 1477 als commissiedatum.			
+17	104	0	47	4	1	25.0	8.0	1489.0	24.0	8.0	1499.0	0	0.0				
+18	106	0	48	4	1	29.0	3.0	1564.0			1568.0	0	0.0				
+19	107	0	6	4	1	1.0	2.0	1509.0	31.0	12.0	1511.0	0	0.0	Bos-Rops, Power of money, heeft 25 januari 1509  als commissie.			
+20	108	0	4	4	1	1.0	1.0	1506.0	31.0	1.0	1509.0	0	0.0	Bos-Rops, Power of money, geeft 16 december 1505 als commissie.			
+21	109	0	14	4	1	1.0	4.0	1550.0	31.0	3.0	1552.0	0	0.0	Bos-Rops, Power of money, geeft 23 februari 1545 als commissie tot auditeur.			
+22	117	0	21	4	1	25.0	3.0	1568.0				0	0.0	Opvolger van Govert Wallerand. Eed 6 april 1568 voor Pasen. Bos-Rops, Power of money, geeft 25 juni 1569 als commissie tot auditeur. Op 15 december 1575 rekenmeester-extraordinaris Rekenkamer Holland en op 3 juli 1576 rekenmeester, als opvolger van Adriaan Numan.			
+23	125	0	53	1	1	20.0	3.0	1557.0			1568.0	0	0.0				
+24	145	0	53	9	2		9.0	1543.0			1557.0	0	0.0				
+25	154	0	62	35	2	3.0	11.0	1572.0	31.0	7.0	1574.0	0	0.0	Memorialen Rosa geeft 20 november 1572. Aangesteld door Willem van Oranje in plaats van voortvluchtige raadsheren.			
+26	156	0	63	35	2	3.0	11.0	1572.0				0	0.0	Aangesteld door Willem van Oranje in plaats van voortvluchtige raadsheren.			
+27	158	0	64	35	2	30.0	9.0	1561.0	14.0	11.0	1580.0	0	0.0	Commissie (continuatie) door Willem van Oranje op 3 november 1572 en als enige van de raadsheren te 's-Gravenhage gebleven. Van 1572 tot 1578 vervulde hij zonder benoeming de functie van president. Als onbezoldigd raadsheer vermeld in 1559-1561.			
+28	166	0	68	24	2	15.0	4.0	1523.0	10.0	4.0	1536.0	0	0.0				
+29	167	0	68	25	2	15.0	4.0	1523.0	10.0	4.0	1536.0	0	0.0				
+30	174	0	70	24	2	11.0	10.0	1520.0	5.0	10.0	1522.0	0	0.0				
+31	182	0	72	25	2	16.0	12.0	1543.0	4.0	8.0	1548.0	0	0.0				
+32	186	0	73	25	2	7.0	3.0	1549.0	15.0	11.0	1558.0	0	0.0				
+33	187	0	73	24	2	7.0	3.0	1549.0	15.0	11.0	1558.0	0	0.0				
+34	213	0	84	25	2	14.0	3.0	1576.0	7.0	12.0	1580.0	0					
+35	214	0	84	35	2	14.0	3.0	1576.0	30.0	4.0	1584.0	0	0.0				
+36	216	0	85	25	2	9.0	6.0	1584.0	30.0	6.0	1595.0	0	0.0				
+37	218	0	86	25	2	7.0	12.0	1580.0	24.0	2.0	1584.0	0	0.0				
+38	222	0	44	22	2			1572.0			1574.0	0	0.0				
+39	226	0	89	9	2			1502.0			1509.0	0	0.0				
+40	228	0	90	9	2	23.0	11.0	1471.0	31.0	3.0	1477.0	0	0.0				
+41	253	0	99	35	2	22.0	2.0	1509.0	4.0	9.0	1514.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1501, 1504-1507 en 1509.			
+42	265	0	104	35	2	30.0	10.0	1515.0	31.0	12.0	1524.0	0	0.0				
+43	289	0	115	35	2	3.0	2.0	1546.0	10.0	7.0	1561.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1544-1546.			
+44	291	0	116	35	2	18.0	3.0	1547.0	4.0	6.0	1558.0	0	0.0				
+45	293	0	117	35	2	10.0	5.0	1547.0	17.0	4.0	1557.0	0	0.0				
+46	298	0	120	35	2	9.0	8.0	1559.0	15.0	4.0	1565.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1555-1559.			
+47	300	0	121	35	2	10.0	4.0	1557.0	10.0	9.0	1557.0	0	0.0				
+48	2294	0	107	35	2	30.0	4.0	1565.0	31.0	12.0	1567.0	0		Van der Mijle, die geen wedde meer ontving, deed pas op 20 september 1568 afstand en verliet het land. Als onbezoldigd raadsheer vermeld in 1564-1565			
+49	306	0	123	35	2	18.0	11.0	1560.0	31.0	10.0	1569.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1559-1560.			
+50	314	0	126	9	2			1516.0			1529.0	0	0.0				
+51	340	0	138	11	2			1541.0			1546.0	0	0.0	Onbezoldigd.			
+52	379	0	57	1	1	17.0	3.0	1521.0			1553.0	0	0.0				
+53	518	0	210	11	2	29.0	7.0	1563.0	26.0	11.0	1599.0	0	0.0				
+54	547	0	222	24	2	16.0	3.0	1489.0	23.0	7.0	1490.0	0	0.0				
+55	564	0	230	35	2	14.0	11.0	1573.0	31.0	10.0	1575.0	0	0.0				
+56	572	0	234	35	2	26.0	1.0	1580.0	31.0	12.0	1581.0	0	0.0				
+57	574	0	235	35	2	29.0	5.0	1581.0	9.0	9.0	1597.0	0	0.0				
+58	576	0	236	35	2	10.0	2.0	1582.0	30.0	9.0	1591.0	0	0.0				
+59	582	0	240	31	84	1.0	10.0	1531.0		10.0	1540.0	0	0.0	Door zijn benoeming van 10 oktober 1540 tot 'premier conseiller d'estat' behield hij toegang tot de Raad van State.			
+60	586	0	242	31	84	1.0	1.0	1549.0			1554.0	0	0.0				
+61	588	0	243	31	84			1554.0	8.0	5.0	1577.0	0	0.0				
+62	591	0	241	32	24	12.0	10.0	1540.0	25.0	12.0	1548.0	0	0.0	Opvolger van Jean (II) Carondelet en Pieter Tayspil. Beëindigd door overlijden.			
+63	592	0	242	35	24			1541.0	31.0	12.0	1548.0	0	0.0	Van 1544 tot 1548 was Jean de Saint-Mauris ambassadeur in Frankrijk.			
+64	593	0	243	32	24	17.0	4.0	1573.0	8.0	9.0	1575.0	0	0.0				
+65	595	0	244	17	24	24.0	11.0	1531.0		10.0	1540.0	0	0.0	Aanvangsdatum is de datum van de benoemingsbrief; Baelde, 316, geeft 2 oktober 1531, Kerckhoffs-de Hey 1 oktober.			
+66	598	0	111	32	24	8.0	9.0	1575.0				0	0.0				
+67	599	0	130	33	25	1.0	10.0	1531.0	2.0	4.0	1540.0	0	0.0	Voor de reorganisatie van 1531: Antoon van Lalaing was sinds 1515 hoofd van de Raad van Financiën. Beëindigd door overlijden.			
+68	605	0	248	33	25	26.0	8.0	1532.0		4.0	1549.0	0	0.0	Opvolger van Jacob van Luxemburg als eerste hoofd. Beëindigd door overlijden.			
+69	614	0	252	33	25			1549.0			1551.0	0	0.0	Opvolger van zijn vader Filips (II) van Croy. Beëindigd door overlijden.			
+70	615	0	253	39	29	25.0	9.0	1555.0	25.0	5.0	1560.0	0	0.0				
+71	618	0	254	33	25	29.0	7.0	1568.0	5.0	3.0	1574.0	0	0.0	Opvolger van Filips van Montmorency. Beëindigd door overlijden.			
+72	620	0	255	33	25			1576.0			1577.0	0	0.0				
+73	622	0	256	33	25	23.0	1.0	1576.0			1578.0	0	0.0	Opvolger van Filips van Sint Aldegonde.			
+74	627	0	251	34	84	16.0	12.0	1540.0			1553.0	0	0.0	Eerder lid met recht van toegang na oproep van de landvoogdes; op 16 december 1540 gewoon lid. Beëindigd door overlijden.			
+75	628	0	250	34	84			1554.0	4.0	6.0	1578.0	0	0.0	Hij speelde al in de jaren veertig een actieve rol in de Raad van State, maar werd eerst in 1554 benoemd. Hernieuwde aanstelling in Raad van State door Filips II op 27 oktober 1555. Eed 19 november 1555. Beëindigd door overlijden.			
+76	629	0	249	34	84	17.0	11.0	1555.0		11.0	1558.0	0	0.0	Sinds 1540 lid met recht van toegang na  oproep van de landvoogdes.  Op 17 november 1555 door Filips II bevestigd als gewoon lid. Beëindigd door overlijden.			
+77	632	0	245	34	84	17.0	11.0	1555.0		9.0	1559.0	0	0.0	Op 18 november 1555 voor Filips II bevestigd.			
+78	634	0	241	34	84	31.0	5.0	1535.0	12.0	10.0	1540.0	0	0.0				
+79	636	0	243	35	24	12.0	10.0	1540.0	31.0	12.0	1548.0	0	0.0				
+80	638	0	241	35	24	31.0	5.0	1535.0	12.0	10.0	1540.0	0	0.0				
+81	641	0	257	36	25	1.0	10.0	1531.0			1546.0	0	0.0	Voor de reorganisatie van 1531 was Ruffault ook thesaurier-generaal.			
+82	653	0	261	21	25	1.0	10.0	1531.0	1.0	8.0	1535.0	0	0.0	Voor de reorganisatie van 1531 was Micault reeds 25 jaar ontvanger-generaal.			
+83	655	0	262	21	25	1.0	8.0	1535.0			1546.0	0	0.0	Op eigen verzoek van zijn functie ontheven.			
+84	658	0	264	21	25			1557.0	17.0	6.0	1570.0	0	0.0				
+85	660	0	265	21	25	17.0	6.0	1570.0			1578.0	0	0.0				
+86	663	0	248	34	84	1.0	10.0	1531.0		4.0	1549.0	0	0.0	Op 16 december 1540 door Karel V als lid bevestigd. Beëindigd door overlijden.			
+87	667	0	241	35	28	7.0	11.0	1522.0			1540.0	0	0.0	Opvolger van Jacob Stalpart van der Wielen.			
+88	671	0	267	9	25	1.0	10.0	1531.0	17.0	1.0	1532.0	0	0.0				
+89	681	0	272	9	25	1.0	7.0	1557.0	9.0	7.0	1574.0	0	0.0				
+90	692	0	272	37	25	10.0	7.0	1574.0			1578.0	0	0.0	Opvolger van Martin Vandenberghe. Eindjaar onzeker.			
+91	707	0	282	11	84	10.0	9.0	1552.0	15.0	4.0	1555.0	0	0.0				
+92	709	0	283	11	84	15.0	4.0	1555.0			1574.0	0	0.0	Sinds 1568 niet meer in actieve dienst. Eed 3 juli 1571.			
+93	713	0	279	85	24	14.0	2.0	1532.0	16.0	9.0	1538.0	0	0.0				
+94	716	0	282	35	24	15.0	4.0	1555.0				0	0.0	Eed 23 april 1555. Baelde, Collaterale Raden, geeft als eindjaar 1562.			
+95	717	0	284	9	29	11.0	3.0	1544.0	11.0	9.0	1555.0	0	0.0				
+96	719	0	284	91	84	1.0	12.0	1556.0	19.0	6.0	1574.0	0	0.0	Vanaf 1568 nam Berty het secretariaat waar.			
+97	725	0	287	85	24	12.0	12.0	1577.0		9.0	1579.0	0	0.0	De benoemingsdatum was 'ten voorlopigen titel', in afwachting van het aftreden van Pieter van Overloepe. Van Pottelsberge verbleef bij aartshertog Matthias. Beëindigd door overlijden.			
+98	727	0	288	85	24	1.0	10.0	1531.0	19.0	2.0	1532.0	0	0.0	Voor de reorganisatie van 1531: audiëncier vanaf 6 april 1522.			
+99	732	0	289	11	24	1.0	2.0	1531.0	27.0	9.0	1575.0	0	0.0	Bourgeois was buitengewoon secretaris vanaf 1 augustus 1528. Eed als gewoon secretaris op 26 februari 1537. Vanaf 1574 deelde Bourgeois zijn wedde met Amborsius Boonen.			
+100	734	0	290	11	24	1.0	10.0	1531.0			1534.0	0	0.0	Voor de reorganisatie van 1531: secretaris sedert 15 augustus 1523, vanaf 14 maart 1525 secretaris zonder signatuurrecht.			
+101	735	0	291	11	24	1.0	10.0	1531.0	25.0	11.0	1532.0	0	0.0	Voor de reorganisatie van 1531: secretaris in de Geheime Raad vanaf 1 april 1522.			
+102	740	0	293	11	24	1.0	10.0	1531.0	11.0	1.0	1544.0	0	0.0	Voor de reorganisatie van 1531: secretaris in de Geheime Raad 21 maart 1527.			
+103	742	0	294	11	24	1.0	10.0	1531.0	17.0	5.0	1539.0	0	0.0	Voor de reorganisatie van 1531: sedert 1 juli 1517 secretaris in de Geheime Raad. Beëindigd door overlijden.			
+104	746	0	296	11	24	24.0	11.0	1531.0	7.0	10.0	1557.0	0	0.0	Eindjaar vermeld in de lijst van Baelde, Colleterale Raden.			
+105	761	0	304	11	24	13.0	10.0	1540.0	12.0	1.0	1547.0	0	0.0	Opvolger van Nicolas le Gouverneur. Bijna steeds met speciale zendingen in het buitenland verblijvend.			
+106	794	0	318	35	24	1.0	10.0	1531.0	5.0	8.0	1540.0	0	0.0	Voor de reorganisatie van 1531: raadsheer in de Geheime Raad vanaf 1517. Beëindigd door overlijden.			
+107	798	0	320	35	24	1.0	10.0	1531.0			1536.0	0	0.0	Voor de reorganisatie van 1531 was hij - vanaf 1513 - al lid van de Geheime Raad. Beëindigd door overlijden.			
+108	800	0	321	35	24	1.0	10.0	1531.0	6.0	11.0	1536.0	0	0.0	Voor de reorganisatie van 1531: raadsheer in de Geheime Raad op 2 december 1520. Beëindigd dor ontslag.			
+109	806	0	324	35	24	6.0	11.0	1536.0	3.0	3.0	1574.0	0	0.0	Opvolger van zijn schoonvader Jean aux Truyes. Eed ook 6 november 1536. Beëindigd door overlijden.			
+110	808	0	325	35	24			1538.0	11.0	12.0	1546.0	0	0.0	Kort na zijn aanstelling verliet hij de Nederlanden voor de Raad van Karel V.  Beëindigd door overlijden.			
+111	812	0	327	35	24			1540.0	19.0	6.0	1541.0	0	0.0				
+112	827	0	334	35	24			1560.0			1566.0	0	0.0	Beëindigd door overlijden, eind 1566.			
+113	829	0	335	35	24			1561.0			1566.0	0	0.0	In de praktijk was Hopperus veelal werkzaam als hulp voor Viglius in de Raad van State.			
+114	831	0	336	35	24	12.0	6.0	1573.0			1576.0	0	0.0	Door Alva aangesteld, doch verkreeg geen officiële benoemingsbrieven van Filips II. In september 1576 in hechtenis genomen.			
+115	833	0	337	35	24			1573.0	30.0	7.0	1578.0	0	0.0	In september 1576 te Brussel gevangen genomen. Volgde landvoogd Don Juan naar Namen en werd op 2 juli 1578 opnieuw benoemd. Beëindigd door overlijden.			
+116	837	0	339	35	24			1576.0				0	0.0	Begindatum onzeker. Lidmaatschap mogelijk eerder.			
+117	845	0	335	35	28	23.0	11.0	1554.0			1561.0	0	0.0	Opvolger van Jacques de Rebreviettes.			
+118	848	0	331	34	84	28.0	1.0	1554.0	21.0	10.0	1570.0	0	0.0	Eed 31 januari 1554. Hernieuwde aanstelling in Raad van State door Filips II op 27 oktober 1555. Eed 19 november 1555. Beëindigd door overlijden. In de naamlijst van Baelde, 221-222, is De Bruxelles twee maal opgenomen, met de jaartallen 1554-1570 en 1563-1570.			
+119	857	0	323	34	84	31.0	5.0	1535.0	4.0	1.0	1563.0	0	0.0	Op 27 oktober 1555 door Filips II bevestigd. Onduidelijk is of Nigri daarna nog lid was.			
+120	859	0	321	35	28	22.0	1.0	1504.0	2.0	12.0	1520.0	0	0.0				
+121	863	0	344	34	84	17.0	11.0	1555.0		8.0	1559.0	0	0.0				
+122	869	0	347	34	84	17.0	11.0	1555.0	13.0	3.0	1564.0	0	0.0				
+123	871	0	330	34	84	17.0	11.0	1555.0		12.0	1562.0	0	0.0	Benoeming in augustus 1559 bevestigd.			
+124	875	0	350	34	84	7.0	4.0	1574.0	10.0	4.0	1607.0	0	0.0	Reeds vanaf 1559 was D'Assonleville als hulp van Viglius in de Raad van State toegelaten. Beëindigd door overlijden.			
+125	877	0	351	34	84	17.0	4.0	1574.0			1576.0	0	0.0				
+126	879	0	352	34	84	15.0	7.0	1576.0	25.0	5.0	1604.0	0	0.0	Mansfelt had sinds maart 1574 toegang tot de Raad van State, maar pas op 15 juli 1576 volgde de officiële benoemingsbrief. Beëindigd door overlijden.			
+127	880	0	111	34	84	24.0	3.0	1576.0			1576.0	0	0.0	Sasbout trok zich in 1576 terug in Den Haag. Wel werd salaris uitbetaald tot maart 1579.			
+128	900	0	362	34	84	16.0	12.0	1540.0	23.0	9.0	1548.0	0	0.0	Opvolger van zijn vader Floris van Egmond. Aanvankelijk lid met recht van toegang na oproep van de landvoogdes; op 16 december 1540 gewoon lid. Beëindigd door overlijden.			
+129	904	0	364	34	84	17.0	11.0	1555.0	25.0	9.0	1556.0	0	0.0	Sinds 16 december 1540 lid met toegang na oproep van de landvoogdes; op 17 november 1555 gewoon lid. Beëindigd door overlijden.			
+130	907	0	113	34	84			1536.0	7.0	10.0	1555.0	0	0.0	De Schepper, Raad van State, acht het niet onmogelijk dat Lodewijk van Vlaanderen pas na de dood van Evrard van der Marck in 1538 lid werd. Beëindigd door overlijden.			
+131	911	0	367	34	84	1.0	12.0	1531.0	28.0	12.0	1539.0	0	0.0	Van 1532 tot 1538 verbleef hij als ambassadeur in Frankrijk. Beëindigd door overlijden.			
+132	921	0	357	33	25			1578.0			1579.0	0	0.0	Voor de aanstelling sneuvelde Berlaymont bij het beleg van Maastricht.			
+133	928	0	371	17	31	2.0	7.0	1538.0		10.0	1541.0	0	0.0				
+134	934	0	373	17	31	19.0	4.0	1547.0	8.0	9.0	1556.0	0	0.0	Stroobant, Magistrats, geeft 27 september 1547.			
+135	935	0	373	35	28	26.0	10.0	1540.0			1547.0	0	0.0	Opvolger van Engelbert van den Dale.			
+136	963	0	382	27	31	23.0	10.0	1540.0	14.0	8.0	1554.0	0	0.0	Ontslagen wegens achterstallige schulden. Het ambt werd tijdelijk waargenomen door Reinier van der Does.			
+137	968	0	384	27	31	18.0	3.0	1567.0			1573.0	0	0.0	Ontslagen wegens slechte administratie.			
+138	977	0	388	9	31	2.0	4.0	1530.0	11.0	3.0	1548.0	0	0.0				
+139	978	0	388	86	31	12.0	3.0	1548.0			1553.0	0	0.0				
+140	983	0	390	9	31	19.0	7.0	1574.0	31.0	7.0	1586.0	0	0.0	Verbannen door Leicester; later weer hersteld.			
+141	995	0	392	48	40	4.0	11.0	1548.0			1563.0	0	0.0	Eed voor Karel V op 12 november 1548, voor Filips II op 27 april 1560. Tevens ontvanger-generaal van de beden.			
+142	998	0	68	86	31	2.0	4.0	1530.0			1535.0	0	0.0				
+143	1000	0	397	86	31	2.0	4.0	1530.0			1531.0	0	0.0				
+144	1003	0	398	86	31	2.0	4.0	1530.0	21.0	9.0	1531.0	0	0.0				
+145	1004	0	398	35	31	21.0	9.0	1531.0			1535.0	0	0.0				
+146	1009	0	371	86	31	15.0	5.0	1537.0	2.0	7.0	1538.0	0	0.0				
+147	1014	0	401	35	31	1.0	9.0	1540.0	21.0	7.0	1541.0	0	0.0	Stroobant, Magistrats, geeft 15 september 1540.			
+148	1015	0	382	86	31		10.0	1540.0	10.0	10.0	1554.0	0	0.0				
+149	1019	0	402	86	31	6.0	8.0	1544.0	12.0	4.0	1548.0	0	0.0				
+150	1031	0	407	86	31	4.0	9.0	1561.0			1580.0	0	0.0				
+151	1041	0	385	86	31	23.0	9.0	1573.0				0	0.0				
+152	1043	0	412	35	31	10.0	10.0	1578.0				0	0.0				
+153	1051	0	416	86	31			1580.0				0	0.0				
+154	1060	0	420	35	31	27.0	8.0	1586.0				0					
+155	1062	0	421	35	31	27.0	8.0	1586.0				0	0.0				
+156	1064	0	422	86	31	6.0	8.0	1552.0				0	0.0	Eed hernieuwd voor Filips II op 13 november 1555.			
+157	1092	0	433	35	28			1492.0			1497.0	0	0.0				
+158	1111	0	441	35	28			1453.0		12.0	1491.0	0	0.0	Raadsheer-rekestmeester, in 1474 lekeraadsheer. Met tussenpozen.			
+159	1115	0	443	32	28		6.0	1477.0			1481.0	0	0.0	Hiervoor was Bouverie tweede president. De facto leidde Van der Bouverie de Raad al sinds maart 1477. De officiële benaming was hoofd en overste (chief et président).			
+160	1117	0	443	35	2	2.0	7.0	1463.0	6.0	7.0	1466.0	0	0.0				
+161	1129	0	448	35	28			1492.0				0	0.0				
+162	1131	0	449	35	28	22.0	1.0	1504.0	1.0	6.0	1517.0	0	0.0	Geestelijk raadsheer.			
+163	1133	0	450	35	28			1487.0				0	0.0	Raadsheer-rekestmeester.			
+164	1139	0	452	40	28	26.0	3.0	1480.0	20.0	12.0	1496.0	0	0.0				
+165	1140	0	452	17	28		9.0	1473.0			1477.0	0	0.0				
+166	1141	0	452	35	28			1467.0	20.0	3.0	1501.0	0	0.0	Raadsheer-rekestmeester; in 1477 benoemd als raadsheer-kamerheer.			
+167	1142	0	453	35	28			1495.0			1497.0	0	0.0				
+168	1156	0	458	24	28	24.0	10.0	1529.0	24.0	4.0	1558.0	0	0.0	Eed 8 november 1529. Beëindigd door overlijden.			
+169	1158	0	459	35	28			1502.0				0	0.0				
+170	1191	0	473	35	28						1497.0	0	0.0	Raadsheer-rekestmeester. Eindjaar onzeker.			
+171	1225	0	487	35	28			1502.0				0	0.0	Raadsheerschap in de Grote Raad onzeker. Het jaartal betreft een vermelding.			
+172	1270	0	507	24	28		12.0	1473.0			1488.0	0	0.0	Eindjaar onzeker (opvolging in 1488).			
+173	1294	0	519	35	28	1.0	6.0	1517.0	4.0	4.0	1543.0	0	0.0	Opvolger van Jerôme de Busleyden, doch geen geestelijk raadsheer.			
+174	1296	0	520	35	28	3.0	2.0	1527.0			1549.0	0	0.0	Opvolger van Jean Gonnet. Geestelijk raadsheer. Eed 12 augustus 1527. Eindjaar onzeker (opvolging in 1549).			
+175	1346	0	541	50	2	15.0	2.0	1429.0	1.0	10.0	1430.0	0	0.0				
+176	1362	0	549	39	2	3.0	3.0	1477.0	31.0	12.0	1479.0	0	0.0				
+177	1371	0	553	24	2	7.0	1.0	1449.0	26.0	10.0	1452.0	0	0.0				
+178	1394	0	564	1	1	10.0	5.0	1447.0	20.0	11.0	1463.0	0	0.0				
+179	1401	0	540	35	2	15.0	7.0	1463.0	16.0	6.0	1474.0	0	0.0				
+180	1411	0	560	35	2	30.0	1.0	1484.0	5.0	1.0	1489.0	0	0.0				
+181	1426	0	571	11	2	15.0	5.0	1451.0	1.0	12.0	1451.0	0	0.0				
+182	1437	0	575	11	2	13.0	8.0	1428.0	8.0	2.0	1447.0	0	0.0				
+183	1448	0	580	11	2	13.0	8.0	1428.0	1.0	10.0	1430.0	0	0.0				
+184	1450	0	581	11	2	10.0	1.0	1446.0	30.0	6.0	1463.0	0	0.0				
+185	1457	0	584	11	2	1.0	5.0	1433.0	31.0	10.0	1435.0	0	0.0				
+186	1462	0	585	11	2	13.0	8.0	1428.0	30.0	4.0	1433.0	0	0.0				
+187	1467	0	586	11	2	26.0	11.0	1478.0			1480.0	0	0.0				
+188	1468	0	575	9	2	1.0	5.0	1445.0	8.0	2.0	1447.0	0	0.0				
+189	1471	0	556	9	2	6.0	7.0	1463.0	7.0	11.0	1467.0	0	0.0				
+190	1472	0	556	9	2			1477.0			1482.0	0	0.0				
+191	1487	0	590	35	2	7.0	7.0	1463.0	15.0	4.0	1467.0	0	0.0				
+192	1503	0	598	35	2	2.0	5.0	1477.0	30.0	9.0	1477.0	0	0.0				
+193	1514	0	603	35	2	12.0	4.0	1477.0	17.0	6.0	1479.0	0	0.0				
+194	1520	0	606	35	2	10.0	12.0	1454.0	21.0	4.0	1458.0	0	0.0				
+195	1522	0	607	35	2	2.0	7.0	1463.0	30.0	4.0	1467.0	0	0.0				
+196	1529	0	610	35	2	1.0	9.0	1455.0	7.0	1.0	1457.0	0	0.0				
+197	1537	0	613	35	2	28.0	3.0	1459.0	30.0	6.0	1463.0	0	0.0				
+198	1539	0	614	35	2	12.0	4.0	1477.0	16.0	4.0	1477.0	0	0.0				
+199	1548	0	157	35	2	12.0	4.0	1477.0	10.0	10.0	1493.0	0	0.0				
+200	1568	0	628	35	2	1.0	5.0	1433.0	1.0	5.0	1438.0	0	0.0				
+201	1570	0	629	35	2	1.0	5.0	1433.0	1.0	5.0	1438.0	0	0.0				
+202	1580	0	633	35	2	1.0	5.0	1433.0	1.0	11.0	1434.0	0	0.0				
+203	1593	0	619	35	2	1.0	5.0	1433.0	30.0	4.0	1434.0	0	0.0				
+204	1597	0	641	35	2	1.0	5.0	1433.0	1.0	5.0	1438.0	0	0.0				
+205	1618	0	639	35	2	24.0	1.0	1429.0	1.0	12.0	1430.0	0	0.0				
+206	1619	0	638	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0				
+207	1621	0	637	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0				
+208	1624	0	635	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0				
+209	1626	0	633	35	2	1.0	5.0	1439.0	31.0	10.0	1440.0	0	0.0				
+210	1627	0	632	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0				
+211	1632	0	628	35	2	1.0	5.0	1439.0	31.0	10.0	1440.0	0	0.0				
+212	1648	0	650	35	29	25.0	1.0	1544.0	19.0	4.0	1561.0	0	0.0	Eed 30 januari 1544. Beëindigd door overlijden.			
+213	1652	0	652	35	29	5.0	3.0	1544.0	3.0	7.0	1569.0	0	0.0	Eed 22 maart 1544. Vanaf 1564 wegens verblijf op Huis ter Horst raad extraordinaris. Beëindigd door overlijden. Deze plaats stond open tot 1576.		6.0	
+214	1654	0	653	35	29	5.0	3.0	1544.0	29.0	6.0	1570.0	0	0.0	Eed 22 maart 1544. Vanaf 1563 wegens verblijf op zijn huis te IJzendoorn raad extraordinaris. Beëindigd door overlijden. Deze plaats stond open tot 1576.		7.0	
+215	1656	0	654	35	29		3.0	1544.0	23.0	11.0	1546.0	0	0.0	Met ingang van 22 maart 1544. Beëindigd door overlijden.		8.0	
+216	1660	0	656	35	29	31.0	1.0	1547.0	26.0	11.0	1558.0	0	0.0	Beëindigd door overlijden.			
+217	1662	0	657	35	29	8.0	9.0	1548.0	18.0	10.0	1549.0	0	0.0	Opvolger van Jan van Keppel. Beëindigd door overlijden.		8.0	
+218	1664	0	658	35	29	18.0	5.0	1549.0	16.0	9.0	1573.0	0	0.0	Eed 23 mei 1549. Beëindigd door overlijden.			
+219	1666	0	659	35	29	31.0	12.0	1549.0	17.0	8.0	1566.0	0	0.0	Eed 20 februari 1550. Beëindigd door overlijden.			
+220	1673	0	662	35	28	8.0	11.0	1564.0			1583.0	0	0.0	Opvolger van François van Cranevelt. Maris, Archief Hof van Gelre, geeft 25 januari 1565.			
+221	1686	0	668	35	29	2.0	8.0	1567.0	4.0	1.0	1578.0	0	0.0	Opvolger van Dirk Deyn. Eed 21 augustus 1567.			
+222	1692	0	671	35	29	18.0	6.0	1576.0	31.0	3.0	1577.0	0	0.0	Opvolger van Jacob Pieck. Eed 31 juli 1576. Beëindigd door overlijden.		7.0	
+223	1694	0	672	86	29	1.0	6.0	1574.0	20.0	6.0	1576.0	0	0.0				
+224	1699	0	674	35	29	20.0	6.0	1576.0	7.0	9.0	1578.0	0	0.0	Opvolger van Christoffel van Meurs.		9.0	
+225	1703	0	675	35	29	25.0	9.0	1578.0	31.0	1.0	1580.0	0	0.0	Eed 17 januari 1579. In 1580 naar Roermond vertrokken.		12.0	
+226	1713	0	680	35	29	25.0	9.0	1578.0			1579.0	0	0.0	Eed 17 januari 1579. Beëindigd door overlijden.		8.0	
+227	1715	0	681	35	29	25.0	9.0	1578.0			1579.0	0	0.0	Eed 17 januari 1579.		7.0	
+228	1721	0	684	35	29	28.0	11.0	1579.0	26.0	2.0	1589.0	0	0.0	Eed 26 maart 1580. Beëindigd door overlijden.		17.0	
+229	1727	0	687	35	29	16.0	6.0	1580.0	29.0	11.0	1584.0	0	0.0	Eed 25 augustus 1580. Beëindigd door overlijden.		7.0	
+230	1743	0	693	41	29	7.0	12.0	1586.0	14.0	10.0	1601.0	0	0.0	Eed 10 december 1586. Beëindigd door overlijden.			
+231	1757	0	615	35	2	22.0	5.0	1482.0	18.0	2.0	1493.0	0	0.0				
+232	1762	0	619	35	2	24.0	1.0	1429.0	1.0	12.0	1430.0	0	0.0				
+233	1763	0	606	35	2	2.0	8.0	1458.0	30.0	6.0	1463.0	0	0.0				
+234	1765	0	624	17	44	10.0	9.0	1473.0		12.0	1474.0	0	0.0				
+235	1767	0	625	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0				
+236	2084	0	113	39	31	22.0	7.0	1544.0	17.0	3.0	1547.0	0	0.0	Beëindigd door ontslag.			
+237	4108	0	254	39	31			1573.0			1573.0	0	0.0	Waarnemend voor twee maanden door de gevangenneming van de graaf van Bossu.	0.0	0.0	0.0
+238	4109	0	418	86	31	10.0	8.0	1588.0				0	0.0		0.0	0.0	0.0
+239	2039	0	726	17	85	17.0	1.0	1474.0				0	0.0				
+240	2040	0	750	35	85	17.0	1.0	1474.0				0	0.0				
+241	2041	0	747	35	85	17.0	1.0	1474.0				0	0.0				
+242	2042	0	786	35	85	17.0	1.0	1474.0				0	0.0				
+243	2043	0	784	35	85	17.0	1.0	1474.0				0	0.0				
+244	2044	0	790	35	85	17.0	1.0	1474.0				0	0.0				
+245	2045	0	788	35	85	17.0	1.0	1474.0				0	0.0				
+246	2046	0	789	35	85	17.0	1.0	1474.0				0	0.0				
+247	2047	0	746	35	85	17.0	1.0	1474.0				0	0.0				
+248	2050	0	830	11	2	7.0	2.0	1500.0	19.0	1.0	1549.0	0	0.0	In 1499 vermeld als onbezoldigd secretaris. Ter Braake, De weg naar het hof, geeft 1501 als aanvangsjaar. Beëindigd door overlijden.			
+249	2051	0	113	39	2	4.0	10.0	1544.0	17.0	3.0	1547.0	0	0.0				
+250	2052	0	424	39	2	10.0	5.0	1567.0			1572.0	0	0.0	Aangesteld ter vervanging van Willem van Oranje en officieel in functie tot hij door de Geuzen gevangen genomen werd op 11 oktober 1573.			
+251	2058	0	831	48	40	1.0	4.0	1563.0	24.0	7.0	1574.0	0	0.0				
+252	2061	0	17	1	40	5.0	2.0	1559.0			1562.0	0	0.0	Eindjaar onzeker (opvolging begin 1563).			
+253	2063	0	833	1	40	5.0	2.0	1559.0	26.0	10.0	1578.0	0	0.0				
+254	2064	0	392	1	40	20.0	1.0	1563.0	2.0	11.0	1578.0	0	0.0	Opvolger van Reinier van der Does. Eed 2 april 1563. Uit het ambt gezet vanwege Spaanse sympathieën.			
+255	2066	0	834	1	40	17.0	6.0	1570.0	3.0	11.0	1578.0	0	0.0				
+256	2070	0	836	1	40	28.0	6.0	1580.0	30.0	8.0	1623.0	0	0.0				
+257	2072	0	837	1	40	28.0	6.0	1580.0	27.0	6.0	1586.0	0	0.0				
+258	2074	0	838	1	40	28.0	6.0	1580.0	4.0	1.0	1593.0	0	0.0				
+259	2075	0	835	4	40	5.0	2.0	1559.0				0	0.0				
+260	2077	0	839	4	40	17.0	6.0	1570.0	12.0	11.0	1598.0	0	0.0	Dibbets was van 1560 tot zijn dood in 1598 secretaris van de kanselarij. Beëindigd door overlijden.			
+261	2079	0	840	4	40	13.0	7.0	1574.0			1578.0	0	0.0				
+262	2086	0	116	39	2	18.0	3.0	1547.0	4.0	6.0	1558.0	0	0.0				
+263	2087	0	122	39	31	18.0	8.0	1559.0	11.0	4.0	1567.0	0	0.0				
+264	2088	0	122	39	2	28.0	8.0	1559.0	11.0	4.0	1567.0	0	0.0				
+265	2089	0	122	39	2	20.0	7.0	1572.0	10.0	7.0	1584.0	0	0.0				
+266	2153	0	862	35	44	8.0	9.0	1473.0			1477.0	0	0.0				
+267	2154	0	556	52	44			1474.0			1477.0	0	0.0				
+268	2155	0	863	35	44	1.0	3.0	1474.0			1477.0	0	0.0				
+269	2157	0	864	35	44			1474.0			1477.0	0	0.0				
+270	2159	0	865	35	44			1474.0				0	0.0				
+271	2161	0	866	35	44			1474.0				0	0.0				
+272	2163	0	867	35	44			1476.0				0	0.0				
+273	2165	0	868	35	44			1474.0			1476.0	0	0.0				
+274	2167	0	869	35	44			1474.0			1476.0	0	0.0				
+275	2169	0	870	35	44			1474.0			1476.0	0	0.0				
+276	2171	0	871	35	44			1474.0				0	0.0				
+277	2177	0	874	11	44			1474.0			1475.0	0	0.0				
+278	2179	0	875	11	44			1474.0			1475.0	0	0.0				
+279	2181	0	876	11	44			1473.0				0	0.0				
+280	2183	0	877	11	44			1474.0			1475.0	0	0.0				
+281	2248	0	904	35	2			1561.0			1572.0	0	0.0	Onbezoldigd. Witte Wittensz. week in juli 1572 met het Hof uit naar Utrecht.			
+282	2252	0	906	35	2	3.0	4.0	1570.0			1572.0	0	0.0	Willem van Coornhuysen week in juli 1572 met het Hof uit naar Utrecht.			
+283	2254	0	907	35	2	9.0	4.0	1562.0			1572.0	0	0.0	Johan van Lesanen week in 1572 met het Hof uit naar Utrecht. Als onbezoldigd raadsheer vermeld in 1559-1562.			
+284	2256	0	908	35	2	21.0	8.0	1570.0			1572.0	0	0.0	Cornelis Oem van Wijngaerden week in juli 1572 met het Hof uit naar Utrecht.			
+285	2258	0	909	35	2	20.0	9.0	1568.0			1572.0	0	0.0	Willem van der Criep week in 1572 met het Hof uit naar Utrecht. Als onbezoldigd raadsheer vermeld in 1567.			
+286	2259	0	27	35	2	4.0	6.0	1561.0			1572.0	0		Nicolaas van der Laan week in juli 1572 met het Hof uit naar Utrecht.			
+287	2263	0	911	35	2			1565.0			1572.0	0	0.0	Onbezoldigd. Reinier van der Duin week in juli 1572 met het Hof uit naar Utrecht.			
+288	2268	0	17	1	1			1570.0				0	0.0				
+289	2270	0	914	35	2			1562.0			1572.0	0	0.0	Onbezoldigd. Karel de Smytere week in juli 1572 met het Hof uit naar Utrecht.			
+290	2290	0	923	35	2	3.0	1.0	1560.0	11.0	3.0	1562.0	0	0.0	Beëindigd door overlijden.			
+291	2297	0	925	35	2			1565.0			1572.0	0	0.0	Onbezoldigd. Jacob de Quesnoy week in juli 1572 met het Hof uit naar Utrecht.			
+292	2311	0	357	39	31			1574.0			1577.0	0	0.0				
+293	2325	0	383	52	31	8.0	4.0	1554.0			1563.0	0	0.0				
+294	2330	0	17	27	31			1554.0			1555.0	0	0.0	Tijdelijke waarneming van de functie als vervanger van Peter de Clercq.			
+295	2405	0	388	52	31			1530.0				0	0.0				
+296	2407	0	17	4	1	11.0	3.0	1550.0			1554.0	0	0.0				
+297	2408	0	19	4	1	2.0	10.0	1554.0			1568.0	0	0.0				
+298	2466	0	985	35	28	5.0	9.0	1548.0			1557.0	0	0.0	Opvolger van Adriaan van der Burch. Beëindigd door overlijden.			
+299	2607	0	1040	35	2			1436.0			1443.0	0	0.0	Onbezoldigd. Niet vermeld in 1441. Memorialen Rosa geeft 1436-1446.			
+300	2634	0	559	11	44			1475.0				0	0.0				
+301	2771	0	1110	9	28	26.0	11.0	1580.0		6.0	1583.0	0	0.0	Opvolger van Jacques Buisset. Beëindigd door overlijden.			
+302	2798	0	1119	35	28			1473.0				0	0.0				
+303	2837	0	975	64	2			1492.0			1511.0	0	0.0				
+304	3781	0	472	88	2	31.0	7.0	1510.0	22.0	9.0	1528.0	0					
+305	3802	0	373	34	84	9.0	11.0	1556.0	1.0	17.0	1557.0	0	0.0		0.0	0.0	0.0
+306	210	0	82	24	2	16.0	7.0	1520.0	11.0	10.0	1520.0	0	0.0	Tijdelijke functie.			
+307	3018	0	1217	40	29	3.0	6.0	1581.0	7.0	12.0	1598.0	0	0.0	Beëindigd door overlijden.			
+308	3810	0	1341	37	25			1543.0				0	0.0	Voorlopig lid.	0.0	0.0	0.0
+309	3174	0	830	52	2			1512.0				0	0.0				
+310	3221	0	5	9	2			1505.0			1505.0	0	0.0				
+311	3223	0	1288	1	1			1515.0			1525.0	0	0.0				
+312	1677	0	664	35	29	15.0	2.0	1559.0	1.0	8.0	1561.0	0	0.0	Opvolger van Hayo Ripperda. Eed 24 april 1559. Beëindigd door overlijden.		8.0	
+313	2189	0	392	1	40	26.0	5.0	1580.0	18.0	9.0	1583.0	0	0.0	Voorlopige aanstelling; op 1 april was hij reeds aan het werk getogen. Aan het eind van 1582 vaste aanstelling. Gramaye werd in juli 1586 met terugwerkende kracht van zijn functie vervallen verklaard en verbannen.			
+314	3306	0	97	35	28							0	0.0				
+315	3319	0	1326	56	28			1504.0			1534.0	0	0.0				
+316	3387	0	650	72	29			1547.0				0	0.0				
+317	3388	0	658	72	29			1569.0				0	0.0				
+318	3389	0	647	72	29			1544.0	14.0	11.0	1546.0	0	0.0				
+319	3390	0	401	72	29			1548.0				0	0.0				
+320	3411	0	366	39	2	19.0	11.0	1515.0	14.0	2.0	1522.0	0	0.0				
+321	3413	0	239	39	2	1.0	11.0	1585.0	23.0	4.0	1625.0	0	0.0				
+322	3551	0	1307	77	28			1563.0			1570.0	0			0.0	0.0	0.0
+323	3553	0	1402	77	28						1550.0	0	0.0		0.0	0.0	0.0
+324	3555	0	1403	77	28			1550.0			1559.0	0	0.0		0.0	0.0	0.0
+325	3557	0	1404	77	28			1559.0			1563.0	0	0.0		0.0	0.0	0.0
+326	3636	0	905	35	2			1559.0			1567.0	0	0.0	Onbezoldigd. Ook vermeld in 1570.	0.0	0.0	0.0
+327	3675	0	577	52	2	1.0	7.0	1463.0	30.0	9.0	1469.0	0	0.0		0.0	0.0	0.0
+328	3679	0	553	64	2			1457.0	30.0	4.0	1467.0	0	0.0		0.0	0.0	0.0
+329	3697	0	1223	35	29	30.0	12.0	1582.0			1585.0	0	0.0	Eed 10 juni 1583.	0.0	6.0	0.0
+330	3819	0	470	35	2	1.0	6.0	1431.0	1.0	11.0	1432.0	0	0.0		0.0	0.0	0.0
+331	536	0	219	11	2			1574.0			1584.0	0	0.0	Onbezoldigd. Beëindigd door overlijden.			
+332	765	0	306	11	24	11.0	1.0	1544.0	10.0	3.0	1575.0	0	0.0	Opvolger van Leonard Hardinck. Eindjaar vermeld in de lijst van Baelde, Collaterale Raden, is 1560.			
+333	3844	0	936	86	31	9.0	25.0	1588.0				0					
+334	3847	0	1345	33	25			1578.0				0	0.0		0.0	0.0	0.0
+335	3854	0	629	35	2	13.0	8.0	1428.0	15.0	2.0	1429.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.	0.0	0.0	0.0
+336	3855	0	1466	9	2			1510.0			1516.0	0	0.0		0.0	0.0	0.0
+337	3856	0	1467	11	2			1579.0			1586.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+338	3873	0	71	24	31	2.0	4.0	1530.0	11.0	4.0	1536.0	0					
+339	3886	0	639	35	2	13.0	8.0	1428.0	15.0	2.0	1429.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.	0.0	0.0	0.0
+340	3904	0	109	11	84	11.0	9.0	1538.0	31.0	3.0	1543.0	0					
+341	3917	0	1474	40	28			1530.0			1550.0	0	0.0	Opvolger van Mercurino de Gattinara. Officieel was de functie afgeschaft; Granvelle werd algemeen als kanselier beschouwd en ook aangesproken.	0.0	0.0	0.0
+342	3920	0	508	35	28			1497.0			1502.0	0	0.0	Raadsheer-rekestmeester. Mogelijk al in 1494.	0.0	0.0	0.0
+343	3923	0	511	35	28			1494.0			1494.0	0	0.0	Raadsheer-rekestmeester. De jaartallen betreffen vermeldingen.	0.0	0.0	0.0
+344	3928	0	521	35	28			1489.0			1491.0	0	0.0	Raadsheer-rekestmeester.	0.0	0.0	0.0
+345	134	0	54	88	2	7.0	10.0	1559.0			1572.0	0	0.0	Cornelis Suys week in 1572 met het Hof uit naar Utrecht.			
+346	639	0	245	35	24	31.0	12.0	1549.0				0	0.0	Eed 4 januari 1550. Als eindjaar vermeldt Baelde in zijn lijst in Collaterale Raden 1553.			
+347	3941	0	1477	11	24	15.0	2.0	1555.0				0	0.0	Eed 2 maart 1555. Tevens secretaris in de Grote Raad (te Mechelen). Niet genoemd door Hassieau, Secrétaires du conseil.	0.0	0.0	0.0
+348	3944	0	1478	35	2	13.0	8.0	1428.0	15.0	2.0	1429.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.	0.0	0.0	0.0
+349	3945	0	1478	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0		0.0	0.0	0.0
+350	3957	0	622	35	2	13.0	8.0	1428.0	24.0	6.0	1430.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.	0.0	0.0	0.0
+351	3958	0	600	35	2	13.0	8.0	1428.0	15.0	2.0	1429.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft. Memorialen Rosa geeft een doorlopende periode van 13 augustus 1428 tot 12 januari 1447.	0.0	0.0	0.0
+352	3962	0	5	22	2			1504.0			1505.0	0	0.0		0.0	0.0	0.0
+353	3963	0	1482	22	2			1514.0			1515.0	0	0.0		0.0	0.0	0.0
+354	3966	0	1484	22	2			1574.0			1602.0	0	0.0		0.0	0.0	0.0
+355	3984	0	1492	11	2			1553.0			1572.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+356	3988	0	1495	11	2			1577.0			1596.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+357	3989	0	1496	11	2			1586.0			1596.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+358	3997	0	1502	24	2	24.0	2.0	1474.0	14.0	6.0	1474.0	0	0.0	Tijdelijke functie.	0.0	0.0	0.0
+359	3998	0	559	24	2	13.0	6.0	1480.0	11.0	9.0	1480.0	0	0.0	Tijdelijke functie.	0.0	0.0	0.0
+360	3999	0	559	24	2	23.0	7.0	1490.0	31.0	12.0	1490.0	0	0.0	Tijdelijke functie.	0.0	0.0	0.0
+361	4001	0	1503	11	2			1529.0			1541.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+362	4002	0	141	11	2			1531.0			1541.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+363	4006	0	614	39	2	7.0	10.0	1483.0	19.0	11.0	1515.0	0	0.0		0.0	0.0	0.0
+364	4007	0	1	35	2	10.0	3.0	1505.0	30.0	4.0	1516.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1486 en 1504.	0.0	0.0	0.0
+365	4009	0	1506	35	2			1542.0			1546.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+366	4010	0	1507	35	2			1549.0			1554.0	0	0.0	Onbezoldigd.	0.0	0.0	0.0
+367	4017	0	510	40	28	15.0	12.0	1496.0	20.0	3.0	1507.0	0	0.0	Mogelijk benoemd op 21 december. Beëindigd door overlijden.	0.0	0.0	0.0
+368	4018	0	535	33	28			1504.0			1505.0	0	0.0	Vervanger van de kanselier.	0.0	0.0	0.0
+369	4029	0	1517	9	28			1477.0				0	0.0	Secretaris en griffier.	0.0	0.0	0.0
+370	4030	0	1518	9	28			1480.0				0	0.0	Secretaris en griffier. Het jaartal betreft een vermelding.	0.0	0.0	0.0
+371	4031	0	1519	9	28			1480.0				0	0.0	Secretaris en griffier. Het jaartal betreft een vermelding.	0.0	0.0	0.0
+372	4032	0	1520	9	28			1486.0				0	0.0	Secretaris en griffier. Het jaartal betreft een vermelding.	0.0	0.0	0.0
+373	556	0	226	35	2	27.0	1.0	1573.0			1595.0	0	0.0	Aangesteld door Willem van Oranje in de plaats van voortvluchtige raadsheren. Beëindigd door overlijden.			
+374	4035	0	1104	9	28			1505.0			1506.0	0	0.0	Secretaris en griffier. Opvolger van Jean de Longueville. Le Botechou komt nergens in de stukken voor. Eindjaar onzeker.	0.0	0.0	0.0
+375	4036	0	1105	52	28	10.0	7.0	1507.0	17.0	4.0	1513.0	0	0.0		0.0	0.0	0.0
+376	4037	0	1105	9	28	1.0	4.0	1513.0			1523.0	0	0.0	Deze functie werd nadien niet vervuld.	0.0	0.0	0.0
+377	4039	0	1523	9	28			1507.0			1513.0	0	0.0	Secretaris (1509) en griffier. Opvolger van Evrard Rousseau, die hem ook weer opvolgde. Le Berthoz oefende zijn functie niet uit.	0.0	0.0	0.0
+378	4043	0	1526	85	28	10.0	8.0	1479.0	31.0	3.0	1481.0	0	0.0		0.0	0.0	0.0
+379	4045	0	1527	85	28	1.0	1.0	1500.0	18.0	4.0	1522.0	0	0.0	Opvolger van zijn schoonvader Gerard Numan. Onderbreking in 1516. Zijn opvolger Laurens du Blioul noemde zich utdrukkelijk audiëncier van de Geheime Raad.	0.0	0.0	0.0
+380	4052	0	1533	35	28	8.0	12.0	1473.0				0	0.0	Geestelijk raadsheer.	0.0	0.0	0.0
+381	4053	0	1534	35	28	8.0	12.0	1473.0				0	0.0	Geestelijk raadsheer.	0.0	0.0	0.0
+382	4054	0	1535	35	28	12.0	8.0	1473.0				0	0.0	Lekeraadsheer.	0.0	0.0	0.0
+383	4055	0	1536	35	28	8.0	12.0	1473.0				0	0.0	Lekeraadsheer.	0.0	0.0	0.0
+384	4056	0	1537	35	28	8.0	12.0	1473.0				0	0.0	Lekeraadsheer.	0.0	0.0	0.0
+385	4057	0	1538	35	28	8.0	12.0	1473.0				0	0.0	Lekeraadsheer.	0.0	0.0	0.0
+386	4058	0	1539	35	28			1448.0			1477.0	0	0.0	Raadsheer-rekestmeester. In 1473 in het Parlement van Mechelen beneomd als rekestmeester. Het jaartal betreft een eerste vermelding.	0.0	0.0	0.0
+387	4060	0	1541	35	28			1454.0				0	0.0	Raadsheer-rekestmeester. Op 8 december 1473 werd Jean Jacquelin in het Parlement van Mechelen benoemd als rekestmeester. Het jaartal betreft een vermelding.	0.0	0.0	0.0
+388	4068	0	310	91	84			1574.0			1579.0	0	0.0		0.0	0.0	0.0
+389	1262	0	505	35	28	29.0	11.0	1527.0		12.0	1538.0	0	0.0	Opvolger van Pieter Tayspil. Eed 21 februari 1527.			
+390	4096	0	1561	35	24	30.0	1.0	1545.0	11.0	8.0	1564.0	0	0.0	Einddatum onzeker: waarschijnlijk was hij geruimte tijd voor zijn overlijden niet meer in de Geheime Raad werkzaam.	0.0	0.0	0.0
+391	4097	0	1345	34	84			1578.0				0	0.0	Opvolger van Karel van Berlaymont.	0.0	0.0	0.0
+392	4098	0	1477	52	28		7.0	1550.0			1587.0	0		Opvolger van zijn schoonvader Nicolaas Faurel.			
+393	4101	0	1562	11	24	1.0	9.0	1534.0				0	0.0	Buitengewoon secretaris.	0.0	0.0	0.0
+394	4102	0	670	35	29	25.0	9.0	1578.0			1580.0	0	0.0	In 1580 naar Roermond vertrokken.	0.0	6.0	0.0
+395	4103	0	655	35	29	25.0	9.0	1578.0	2.0	9.0	1580.0	0	0.0	Tevens waarnemend kanselier. Een kanselier werd aanvankelijk niet aangesteld. In 1580 naar Roermond vertrokken.	0.0		0.0
+396	1725	0	686	35	29	2.0	6.0	1580.0	11.0	5.0	1616.0	0	0.0	Van der Capellen was sedert het overlijden van kanselier Voet op 25 maart 1607 belast met het voorzitterschap en werd in 1616 tot kanselier benoemd.		8.0	
+397	4104	0	1217	72	29	9.0	9.0	1581.0				0	0.0		0.0	0.0	0.0
+398	1640	0	401	35	29		1.0	1544.0	20.0	4.0	1547.0	0	0.0	Met ingang van 29 januari 1544.			
+399	1682	0	666	35	29	7.0	11.0	1561.0	7.0	9.0	1578.0	0	0.0	Opvolger van Evert van Heeckeren.		8.0	
+400	4105	0	676	72	29			1581.0				0	0.0		0.0	0.0	0.0
+401	1679	0	665	35	29	4.0	9.0	1561.0	8.0	1.0	1565.0	0	0.0	Opvolger van Johan van der Straten. Eed 6 oktober 1561.			
+402	1033	0	408	35	31	27.0	8.0	1560.0	3.0	12.0	1568.0	0	0.0	Beëindigd door overlijden (onthoofding).			
+403	2081	0	130	39	2	14.0	2.0	1522.0	2.0	4.0	1540.0	0	0.0	Beëindigd door overlijden.			
+404	2080	0	130	39	31	15.0	11.0	1529.0	2.0	4.0	1540.0	0	0.0	Beëindigd door overlijden.			
+405	3197	0	955	35	2	14.0	3.0	1496.0	8.0	8.0	1510.0	0	0.0	Aangesteld bij provisie vanwege vacerend ambt. Als onbezoldigd raadsheer vermeld in 1495.			
+406	80	0	12	4	1	2.0	12.0	1541.0	12.0	8.0	1544.0	0	0.0	Eed 19 december 1541.			
+407	1070	0	424	39	31	17.0	6.0	1567.0	11.0	10.0	1573.0	0	0.0	Gevangen genomen door de Geuzen op 11 oktober 1573.			
+408	558	0	227	35	2	2.0	3.0	1573.0	7.0	3.0	1604.0	0	0.0	Beëindigd door overlijden.			
+409	941	0	374	35	28	16.0	1.0	1560.0			1569.0	0	0.0	Opvolger van Jean de Glimes.			
+410	980	0	389	9	31	21.0	5.0	1548.0	18.0	6.0	1574.0	0	0.0	Eed hernieuwd voor Filips II op 13 november 1555 en op 1 juli 1572.			
+411	1040	0	411	35	31			1569.0	15.0	4.0	1578.0	0	0.0	Op 15 april 1578 verbannen en tot openbaar vijand verklaard op 11 januari 1581.			
+412	2085	0	116	39	31	18.0	3.0	1547.0	4.0	6.0	1558.0	0	0.0	Beëindigd door overlijden.			
+413	1675	0	663	35	29	9.0	9.0	1559.0	28.0	3.0	1564.0	0	0.0	Opvolger van Jan Gillis. Eed 23 september 1559. Beëindigd door ontslag.			
+414	1748	0	357	39	29	30.0	4.0	1572.0			1577.0	0	0.0	Berlaymont verliet Gelderland in 1577 en koos de zijde van Don Juan.			
+415	1705	0	676	35	29	25.0	9.0	1578.0				0	0.0	Eed 17 januari 1579. [In 1589 nog raadsheer.]		7.0	
+416	2068	0	835	2	40	6.0	6.0	1578.0	28.0	6.0	1578.0	0	0.0	Beëindigd door overlijden.			
+417	2812	0	1127	40	28			1471.0			1477.0	0	0.0	Hiervoor raadsheer-rekestmeester tot 1470, in december 1470 hoofd.			
+418	1750	0	695	39	29	22.0	5.0	1578.0	2.0	6.0	1581.0	0	0.0	Johan van Nassau vertrok juli 1580 uit Gelderland; de einddatum is de dag dat hij zijn laatste tractement ontving.			
+419	1711	0	679	35	29	25.0	9.0	1578.0			1601.0	0	0.0	Eed 17 januari 1579.		9.0	
+420	1029	0	406	86	31	19.0	4.0	1564.0			1585.0	0	0.0	Eed als raadsheer aan de Staten op 21 oktober 1580. Beëindigd door overlijden.			
+421	1717	0	682	35	29	26.0	10.0	1578.0				0	0.0	Eed 20 december 1579. [Overleden in 1582.]		10.0	
+422	1315	0	527	35	28	12.0	5.0	1511.0	15.0	10.0	1522.0	0	0.0	Reeds in 1504 buitengewoon raadsheer met recht van opvolging van een afgetreden of overleden lid. Opvolger van Thomas de la Papoire. Kerckhoffs-de Hey, Grote Raad, Biografieën 106, geeft 13 mei.			
+423	1709	0	678	35	29	25.0	9.0	1578.0	29.0	3.0	1604.0	0		Eed 17 januari 1579. Voet was sedert 20 december 1598 belast met het voorzitterschap en werd in 1604 tot kanselier benoemd.		9.0	
+424	1719	0	683	35	29	28.0	11.0	1579.0			1585.0	0	0.0	Eed 10 maart 1580.		7.0	
+425	1358	0	547	39	2	17.0	6.0	1448.0	23.0	11.0	1462.0	0	0.0	Vaak aangeduid als stadhouder-generaal.			
+426	1629	0	631	35	2	1.0	5.0	1433.0	30.0	4.0	1434.0	0	0.0	In de jaren 1435-1437, 1439-1440, 1443 en 1445 als onbezoldigd raadsheer vermeld (Memorialen Rosa geeft 1433-1438).			
+427	1633	0	629	35	2	1.0	5.0	1439.0	31.0	10.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in de jaren 1438-1439, 1441-1442 en 1444. Memorialen Rosa geeft 1429, 1431 en 1433-1442.			
+428	1137	0	451	35	28	27.0	7.0	1508.0			1522.0	0	0.0	Opvolger van zijn broer Jean (II) Carondelet. Geestelijk raadsheer.			
+429	1684	0	667	35	29	28.0	3.0	1564.0	7.0	9.0	1578.0	0	0.0	Opvolger van Frederik Boymer. Eed 2 mei 1564.			
+430	83	0	39	4	1	28.0	1.0	1552.0			1564.0	0	0.0	Eed op 11 februari 1552.			
+431	1167	0	463	35	28			1477.0				0	0.0	Raadsheer-kamerheer. Het jaartal betreft een vermelding.			
+432	781	0	314	11	24			1577.0			1578.0	0	0.0	Aangesteld als adjunct-secretaris met recht van opvolging na de dood van zijn vader.			
+433	3811	0	1458	37	25	23.0	9.0	1559.0			1573.0	0	0.0	Sedert 1555 reeds buitengewoon gecommitteerde. Opvolger van Robert de Bouloigne.	0.0	0.0	0.0
+434	2474	0	989	35	28	24.0	6.0	1555.0	29.0	12.0	1574.0	0	0.0	Opvolger van Arthus Bogaert. Beëindigd door overlijden.			
+435	1233	0	491	35	28			1477.0				0	0.0	Raadsheer-rekestmeester. Voor deze benoeming in 1477 was hij geestelijk raadsheer.			
+436	771	0	309	11	24	7.0	2.0	1562.0	4.0	10.0	1578.0	0	0.0	Aanvankelijk deelde hij de wedde met zijn toekomstige schoonvader Jan de Langhe. In 1578 werd Jan Mesdach zegelbewaarder van de Geheime Raad.			
+437	2310	0	931	39	31			1573.0			1574.0	0	0.0	Waarnemend, als opvolger van Filips van Sint Aldegonde, heer van Noircarmes, vanwege gevangenschap van Maximiliaan van Hennin-Liétard, graaf van Bossu.			
+438	2669	0	1062	19	2			1432.0	15.0	11.0	1446.0	0	0.0	Jaarlijks vanuit Brussel lange tijd in Den Haag aanwezig om rekeningen af te horen. Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1434-1437, 1440 en 1442-1446. Memorialen Rosa geeft 1433-1444.			
+439	2461	0	982	35	28	23.0	5.0	1547.0	18.0	1.0	1568.0	0	0.0	Opvolger van zijn schoonvader Adriaan Nicolai. Beëindigd door overlijden.			
+440	3952	0	73	35	28	28.0	11.0	1558.0	25.0	10.0	1568.0	0		Opvolger van Franco van den Bergh. Beëindigd door overlijden.			
+441	3550	0	1307	35	28	31.0	7.0	1570.0	14.0	5.0	1587.0	0	0.0	Opvolger van Jean de Masnuy. Beëindigd door overlijden.	0.0	0.0	0.0
+442	2299	0	926	35	2	20.0	11.0	1572.0	3.0	8.0	1573.0	0	0.0	Aangesteld door Willem van Oranje in plaats van voortvluchtige raadsheren.			
+443	1491	0	592	35	2	12.0	4.0	1477.0	12.0	5.0	1479.0	0	0.0				
+444	3813	0	1459	11	2	3.0	12.0	1511.0	29.0	10.0	1515.0	0	0.0	In de jaren 1509-1511 vermeld als onbezoldigd secretaris.	0.0	0.0	0.0
+445	1153	0	457	35	28			1456.0			1477.0	0	0.0	Raadsheer-rekestmeester.			
+446	2673	0	1063	11	2	13.0	8.0	1428.0	22.0	10.0	1445.0	0	0.0				
+447	2265	0	912	35	2			1565.0			1571.0	0	0.0	Onbezoldigd.			
+448	1022	0	403	86	31	22.0	9.0	1554.0	29.0	4.0	1561.0	0	0.0	Eed hernieuwd voor Filips II op 13 november 1555.			
+449	2090	0	122	39	31		10.0	1577.0	10.0	7.0	1584.0	0	0.0	Door de Staten van Utrecht als stadhouder erkend. Beëindigd door overlijden.			
+450	135	0	54	35	2	10.0	7.0	1543.0	7.0	10.0	1559.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1536-1543.			
+451	1072	0	425	39	31	21.0	9.0	1585.0	18.0	10.0	1589.0	0	0.0	Beëindigd door overlijden.			
+452	1993	0	794	24	85	2.0	10.0	1474.0				0	0.0	Op 2 oktober 1471 commissie tot procureur-generaal, ook als zodanig werkzaam bij de Schive. Nog genoemd in 1477.			
+453	931	0	372	17	31	6.0	10.0	1541.0	2.0	7.0	1546.0	0	0.0	Beëindigd door overlijden.			
+454	1723	0	685	35	29	1.0	4.0	1580.0			1585.0	0	0.0	Eed 21 april 1580. Beëindigd door overlijden.		8.0	
+455	1556	0	622	35	2	1.0	11.0	1432.0	1.0	2.0	1453.0	0	0.0	Memorialen Rosa geeft een vermelding als onbezoldigd raadsheer in 1432. Niet in Damen, Staat van dienst. Beëindigd door overlijden.			
+456	1170	0	465	35	28			1497.0			1532.0	0	0.0	Mogelijk al sinds 1495.			
+457	1545	0	617	35	2	1.0	5.0	1431.0	17.0	12.0	1440.0	0	0.0	Beëindigd door overlijden.			
+458	1274	0	509	35	28			1497.0				0	0.0	Misschien al in 1495. Raadsheer-rekestmeester tot 1503, dan raadsheer-kamerheer (eed 2 februari 1503).			
+459	2403	0	966	52	31	22.0	8.0	1584.0			1589.0	0	0.0	Opvolger van Dirk van Gouda.			
+460	1344	0	540	88	2	17.0	6.0	1474.0	15.0	1.0	1477.0	0	0.0	President bij absentie van de stadhouder.			
+461	1744	0	110	39	29	20.0	9.0	1543.0			1544.0	0	0.0				
+462	607	0	249	33	25	7.0	1.0	1544.0		11.0	1558.0	0	0.0	Opvolger van Filips van Lannoy. Eed 10 januari 1544. Beëindigd door overlijden.			
+463	664	0	244	35	28	13.0	9.0	1522.0			1527.0	0	0.0	Opvolger van Jean Roussel. Baelde, Collaterale raden 316, geeft 12 december 1522. Eindjaar onzeker (opvolging 1527).			
+464	1068	0	423	39	31	30.0	9.0	1584.0	21.0	9.0	1585.0	0	0.0	Benoemd door de Staten van Utrecht. Beëindigd door gevangenneming.			
+465	923	0	370	17	31	31.0	3.0	1530.0	2.0	7.0	1538.0	0	0.0	Beëindigd door ontslag.			
+466	937	0	72	17	31	8.0	3.0	1557.0	3.0	12.0	1568.0	0	0.0	Beëindigd door overlijden.			
+467	3502	0	862	72	44			1476.0				0	0.0	Nog genoemd in 1484.			
+468	1008	0	115	24	31	19.0	8.0	1536.0			1544.0	0	0.0	Eindjaar onzeker (opvolging in 1544).			
+469	1066	0	409	24	31	22.0	6.0	1557.0	8.0	1.0	1571.0	0	0.0	Beëindigd door overlijden.			
+470	1023	0	403	35	31	29.0	4.0	1561.0	15.0	4.0	1578.0	0	0.0	Op 15 april 1578 verbannen en tot openbaar vijand verklaard op 11 januari 1581.			
+471	2401	0	845	35	31	2.0	4.0	1530.0			1548.0	0	0.0	Beëindigd door overlijden.			
+472	1253	0	501	35	28			1497.0				0	0.0	Raadsheer-rekestmeester. Mogelijk al sinds 1495. Kerckhoffs-de Hey, Biografieën van raadsheren, vermeldt echter op p. 85 ook dat hij in 1502 de overleden Louis de Bacq opvolgde.			
+473	149	0	60	9	2	1.0	7.0	1583.0	21.0	1.0	1593.0	0	0.0	Beëindigd door overlijden.			
+474	756	0	301	11	24	6.0	3.0	1538.0			1554.0	0	0.0	Secretaris zonder signatuur.			
+475	1747	0	694	39	29	18.0	6.0	1560.0	8.0	1.0	1572.0	0	0.0	Eed 8 juli 1560. Beëindigd door overlijden.			
+476	1650	0	651	35	29	5.0	3.0	1544.0	9.0	10.0	1566.0	0	0.0	Eed 22 maart 1544. Beëindigd door overlijden. Deze plaats stond open tot 1576.		9.0	
+477	1643	0	648	40	29	1.0	7.0	1576.0	7.0	9.0	1578.0	0	0.0	Eed 14 december 1576.			
+478	119	0	51	13	1	17.0	12.0	1567.0			1576.0	0	0.0	Opvolger van Jacob Snouckaert van Binkhorst. In 1576 werd Jacob Godijn auditeur en op 16 juli 1578 rekenmeester-extraordinaris.			
+479	1045	0	413	35	31	8.0	10.0	1580.0	16.0	4.0	1595.0	0		Beëindigd door overlijden.			
+480	2397	0	965	35	31	22.0	2.0	1557.0	16.0	4.0	1561.0	0	0.0	Beëindigd door overlijden.			
+481	954	0	379	24	31	18.0	4.0	1572.0			1581.0	0	0.0	Eed voor de Staten 21 oktober 1580.			
+482	960	0	381	27	31			1530.0	26.0	2.0	1531.0	0	0.0	Vermoedelijk rentmeester van de keizer voor 1530.			
+483	2395	0	379	27	31			1578.0			1579.0	0	0.0	Waarnemend.			
+484	974	0	387	27	31	27.0	8.0	1586.0			1592.0	0	0.0	Eindjaar onzeker (opvolging in 1592).			
+485	2048	0	702	35	85	17.0	1.0	1474.0				0	0.0				
+486	986	0	390	9	31	10.0	10.0	1588.0			1606.0	0	0.0	Beëindigd door overlijden.			
+487	993	0	395	35	31	2.0	4.0	1530.0			1538.0	0	0.0	Beëindigd door overlijden.			
+488	1053	0	417	86	31	17.0	10.0	1581.0			1611.0	0	0.0	Bij vonnis van 11 mei 1611 voor eeuwig uit Utrecht verbannen.			
+489	2391	0	936	86	31	17.0	4.0	1579.0	31.0	7.0	1586.0	0	0.0	Door Leicester op 31 juli 1586 verbannen en in 1588 hersteld.			
+490	981	0	389	86	31	19.0	6.0	1574.0	15.0	8.0	1574.0	0	0.0	Beëindigd door overlijden.			
+491	1121	0	445	35	28	1.0	1.0	1522.0			1532.0	0	0.0	Opvolger van Jean van der Leyden.			
+492	1055	0	418	86	31	15.0	11.0	1581.0	31.0	7.0	1586.0	0		Verbannen door Leicester en in 1588 als raadsheer extraordinaris hersteld.			
+493	1006	0	399	35	31	29.0	2.0	1532.0			1540.0	0	0.0				
+494	1047	0	414	35	31	4.0	10.0	1580.0	8.0	6.0	1598.0	0	0.0	Op 8 juni 1598 tot president benoemd, wat hij bleef tot hij op 29 mei 1611 werd afgezet.			
+495	996	0	396	86	31	22.0	8.0	1531.0	15.0	4.0	1543.0	0	0.0	Beëindigd door overlijden.			
+496	1227	0	488	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-kamerheer. Het jaartal betreft een vermelding.			
+497	2399	0	846	35	31	27.0	9.0	1541.0			1578.0	0	0.0	Benoeming reeds in 1535? Eed als raad hernieuwd voor Filips II op 13 november 1555. In 1578 verlof tot absentie uitgezonderd belangrijke zaken.			
+498	1228	0	489	35	28			1494.0				0	0.0	Raadsheerschap in de Grote Raad onzeker. Het jaartal betreft een vermelding.			
+499	1049	0	415	35	31	20.0	10.0	1580.0			1606.0	0	0.0	Beëindigd door overlijden.			
+500	961	0	160	86	31	26.0	2.0	1531.0			1540.0	0	0.0	Beëindigd door overlijden.			
+501	388	0	160	27	31	26.0	2.0	1531.0			1540.0	0	0.0	Beëindigd door overlijden.			
+502	1592	0	639	35	2	1.0	5.0	1433.0	30.0	4.0	1438.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1438-1439. Memorialen Rosa geeft 1433-1442.			
+503	3195	0	1280	35	2	2.0	3.0	1503.0	12.0	5.0	1532.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1495.			
+504	2810	0	1126	35	28	8.0	12.0	1473.0				0	0.0	Geestelijk raadsheer.			
+505	966	0	383	86	31	8.0	4.0	1554.0			1566.0	0	0.0	Beëindigd door overlijden.			
+506	3187	0	1278	35	2	1.0	1.0	1497.0	23.0	3.0	1501.0	0	0.0	Bezoldigd als hij resideert in plaats van afwezige raadsheren.			
+507	1231	0	490	35	28	8.0	12.0	1473.0				0	0.0	Lekeraadsheer. Het aanvangsjaar betreft een vermelding.			
+508	2566	0	1024	35	2	22.0	5.0	1482.0	5.0	7.0	1494.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1477. Beëindigd door overlijden.			
+509	219	0	71	25	2	6.0	10.0	1522.0	28.0	3.0	1523.0	0	0.0	Tijdelijke functie.			
+510	1444	0	578	11	2	13.0	8.0	1428.0	31.0	10.0	1441.0	0	0.0	In de jaren 1441-1462 (Memorialen Rosa 1445-1462) vermeld als onbezoldigd secretaris.			
+511	2573	0	1027	35	2			1434.0			1443.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft 1433-1443.			
+512	3178	0	1032	35	2	18.0	2.0	1493.0	22.0	2.0	1503.0	0	0.0	Opvolger van Filips van Wassenaar. Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1477-1479. Memorialen Rosa geeft 1477 en 1487.			
+513	3681	0	1427	64	2	8.0	4.0	1478.0			1482.0	0	0.0	Mogelijk nog na 1482.	0.0	0.0	0.0
+514	1523	0	606	35	2	27.0	5.0	1468.0	17.0	6.0	1474.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1467, 1474-1475 en 1480-1482. Memorialen Rosa geeft 1465, 1475 en 1480.			
+515	1479	0	582	35	2	26.0	7.0	1453.0	30.0	6.0	1463.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1439-1443. Memorialen Rosa geeft 1438 en 1440-1442.			
+516	1424	0	570	11	2	22.0	10.0	1445.0	22.0	5.0	1451.0	0	0.0	In 1443 (Memorialen Rosa 1443-1445) vermeld als onbezoldigd secretaris. Opvolger van Klaas de Vriese.			
+517	1590	0	638	35	2	24.0	12.0	1432.0	24.0	6.0	1434.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1435-1439 en 1441-1444. Memorialen Rosa geeft 1431-1444.			
+518	957	0	380	24	31	27.0	8.0	1586.0			1589.0	0	0.0	Vertrok in 1588 naar Engeland en nam in 1589 ontslag.			
+519	1027	0	405	86	31	1.0	4.0	1564.0	7.0	6.0	1587.0	0	0.0	Beëindigd door overlijden.			
+520	1081	0	428	35	28	3.0	2.0	1529.0			1529.0	0	0.0	Opvolger van zijn vader Pierre l'Apostole. Eed 8 februari 1529.			
+521	1083	0	429	35	28	1.0	11.0	1501.0			1531.0	0	0.0	Raadsheer-rekestmeester. Het aanvangsjaar betreft een eerste vermelding. In 1529 deed hij afstand van het raadsheerschap ten gunste van zijn zoon Jérome, die echter spoedig overleed, waarna Pierre l'Apostole op 10 november 1529 opnieuw benoemd werd.			
+522	835	0	338	35	24			1574.0				0	0.0				
+523	1617	0	639	35	2	1.0	5.0	1439.0	31.0	10.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1440-1444.			
+524	3208	0	956	35	2	13.0	2.0	1514.0	29.0	10.0	1515.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1513 en 1515-1516.			
+525	3892	0	1471	35	2	23.0	7.0	1516.0	30.0	1.0	1522.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+526	1090	0	432	35	28			1500.0			1502.0	0	0.0	Raadsheer-rekestmeester.			
+527	3796	0	1454	35	28	6.0	4.0	1522.0		4.0	1522.0	0	0.0	Opvolger van Jean Arthus. Binnen een maand na benoeming overleden.	0.0	0.0	0.0
+528	1292	0	518	35	28	8.0	12.0	1473.0				0	0.0	Geestelijk raadsheer.			
+529	4061	0	1542	35	28	8.0	12.0	1473.0				0	0.0	Raadsheer-rekestmeester.	0.0	0.0	0.0
+530	1518	0	605	35	2	24.0	4.0	1445.0	10.0	11.0	1454.0	0	0.0	Beïndigd door overlijden. Als onbezoldigd raadsheer vermeld in 1438-1445. Memorialen Rosa geeft 1438-1443.			
+531	2794	0	1117	35	28							0	0.0	Lekeraadsheer in het Parlement van Mechelen; niet vermeld in de benoemingen van 8 december 1473.			
+532	2308	0	108	35	2	16.0	12.0	1559.0			1572.0	0	0.0	Arnout Nicolai week in 1572 met het Hof uit naar Utrecht; hij sloot zich later bij de Opstand aan. Als onbezoldigd raadsheer vermeld in 1557.			
+533	2414	0	384	86	31	12.0	4.0	1568.0				0	0.0	Eed op 12 april 1568 als rentmeester-generaal voor de Rekenkamer van Holland, als raad extraordinaris voor de president van het Hof.			
+534	1571	0	470	35	2	1.0	5.0	1433.0	31.0	10.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1440-1445. Memroialen Rosa geeft 1433-1440 en 1445.			
+535	760	0	303	11	24	31.0	5.0	1539.0			1574.0	0	0.0	Opvolger van Jean de la Sauch. De lijst in Baelde, Collaterale Raden, geeft 1532 als aanvangsjaar. In 1574 nam zijn Neef Jan de Boodt zijn taken over met recht op benoeming na Baves overlijden. Bave koos, in tegenstelling tot De Boodt, de zijde van de opstandelingen			
+536	1584	0	635	35	2	1.0	5.0	1433.0	31.0	10.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1431-1432 en 1440-1445. Memorialen Rosa geeft 1432-1445.			
+537	329	0	134	9	2			1509.0			1510.0	0	0.0	Vervulde de functie tijdelijk.			
+538	1623	0	636	35	2	24.0	12.0	1428.0	24.0	6.0	1437.0	0	0.0	In Memorialen Rosa in de jaren 1433-1437 als onbezoldigd.			
+539	1562	0	625	35	2	17.0	4.0	1445.0	18.0	1.0	1452.0	0	0.0	Memorialen Rosa geeft als einddatum 18 januari 1853. Als onbezoldigd raadsheer vermeld in 1431-1432 en 1434-1435. Memorialen Rosa geeft 1431 en 1433-1442.			
+540	2392	0	936	27	31	17.0	4.0	1579.0	31.0	7.0	1586.0	0	0.0	Door Leicester verbannen.			
+541	943	0	375	17	31	27.0	8.0	1586.0				0	0.0	Opvolger (na vijf jaar) van Joris Rataller. Benoemd onder invloed van Leicester en vermoedelijk heeft hij zich niet in zijn ambt kunnen handhaven (functie blijkbaar waargenomen door Caspar de Bruxelles).			
+542	3209	0	956	86	2	1.0	10.0	1516.0	12.0	9.0	1532.0	0	0.0	Raadsheer met pensioen. Beëindigd door overlijden.			
+543	1701	0	675	86	29	20.0	6.0	1576.0	4.0	1.0	1578.0	0	0.0	Eed 31 juli 1576.			
+544	1702	0	675	35	29	4.0	1.0	1578.0	7.0	9.0	1578.0	0	0.0	Opvolger van Johan Wrdt. Eed 16 april 1578.			
+545	916	0	369	34	84	1.0	10.0	1531.0	14.0	10.0	1539.0	0	0.0	Beëindigd door overlijden.			
+546	1099	0	436	35	28			1520.0				0	0.0	Het jaartal betreft een vermelding.			
+547	2492	0	997	24	28	18.0	7.0	1559.0			1567.0	0	0.0	Tevens raadsheer. Eindjaar onzeker (opvolging in 1567).			
+548	198	0	76	24	2	9.0	1.0	1576.0	28.0	2.0	1576.0	0	0.0	Tijdelijke functie.			
+549	2476	0	990	35	28	9.0	6.0	1557.0			1558.0	0	0.0	Opvolger van Corneille de Muinck. Beëindigd door overlijden.			
+550	1752	0	696	39	29	20.0	10.0	1581.0	5.0	11.0	1583.0	0	0.0	Eed 24 november 1581. Op 5 november 1583 werd graaf van den Bergh gearresteerd onder verdenking van verstandhouding met de vijand.			
+551	1012	0	400	86	31	22.0	3.0	1539.0			1553.0	0	0.0	Beëindigd door overlijden.			
+552	4110	0	18	13	1	22.0	4.0	1564.0			1567.0	0		Eed 9 mei 1564.			
+553	965	0	383	27	31	29.0	4.0	1555.0			1566.0	0	0.0	Opvolger van Peter de Clercq. Eed als rentmeester-generaal vernieuwd voor Filips II op 13 november 1555, commissie op 11 mei 1556, tevens als ontvanger van de exploiten. Beëindigd door overlijden.			
+554	1209	0	481	35	28			1477.0				0	0.0	Tevens in naam advocaat-fiscaal.			
+555	2483	0	993	25	28	19.0	6.0	1558.0	11.0	11.0	1576.0	0	0.0	Opvolger van Philibert de Bruxelles. Tevens raadsheer. Beëindigd door overlijden.			
+556	1113	0	442	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-kamerheer.			
+557	1057	0	419	86	31	15.0	11.0	1581.0	2.0	4.0	1584.0	0	0.0	Beëindigd door overlijden.			
+558	2532	0	403	35	28	12.0	9.0	1582.0			1584.0	0	0.0	Opvolger van Jean Richardot. Beëindigd door overlijden.			
+559	1105	0	438	35	28			1502.0				0	0.0	Het jaartal betreft een vermelding.			
+560	1217	0	484	17	44		12.0	1474.0				0	0.0	Sedert september 1473 tevens president van de Raadkamer Zutphen.			
+561	776	0	311	11	24	19.0	6.0	1574.0			1578.0	0	0.0	Opvolger van zijn oom Joost Bave. De Boodt volgde Don Juan van Oostenrijk naar Namen in 1577.			
+562	778	0	312	11	24	19.0	6.0	1574.0			1578.0	0	0.0	Met halve wedde als hulp toegevoegd aan Sebastien Bourgeois.			
+563	3890	0	1471	35	2	9.0	1.0	1514.0	29.0	10.0	1515.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1515-1516.		0.0	0.0
+564	924	0	370	35	2	30.0	10.0	1515.0	31.0	3.0	1530.0	0	0.0				
+565	2664	0	1060	19	2			1435.0			1437.0	0	0.0	Om de rekeningen af te horen.			
+566	1527	0	609	35	2	1.0	11.0	1432.0	1.0	9.0	1455.0	0	0.0	Beëindigd door overlijden.			
+567	2577	0	1028	35	2			1439.0			1444.0	0	0.0	Onbezoldigd. Ook vermeld in 1429 en 1436-1437.			
+568	1106	0	439	35	28	2.0	12.0	1520.0			1555.0	0	0.0	Opvolger van Jean aux Truyes.			
+569	1109	0	440	35	28			1479.0				0	0.0	Raadsheer-rekestmeester. Mogelijk al in 1477 rekestmeester.			
+570	4059	0	1540	35	28	8.0	12.0	1473.0				0	0.0	Raadsheer-rekestmeester.	0.0	0.0	0.0
+571	3851	0	106	35	2	30.0	10.0	1515.0	9.0	10.0	1528.0	0	0.0		0.0	0.0	0.0
+572	2563	0	1023	35	2	1.0	10.0	1469.0			1477.0	0	0.0	Uit hoofde van zijn functie als rentmeester van Noord-Holland. Memorialen Rosa geeft 31 december 1479 als einddatum. Als onbezoldigd raadsheer vermeld in 1459 en 1481-1482. Memorialen Rosa geeft 1462.			
+573	1174	0	466	35	28	1.0	5.0	1495.0			1498.0	0	0.0	Al raadsheer, naast zijn functie van procureur-generaal, sinds 1491.			
+574	651	0	259	37	25			1546.0			1554.0	0	0.0	Het aanvangsjaar is onzeker.			
+575	645	0	259	36	25	11.0	4.0	1554.0			1564.0	0	0.0				
+576	1398	0	566	1	1	22.0	5.0	1482.0	31.0	12.0	1485.0	0	0.0	Onbezoldigd.			
+577	1470	0	552	9	2	2.0	10.0	1447.0	30.0	6.0	1463.0	0	0.0				
+578	1428	0	572	11	2	2.0	12.0	1451.0			1456.0	0	0.0	In 1449-1451 vermeld als onbezoldigd secretaris.			
+579	1430	0	573	11	2	29.0	7.0	1456.0	21.0	4.0	1458.0	0	0.0	In de jaren 1449-1450 en 1454 (Memorialen Rosa 1449-1454)  vermeld als onbezoldigd secretais.			
+580	241	0	94	35	2			1504.0			1514.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft 1504-1514.			
+581	232	0	91	35	2	1.0	1.0	1501.0			1510.0	0	0.0	Beëindigd door overlijden.			
+582	6	0	5	1	1	20.0	8.0	1505.0			1511.0	0	0.0	Opvolger van Frank Krusink.			
+583	332	0	11	11	2	4.0	11.0	1515.0	16.0	8.0	1543.0	0	0.0	In 1512 en 1514 vermeld als onbezoldigd seretaris.			
+584	1631	0	628	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1431, 1438 en 1441-1444. Memorialen Rosa geeft 1431 en 1433-1442.			
+585	1119	0	444	35	28	6.0	10.0	1509.0	18.0	12.0	1515.0	0	0.0	Opvolger van Nicolaas Everaerts, doch geen geestelijk raadsheer.			
+586	656	0	263	21	25	7.0	3.0	1546.0			1557.0	0	0.0	Eed 30 maart 1546.			
+587	677	0	270	9	25	14.0	9.0	1538.0	1.0	7.0	1557.0	0	0.0				
+588	675	0	269	9	25			1534.0		1.0	1538.0	0	0.0	Aanvangsjaar onzeker. Beëindigd door overlijden.			
+589	1613	0	643	35	2	24.0	12.0	1428.0	24.0	12.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1441. Memorialen Rosa geeft 1433-1441 onbezoldigd.			
+590	1122	0	445	17	28	27.0	11.0	1532.0			1556.0	0	0.0				
+591	3317	0	1325	35	28	26.0	4.0	1523.0			1543.0	0	0.0	Opvolger van Tristam de Lucenne.			
+592	11	0	10	1	1	6.0	10.0	1541.0			1543.0	0	0.0	Surnumerair. Eed 18 november.			
+593	764	0	305	11	24	28.0	6.0	1544.0			1581.0	0	0.0	Boventallig gewoon secretaris.			
+594	1534	0	470	35	2	2.0	12.0	1445.0	24.0	12.0	1451.0	0	0.0	Beëindigd door overlijden.			
+595	1531	0	611	35	2	2.0	7.0	1463.0	9.0	3.0	1472.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1441-1444 en 1455. Memorialen Rosa geeft 1441-1442, 1445, 1455 en 1462.			
+596	1552	0	620	35	2	4.0	9.0	1451.0	28.0	2.0	1460.0	0	0.0	Na 1455 resideerde hij niet meer in Den Haag. Als onbezoldigd raadsheer vermeld in 1438 en 1440-1442. Memorialen Rosa geeft 1438 en 1440-1441.			
+597	1508	0	600	35	2	1.0	11.0	1432.0	1.0	8.0	1447.0	0	0.0	Van januari 1434 tot april 1435 ook werkzaam als commissaris voor het afhoren van de rekeningen als vervanger van Joost van Steeland.			
+598	1390	0	156	4	1	10.0	5.0	1447.0	20.0	11.0	1463.0	0	0.0	Sedert 1440 klerk van Bartholomeus a la Truye en sedert december 1445 permanent in Den Haag gestationeerd als klerk van de rekeningen.			
+599	287	0	114	35	2			1544.0			1551.0	0	0.0	Onbezoldigd.			
+600	1103	0	437	33	28			1487.0			1501.0	0	0.0	Vervanger van de kanselier.			
+601	1311	0	70	35	28	13.0	9.0	1522.0	24.0	10.0	1524.0	0	0.0	Opvolger van Philippe le Bacq. Eed 6 oktober 1522.			
+602	2579	0	707	35	2			1439.0			1444.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft 1440-1442.			
+603	318	0	128	35	2			1525.0			1547.0	0	0.0	Onbezoldigd.			
+604	1125	0	446	39	2	23.0	11.0	1462.0	3.0	3.0	1477.0	0	0.0	Tussen 17 juli 1474 en 15 januari 1477 was Lodewijk van Brugge afwezig en werd hij vervangen door Jan van Halewijn.			
+605	1124	0	446	35	28	26.0	3.0	1477.0				0	0.0	Lid als eerste kamerling van Maria van Bourgondië.			
+606	3412	0	110	34	84	16.0	12.0	1540.0		7.0	1544.0	0	0.0	Opvolger van zijn vader Hendrik van Nassau. In 1538 lid met recht van toegang na oproep van de landvoogdes; op 16 december 1540 gewoon lid. Beëindigd door overlijden.			
+607	1037	0	410	35	31	28.0	11.0	1567.0	8.0	10.0	1595.0	0	0.0	Eed hernieuwd aan Filips II op 1 juli 1572 en aan de Staten op 4 oktober 1584. Bij afwezigheid van Bellechier functioneerde Caspar de Bruxelles blijkbaar als president van september 1588 tot september 1595.			
+608	2083	0	110	39	2	12.0	10.0	1540.0		7.0	1544.0	0	0.0	Beëindigd door overlijden.			
+609	668	0	240	35	28			1497.0			1508.0	0	0.0	In 1497 benoemd tot geestelijk raadsheer in de Grote Raad van Filips de Schone en op 22 januari 1504 in de Grote Raad.			
+610	810	0	326	35	24			1539.0	29.0	7.0	1547.0	0	0.0	Aanvangsjaar onzeker. Beëindigd door overlijden.			
+611	847	0	331	35	28	25.0	9.0	1539.0			1543.0	0	0.0	Opvolger van zijn vader Raoul de Bruxelles.			
+612	590	0	240	33	24	1.0	10.0	1531.0			1540.0	0	0.0	Voor de reorganisatie van 1531: vanaf 1508 was Jean Carondelet raadsheer in de Geheime Raad. Vanaf 1522, als opvolger van Jean Caulier, hoofd.			
+613	1415	0	564	4	2			1439.0			1441.0	0	0.0	Opvolger van Pieter van der Tannerie. In 1440 vermeld als onbezoldigd secretaris en in 1440-1442 en 1444 als onbezoldigd raadsheer in het Hof van Holland. (Memorialen Rosa geeft de jaren 1440-1443 en 1454-1455 als onbezoldigd raadsheer.)			
+614	1337	0	537	35	28			1497.0	2.0	3.0	1520.0	0	0.0	Opvolger van Jean Caulier. Raadsheer-rekestmeester.			
+615	1755	0	613	35	2	19.0	10.0	1492.0	22.0	2.0	1496.0	0	0.0	Opvolger van Jan van Strijen. Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1456-1457. Memorialen Rosa geeft 1455, 1457 en 1482.			
+616	1276	0	510	17	28			1487.0			1496.0	0	0.0	Beëindigd door overlijden.			
+617	1260	0	504	35	28	15.0	10.0	1511.0	10.0	3.0	1514.0	0	0.0	Opvolger van Richard de la Chapelle. Geestelijk raadsheer.			
+618	1204	0	479	35	28	10.0	3.0	1514.0	3.0	2.0	1527.0	0	0.0	Opvolger van Jean Louis de Mouscron. Geestelijk raadsheer.			
+619	2517	0	1007	35	28	14.0	1.0	1575.0			1598.0	0	0.0	Opvolger van Willem van Pamele.			
+620	952	0	378	35	28			1485.0				0	0.0	Raadsheerschap in de Gropte Raad onzeker.			
+621	3821	0	939	52	31	21.0	3.0	1569.0			1576.0	0	0.0	Hiervoor was Dirk van Gouda secretaris. Eed 22 april 1570 na pasen.	0.0	0.0	0.0
+622	1073	0	425	39	29	30.0	5.0	1584.0	18.0	10.0	1589.0	0	0.0	Beëindigd door overlijden.			
+623	1811	0	718	35	2	13.0	8.0	1428.0	15.0	2.0	1429.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft. Niets wijst erop dat hij actief geweest is in zijn functie.			
+624	1086	0	430	24	28	6.0	12.0	1521.0	17.0	9.0	1524.0	0	0.0	Beëindigd door overlijden.			
+625	1310	0	70	24	28	24.0	10.0	1524.0		10.0	1529.0	0	0.0	Beëindigd door overlijden.			
+626	4034	0	1522	9	28			1490.0			1490.0	0	0.0	Het jaartal betreft een vermelding. Alleen in1490 aangetroffen.	0.0	0.0	0.0
+627	815	0	328	35	24			1547.0				0	0.0	Opvolger van Charles de Boisot. In de lijst van Baelde, Collaterale Raden, staat als eindjaar 1548.			
+628	850	0	328	35	28	17.0	8.0	1543.0			1572.0	0	0.0	Opvolger van Filibert de Bruxelles.			
+629	1396	0	565	1	1	10.0	5.0	1447.0	14.0	11.0	1463.0	0	0.0	Beëindigd door overlijden.			
+630	2487	0	995	35	28	30.0	6.0	1559.0			1573.0	0	0.0	Opvolger van Philippe Fabri. Geestelijk raadsheer. Beëindigd door overlijden.			
+631	914	0	368	34	84	1.0	10.0	1531.0	16.0	2.0	1538.0	0	0.0	Beëindigd door overlijden.			
+632	2424	0	970	35	28	18.0	9.0	1532.0			1569.0	0	0.0	Opvolger van Hieronymus van den Dorpe.			
+633	2472	0	988	35	28	26.0	7.0	1549.0			1559.0	0	0.0	Opvolger van Jaques de Rouck. Geestelijk raadsheer. Beëindigd door overlijden.			
+634	1588	0	637	35	2	1.0	5.0	1433.0	30.0	4.0	1438.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1431 en 1438-1439. Memorialen Rosa geeft 1431 en 1433-1439 als onbezoldigd.			
+635	360	0	147	11	2			1548.0			1572.0	0	0.0	Onbezoldigd. Week in 1572 met het Hof uit naar Utrecht.			
+636	2675	0	1064	35	2	24.0	12.0	1428.0	24.0	6.0	1430.0	0	0.0	Memorialen Rosa geeft nog een bezoldigd raadsheerschap van 1 september 1431 tot 1 november 1432. Vermelding als onbezoldigd raadsheer in 1432 en 1434-1444. Memorialen Rosa geeft 1433-1442.			
+637	649	0	4	37	25	1.0	10.0	1531.0			1546.0	0	0.0				
+638	648	0	4	36	25			1546.0			1551.0	0	0.0				
+639	643	0	258	36	25			1551.0			1554.0	0	0.0				
+640	1160	0	460	35	28			1509.0				0	0.0	Het jaartal betreft een vermelding.			
+641	169	0	68	35	2	11.0	4.0	1536.0	15.0	10.0	1539.0	0	0.0	Beëindigd door overlijden.			
+642	1163	0	461	35	28	22.0	7.0	1518.0	7.0	9.0	1520.0	0	0.0	Opvolger van Richard Reynghere. Eed 29 oktober 1518.			
+643	1288	0	516	35	28			1467.0				0	0.0	Het jaartal betreft een vermelding. Op 8 december 1473 in het Parlement van Mechelen benoemd als rekestmeester.			
+644	1085	0	430	35	28	7.0	9.0	1520.0			1521.0	0	0.0	Opvolger van Jean de Courteville.			
+645	1578	0	632	35	2	1.0	5.0	1433.0	30.0	4.0	1434.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1434 en 1436-1437. Memorialen Rosa geeft 1433-1436 en 1442.			
+646	2558	0	1022	35	28	28.0	7.0	1569.0	6.0	1.0	1601.0	0	0.0	Opvolger van Christiaan de Waard. Beëindigd door overlijden.			
+647	554	0	225	35	2	18.0	12.0	1572.0	6.0	9.0	1574.0	0	0.0	Aangesteld door Willem van Oranje in plaats van voortvluchtige raadsheren. Beëindigd door overlijden.			
+648	1733	0	690	9	29	25.0	9.0	1578.0			1614.0	0	0.0	Sluysken werd op 29 april 1579 gecommitteerd door landvoogd Matthias met ingang van 25 september 1578.			
+649	3828	0	1464	37	25	1.0	10.0	1531.0		11.0	1549.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+650	1741	0	692	41	29	23.0	4.0	1584.0			1586.0	0	0.0	Eed ook op 23 april 1584. Ontslag wegens voortdurende absentie.			
+651	1735	0	655	42	29	18.0	11.0	1546.0			1553.0	0	0.0	Eed 8 juli 1547.			
+652	3673	0	555	35	2	9.0	6.0	1468.0	17.0	6.0	1474.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1457-1463 en 1474-1477. Memorialen Rosa geeft 1456-1467 en 1475-1476.	0.0	0.0	0.0
+653	1566	0	627	35	2	12.0	2.0	1461.0	30.0	6.0	1463.0	0	0.0	Memorialen Rosa vermeldt Adriaan Lottinsz. als onbezoldigd raadsheer in 1457 en 1463-1468.			
+654	1550	0	619	35	2	2.0	12.0	1445.0	24.0	5.0	1451.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1434-1437 en 1439-1445. Memorialen Rosa geeft 1433-1438 en 1440-1443.			
+655	2512	0	909	35	28	19.0	6.0	1574.0			1585.0	0	0.0	Opvolger van Antoine de Meulenaer. Eindjaar onzeker (opvolging in 1585).			
+656	2423	0	969	25	28	18.0	6.0	1532.0	7.0	3.0	1543.0	0	0.0	Tevens raadsheer. Beëindigd door overlijden.			
+657	20	0	19	1	1	14.0	5.0	1568.0			1575.0	0	0.0	Opvolger van Jan van Dam. Eed 28 juni 1568.			
+658	687	0	275	9	25	10.0	7.0	1574.0	20.0	9.0	1593.0	0	0.0	Croonendaele werd gecommitteerde in de Raad van Financiën.			
+659	206	0	80	24	2	6.0	10.0	1522.0	28.0	3.0	1523.0	0	0.0	Tijdelijke functie.			
+660	1416	0	565	4	2	1.0	11.0	1441.0	9.0	5.0	1447.0	0	0.0	Opvolger van Jan Quevin. Memorialen Rosa vermeldt Cruce in 1441 als onbezoldigd raadsheer in het Hof van Holland.			
+661	1458	0	565	11	2	1.0	11.0	1436.0	9.0	5.0	1447.0	0	0.0	Opvolger, samen met Jacob Bossaert, van Adriaan van der Ee.			
+662	1431	0	573	11	2	12.0	4.0	1477.0	1.0	12.0	1479.0	0	0.0	In de jaren 1469-1477 vermeld als onbezoldigd secretaris.			
+663	3353	0	1341	34	84	1.0	10.0	1531.0			1546.0	0	0.0	Op 16 december 1540 door Karel V bevestigd. Beëindigd door overlijden.			
+664	1149	0	455	35	28							0	0.0	Raadsheerschap in de Grote Raad onzeker. Kerckhoffs-de Hey, Biografieën, zet een vraagteken en Cools, Mannen met macht, vermeldt de functie niet.			
+665	336	0	136	11	2			1536.0			1570.0	0	0.0	Onbezoldigd.			
+666	1533	0	612	35	2	9.0	3.0	1472.0	31.0	12.0	1479.0	0	0.0	Opvolger van Willem van Alkemade. Als onbezoldigd raadsheer vermeld in 1470-1472.			
+667	1510	0	601	35	2	15.0	11.0	1451.0	30.0	6.0	1463.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1442, 1465 en 1467-1470. Memorialen Rosa geeft 1442 en 1466-1467.			
+668	1499	0	596	35	2	11.0	7.0	1463.0	4.0	12.0	1463.0	0	0.0	Mogelijk als onbezoldigd raadsheer vermeld in 1443.			
+669	1354	0	545	89	2	1.0	5.0	1433.0	12.0	1.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1444. Memorialen Rosa geeft 1429.			
+670	1697	0	673	35	29	20.0	6.0	1576.0	7.0	9.0	1578.0	0	0.0	Opvolger van Johan van Wytenhorst. Eed 18 september 1576.		6.0	
+671	351	0	143	11	2	20.0	8.0	1543.0	28.0	7.0	1563.0	0	0.0	In de jaren 1527-1533 vermeld als onbezoldigd secretaris.			
+672	3597	0	1417	11	2			1485.0			1485.0	0	0.0	Opvolger van Adam Dirksz. van Cleve. Onduidelijk is of hij wedde genoot. Hij werd opgevolgd door Jacob van Barry.	0.0	0.0	0.0
+673	757	0	302	11	24	1.0	10.0	1531.0		12.0	1572.0	0	0.0	Secretaris zonder signatuur. Op I juni 1539 benoemd tot gewoon secretaris.			
+674	3576	0	1408	11	2	1.0	1.0	1486.0	31.0	1.0	1500.0	0	0.0	Opvolger van Wouter van Delen. Beëindigd door overlijden.	0.0	0.0	0.0
+675	1672	0	662	42	29	7.0	9.0	1553.0	24.0	1.0	1565.0	0	0.0	Eed 24 maart 1554.			
+676	1352	0	544	50	2	1.0	10.0	1430.0	13.0	7.0	1431.0	0	0.0	Samen met Frank en Floris van Borselen. Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1429.			
+677	2588	0	1031	35	2			1435.0			1440.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft 1434-1440.			
+678	679	0	271	9	25	1.0	7.0	1557.0			1563.0	0	0.0	Beëindigd door overlijden.			
+679	4099	0	285	9	25	7.0	2.0	1538.0		9.0	1538.0	0	0.0		0.0	0.0	0.0
+680	251	0	98	35	2	23.0	7.0	1516.0	1.0	7.0	1543.0	0	0.0	Beëindigd door overlijden.			
+681	250	0	98	35	2	20.0	3.0	1508.0	29.0	10.0	1515.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1502-1508 en 1515.			
+682	1350	0	543	50	2	1.0	10.0	1430.0	1.0	11.0	1432.0	0	0.0	Samen met Filips en Frank van Borselen.			
+683	1175	0	466	24	28	1.0	3.0	1488.0	1.0	5.0	1495.0	0	0.0	Zonder officiële benoeming. Sinds 1491 tevens raadsheer.			
+684	1298	0	521	24	28		6.0	1495.0	25.0	6.0	1512.0	0	0.0				
+685	1634	0	156	1	1	5.0	12.0	1463.0	9.0	2.0	1464.0	0	0.0	Krusink was in de periode 1463-1477 in de rekenkamers te Brussel en Mechelen belast met Hollandse zaken.			
+686	796	0	319	35	24	24.0	11.0	1531.0			1535.0	0	0.0	Beëindigd door overlijden.			
+687	4008	0	370	35	2	18.0	11.0	1539.0	12.0	8.0	1546.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+688	562	0	229	35	2	6.0	11.0	1573.0	13.0	3.0	1579.0	0	0.0	Beëindigd door overlijden.			
+689	1177	0	467	35	28			1501.0				0	0.0	Het jaartal betreft een vermelding.			
+690	509	0	207	11	2			1552.0			1572.0	0	0.0	Onbezoldigd. Week in 1572 naar Utrecht uit.			
+691	568	0	232	35	2	30.0	6.0	1578.0	29.0	1.0	1586.0	0	0.0	Beëindigd door overlijden.			
+692	925	0	370	86	2	17.0	7.0	1538.0	17.0	11.0	1539.0	0	0.0	Raadsheer met pensioen.			
+693	3830	0	1116	85	28		3.0	1477.0		8.0	1479.0	0	0.0	Audiëncier van het groot zegel. Beëindigd door overlijden.	0.0	0.0	0.0
+694	7	0	6	1	1	23.0	11.0	1511.0				0	0.0	Nog in functie in 1515.			
+695	2754	0	1103	9	28	31.0	8.0	1521.0	20.0	7.0	1564.0	0	0.0	Secretaris en griffier. Opvolger van zijn vader Jean Lettin.			
+696	1179	0	468	35	28			1478.0			1495.0	0	0.0	Hiervoor vanaf december 1473 substituut-procureur-generaal.			
+697	1404	0	543	35	2	1.0	11.0	1432.0	3.0	4.0	1447.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1429.			
+698	1434	0	574	11	2	12.0	3.0	1481.0	12.0	11.0	1505.0	0	0.0	In 1479 vermeld als onbezoldigd secretaris. Opvolger van Dirk Potter.			
+699	1348	0	542	50	2	1.0	10.0	1430.0	1.0	11.0	1432.0	0	0.0	Samen met Filips en Floris van Borselen.			
+700	1383	0	559	24	2	31.0	1.0	1484.0	15.0	3.0	1489.0	0	0.0	Opvolger van Jan van Rietveld.			
+701	1185	0	471	35	28			1477.0			1482.0	0	0.0	Raadsheerschap in de Grote Raad onzeker.			
+702	1181	0	469	35	28			1478.0			1503.0	0	0.0	Raadsheer-rekestmeester.			
+703	1547	0	618	35	2	1.0	1.0	1442.0	31.0	3.0	1477.0	0	0.0	In 1474 werd bepaald dat na zijn dood of aftreden zijn functie zou worden afgeschaft. Als onbezoldigd raadsheer vermeld in 1441.			
+704	856	0	323	35	28	31.0	3.0	1522.0			1543.0	0	0.0	Opvolger van Ferry Carondelet. Geestelijk raadsheer.			
+705	2131	0	852	39	44	16.0	7.0	1473.0			1477.0	0	0.0	Eed op 18 juli 1473.			
+706	630	0	247	34	84	1.0	10.0	1531.0	22.0	7.0	1532.0	0	0.0	Beëindigd door overlijden.			
+707	3771	0	852	35	2	19.0	1.0	1452.0	27.0	1.0	1456.0	0		Opvolger van Willem van Egmond (ov.). Officieel in dienst tot 1459 maar na januari 1456 niet meer aanwezig in Den Haag.			
+708	3773	0	852	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-kamerheer.	0.0	0.0	0.0
+709	3822	0	1462	11	24	22.0	3.0	1563.0				1	0.0	Buitengewoon secretaris. Op 24 december 1565 benoemd tot voorlopig secretaris, wat op 3 april 1573 definitief werd, als opvolger van Joost de Courtewille. Arnold d'Ennetieres verbleef sedert 1566 in Spanje.	0.0	0.0	0.0
+710	623	0	256	34	84	23.0	1.0	1576.0	1.0	2.0	1578.0	0	0.0	Beëindigd door ontslag.			
+711	275	0	1	27	2	1.0	1.0	1490.0	6.0	6.0	1499.0	0	0.0	De rentmeester-generaal was tevens raadsheer.			
+712	1187	0	472	35	28	17.0	5.0	1505.0	6.0	10.0	1509.0	0	0.0	Opvolger van Jean Vincent. Geestelijk raadsheer.			
+713	1333	0	535	35	28			1447.0			1505.0	0	0.0	Raadsheer-rekestmeester. Van 1473-1477 en in elk geval ook in 1504 was Jean Vincent geestelijk raadsheer. Eindjaar onzeker (opvolging in 1505).			
+714	2796	0	1118	35	28			1474.0				0	0.0	Lekeraadsheer.			
+715	1639	0	401	40	29	20.0	4.0	1547.0	21.0	3.0	1568.0	0	0.0	Voorlopige aanstelling reeds op 15 november 1546. Eed 25 juni 1547.			
+716	767	0	307	11	24	23.0	7.0	1545.0			1555.0	0		Opvolger van Nicolaas Nicolai (Grudius). Buitengewoon secretaris.			
+717	989	0	393	35	31	2.0	4.0	1530.0	30.0	4.0	1560.0	0	0.0	Eed hernieuwd voor Filips II op 13 november 1555. Beëindigd door overlijden.			
+718	852	0	327	35	28	25.0	1.0	1532.0	19.0	6.0	1541.0	0	0.0	Opvolger van Lambert de Briarde. Mogelijk 15 januari 1532.			
+719	851	0	327	17	28	18.0	2.0	1557.0	10.0	5.0	1561.0	0	0.0	Opvolger van Lambert de Briarde. Eed 8 maart 1557. Beëindigd door overlijden.			
+720	886	0	355	34	84	12.0	5.0	1577.0	1.0	2.0	1578.0	0		Beëindigd door ontslag.			
+721	2510	0	1004	35	28	19.0	6.0	1573.0			1586.0	0	0.0	Opvolger van Jan Colins.			
+722	888	0	356	34	84	31.0	12.0	1577.0	9.0	6.0	1581.0	0	0.0	Beëindigd door overlijden.			
+723	1151	0	456	35	28	28.0	1.0	1474.0		9.0	1482.0	0	0.0	Lekeraadsheer.			
+724	1575	0	631	35	2	7.0	1.0	1453.0	23.0	5.0	1457.0	0	0.0	Bij absentie van Willem van Egmond. Memorialen Rosa geeft als einddatum 4 februari 1546.			
+725	1497	0	595	35	2	17.0	4.0	1445.0	7.0	7.0	1453.0	0	0.0	Beëindigd door overlijden.			
+726	1564	0	626	35	2	11.0	2.0	1452.0	30.0	6.0	1463.0	0	0.0	Opvolger van Arend van Gent. Als onbezoldigd raadsheer vermeld in 1441-1444. Memorialen Rosa geeft 1440-1442.			
+727	1480	0	575	35	2	7.0	1.0	1457.0	30.0	6.0	1463.0	0	0.0	Opvolger van Lyon van Gent. Als onbezoldigd raadsheer vermeld in 1465-1477. Memorialen Rosa geeft 1455, 1464-1467 en 1474-1475			
+728	1688	0	669	35	29	2.0	8.0	1567.0	7.0	9.0	1578.0	0	0.0	Opvolger van Jeronimus Lettin. Eed 20 augustus 1567.			
+729	1035	0	409	86	31	22.0	9.0	1554.0	22.0	7.0	1557.0	0	0.0	Eed hernieuwd voor Filips II op 13 november 1555.			
+730	1212	0	482	35	28	31.0	10.0	1505.0			1518.0	0	0.0	Benoeming aanvankelijk ter vervanging van de afwezige geestelijk raadsheer George de Themseke. Op 4 maart 1506 benoemd als opvolger van het lekenraadslid Jean Gillet.			
+731	1299	0	521	35	28	25.0	6.0	1512.0	15.0	9.0	1522.0	0	0.0	Opvolger van Guillaume Gros.			
+732	3808	0	1457	91	84		11.0	1555.0			1556.0	0	0.0	In 1556 bevorderd tot secretaris bij Filips II.	0.0	0.0	0.0
+733	566	0	231	35	2	21.0	1.0	1576.0			1587.0	0	0.0	Beëindigd door overlijden.			
+734	2433	0	973	35	28	13.0	2.0	1548.0			1560.0	0	0.0	Opvolger van Louis Vilain. Eindjaar onzeker (opvolging in 1560).			
+735	1707	0	677	35	29	25.0	9.0	1578.0			1580.0	0	0.0	Eed 17 januari 1579.		6.0	
+736	1463	0	585	11	2	21.0	4.0	1445.0	21.0	10.0	1451.0	0	0.0	In de jaren 1440-1445 (Memorialen Rosa geeft 1442-1445) vermeld als onbezoldigd secretaris. Ontslagen in 1451, maar hij weigerde zijn ambt neer te leggen. In 1456 (Memorialen Rosa 1455) weer aangetroffen als onbezoldigd secretaris.			
+737	2522	0	1008	25	28	30.0	11.0	1576.0				0	0.0	Opvolger van Jan Lieven de Biese. Tevens raadsheer.			
+738	1202	0	478	35	28			1495.0				0	0.0	Het jaar betreft een vermelding.			
+739	1320	0	320	35	28	22.0	1.0	1504.0	25.0	10.0	1513.0	0	0.0	Geestelijk raadsheer.			
+740	4033	0	1521	9	28			1489.0	31.0	8.0	1521.0	0	0.0	Secretaris en griffier.	0.0	0.0	0.0
+741	751	0	299	11	24	22.0	8.0	1534.0	13.0	10.0	1540.0	0	0.0	Opvolger van Jan Franco. aangesteld als secretaris zonder signatuurrecht. Op 26 juli 1535 gewoon secretaris.			
+742	1403	0	542	35	2	1.0	5.0	1433.0	30.0	4.0	1434.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1434 en 1436-1443. Memorialen Rosa geeft 1433-1434 en 1436-1442.			
+743	753	0	300	11	24	12.0	9.0	1538.0	7.0	9.0	1539.0	0	0.0	Aangesteld op een gedeelde plaats met Jan de Langhe. Wegens misbruiken ontslagen.			
+744	1206	0	480	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-kamerheer.			
+745	21	0	20	1	1	3.0	11.0	1570.0			1575.0	0	0.0	Opvolger van Jacon Snouckaert van Binkhorst. Eed 7 december 1570.			
+746	1560	0	624	35	2	21.0	2.0	1459.0	30.0	6.0	1463.0	0	0.0	Memorialen Rosa vermeldt Adolf van der Marck ook als onbezoldigd raadsheer 1447 en 1457.			
+747	3896	0	371	86	2	1.0	7.0	1537.0	13.0	8.0	1538.0	0	0.0	Raadsheer met pensioen.	0.0	0.0	0.0
+748	2457	0	980	35	28	9.0	10.0	1543.0	8.0	11.0	1562.0	0	0.0	Opvolger van Antoine de Brançion. Beëindigd door overlijden.			
+749	1127	0	447	35	28	10.0	4.0	1518.0	25.0	9.0	1539.0	0	0.0	Opvolger van Gerard van Gronsvelt.			
+750	927	0	371	35	2	22.0	10.0	1557.0		1.0	1567.0	0	0.0	Beëindigd door overlijden.			
+751	316	0	127	35	2	13.0	10.0	1536.0	3.0	6.0	1561.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1525-1536.			
+752	310	0	125	35	2	13.0	5.0	1532.0	14.0	9.0	1536.0	0	0.0	Beïiindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1531-1532.			
+753	191	0	74	24	2	15.0	11.0	1558.0		10.0	1559.0	0	0.0	Beëindigd door overlijden.			
+754	3867	0	1470	9	2			1529.0			1543.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+755	1420	0	568	11	2	13.0	8.0	1428.0	21.0	9.0	1447.0	0	0.0	Beëindigd door overlijden.			
+756	1469	0	568	9	2	8.0	2.0	1447.0	21.0	9.0	1447.0	0	0.0	Beëindigd door overlijden.			
+757	248	0	97	35	2	28.0	2.0	1504.0	21.0	7.0	1513.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1502-1504 (niet in Memorialen Rosa).			
+758	1452	0	582	11	2	1.0	10.0	1430.0	30.0	4.0	1433.0	0	0.0	In 1429 en 1434 vermeld als onbezoldigd secretaris.			
+759	1216	0	484	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-rekestmeester.			
+760	730	0	285	11	24	25.0	11.0	1532.0			1538.0	0	0.0	Opvolger van Jan de Grutere.			
+761	139	0	57	4	1	23.0	11.0	1511.0			1526.0	0	0.0				
+762	1610	0	645	35	2	1.0	1.0	1431.0	1.0	11.0	1432.0	0	0.0	Volgens Memorialen Rosa onbezoldigd.			
+763	2791	0	1116	9	28			1448.0			1477.0	0	0.0	Secretaris en griffier (voor criminele zaken 1473-1477). Het aanvangsjaar betreft een vermelding. Beëindigd door overlijden.			
+764	1400	0	540	35	28			1460.0	26.0	3.0	1477.0	0	0.0	Volgens Kerckhoffs-de Hey, Biografieën van raadsheren, was hij lid van de Grote Raad van Filips de Goede 1454-1464 en werd hij in 1477 benoemd tot raadsheer-rekestmeester.			
+765	4063	0	240	34	84		10.0	1540.0	7.0	2.0	1545.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+766	2787	0	699	35	28			1458.0			1477.0	0	0.0	Raadsheer-rekestmeester. Het aanvangsjaar betreft een vermelding.			
+767	1223	0	486	35	28			1527.0				0	0.0	Het jaartal betreft een vermelding.			
+768	2761	0	1105	9	28			1506.0	10.0	7.0	1507.0	0	0.0	Secretaris en griffier. Opvolger van Jean le Botechou. Aanvangsjaar onzeker.			
+769	1147	0	454	35	28	8.0	12.0	1473.0	16.0	10.0	1511.0	0	0.0	In 1473 geestelijk raadsheer, in 1477 vermeld als raadsheer-rekestmeester, in 1504 als geestelijk raadsheer.			
+770	320	0	129	35	2	9.0	10.0	1536.0	26.0	10.0	1545.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1525-1536.			
+771	2655	0	523	35	2	7.0	1.0	1464.0	17.0	6.0	1474.0	0	0.0	Opvolger van Wouter Jansz.			
+772	3916	0	507	35	28	22.0	1.0	1504.0	11.0	5.0	1511.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+773	16	0	15	1	1	1.0	8.0	1553.0			1578.0	0	0.0	Opvolger van zijn vader Jacob de Jonge. Eed 9 augustus 1553. Bos-Rops, Power of money, geeft 28 juli 1553 als commissie. Continuatie door Filips II op 28 juli 1556, eed op 29 oktober. Beëindigd door overlijden.			
+774	4003	0	1504	35	2			1434.0			1443.0	0	0.0	Onbezoldigd. Ook in 1431 als onbezoldigd raadsheer vermeld.	0.0	0.0	0.0
+775	312	0	126	35	2	2.0	4.0	1530.0	18.0	9.0	1535.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1528-1530.			
+776	381	0	157	1	1		10.0	1493.0			1504.0	0	0.0	Opvolger van Jacob Krusink. Beëindigd door overlijden.			
+777	1483	0	588	35	2	19.0	7.0	1447.0	25.0	10.0	1460.0	0	0.0	Opvolger van Floris van Borselen.			
+778	1485	0	589	35	2	26.0	10.0	1460.0	30.0	6.0	1463.0	0	0.0	Opvolger van zijn zwager Jacob van Kats. Als onbezoldigd raadsheer vermeld in 1466 en 1470-1472. Memorialen Rosa geeft 1457 en 1463-1471.			
+779	1505	0	599	35	2	20.0	11.0	1477.0	30.0	6.0	1479.0	0	0.0	Opvolger van Klaas Jansz. van Wissenkerke.			
+780	2082	0	110	39	31	4.0	10.0	1540.0		7.0	1544.0	0	0.0	Beëindigd door overlijden.			
+781	1599	0	642	35	2	24.0	6.0	1439.0	24.0	12.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1441-1450 en 1457. Memorialen Rosa geeft 1439-1462.			
+782	1625	0	633	35	2	1.0	5.0	1435.0	1.0	5.0	1438.0	0	0.0	Ook als onbezoldigd raadsheer vermeld in 1438. Memorialen Rosa vermeldt Poppe Haymansz. utsluitend als onbezoldigd raadsheer 1433-1442.			
+783	1582	0	634	35	2	1.0	5.0	1433.0	1.0	5.0	1434.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1435 en 1438.			
+784	2173	0	872	9	44	16.0	7.0	1473.0				0	0.0				
+785	1595	0	640	35	2	1.0	5.0	1433.0	1.0	5.0	1439.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1442-1444.			
+786	1615	0	641	35	2	1.0	5.0	1439.0	31.0	10.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1441-1445. Memorialen Rosa geeft de vermelding van onbezoldigd raadsheer in 1433-1444.			
+787	1612	0	644	35	2	1.0	5.0	1439.0	1.0	11.0	1440.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1438, 1440-1442 en 1444. Memorialen Rosa geeft 1434-1443.			
+788	124	0	22	4	1	17.0	6.0	1570.0		7.0	1572.0	0	0.0	Opvolger van Jan des Trompes. Eed als auditeur van de Rekenkamer op 21 juni 1570, later als auditeur van de Rekenkamer (van Holland) thans te Utrecht.			
+789	1493	0	593	35	2	30.0	5.0	1480.0	20.0	5.0	1482.0	0	0.0	Niet geresideerd in 's-Gravenhage en daarom geen wedde ontvangen.			
+790	378	0	156	1	1	5.0	7.0	1477.0	5.0	10.0	1493.0	0	0.0	Eerste rekenmeester. Commissiedatum bij Bos-Rops, Power of money, 27 juni 1477. Beëindigd door overlijden.			
+791	85	0	40	1	1	14.0	3.0	1504.0			1505.0	0	0.0	Opvolger van Cornelis de Jonge. Beëindigd door overlijden.			
+792	183	0	72	24	2	16.0	12.0	1543.0	4.0	8.0	1548.0	0	0.0				
+793	296	0	119	35	2	9.0	8.0	1559.0	22.0	9.0	1560.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1554-1559.			
+794	2786	0	550	35	28			1474.0				0	0.0	Raadsheer-kamerheer. Het jaartal betreft een vermelding.			
+795	1558	0	623	35	2	8.0	7.0	1453.0	9.0	10.0	1486.0	0	0.0	Beëindigd door overlijden.			
+796	1317	0	528	35	28			1493.0	28.0	12.0	1522.0	0	0.0	Raadsheer-rekestmeester.			
+797	2656	0	523	35	2	30.0	5.0	1480.0	30.0	1.0	1484.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1474-1477 en 1494-1499. Memorialen Rosa geeft 1463, 1474-1476 en 1494-1499.			
+798	1356	0	546	89	2	18.0	4.0	1440.0	26.0	4.0	1445.0	0	0.0	Ook als onbezoldigd raadsheer vermeld in 1437.			
+799	1465	0	586	11	2	25.0	10.0	1451.0	10.0	4.0	1460.0	0	0.0	In 1450 vermeld als onbezoldigd secretaris.			
+800	749	0	298	11	24	19.0	11.0	1532.0			1562.0	0	0.0	Voor de reorganisatie van 1531 was De Langhe reeds secretaris met recht van signatuur. Op 19 november 1532 werd hij secretaris ten voorlopige titel. De benoeming op 14 september 1538 moest hij delen met Jan de Gouy. De uiteindelijke volledige benoeming viel 7 september 1539. Vanaf 1562 deelde hij zijn wedde met Jan Mesdach. De lijst van Baelde geeft dat jaar als eindjaar.			
+801	631	0	246	34	84	1.0	10.0	1531.0	12.0	9.0	1543.0	0	0.0	Op 16 december 1540 bevestigd. Beëindigd door overlijden.			
+802	1541	0	615	35	2	2.0	5.0	1477.0	1.0	12.0	1479.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1467-1469. Memorialen Rosa geeft 1466.			
+803	1020	0	402	35	31	12.0	4.0	1548.0	15.0	4.0	1578.0	0	0.0	Eed hernieuwd voor Filips II op 13 november 1555. In 1578 verbannen en 11 januari 1581 tot vijand verklaard.			
+804	2444	0	331	25	28	1.0	5.0	1543.0			1558.0	0	0.0	Opvolger van Pierre de Bruel. Eindjaar onzeker (opgevolgd in 1558). Tevens raadsheer.			
+805	1235	0	492	86	28	18.0	10.0	1514.0			1522.0	0	0.0	Benoemd tot raadsheer-rekestmeester extraordinaris.			
+806	1237	0	493	35	28			1477.0				0	0.0	Raadsheerschap in de Grote Raad onzeker. Het jaartal betreft een vermelding.			
+807	1364	0	550	39	2	26.0	5.0	1480.0	5.0	8.0	1483.0	0	0.0	Beëindigd door overlijden.			
+808	2767	0	1108	9	28	20.0	7.0	1564.0	23.0	11.0	1578.0	0	0.0	Secretaris en griffier. Opvolger van Jean Lettin. Beëindigd door overlijden.			
+809	2185	0	878	24	44	18.0	8.0	1473.0				0	0.0				
+810	1079	0	427	35	28	25.0	10.0	1513.0	2.0	10.0	1520.0	0	0.0	Opvolger van Joris van Themseke.			
+811	2658	0	594	35	2	25.0	5.0	1481.0	20.0	5.0	1482.0	0	0.0	Raadsheer-commissaris. Als onbezoldigd raadsheer vermeld in in 1480-1481.			
+812	1239	0	494	35	28	1.0	10.0	1520.0			1521.0	0	0.0	Opvolger van Jacob van Amerongen.			
+813	1495	0	594	35	2	20.0	10.0	1482.0	6.0	9.0	1503.0	0	0.0	Beëindigd door overlijden.			
+814	1761	0	612	1	1	6.0	5.0	1480.0	6.0	5.0	1495.0	0	0.0	Bos-Rops, Power of money, heeft 28 april 1480 als commissie.			
+815	1210	0	481	35	2	17.0	6.0	1474.0	15.0	1.0	1477.0	0	0.0	Memorialen Rosa vermeldt Gerard van Gronsvelt als onbezoldigd raadsheer in 1473.			
+816	721	0	285	85	24	14.0	9.0	1538.0	5.0	7.0	1552.0	0	0.0	Beëindigd door overlijden.			
+817	650	0	258	37	25			1546.0			1551.0	0	0.0	Opvolger van Vincent Cornelisz.			
+818	792	0	317	35	24	1.0	10.0	1531.0	19.0	8.0	1546.0	0	0.0	Beëindigd door overlijden.			
+819	1243	0	496	35	28	1.0	10.0	1480.0				0	0.0	Raadsheer-rekestmeester. Het jaartal betreft een vermelding.			
+820	1630	0	604	35	2	13.0	10.0	1493.0	20.0	1.0	1509.0	0	0.0	Memorialen Rosa vermeldt Willem van Berendrecht als onbezoldigd raadsheer in 1510 en 1517.			
+821	2752	0	1101	9	28			1467.0			1504.0	0	0.0	Secretaris en griffier (voor de presentatie 1473-1477). Het aanvangsjaar betreft een vermelding. Mogelijk tot 1507 als griffier werkzaam.			
+822	2293	0	924	35	2			1562.0			1564.0	0	0.0	Onbezoldigd.			
+823	1076	0	426	25	2	17.0	7.0	1473.0	28.0	3.0	1477.0	0	0.0				
+824	1247	0	498	35	28	30.0	12.0	1504.0			1523.0	0	0.0	Opvolger van zijn vader Fernand de Lucenne.			
+825	673	0	268	9	25	17.0	1.0	1532.0			1534.0	0	0.0	Eindjaar onzeker.			
+826	4042	0	522	85	28	15.0	6.0	1480.0	8.0	11.0	1488.0	0	0.0	Opvolger van Jean Gros. Aanvankelijk op 1 maart 1478 benoemd; pas na het overlijden van Antonius van Halewijn en een bezwaar tegen de benoeming van Gerard Numan opnieuw benoemd. Onderbreking van maart 1482 tot juni 1483.	0.0	0.0	0.0
+827	2769	0	1109	9	28	9.0	8.0	1575.0	20.0	9.0	1586.0	0	0.0	Secretaris en griffier. Opvolger van Alexandre Boullin. Beëindigd door overlijden.			
+828	802	0	322	35	24	28.0	12.0	1533.0	28.0	3.0	1555.0	0	0.0	Voor de reorganisatie van 1531: op 28 december 1529 benoemd tot lid van de Geheime Raad. Op 28 december 1533 werd hij wederom benoemd tot lid van de Geheime Raad, maar hij trad pas in 1536 in dienst van Maria van Hongarije; daarvoor was hij in dienst van Karel V. Beëindigd door overlijden.			
+829	700	0	279	11	84	19.0	5.0	1533.0	11.0	9.0	1538.0	0	0.0	Pensart vervulde deze functie als audiëncier van de Geheime Raad, zonder aanstelling.			
+830	294	0	118	35	2	24.0	9.0	1557.0			1572.0	0	0.0	Dominicus Boot week in juli 1572 met het Hof uit naar Utrecht. Als onbezoldigd raadsheer vermeld in 1549-1557.			
+831	1250	0	499	24	28	25.0	6.0	1512.0			1521.0	0	0.0	Tevens raadsheer. Beëindigd door overlijden.			
+832	2753	0	1102	9	28			1481.0	6.0	2.0	1509.0	0	0.0	Secretaris en griffier. Het aanvangsjaar betreft een vermelding. Hij werd wegens onbekwaamheid uit het griffiersambt gezet maar bleef secretaris.			
+833	2762	0	1106	9	28	1.0	10.0	1547.0			1574.0	0	0.0	Secretaris en griffier. Opvolger van Lambert van der Ee. Beëindigd door overlijden.			
+834	2446	0	976	35	28	12.0	10.0	1540.0			1547.0	0	0.0	Opvolger van Florens du Mont Saint-Eloy.			
+835	4044	0	1526	85	28	14.0	11.0	1488.0	31.0	12.0	1499.0	0	0.0	Opvolger van Nicolaas de Ruter.	0.0	0.0	0.0
+836	2500	0	1000	24	28	7.0	8.0	1567.0			1585.0	0	0.0	Opvolger van François Verleysen. Tevens raadsheer.			
+837	3817	0	1461	9	28	6.0	2.0	1509.0	1.0	10.0	1547.0	0		Secretaris en griffier. Opvolger van Barthelemy le Fèvre.			
+838	4041	0	1525	85	28	1.0	7.0	1467.0	15.0	3.0	1477.0	0	0.0	Audiëncier voor zowel groot als geheim zegel.	0.0	0.0	0.0
+839	1554	0	621	35	2	3.0	3.0	1460.0	3.0	6.0	1463.0	0	0.0	Vervanger bij absentie van Gijsbrecht van Brederode. Memorialen Rosa vermeldt Willem van Brakel als onbezoldigd raadsheer in 1457 en 1459.			
+840	570	0	233	35	2	7.0	9.0	1579.0	11.0	8.0	1583.0	0	0.0	Beëindigd door overlijden.			
+841	4012	0	235	35	2	26.0	5.0	1607.0	4.0	5.0	1616.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+842	1525	0	608	35	2	17.0	6.0	1474.0	7.0	9.0	1511.0	0	0.0	Memorialen Rosa vermeldt Jacob Ruysch als onbezoldigd raadsheer in 1472.			
+843	1392	0	563	4	1	22.0	4.0	1463.0		12.0	1463.0	0	0.0	Onbezoldigd. In de periode tot 1477 bleef Mensin te Brussel en Mechelen belast met de Hollandse zaken.			
+844	246	0	96	35	2	23.0	7.0	1516.0	21.0	11.0	1548.0	0	0.0	Beëindigd door overlijden.			
+845	1198	0	476	35	28	22.0	12.0	1507.0			1518.0	0	0.0				
+846	1197	0	476	40	28		10.0	1518.0	5.0	6.0	1530.0	0	0.0	Eed 15 oktober 1518.			
+847	1308	0	525	40	28	17.0	1.0	1515.0	7.0	5.0	1518.0	0	0.0				
+848	578	0	237	35	2	26.0	2.0	1585.0	7.0	2.0	1608.0	0	0.0	Beëindigd door overlijden.			
+849	147	0	59	9	2			1557.0	12.0	2.0	1583.0	0	0.0	Beëindigd door overlijden.			
+850	1516	0	604	35	2	30.0	5.0	1480.0	22.0	5.0	1482.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1473-1477. Memorialen Rosa geeft 1473-1475.			
+851	1252	0	500	35	28	17.0	1.0	1522.0			1522.0	0	0.0	Opvolger van Filips Wielant.			
+852	1165	0	462	35	28	27.0	9.0	1522.0			1564.0	0	0.0	Opvolger van Pierre de Metteneye.			
+853	1077	0	426	35	2	30.0	5.0	1480.0	26.0	1.0	1506.0	0	0.0	Memorialen Rosa vermeldt Jacob van Almonde als onbezoldigd raadsheer in 1474 en 1478.			
+854	2464	0	984	35	28	27.0	3.0	1548.0	27.0	9.0	1571.0	0	0.0	Opvolger van Viglius. Beëindigd door overlijden.			
+855	825	0	333	35	24	28.0	1.0	1555.0			1577.0	0	0.0	Eed 11 april 1555. Tot 1577 in actieve dienst.			
+856	1543	0	616	35	2	30.0	5.0	1480.0	17.0	7.0	1492.0	0	0.0	Beëindigd door overlijden.			
+857	245	0	96	35	2	3.0	11.0	1506.0	29.0	10.0	1515.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1504-1505 en 1515-1516.			
+858	813	0	124	35	24	1.0	6.0	1547.0				0	0.0				
+859	283	0	112	35	2	3.0	2.0	1546.0	20.0	1.0	1558.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1543-1546.			
+860	264	0	104	35	2	11.0	3.0	1512.0	7.0	10.0	1513.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1510-1511.			
+861	262	0	103	35	2	29.0	7.0	1514.0	7.0	4.0	1521.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1510.			
+862	2617	0	1044	35	2			1434.0			1445.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft 1434-1444.			
+863	2426	0	971	35	28	16.0	12.0	1538.0			1559.0	0	0.0	Opvolger van Gerard Mulert.			
+864	2489	0	996	35	28	30.0	6.0	1559.0			1590.0	0	0.0	Opvolger van Jean Baert. Beëindigd door overlijden.			
+865	1256	0	502	35	28	17.0	10.0	1522.0	22.0	5.0	1540.0	0	0.0	Opvolger van Jan van der Straeten. Eed 17 november 1522.			
+866	2806	0	1123	35	28			1469.0				0	0.0	Het jaartal betreft een vermelding. Op 8 december 1473 benoemd tot raadsheer-kamerheer.			
+867	669	0	266	33	25	11.0	4.0	1554.0	13.0	12.0	1566.0	0	0.0	Opvolger van Adriaan van Croy. Eed 21 april 1554. Beëindigd door overlijden.			
+868	3309	0	1322	35	2	13.0	10.0	1486.0	25.0	6.0	1494.0	0	0.0	Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1482-1486. Memorialen Rosa geeft 1482 en 1484.			
+869	580	0	238	35	2	26.0	2.0	1585.0		3.0	1595.0	0	0.0	Beëindigd door overlijden.			
+870	603	0	247	33	25	1.0	10.0	1531.0	22.0	7.0	1532.0	0	0.0	Eerste hoofd. Beëindigd door overlijden.			
+871	747	0	297	11	24	1.0	10.0	1531.0			1555.0	0	0.0	Voor de reorganisatie van 1531: secretaris 13 augustus 1522.			
+872	4106	0	1563	48	40			1574.0	7.0	9.0	1578.0	0	0.0	Beëindigd door ontslag.	0.0	0.0	0.0
+873	3857	0	1467	35	2	12.0	11.0	1586.0	3.0	12.0	1613.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+874	1188	0	472	17	28	20.0	9.0	1528.0	9.0	8.0	1532.0	0	0.0	Beëindigd door overlijden.			
+875	2829	0	1130	35	2	19.0	8.0	1494.0	7.0	3.0	1508.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1488 en 1491. Memorialen Rosa geeft 1491.			
+876	2511	0	1005	35	28	19.0	6.0	1574.0			1578.0	0	0.0	Opvolger van Antoine Contault. Geestelijk raadsheer. Beëindigd door overlijden.			
+877	1258	0	503	35	28			1495.0			1510.0	0	0.0	Raadsheer-rekestmeester. De beide jaren betreffen vermeldingen.			
+878	2450	0	977	35	28	14.0	10.0	1541.0			1548.0	0	0.0	Opvolger van Jean aux Truyes.			
+879	2468	0	986	35	28	23.0	12.0	1548.0			1554.0	0	0.0	Opvolger van Jacques Muesart.			
+880	1413	0	562	35	2	24.0	7.0	1494.0	11.0	3.0	1514.0	0	0.0	Beëindigd door overlijden.			
+881	3846	0	492	17	28	17.0	4.0	1522.0	6.0	11.0	1527.0	0	0.0	Opvolger van Jan Pieters. Beëindigd door overlijden.	0.0	0.0	0.0
+882	3192	0	1279	35	2	27.0	1.0	1494.0	8.0	8.0	1510.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1490 en 1492-1494. Memorialen Rosa geeft 1493.			
+883	237	0	92	86	2	24.0	6.0	1519.0	21.0	7.0	1540.0	0	0.0	Raadsheer met pensioen. Als onbezoldigd raadsheer vermeld in 1508 en 1514.			
+884	260	0	102	86	2	1.0	7.0	1518.0	31.0	12.0	1533.0	0	0.0	Raadsheer met pensioen. Als onbezoldigd raadsheer vermeld in 1510-1517.			
+885	2432	0	973	17	28	22.0	12.0	1562.0	24.0	8.0	1583.0	0	0.0	Beëindigd door overlijden.			
+886	1736	0	665	42	29	8.0	1.0	1565.0		1.0	1578.0	0	0.0	Eed 24 januari 1565.			
+887	2448	0	401	35	28	21.0	6.0	1541.0			1544.0	0	0.0	Opvolger van zijn broer Everard Everaerts.			
+888	1267	0	506	35	28	26.0	3.0	1477.0	6.0	6.0	1477.0	0	0.0	Raadsheer-rekestmeester. Mogelijk al 16 april vervangen (wegens benoeming tot kanselier van Brabant).			
+889	1319	0	529	35	28	16.0	4.0	1477.0				0	0.0	Opvolger van Geldolf van der Noot. Raadsheer-rekestmeester.			
+890	15	0	14	1	1	28.0	1.0	1551.0	10.0	3.0	1573.0	0	0.0	Opvolger van Albert van Loo. Eed 11 februari 1551 s.c. Bos-Rops, Power of money, geeft 28 januari 1552 als commissiedatum. Op 28 juli 1556 continuatie door Filips II als eerder door zijn vader Karel V, eed op 29 oktober. In 1573 voortvluchtig.			
+891	1695	0	672	35	29	20.0	6.0	1576.0	7.0	9.0	1578.0	0	0.0	Opvolger van Godert Pannecoeck.			
+892	1272	0	508	17	28			1504.0		10.0	1521.0	0	0.0	Stroobant, Magistrats, geeft als aanvangsdatum 23 januari 1503. Beëindigd door overllijden.			
+893	3903	0	109	11	24	11.0	9.0	1538.0	23.0	7.0	1545.0	0		Daarna werd hem de titel van buitengewoon secretaris toegekend.			
+894	1214	0	483	35	28	22.0	1.0	1504.0			1512.0	0	0.0	Mogelijk al eerder raadsheer.			
+895	1195	0	475	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-kamerheer. Het jaartal betreft een vermelding.			
+896	683	0	273	9	25	24.0	7.0	1563.0	6.0	1.0	1568.0	0	0.0	Opvolger van Frans Doolman.			
+897	1193	0	474	35	28	26.0	3.0	1477.0				0	0.0	Raadsheerschap in de Grote Raad onzeker.			
+898	723	0	286	85	24	18.0	7.0	1552.0		7.0	1578.0	0	0.0	Aanvankelijk 'ten voorlopigen titel' aangesteld.  Definitieve aanstelling 5 februari 1555. Eed 7 maart 1555. Van Overloepe bleef in 1578 bij Don Juan van Oostenrijk.			
+899	3932	0	1476	37	25			1545.0			1555.0	0	0.0	Aanvangsjaar onzeker: voor 1546.	0.0	0.0	0.0
+900	1670	0	661	35	29	2.0	6.0	1552.0	3.0	3.0	1576.0	0	0.0	Eed 26 juni 1552. Beëindigd door overlijden.			
+901	1088	0	431	35	28	26.0	3.0	1477.0			1485.0	0	0.0	Raadsheer-rekestmeester.			
+902	3350	0	1340	34	84	1.0	10.0	1531.0	7.0	12.0	1540.0	0	0.0	Beëindigd door overlijden.			
+903	1269	0	507	35	28			1492.0			1497.0	0	0.0	Raadsheer-rekestmeester.			
+904	2497	0	999	35	28	18.0	12.0	1562.0			1582.0	0	0.0	Opvolger van Florent de Griboval. Eindjaar onzeker (opvolging in 1582).			
+905	2531	0	1012	35	28	25.0	2.0	1582.0	16.0	7.0	1589.0	0	0.0	Opvolger van Jan van Blasere. Beëindigd door overlijden.			
+906	1734	0	655	35	29	23.0	10.0	1553.0	7.0	9.0	1578.0	0	0.0	Eed 29 maart 1554.			
+907	2815	0	1128	52	28	1.0	12.0	1468.0	7.0	9.0	1498.0	0	0.0	Tevens secretaris. Bëindigd door overlijden.			
+908	1422	0	569	11	2	1.0	10.0	1447.0			1485.0	0	0.0	In de jaren 1441-1447 vermeld als onbezoldigd secretaris. Beëindigd door overlijden.			
+909	4040	0	1524	52	28	1.0	4.0	1513.0	6.0	7.0	1550.0	0	0.0	Vanaf 1510 inde Faurel de zegelrechten van de Grote Raad onder audiëncier Filips Haneton. Eed 18 april 1513.	0.0	0.0	0.0
+910	1322	0	530	35	28	26.0	3.0	1477.0				0	0.0	Raadsheer-kamerheer. Nog vermeld in 1496.			
+911	541	0	220	11	2	23.0	11.0	1505.0	30.0	11.0	1511.0	0	0.0	Beëindigd door overlijden.			
+912	4038	0	1523	52	28	7.0	9.0	1498.0	9.0	7.0	1507.0	0	0.0		0.0	0.0	0.0
+913	1340	0	538	35	28	23.0	6.0	1477.0				0	0.0	Raadsheer-kamerheer. Raadsheerschap in de Grote Raad onzeker.			
+914	364	0	149	11	2	28.0	1.0	1516.0	28.0	10.0	1540.0	0	0.0	Beëindigd door overlijden.			
+915	3902	0	144	11	2	14.0	11.0	1558.0	30.0	4.0	1564.0	0		In de jaren 1543-1546 vermeld als onbezoldigd secretaris. Beëindigd door overlijden.			
+916	2834	0	1131	25	2	1.0	6.0	1490.0	29.0	10.0	1515.0	0	0.0	Memorialen Rosa geeft als aanvangsdatum 4 juni 1489.			
+917	1094	0	434	35	28	26.0	3.0	1477.0			1480.0	0	0.0	Raadsheer-rekestmeester.			
+918	1200	0	477	35	28	22.0	1.0	1504.0	4.0	3.0	1506.0	0	0.0				
+919	2637	0	1052	35	2			1434.0			1444.0	0	0.0	Onbezoldigd. Ook in 1432 en 1450-1451. Memorialen Rosa geeft 1432-1444 en 1449.			
+920	2808	0	1124	35	28	8.0	12.0	1473.0		3.0	1477.0	0	0.0				
+921	1473	0	576	9	2	7.0	11.0	1467.0	27.0	9.0	1471.0	0	0.0	Opvolger van Willem van Zwieten. Beëindigd door overlijden.			
+922	1286	0	515	35	28	18.0	12.0	1515.0	3.0	10.0	1518.0	0	0.0	Opvolger van Louis Bouzan.			
+923	1278	0	511	35	28			1468.0			1477.0	0	0.0	Aanvankelijk raadsheer-rekestmeester, in 1473 geestelijk raadsheer.			
+924	1731	0	689	9	29	25.0	8.0	1555.0	7.0	9.0	1578.0	0	0.0	Eed 11 september 1555.			
+925	2479	0	992	35	28	8.0	12.0	1557.0			1569.0	0	0.0	Opvolger van Philippe de l'Espinoy. Geestelijk raadsheer.			
+926	2505	0	1002	35	28	9.0	4.0	1570.0		5.0	1578.0	0	0.0	Opvolger van Remi Dreulx. Geestelijk raadsheer. Beëindigd door overlijden.			
+927	1096	0	435	35	28	8.0	12.0	1473.0		11.0	1480.0	0	0.0	Lekeraadsheer.			
+928	2802	0	1121	35	28			1469.0				0	0.0	Raadsheer-kamerheer. In 1473 een van de vier adellijke raadsheren in het Parlement van Mechelen.			
+929	1074	0	426	35	28	26.0	3.0	1477.0			1480.0	0	0.0	Raadsheer-rekestmeester.			
+930	1338	0	537	35	28	8.0	12.0	1473.0	28.0	10.0	1488.0	0	0.0	Lekeraadsheer.			
+931	2804	0	1122	35	28			1458.0	8.0	12.0	1477.0	0	0.0	Raadsheer-kamerheer. Het aanvangsjaar betreft een eerste vermelding. Ook in 1460. Op 8 december 1473 benoemd tot raadsheer-kamerheer.			
+932	1245	0	497	35	28	8.0	12.0	1473.0	30.0	12.0	1504.0	0	0.0	Lekeraadsheer.			
+933	2645	0	1055	35	2			1440.0			1446.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft 1440-1447.			
+934	769	0	308	11	24	22.0	1.0	1558.0	11.0	3.0	1575.0	0	0.0	Daarvoor secretaris-vertaler. Opvolger van Mathieu Stric.			
+935	779	0	313	11	24	17.0	4.0	1574.0			1578.0	0	0.0	Aangesteld als hulp van zijn vader.			
+936	1280	0	512	35	28			1502.0				0	0.0	Raadsheerschap in de Grote Raad onzeker. Het jaartal betreft een vermelding.			
+937	357	0	146	11	2			1546.0			1582.0	0	0.0	Onbezoldigd.			
+938	744	0	295	11	24			1535.0			1559.0	0	0.0	Aanvangsjaar onzeker. Secretaris zonder recht van signatuur. Beëindigd door overlijden.			
+939	3921	0	510	35	28	8.0	12.0	1473.0			1475.0	0	0.0	Raadsheer-rekestmeester.	0.0	0.0	0.0
+940	1329	0	533	35	28	8.0	12.0	1473.0		7.0	1477.0	0	0.0	Lekeraadsheer.			
+941	912	0	346	34	84	1.0	10.0	1531.0		1.0	1532.0	0	0.0	Beëindigd door overlijden.			
+942	2648	0	513	86	2			1477.0				0	0.0	Onbezoldigd.			
+943	665	0	243	35	28	21.0	5.0	1543.0			1543.0	0	0.0	Opvolger van Andrieu de Roubaix. Raadsheer-rekestmeester.			
+944	1282	0	513	35	28			1492.0		12.0	1507.0	0	0.0	Raadsheer-rekestmeester. Het eindjaar betreft de laatste vermelding. In 1509 werd Joost Quevin wegens sodomie verbannen.			
+945	601	0	246	33	25	1.0	10.0	1531.0	12.0	9.0	1543.0	0	0.0	Beëindigd door overlijden.			
+946	1284	0	514	35	28	10.0	12.0	1498.0			1515.0	0	0.0	Raadsheer-rekestmeester.			
+947	2508	0	1003	77	28			1570.0				0	0.0	Opvolger van Jan Jansz. Cooman.			
+948	985	0	391	9	31	31.0	8.0	1586.0			1588.0	0	0.0	Door Leicester benoemd. Vertrok in 1587 naar Engeland en nam kort daarop ontslag.			
+949	940	0	374	17	31	11.0	8.0	1569.0	6.0	10.0	1581.0	0	0.0	Beëindigd door overlijden tijdens een zitting van het Hof.			
+950	1025	0	404	86	31	28.0	7.0	1559.0	15.0	4.0	1578.0	0	0.0	Verbannen en 11 januari 1581 tot vijand verklaard.			
+951	685	0	274	9	25			1568.0			1578.0	0	0.0				
+952	819	0	330	35	24	1.0	2.0	1548.0				0	0.0	Eed 2 februari 1548. In deze jaren was Renard ambassadeur in Frankrijk en Engeland. Baelde, Collaterale Raden, geeft als eindjaar 1555.			
+953	243	0	95	35	2			1504.0			1531.0	0	0.0	Onbezoldigd.			
+954	823	0	332	35	24	29.0	4.0	1553.0			1559.0	0	0.0	Eed 22 februari 1554. Aangesteld als buitengewoon raadsheer. Waarschijnlijk nooit effectief werkzaam.			
+955	10	0	9	1	1	29.0	8.0	1541.0			1567.0	0	0.0	Opvolger van Vincent Cornelisz. Eed 28 september 1541. Op 28 juli 1556 continuatIe als rekenmeester door Filips II als eerder door zijn vader Karel V, eed op 30 oktober. Beëindigd door overlijden.			
+956	1739	0	691	41	29	8.0	4.0	1580.0	2.0	4.0	1584.0	0	0.0	Eed 27 mei 1580. Beëindigd door overlijden.			
+957	3355	0	1342	34	84	1.0	10.0	1531.0		8.0	1541.0	0	0.0	Beëindigd door overlijden.			
+958	2650	0	1057	35	2			1438.0			1444.0	0	0.0	Onbezoldigd. Memorialen Rosa geeft de jaren 1438, 1440, 1442 en 1444.			
+959	2800	0	1120	35	28	8.0	12.0	1473.0				0	0.0	Lekeraadsheer.			
+960	804	0	323	35	24	31.0	5.0	1535.0	4.0	1.0	1563.0	0	0.0	Beëindigd door overlijden.			
+961	383	0	158	1	1	5.0	7.0	1477.0	5.0	5.0	1495.0	0	0.0	Bos-Rops, Power of money, geeft 27 juni 1477 als commisiedatum.			
+962	1668	0	660	35	29	26.0	4.0	1550.0	10.0	6.0	1558.0	0	0.0	Opvolger van Frederik van Keppel. Eed 7 juli 1550. Beëindigd door overlijden.		8.0	
+963	1169	0	464	35	28	17.0	1.0	1523.0			1540.0	0	0.0	Opvolger van Jean Suqcuet.			
+964	1301	0	522	35	28			1489.0	5.0	11.0	1509.0	0	0.0				
+965	2792	0	711	35	28	8.0	12.0	1473.0				0	0.0	Lekeraadsheer.			
+966	2789	0	522	9	28			1468.0			1477.0	0	0.0	Secretaris en griffier (voor civiele zaken 1473-1477).			
+967	854	0	325	35	28	27.0	12.0	1531.0	11.0	12.0	1546.0	0	0.0	Opvolger van Pierre l'Apostole. Beëindigd door overlijden.			
+968	1303	0	523	35	28	26.0	3.0	1477.0			1480.0	0	0.0	Raadsheer-rekestmeester.			
+969	1759	0	608	86	2	7.0	9.0	1511.0	28.0	4.0	1519.0	0	0.0	Raadsheer met pensioen. Beëindigd door overlijden.			
+970	2438	0	974	35	28	10.0	11.0	1569.0			1584.0	0	0.0	Opvolger van Joost Rataller. Op 12 december 1584 benoemd tot president van de Grote Raad. Dit bleef hij tot zijn overlijden op 5 juli 1595.			
+971	584	0	241	31	84	12.0	10.0	1540.0	25.0	12.0	1548.0	0	0.0	Beëindigd door overlijden.			
+972	313	0	126	22	2			1490.0			1515.0	0	0.0	Met hiaten: vermeld in 1490, 1493, 1495, 1497-1498 en 1515.			
+973	338	0	137	11	2			1540.0			1558.0	0	0.0	Onbezoldigd.			
+974	1306	0	524	35	28			1495.0			1502.0	0	0.0	Raadsheer-rekestmeester.			
+975	2455	0	979	35	28	31.0	8.0	1543.0	19.0	7.0	1557.0	0	0.0	Opvolger van Filips Nigri. Geestelijk raadsheer. Beëindigd door overlijden.			
+976	1641	0	111	40	29	26.0	7.0	1569.0			1575.0	0	0.0	Opvolger van Adriaan Nicolai. Eed 24 augustus 1569. Eindjaar mogelijk 1576.			
+977	281	0	111	35	2	10.0	6.0	1545.0	21.0	8.0	1569.0	0	0.0	Opvolger van zijn vader Joost Sasbout. Als onbezoldigd raadsheer vermeld in 1543-1545.			
+978	1636	0	647	40	29	16.0	9.0	1543.0	14.0	11.0	1546.0	0	0.0	De begindatum is de datum van in functie treden; commissie 7 oktober 1543; eed 7 november. Beëindigd door overlijden.			
+979	1638	0	647	35	2	30.0	10.0	1515.0	3.0	6.0	1545.0	0	0.0				
+980	790	0	304	35	24	12.0	1.0	1547.0	5.0	1.0	1555.0	0	0.0	Beëindigd door overlijden.			
+981	1367	0	551	24	2	17.0	7.0	1447.0	19.0	1.0	1449.0	0	0.0	Say werd in 1449 verbannen. Memorialen Rosa geeft 19 juli 1448 als einddatum.			
+982	1381	0	558	24	2	12.0	4.0	1477.0	31.0	12.0	1479.0	0	0.0	Memorialen Rosa geeft na 1479 nog een onbezoldigd dienstverband tot 30 mei 1480.			
+983	2494	0	998	35	28	14.0	5.0	1561.0			1575.0	0	0.0	Opvolger van Joachim Hopper.			
+984	2502	0	1001	35	28	29.0	3.0	1568.0			1582.0	0	0.0	Opvolger van Jacques Wasteel.			
+985	890	0	357	34	84	2.0	9.0	1577.0	17.0	6.0	1579.0	0	0.0	Beëindigd door overlijden.			
+986	647	0	260	36	25			1564.0			1576.0	0	0.0				
+987	2525	0	1009	35	28	14.0	5.0	1578.0				0	0.0	Opvolger van Pierre Mouchet. Geestelijk raadsheer. Eindjaar 1590 of eerder.			
+988	2515	0	1006	35	28		4.0	1575.0			1589.0	0	0.0	Opvolger van Lieven Everaerts.			
+989	816	0	329	35	24	19.0	4.0	1547.0				0	0.0	Jan Scheyve koos als kanselier van Brabant in 1576 de kant van de opstandelingen maar bleef de titel voeren van raadsheer in de Geheime Raad. In de lijst van Baelde, Collaterale Raden, is als eindjaar 1557 gegeven.			
+990	3814	0	1459	11	2	29.0	1.0	1517.0	22.0	10.0	1522.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+991	2470	0	987	35	28	6.0	3.0	1549.0			1582.0	0	0.0	Opvolger van Nicolaas Uutenhove. Eindjaar onzeker (opvolging in januari 1583).			
+992	666	0	243	32	24	1.0	1.0	1549.0	9.0	9.0	1569.0	0	0.0	Opvolger van Lodewijk van Schore.			
+993	2462	0	983	35	28	30.0	6.0	1547.0			1549.0	0	0.0	Opvolger van Louis de Martigny. Beëindigd door overlijden.			
+994	1323	0	321	35	28	13.0	10.0	1540.0	2.0	10.0	1541.0	0	0.0	Opvolger van Lodewijk van Schore. Beëindigd door overlijden.			
+995	120	0	19	14	1	3.0	9.0	1567.0			1568.0	0	0.0	Eed 23 september 1567. Deze extraordinaris functie bestond hiervoor niet.			
+996	334	0	135	11	2	26.0	2.0	1549.0	8.0	9.0	1558.0	0	0.0	In de jaren 1526-1529, 1532 en 1535 vermeld als onbezoldigd secretaris. Beëindigd door overlijden.			
+997	515	0	65	11	2	21.0	6.0	1564.0	16.0	10.0	1574.0	0	0.0	In de jaren 1559-1564 vermeld als onbezoldigd secretaris. Beëindigd door overlijden.			
+998	355	0	145	11	2			1546.0			1552.0	0	0.0	Onbezoldigd.			
+999	19	0	18	1	1	3.0	9.0	1567.0			1568.0	0	0.0	Opvolger van Gerard van Renoy. Eed 13 september 1567. Bos-Rops, Power of money, geeft als eindjaar 1575.			
+1000	1745	0	361	39	29	15.0	1.0	1544.0	30.0	6.0	1555.0	0	0.0	Beëindigd door overlijden.			
+1001	705	0	281	11	84		4.0	1543.0		9.0	1552.0	0	0.0				
+1002	3935	0	245	34	84	9.0	9.0	1569.0	17.0	4.0	1573.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+1003	597	0	245	32	24	9.0	9.0	1569.0	17.0	4.0	1573.0	0	0.0	Eed 17 september 1569. Beëindigd door overlijden.			
+1004	3931	0	1475	37	25	12.0	6.0	1555.0			1557.0	0	0.0	Opvolger van Nicasius Claesz. Eed 25 september 1555. Beëindigd door overlijden.	0.0	0.0	0.0
+1005	208	0	81	24	2	16.0	7.0	1520.0	11.0	10.0	1520.0	0	0.0	Tijdelijke functie.			
+1006	612	0	251	33	25	30.0	11.0	1549.0			1553.0	0	0.0	Beëindigd door overlijden.			
+1007	1690	0	670	35	29	22.0	3.0	1574.0	7.0	9.0	1578.0	0	0.0	Opvolger van zijn vader Johan van Stalbergen. Eed 8 april 1574.			
+1008	3767	0	2	1	1	4.0	3.0	1503.0			1510.0	0	0.0	Opvolger van Thomas Beukelaar. Beëindigd door overlijden.	0.0	0.0	0.0
+1009	609	0	250	33	25			1549.0	4.0	6.0	1578.0	0	0.0	Beëindigd door overlijden.			
+1010	2662	0	1061	19	2			1437.0			1439.0	0	0.0	Opvolger van Joost van Steeland. Om de rekeningen af te horen. Ook in 1435-1436 reeds deels in Den Haag geplaatst.			
+1011	918	0	348	34	84	17.0	11.0	1555.0	21.0	5.0	1567.0	0	0.0	Beëindigd door overlijden.			
+1012	3871	0	577	9	2			1454.0			1454.0	0	0.0		0.0	0.0	0.0
+1013	1313	0	526	35	28	10.0	1.0	1496.0	3.0	4.0	1504.0	0	0.0	Raadsheer-rekestmeester. Misschien al in 1494.			
+1014	3351	0	130	34	84	1.0	10.0	1531.0	2.0	4.0	1540.0	0	0.0	Beëindigd door overlijden.			
+1015	121	0	52	4	1	14.0	5.0	1568.0	17.0	6.0	1570.0	0	0.0	Eed 5 juni 1568. Bos-Rops, Power of money, heeft 18 mei als commissiedatum en zijn sterfjaar als einddatum. Einddatum is de datum van opvolging.			
+1016	861	0	343	34	84	17.0	11.0	1555.0	10.0	9.0	1567.0	0	0.0	Beëindigd door ontslag.			
+1017	1327	0	532	35	28			1481.0			1494.0	0	0.0	De jaartallen betreffen vermeldingen.			
+1018	3937	0	541	35	2	13.0	8.0	1428.0	1.0	10.0	1430.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.	0.0	0.0	0.0
+1019	865	0	345	34	84	17.0	11.0	1555.0	26.0	12.0	1563.0	0	0.0	Beëindigd door overlijden.			
+1020	1325	0	531	35	28			1494.0			1504.0	0	0.0	Raadsheer-rekestmeester. De jaartallen betreffen vermeldingen.			
+1021	635	0	122	34	84	17.0	11.0	1555.0		4.0	1567.0	0	0.0	Beëindigd door ontslag.			
+1022	4067	0	284	11	84	19.0	6.0	1574.0			1578.0	0	0.0	Op 19 juni 1574 officieel benoemd tot eerste secretaris als opvolger van Jan van der Aa.	0.0	0.0	0.0
+1023	3818	0	470	35	2	13.0	8.0	1428.0	24.0	6.0	1430.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.		0.0	0.0
+1024	624	0	255	34	84	17.0	10.0	1565.0	1.0	2.0	1578.0	0	0.0	Beëindigd door ontslag.			
+1025	884	0	354	34	84	31.0	12.0	1577.0	22.0	4.0	1579.0	0	0.0	Beëindigd door overlijden.			
+1026	1402	0	541	35	2	1.0	5.0	1433.0	1.0	5.0	1436.0	0	0.0	Damen, Staat van dienst, geeft dit als bezoldigde functie; volgens Memorialen Rosa in deze periode zonder wedde. Als onbezoldigd raadsheer vermeld in 1436 en 1439.			
+1027	774	0	310	11	24			1572.0			1578.0	0	0.0	Le Vasseur volgde Don Juan van Oostenrijk naar Namen in 1577.			
+1028	3816	0	1460	37	25	31.0	12.0	1551.0			1576.0	0	0.0	Opvolger van Laurens Longin. Eed 6 januari 1552. Eindjaar onzeker.	0.0	0.0	0.0
+1029	662	0	263	37	25			1557.0			1559.0	0	0.0	Opvolger van Gilbert van Schoonbeke. Beëindigd door overlijden.			
+1030	1331	0	534	35	28			1502.0				0	0.0	Raadsheerschap in de Grote Raad onzeker. Het jaartal betreft een vermelding.			
+1031	626	0	253	34	84	21.0	10.0	1561.0	10.0	9.0	1567.0	0	0.0	Beëindigd door ontslag.			
+1032	1603	0	644	35	2	1.0	5.0	1434.0	1.0	5.0	1438.0	0	0.0	Memorialen Rosa geeft 1434-1443 onbezoldigd.			
+1033	3946	0	1478	35	2	1.0	5.0	1433.0	30.0	4.0	1434.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1431-1432, 1434 en 1436. Memorialen Rosa geeft 1431 en 1433-1434.	0.0	0.0	0.0
+1034	2459	0	981	35	28	14.0	5.0	1546.0			1548.0	0	0.0	Opvolger van Charles de Boisot. Beëindigd door overlijden.			
+1035	625	0	254	34	84	14.0	8.0	1568.0	5.0	3.0	1574.0	0	0.0	Beëindigd door overlijden.			
+1036	606	0	113	33	25	18.0	10.0	1540.0	7.0	10.0	1555.0	0	0.0	Opvolger van Antoon van Lalaing. Beëindigd door overlijden.			
+1037	3778	0	965	24	31	15.0	2.0	1544.0	22.0	2.0	1557.0	0		Eed hernieuwd voor Filips II op 13 november 1555.			
+1038	2529	0	1011	35	28	4.0	12.0	1580.0			1592.0	0	0.0	Opvolger van Foliard a Montzima. Geestelijk raadsheer.			
+1039	2527	0	1010	35	28	30.0	6.0	1578.0			1580.0	0	0.0	Opvolger van Louis Porry. Geestelijk raadsheer.			
+1040	1335	0	536	35	28	8.0	12.0	1473.0			1500.0	0	0.0	Geestelijk raadsheer. In 1478 aangetroffen als raadsheer-rekestmeester. Het eindjaar betreft een laatste vermelding.			
+1041	230	0	13	37	25	31.0	12.0	1551.0			1571.0	0	0.0				
+1042	229	0	90	11	2	10.0	4.0	1460.0	30.0	6.0	1463.0	0	0.0	In de jaren 1463-1464 en 1467-1471 (Memorialen Rosa 1470) vermeld als onbezoldigd secretaris.			
+1043	1466	0	586	11	2	16.0	3.0	1470.0	26.0	3.0	1477.0	0	0.0	Memorialen Rosa geeft 26 juni 1469 als begindatum.			
+1044	858	0	322	34	84			1538.0	28.0	3.0	1555.0	0	0.0	Beëindigd door overlijden.			
+1045	1605	0	645	35	2	1.0	5.0	1433.0	1.0	5.0	1438.0	0	0.0	Niet in Memorialen Rosa. Als onbezoldigd raadsheer vermeld in 1438-1445 (niet in Memorialen Rosa).			
+1046	17	0	16	1	1	12.0	11.0	1553.0			1557.0	0	0.0	Opvolger van Heiman Vincentsz. van de Ketel. Eed 27 november 1553. Continuatie op 28 juli 1556 door Filips II als eerder door zijn vader Karel V, eed op 29 oktober.			
+1047	3901	0	327	35	24			1548.0				0	0.0	Vries, Heeren van den Raede, geeft als eindjaar 1557. Het lidmaatschap wordt door Baelde, Collaterale Raden, niet vermeld.	0.0	0.0	0.0
+1048	919	0	350	35	24			1555.0				0	0.0	Aanstelling in het najaar. Niet vermeld in de lijst van Baelde, Collaterale Raden.			
+1049	698	0	278	11	84	1.0	1.0	1532.0	19.0	5.0	1533.0	0	0.0	Beëindigd door overlijden.			
+1050	969	0	385	27	31	9.0	4.0	1575.0	17.0	4.0	1578.0	0	0.0	Eed 23 september 1575. Na april 1578 werd de functie waargenomen door kameraar Jan Robbrechtse en daarna door procureur-generaal Thomas Zoes.			
+1051	821	0	331	35	24			1549.0				0	0.0				
+1052	693	0	273	37	25	7.0	1.0	1570.0			1578.0	0	0.0	Aanvangsdatum mogelijk 7 januari 1569; Baelde vermeldt beide data (97 en 299). Eindjaar onzeker.			
+1053	277	0	109	35	2	26.0	7.0	1535.0	28.0	2.0	1539.0	0	0.0	Op 24 augustus 1538 door de keizer uit Den Haag weggeroepen.			
+1054	4100	0	284	11	24	30.0	6.0	1555.0	1.0	12.0	1556.0	0	0.0	Aangesteld als boventallig secretaris. op 15 september 1556 gewoon secretaris.	0.0	0.0	0.0
+1055	3809	0	1457	11	24	4.0	2.0	1555.0			1572.0	0	0.0	In 1556 werd Joost van Courtewille secretaris 'suivant la personne du roy'. Beëindigd door overlijden.	0.0	0.0	0.0
+1056	1489	0	591	35	2	22.0	12.0	1469.0	17.0	96.0	1474.0	0	0.0	Opvolger van Hendrik Jansz. van Wissenkerke.			
+1057	3956	0	1481	35	2	24.0	6.0	1433.0	1.0	5.0	1439.0	0	0.0	Als onbezoldigd raadsheer vermeld in 1439. Memorialen Rosa geeft 1433-1442.	0.0	0.0	0.0
+1058	4066	0	298	91	84	1.0	8.0	1551.0				0	0.0		0.0	0.0	0.0
+1059	525	0	214	11	2			1565.0			1573.0	0	0.0	Onbezoldigd.			
+1060	526	0	214	24	2			1573.0			1574.0	0	0.0	Cornelis van der Wolff werd geen raadsheer. Beëindigd door overlijden.			
+1061	3914	0	1473	37	25	5.0	1.0	1572.0			1578.0	0	0.0	Opvolger van Albert van Loo. Eindjaar onzeker.	0.0	0.0	0.0
+1062	955	0	379	35	31			1581.0			1583.0	0	0.0				
+1063	715	0	281	11	24	10.0	10.0	1531.0			1548.0	0	0.0	Voor de reorganisatie van 1531: secretaris in de Geheime Raad vanaf 1 juli 1519.			
+1064	1737	0	668	42	29	4.0	1.0	1578.0	7.0	9.0	1578.0	0	0.0	Opvolger van Johan Wrdt.			
+1065	1609	0	646	35	2	1.0	9.0	1447.0	20.0	6.0	1451.0	0	0.0	Opvolger van zijn vader Boudijn van Zwieten. Beëindigd door overlijden. Als onbezoldigd raadsheer vermeld in 1439-1440.			
+1066	2820	0	874	35	2			1495.0			1502.0	0	0.0	Onbezoldigd. Niet in 1496. Memorialen Rosa geeft 1495-1501.			
+1067	1377	0	556	24	2	7.0	11.0	1467.0	24.0	2.0	1474.0	0	0.0	Sedert 1457 (Damen, Staat van dienst) of 1460 (Memorialen Rosa) nam hij de functie van procureur-generaal waar.			
+1068	3194	0	1280	9	2			1483.0			1501.0	0	0.0	Opvolger van zijn schoonvader Willem de bastaard van Zwieten.			
+1069	267	0	104	22	2			1506.0			1506.0	0	0.0				
+1070	347	0	141	22	2			1532.0			1532.0	0	0.0	Kok, In dienst van het recht, geeft 1532-1541.			
+1071	1459	0	552	11	2	1.0	6.0	1436.0	30.0	11.0	1439.0	0	0.0	Opvolger, samen met Andries van der Cruce, van Adriaan van der Ee.			
+1072	1481	0	573	11	2	2.0	8.0	1458.0	30.0	6.0	1463.0	0	0.0	In 1463 ook nog onbezoldigd vermeld.			
+1073	1439	0	576	11	2	7.0	1.0	1457.0	27.0	9.0	1471.0	0	0.0	In de jaren 1452-1456 (Memorialen Rosa 1453-1458) vermeld als onbezoldigd secretaris. Memorialen Rosa geeft als aanvangsdatum 7 augustus 1458. Beëindigd door overlijden.			
+1074	3868	0	1470	22	2			1520.0			1520.0	0	0.0		0.0	0.0	0.0
+1075	358	0	146	22	2			1545.0			1545.0	0	0.0				
+1076	1628	0	631	35	2	13.0	8.0	1428.0	24.0	6.0	1430.0	0	0.0	Aangesteld door Jacoba van Beieren en Filips van Bourgondië na de Zoen van Delft.			
+1077	3180	0	921	86	2	1.0	1.0	1490.0	14.0	10.0	1505.0	0	0.0	Met een jaarlijks pensioen. Beïindigd door overlijden.			
+1078	1614	0	642	27	2	19.0	11.0	1432.0	19.0	6.0	1439.0	0	0.0	De rentmeester-generaal was tevens raadsheer.			
+1079	2597	0	1035	27	2	1.0	1.0	1442.0	5.0	2.0	1446.0	0	0.0	De rentmeester-generaal was tevens raadsheer. Memorialen Rosa vermeldt Willem Engelbrechtsz. ook als onbezoldigd raadsheer in 1441.			
+1080	2671	0	1063	27	2	24.0	5.0	1451.0	30.0	9.0	1469.0	0	0.0	De rentmeester-generaal was tevens raadsheer. Als onbezoldigd raadsheer vermeld in 1470 (niet in Memorialen Rosa).			
+1081	258	0	101	27	2	1.0	1.0	1499.0	31.0	12.0	1500.0	0	0.0	De rentmeester-generaal was tevens raadsheer.			
+1082	2647	0	1056	19	2	12.0	1.0	1428.0	9.0	8.0	1428.0	0	0.0	Om de rekeningen af te horen.			
+1083	2564	0	1023	52	2	1.0	10.0	1469.0	25.0	1.0	1486.0	0	0.0	De functie in deze tijd was officieel afgeschaft en ondergebracht bij de rentmeester van Noord-Holland.			
+1084	546	0	222	25	2	12.0	4.0	1477.0	31.0	12.0	1479.0	0	0.0	Memorialen Rosa geeft een (in 1480 onbezoldigd) dienstverband tot 30 mei 1480.			
+1085	1616	0	640	27	2	19.0	6.0	1439.0	31.0	12.0	1441.0	0	0.0	De rentmeester-generaal was tevens raadsheer.			
+1086	1764	0	601	27	2	6.0	2.0	1446.0	24.0	5.0	1451.0	0	0.0	De rentmeester-generaal was tevens raadsheer.			
+1087	2286	0	921	27	2	1.0	1.0	1480.0	31.0	12.0	1489.0	0	0.0	De rentmeester-generaal was tevens raadsheer. Memorialen Rosa vermeldt Jan van Essche nog als onbezoldigd raadsheer in 1479, 1492-1499 en 1504.			
+1088	2663	0	1060	19	2			1432.0			1433.0	0	0.0	Om de rekeningen af te horen. Als onbezoldigd raadsheer vermeld in 1431-1432 en 1435-1437.			
+1089	1389	0	562	25	2	5.0	12.0	1481.0	3.0	6.0	1489.0	0	0.0				
+1090	175	0	70	25	2	20.0	9.0	1520.0	5.0	10.0	1522.0	0	0.0				
+1091	190	0	74	25	2	15.0	11.0	1558.0		10.0	1559.0	0	0.0	Beëindigd door overlijden.			
+1092	1342	0	539	88	2	17.0	4.0	1445.0	17.0	6.0	1448.0	0	0.0	De Wilde was 'pesident ende overste van de rade' en kan niet als stadhouder aangemerkt worden.			
+1093	221	0	87	25	2	30.0	10.0	1515.0		10.0	1520.0	0	0.0	Beëindigd door overlijden.			
+1094	179	0	71	25	2	11.0	4.0	1536.0	23.0	9.0	1543.0	0	0.0	Beëindigd door overlijden.			
+1095	178	0	71	24	2	11.0	4.0	1536.0	23.0	9.0	1543.0	0	0.0	Beëindigd door overlijden.			
+1096	193	0	75	25	2	3.0	1.0	1560.0	6.0	9.0	1571.0	0	0.0	Beëindigd door overlijden.			
+1097	270	0	106	88	2	9.0	10.0	1528.0	7.0	12.0	1558.0	0	0.0	Beëindigd door overlijden.			
+1098	1366	0	551	24	2	30.0	6.0	1434.0	16.0	12.0	1439.0	0	0.0	Damen, Staat van dienst, geeft een beginjaar zonder datum.			
+1099	1375	0	555	24	2	25.0	8.0	1456.0	7.0	11.0	1467.0	0	0.0	Memorialen Rosa geeft als einddatum 7 oktober 1467			
+1100	1369	0	552	24	2	1.0	12.0	1439.0	1.0	7.0	1447.0	0	0.0	Memorialen Rosa geeft als data 1 januari 1440 tot 31 juli 1447.			
+1101	1373	0	554	24	2	27.0	10.0	1452.0	24.0	8.0	1456.0	0	0.0	Al in 1451 onbezoldigd als procureur-generaal vermeld. Als onbezoldigd raadsheer vermeld in 1452-1456.			
+1102	1385	0	560	24	2	17.0	6.0	1480.0	30.0	1.0	1484.0	0	0.0	Memorialen Rosa geeft als aanvangsdatum 13 oktober 1480.			
+1103	2440	0	874	24	2	22.0	9.0	1490.0	14.0	7.0	1494.0	0	0.0	Memorialen Rosa geeft als data 1 januari 1491 tot 28 juni 1494. In 1497 trad hij onbezoldigd op als procureur-generaal.			
+1104	171	0	69	24	2	28.0	6.0	1494.0	14.0	7.0	1520.0	0	0.0	Beëindigd door overlijden.			
+1105	1460	0	552	11	2	1.0	8.0	1447.0	30.0	6.0	1463.0	0	0.0	In de jaren 1466-1468 (Memorialen Rosa 1442 en 1465-1466) vermeld als onbezoldigd secretaris..			
+1106	194	0	75	24	2	3.0	1.0	1560.0	6.0	9.0	1571.0	0	0.0	Beëindigd door overlijden.			
+1107	200	0	77	24	2	28.0	2.0	1576.0		9.0	1582.0	0	0.0	Beëindigd door overlijden.			
+1108	1379	0	557	24	2	14.0	6.0	1474.0	15.0	1.0	1477.0	0	0.0	Memorialen Rosa geeft als einddatum 12 april 1477.			
+1109	3866	0	1469	24	2			1574.0	27.0	12.0	1575.0	0	0.0	Beëindigd door overlijden.	0.0	0.0	0.0
+1110	201	0	78	24	2	30.0	11.0	1582.0			1586.0	0	0.0	Beëindigd door overlijden.			
+1111	1766	0	627	25	2	9.0	12.0	1463.0	8.0	7.0	1473.0	0	0.0	In 1463 trad mr. Matthijs de Grothée onbezoldigd op als advocaat-fiscaal.			
+1112	1455	0	583	11	2	13.0	8.0	1428.0	30.0	4.0	1433.0	0	0.0	In 1433-1435 vermeld als onbezoldigd secretaris (niet in Memorialen Rosa). Memorialen Rosa geeft een vermelding als onbezoldigd raadsheer in 1428.			
+1113	1441	0	577	11	2	15.0	10.0	1471.0	22.0	4.0	1477.0	0	0.0	In de jaren 1455-1458, 1460-1463 en 1465-1471 (Memorialen Rosa 1455-1471 en 1478-1479) vermeld als onbezoldigd secretaris.			
+1114	1476	0	587	11	2	30.0	5.0	1480.0	4.0	3.0	1481.0	0	0.0	In de jaren 1474-1476 (Memorialen Rosa 1474) vermeld als onbezoldigd secretaris.			

@@ -1,0 +1,368 @@
+	IDFunctie	Periode	Functie	Volgnummer	Lokaal	Id
+0	1	2	minister secretaris van staat	0	0	0
+1	5	2	koning van Holland	0	0	0
+2	6	2	kanselier van de koning	0	0	0
+3	7	2	minister vice-president	0	0	0
+4	8	2	raad-secretaris	0	0	0
+5	9	2	minister	0	0	0
+6	10	2	inspecteur voor het geneeskundige	0	0	0
+7	11	2	inspecteur voor het lagere schoolwezen	0	0	0
+8	12	2	inspecteur voor maten en gewichten, tevens adviseur wis-, natuur-, schei- en werktuigkunde	0	0	0
+9	27	2	secretaris sectie Staatsraad	0	0	0
+10	28	2	directeur-generaal	0	0	0
+11	30	2	requestmeester-generaal	0	0	0
+12	31	2	controleur-generaal van de publieke inkomsten en uitgaven	0	0	0
+13	32	2	eerste secretaris	0	0	0
+14	33	2	tweede secretaris	0	0	0
+15	34	2	directeur	0	0	0
+16	35	2	commies-indexmaker	0	0	0
+17	37	2	adjunct archivarius	0	0	0
+18	38	2	commissaris-adviseur tot de zaken der wis-, natuur-, schei- en werktuigkunde	0	0	0
+19	39	2	commissaris tot de zaken van het lager schoolwezen	0	0	0
+20	40	2	commissaris tot de zaken der geneeskundige staatsregeling	0	0	0
+21	41	2	commissaris tot de zaken van de landbouw	0	0	0
+22	43	2	landsastronomist	0	0	0
+23	45	2	inspecteur-generaal van de waterstaat	0	0	0
+24	48	2	président délégué	0	0	0
+25	49	2	keizer van Frankrijk	0	0	0
+26	55	2	ministre	0	0	0
+27	66	2	directeur-général	0	0	0
+28	69	2	directeur du premier arrondissement de la police générale	0	0	0
+29	70	2	inspecteur-général de la gendarmerie impériale	0	0	0
+30	71	2	premier président	0	0	0
+31	72	2	conseiller	0	0	0
+32	74	2	grand maître	0	0	0
+33	75	2	lieutenant-général de l' empereur	0	0	0
+34	76	2	gouverneur-général des départements de la Hollande	0	0	0
+35	77	2	koningin van Holland	0	0	0
+36	78	2	intendant-général de l' intérieur en Hollande	0	0	0
+37	81	2	raadpensionaris	0	0	0
+38	82	2	opperstalmeester	0	0	0
+39	83	2	grootmeester van het huis van de Koning	0	0	0
+40	84	2	president	0	0	0
+41	86	2	maître des Requêtes chargé du Service des Ponts et Chaussées en Hollande	0	0	0
+42	92	2	agent	0	0	0
+43	101	2	eerste commissaris van het commissariaat der Franse troepen in soldij der Bataafse Republiek	0	0	0
+44	103	2	commissaris-liquidateur	0	0	0
+45	109	2	grand maréchal du Palais	0	0	0
+46	111	2	secrétaire	0	0	0
+47	113	2	intendant général de l' Empereur	0	0	0
+48	116	2	procureur-général-impérial	0	0	0
+49	123	2	préfet	0	0	0
+50	128	2	grand-chancellier	0	0	0
+51	135	2	archi-chancelier de l' empire	0	0	0
+52	136	2	archi-trésorier de l' empire	0	0	0
+53	138	2	consul-général de France à Amsterdam	0	0	0
+54	139	2	consul de France à Rotterdam	0	0	0
+55	140	2	vice-consul de France à Hellevoetsluis	0	0	0
+56	148	2	archiviste	0	0	0
+57	155	2	maître des Requêtes au Conseil d' État en service extraordinaire	0	0	0
+58	157	2	directeur principal des douanes en Hollande, à Amsterdam	0	0	0
+59	159	2	auditeur de la première classe	0	0	0
+60	160	2	auditeur de la deuxième classe	0	0	0
+61	161	2	auditeur de la troisième classe	0	0	0
+62	162	2	auditeur en service extraordinaire	0	0	0
+63	164	2	secrétaire-géneral	0	0	0
+64	165	2	membre	0	0	0
+65	168	2	sous-chef division du Nord	0	0	0
+66	169	2	membre du Conseil Général de Commerce	0	0	0
+67	172	2	inspecteur-général des Ponts et Chaussées	0	0	0
+68	184	2	inspecteur-général des Côtes de la Mer du Nord	0	0	0
+69	185	2	vice-amiral	0	0	0
+70	186	2	contre-amiral de la Marine Impériale	0	0	0
+71	187	2	chef militaire du port à Amsterdam	0	0	0
+72	188	2	chef militaire du port à Rotterdam	0	0	0
+73	189	2	inspecteur de la marine à Amsterdam	0	0	0
+74	190	2	sous-inspecteur de première classe de la Marine à Rotterdam	0	0	0
+75	191	2	sous-inspecteur de seconde classe de la Marine à Amsterdam	0	0	0
+76	192	2	directeur d' équipement dans l' arrondissement maritime de Hollande	0	0	0
+77	204	2	advocaat-fiscaal-generaal	0	0	0
+78	208	2	archivist	0	0	0
+79	212	2	directeur particulier des douanes à  Amsterdam	0	0	0
+80	214	2	directeur particulier des douanes à Dokkum	0	0	0
+81	215	2	directeur particulier des douanes à  Emden	0	0	0
+82	217	2	président	0	0	0
+83	218	2	maître des requêtes directeur des polders	0	0	0
+84	222	2	sénateur	0	0	0
+85	225	2	référendaire de la seconde classe	0	0	0
+86	226	2	directeur des Ponts et Chaussées en Hollande	0	0	0
+87	227	2	ingénieur en chef des Ponts et Chaussées	0	0	0
+88	229	2	inspecteur de l' imprimerie et de la librairie	0	0	0
+89	231	2	commissaire-vérificateur à l' Estampille	0	0	0
+90	232	2	commissaire des poudreries à Amsterdam	0	0	0
+91	233	2	inspecteur-général du Service de Santé des Armées	0	0	0
+92	238	2	commissaire spécial de la police	0	0	0
+93	245	2	eerste voorzitter van het Hof van Rekeningen van het Koninkrijk Holland	0	0	0
+94	246	2	voorzitter	0	0	0
+95	247	2	directeur van de publieke domeinen en de geestelijke goederen	0	0	0
+96	250	2	général de division, commandant de la trente-unième division	0	0	0
+97	251	2	inspecteur des 32e et 33e légions de la Gendarmerie impériale à Amsterdam	0	0	0
+98	273	2	maire van Rotterdam	0	0	0
+99	275	2	sous-préfet	0	0	0
+100	280	2	procureur-général-impérial à La Haye	0	0	0
+101	282	2	conservateur des forêts à Amsterdam	0	0	0
+102	283	2	commissaire impérial Monnaie d' Utrecht	0	0	0
+103	287	2	recteur de l' Académie de Groningue	0	0	0
+104	288	2	recteur de l' Académie de Leyde	0	0	0
+105	289	2	gouverneur	0	0	0
+106	290	2	keizerin van Frankrijk	0	0	0
+107	295	2	algemeen secretaris	0	0	0
+108	303	2	secretaris	0	0	0
+109	304	2	thesaurier-generaal	0	0	0
+110	307	2	raad	0	0	0
+111	311	2	archivarius	0	0	0
+112	321	2	procureur-generaal	0	0	0
+113	326	2	commissaris	0	0	0
+114	330	2	advocaat-fiscaal over de militie	0	0	0
+115	332	2	advocaat-fiscaal over de zeemacht	0	0	0
+116	335	2	essayeur-generaal	0	0	0
+117	336	2	commissaris tot de Gecedeerde Landen aan de Bataafse Republiek	0	0	0
+118	338	2	lid	0	0	0
+119	342	2	algemene secretaris van staat	0	0	0
+120	343	2	griffier	0	0	0
+121	348	2	commissaris tot de zaken van de geneeskundige staatsregeling	0	0	0
+122	355	2	kapitein-generaal van de jacht	0	0	0
+123	356	2	opperjagermeester	0	0	0
+124	358	2	particulier secretaris van Lodewijk Napoleon	0	0	0
+125	360	2	secretaris politieke correspondentie (secrétaire des commandements)	0	0	0
+126	361	2	secretaris van Staat	0	0	0
+127	374	2	grootkamerheer	0	0	0
+128	375	2	grootmaarschalk van het Paleis	0	0	0
+129	376	2	grootceremoniemeester	0	0	0
+130	377	2	waarnemend secretaris van staat	0	0	0
+131	378	2	thesaurier-generaal van de kroon	0	0	0
+132	379	2	betaalmeester van oorlog	0	0	0
+133	380	2	betaalmeester te velde	0	0	0
+134	381	2	directeur van de administratie van oorlog	0	0	0
+135	382	2	grootmeester	0	0	0
+136	384	2	groot-kanselier	0	0	0
+137	385	2	groot-thesaurier	0	0	0
+138	387	2	secretaris-generaal	0	0	0
+139	391	2	eerste president van de staatsraad	0	0	0
+140	395	2	landdrost	0	0	0
+141	403	2	commissaris-generaal voor de koloniën	0	0	0
+142	409	2	inspecteur en essayeur-generaal van de munt en van goud- en zilverwerken	0	0	0
+143	412	2	maire van Utrecht	0	0	0
+144	413	2	commissaris-generaal voor het geneeskundige	0	0	0
+145	414	2	ontvanger-generaal	0	0	0
+146	416	2	archivist-directeur van de plannen	0	0	0
+147	417	2	algemeen geheimschrijver	0	0	0
+148	419	2	zaakverzorger des Konings bij het Hof van Rekening	0	0	0
+149	424	2	waarnemend Voorzitter	0	0	0
+150	427	2	secretaris-archivist	0	0	0
+151	429	2	provisioneel secretaris-generaal	0	0	0
+152	432	2	commissaris tot de zaken van het fabriekswezen	0	0	0
+153	436	2	commissaire général de l' agriculture	0	0	0
+154	439	2	directeur van de militaire archieven, plans en kaarten	0	0	0
+155	440	2	eerste aalmoezenier van de koning	0	0	0
+156	451	2	redenaar	0	0	0
+157	453	2	hoofd-administrateur van het mortificatiefonds	0	0	0
+158	479	2	administrateur van het kohier der verpondingen	0	0	0
+159	482	2	secretaris en lid van het Comité Centraal van Marine en Waterstaat	0	0	0
+160	483	2	gouverneur-generaal	0	0	0
+161	484	2	inspecteur en chef de la Loterie à Amsterdam	0	0	0
+162	486	2	lid van het Comité Centraal van Marine en Koloniën	0	0	0
+163	487	2	président du Conseil	0	0	0
+164	488	2	président de la section de Cassation Criminelle	0	0	0
+165	489	2	chef de la division du Nord	0	0	0
+166	491	2	inspecteur-generaal	0	0	0
+167	492	2	ontvanger-generaal van de administratie te lande	0	0	0
+168	493	2	gouverneur-generaal van Oost-Friesland	0	0	0
+169	494	2	representant	0	0	0
+170	496	2	chef	0	0	0
+171	497	2	president van de commissie van superintendentie tot de zaken van de Verpondingen	0	0	0
+172	499	2	directeur-generaal van het geneeskundig Bestuur van de Armée	0	0	0
+173	500	2	secretaris van het departement	0	0	0
+174	501	2	ministre secrétaire d' État	0	0	0
+175	502	2	secretaris der wetenschappen en kunsten	0	0	0
+176	503	2	commissaire-général de la police	0	0	0
+177	504	2	raadsheer	0	0	0
+178	505	2	waardijn	0	0	0
+179	506	2	directeur de la Monnaie d' Utrecht	0	0	0
+180	507	2	lid van de raad van administratie over de Waterstaat	0	0	0
+181	509	2	chef de bureau	0	0	0
+182	510	2	intendant-général	0	0	0
+183	511	2	président de la section des requêtes	0	0	0
+184	512	2	gouverneur van Kaap de Goede Hoop	0	0	0
+185	513	2	lid van de commissie van superintendentie tot de zaken van de verpondingen	0	0	0
+186	515	2	secrétaire-général de la préfecture	0	0	0
+187	516	2	directeur van de middelen te water	0	0	0
+188	517	2	directeur-generaal van de middelen te water	0	0	0
+189	518	2	secretaris van de commissie van superintendentie tot de zaken van de verpondingen	0	0	0
+190	519	2	secretaris-generaal van het Kohier van de Verponding	0	0	0
+191	521	2	grand Chambellan	0	0	0
+192	522	2	secrétaire du Cabinet de l' Empereur	0	0	0
+193	523	2	président de la section de cassation civile	0	0	0
+194	524	2	president van het kohier van de verponding	0	0	0
+195	525	2	lid (in gewone dienst)	0	0	0
+196	526	2	substituut-secretaris	0	0	0
+197	527	2	président de la section de l' Intérieur	0	0	0
+198	528	2	ministre (grand juge)	0	0	0
+199	529	2	préfet maritime de Hollande	0	0	0
+200	530	2	secretaris van het commandement van het Gouvernement van Holland	0	0	0
+201	532	2	secretaris-generaal van de algemene directie van de Waterstaat	0	0	0
+202	533	2	controleur van de gebouwen in de residentie	0	0	0
+203	534	2	commies van de Controleur van de gebouwen in de residentie	0	0	0
+204	535	2	controleur van de Koninklijke gebouwen binnen Utrecht	0	0	0
+205	539	2	substituut-griffier	0	0	0
+206	540	2	raad-auditeur	0	0	0
+207	541	2	advocat-général	0	0	0
+208	542	2	commies-griffier	0	0	0
+209	543	2	conseiller de préfecture	0	0	0
+210	544	2	assessor	0	0	0
+211	545	2	secretaris ad interim der Financie	0	0	0
+212	546	2	kwartierdrost (drost)	0	0	0
+213	547	2	commies	0	0	0
+214	548	2	momber (Procureur-generaal)	0	0	0
+215	551	2	commissielid	0	0	0
+216	552	2	toegevoegd commies	0	0	0
+217	553	2	membre du Conseil général	0	0	0
+218	554	2	advocaat-fiscaal	0	0	0
+219	555	2	eerste griffier	0	0	0
+220	556	2	tweede griffier	0	0	0
+221	557	2	substituut-momber	0	0	0
+222	559	2	sous-chef	0	0	0
+223	560	2	provisioneel secretaris	0	0	0
+224	561	2	klerk	0	0	0
+225	562	2	provisioneel minister	0	0	0
+226	564	2	chef de bureau	0	0	0
+227	565	2	tweede commies	0	0	0
+228	566	2	indexmaker	0	0	0
+229	567	2	eerste commies	0	0	0
+230	568	2	commies expediteur	0	0	0
+231	569	2	tweede commies notularis	0	0	0
+232	570	2	sub-Agent	0	0	0
+233	571	2	commissaris directeur	0	0	0
+234	572	2	employé	0	0	0
+235	573	2	president der zeewerken	0	0	0
+236	574	2	extraordinaris klerk ter assistentie van de Agent	0	0	0
+237	575	2	commies tekenaar	0	0	0
+238	576	2	lid van de waterstaat	0	0	0
+239	577	2	boekhouder van de waterstaat	0	0	0
+240	578	2	landschrijver	0	0	0
+241	580	2	kopiist geheime stukken	0	0	0
+242	581	2	charterbewaarder	0	0	0
+243	582	2	landsadvocaat	0	0	0
+244	583	2	commies-notularis	0	0	0
+245	584	2	klerk-expediteur	0	0	0
+246	585	2	eerste klerk	0	0	0
+247	587	2	secretaris van de eerste Kamer	0	0	0
+248	588	2	charterklerk	0	0	0
+249	589	2	lands-fiscaal	0	0	0
+250	591	2	secretaris van de cijfers van de Staat	0	0	0
+251	592	2	hoofdcommies	0	0	0
+252	593	2	commies ter ordonnantie	0	0	0
+253	594	2	commissaris bij het departement van Landbouw	0	0	0
+254	595	2	commissaris bij het departement van de Fabrieken	0	0	0
+255	596	2	thesaurier van de Domeinen	0	0	0
+256	597	2	inspecteur van de Domeinen	0	0	0
+257	598	2	klerk-notularis	0	0	0
+258	599	2	geheimklerk	0	0	0
+259	600	2	klerk der eerste Klasse	0	0	0
+260	601	2	klerk der tweede Klasse	0	0	0
+261	602	2	klerk der Derde Klasse	0	0	0
+262	603	2	tweede klerk	0	0	0
+263	604	2	commies tot de geneeskundige Staatsregeling	0	0	0
+264	605	2	chef der Politie	0	0	0
+265	606	2	eerste commies notularis	0	0	0
+266	607	2	tweede commies notularis	0	0	0
+267	608	2	drossaard	0	0	0
+268	609	2	hoofd-commissaris-inspecteur bij de Waterstaat	0	0	0
+269	610	2	commissaris-inspecteur bij de Waterstaat	0	0	0
+270	611	2	commies-directeur van de equipage	0	0	0
+271	612	2	commies-directeur van financiën	0	0	0
+272	613	2	charterkamer-commies	0	0	0
+273	614	2	meesterknecht	0	0	0
+274	615	2	extraordinaris klerk	0	0	0
+275	616	2	adjunct secretaris der cijfers	0	0	0
+276	617	2	sub-griffier	0	0	0
+277	618	2	klerk bij de commies indexmaker	0	0	0
+278	619	2	commies tot de zaken van de waterstaat	0	0	0
+279	620	2	agendaris	0	0	0
+280	621	2	chartermeester	0	0	0
+281	622	2	afgevaardigd lid	0	0	0
+282	623	2	directeur-generaal van de nationale rivier- en zeewerken	0	0	0
+283	624	2	inspecteur van de rivieren	0	0	0
+284	625	2	inspecteur van de zeehavens en zeegaten	0	0	0
+285	626	2	superintendent Bureau Betaling van de Armee	0	0	0
+286	627	2	directeur Bataafse Courant	0	0	0
+287	628	2	commissaris van de Nationale Thesaurie	0	0	0
+288	629	2	rang nog onbekend	0	0	0
+289	630	2	boekhouder	0	0	0
+290	631	2	tabelmaker	0	0	0
+291	633	2	extraordinaris raad	0	0	0
+292	634	2	kamerheer	0	0	0
+293	636	2	commissaris Domeinen Nassau	0	0	0
+294	637	2	commissaris-inspecteur Domeinen Nassau	0	0	0
+295	638	2	commissaris Mortificatiebureau	0	0	0
+296	639	2	ontvanger-generaal Domeinen	0	0	0
+297	640	2	directeur Loterijen	0	0	0
+298	641	2	commissaris-directeur Klein Zegel	0	0	0
+299	642	2	commissaris-directeur Zegel Patent	0	0	0
+300	643	2	inspecteur-generaal van de Nationale Middelen	0	0	0
+301	644	2	chef bureau de traduction	0	0	0
+302	647	2	chef Frans Bureau	0	0	0
+303	648	2	employé Frans Bureau	0	0	0
+304	650	2	secretaris-generaal in Oost-Friesland	0	0	0
+305	651	2	auditeur	0	0	0
+306	652	2	inspecteur	0	0	0
+307	653	2	bibliothecaris-generaal	0	0	0
+308	655	2	superintendent Koninklijke Courant	0	0	0
+309	657	2	adjunct chef divisie	0	0	0
+310	658	2	commissaris-generaal in Oost-Friesland	0	0	0
+311	659	2	chef generaal secretariaat	0	0	0
+312	663	2	administrateur-generaal	0	0	0
+313	665	2	chef divisie artillerie en genie	0	0	0
+314	666	2	directeur van het Depot van Marine	0	0	0
+315	667	2	directeur van het Depot der Koloniën	0	0	0
+316	668	2	chef bureau rekesten	0	0	0
+317	669	2	directeur des élèves à Paris et à Rome	0	0	0
+318	675	2	chef divisie	0	0	0
+319	676	2	kabinetsraad	0	0	0
+320	679	2	president Cohier Verponding	0	0	0
+321	680	2	chef generale comptabiliteit	0	0	0
+322	681	2	opperboekhouder	0	0	0
+323	682	2	permanente commissaris Verificateur	0	0	0
+324	683	2	eerste Kabinetssecretaris	0	0	0
+325	684	2	traducteur	0	0	0
+326	685	2	grootmeester der Wapenen	0	0	0
+327	686	2	chef secretariaat	0	0	0
+328	687	2	adjunct secretaris	0	0	0
+329	688	2	commissaris-Verificateur	0	0	0
+330	689	2	eerste Boekhouder	0	0	0
+331	690	2	archivist en chef expeditie	0	0	0
+332	691	2	chef algemene comptabiliteit	0	0	0
+333	692	2	kassier	0	0	0
+334	693	2	commies-generaal van de Convooien en Licenten	0	0	0
+335	694	2	translateur Frans en Latijn	0	0	0
+336	695	2	klerk van de cijfers	0	0	0
+337	696	2	adjunct klerk van de cijfers	0	0	0
+338	697	2	onderklerk	0	0	0
+339	698	2	generaalmeester van de Munt	0	0	0
+340	699	2	commissaris van de uitheemse dépêches	0	0	0
+341	700	2	gedeputeerde	0	0	0
+342	701	2	visitateur-generaal	0	0	0
+343	702	2	secretaris commissie Buitenlandse Zaken	0	0	0
+344	703	2	commies commissie Buitenlandse Zaken	0	0	0
+345	704	2	ordinaris klerk	0	0	0
+346	706	2	opzichter der gebouwen	0	0	0
+347	707	2	translateur Duits	0	0	0
+348	708	2	commies Buitenlandse Zaken en Agent	0	0	0
+349	709	2	secretaris commissie Binnenlandse Correspondentie	0	0	0
+350	710	2	klerk-indexmaker	0	0	0
+351	711	2	expediteur	0	0	0
+352	712	2	extraordinaris expediteur	0	0	0
+353	713	2	assistant	0	0	0
+354	714	2	secrétaire Conseil Général	0	0	0
+355	715	2	secretaris departement van de jacht	0	0	0
+356	716	2	ontvanger-generaal Holland	0	0	0
+357	717	2	intendant	0	0	0
+358	718	2	grand-trésorier	0	0	0
+359	719	2	amanuensis	0	0	0
+360	720	2	censeur	0	0	0
+361	721	2	adjunct hoofdcommies	0	0	0
+362	722	2	commies chartermeester	0	0	0
+363	723	2	directeur correspondentie	0	0	0
+364	724	2	boodschapper van staat	0	0	0
+365	725	2	gecommitteerde	0	0	0
+366	426	2	secretaris onder orders van de Provisionele raad van Regentschap	0	0	0

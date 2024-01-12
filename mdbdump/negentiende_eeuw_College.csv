@@ -1,0 +1,84 @@
+	IDCollege	Periode	College	VolgnummerBasiscollege	Basis	Id
+0	1	2	Eerste Kamer der Staten-Generaal (1815-1861)	0	0	0
+1	2	2	Vergadering van Notabelen (1814)	0	0	0
+2	3	2	Staten-Generaal (1814-1815)	0	0	0
+3	4	2	Tweede Kamer der Staten-Generaal (1815-1861)	0	0	0
+4	5	2	Raad van State (1814-1861)	0	0	0
+5	6	2	Departement van Financiën (1813-1861)	0	0	0
+6	7	2	Departement van Justitie (1815-1861)	0	0	0
+7	8	2	Departement van Waterstaat (1814-1815)	0	0	0
+8	9	2	Departement van Binnenlandse Zaken (1813-1861)	0	0	0
+9	10	2	Staatssecretarie (1813-1840)	0	0	0
+10	12	2	Kabinet des Konings (1813-1861)	0	0	0
+11	13	2	Departement van Buitenlandse Zaken (1813-1861)	0	0	0
+12	14	2	Departement van Rooms-Katholieke Eredienst (1815-1861)	0	0	0
+13	15	2	Departement van Oorlog (1813-1861)	0	0	0
+14	16	2	Departement van Koloniën (1814-1861)	0	0	0
+15	18	2	Provisionele Rekenkamer (1813-1814)	0	0	0
+16	19	2	Algemene Rekenkamer (1813-1861)	0	0	0
+17	20	2	Departement van Binnenlandse Zaken, Waterstaat en Publieke Werken (1820-1824)	0	0	0
+18	21	2	Departement van Binnenlandse Zaken, Onderwijs en Waterstaat (1824-1825)	0	0	0
+19	22	2	Departement van Marine (1813-1861)	0	0	0
+20	23	2	Departement van Marine en Koloniën (1825-1841)	0	0	0
+21	24	2	Departement van Koophandel en Koloniën (1814-1818)	0	0	0
+22	25	2	Departement van Publiek Onderwijs, Nationale Nijverheid en Koloniën (1818-1824)	0	0	0
+23	26	2	Departement van Nationale Nijverheid en Koloniën (1824-1833)	0	0	0
+24	27	2	Departement van Waterstaat, Nationale Nijverheid en Koloniën (1830-1831)	0	0	0
+25	28	2	Departement van Onderwijs, Kunsten en Wetenschappen (1815-1818)	0	0	0
+26	29	2	Departement van Waterstaat en Publieke Werken (1815-1819)	0	0	0
+27	30	2	Departement van Hervormde Eredienst (1815-1861)	0	0	0
+28	31	2	Algemene Directie der Posterijen (1813-1819)	0	0	0
+29	32	2	Hoog Gerechtshof  (1813-1838)	0	0	0
+30	33	2	Generale Directie der Directe Belastingen en Posterijen (1819-1821)	0	0	0
+31	34	2	Departement van Politie (1813-1818)	0	0	0
+32	35	2	Departement van Politie in de Zuidelijke Nederlanden	0	0	0
+33	36	2	Hoofdadministratie der Domeinen	0	0	0
+34	37	2	Generale Directie der Indirecte Belastingen en Convooien en Licenten (1815)	0	0	0
+35	38	2	Generale Directie der Convooien en Licenten (1815-1818)	0	0	0
+36	39	2	Generale Directie der Indirecte Belastingen (1815-1818)	0	0	0
+37	40	2	Generale Directie der In- en Uitgaande Rechten en Indirecte Belastingen (1818-1821)	0	0	0
+38	41	2	Departement van Ontvangsten (1824-1831)	0	0	0
+39	42	2	Hoge Raad (1838-1861)	0	0	0
+40	50	2	Criminele Rechtbank (1838-1841)	0	0	0
+41	56	2	Hoog Militair Gerechtshof (1814-1861)	0	0	0
+42	57	2	Hoog Gerechtshof voor Financiën en Zeezaken (1814-1819)	0	0	0
+43	58	2	Provinciaal Gerechtshof van Utrecht (1838-1861)	0	0	0
+44	59	2	Provinciaal Gerechtshof van Groningen (1838-1861)	0	0	0
+45	60	2	Provinciaal Gerechtshof van Drenthe (1838-1861)	0	0	0
+46	61	2	Provinciaal Gerechtshof van Friesland (1838-1861)	0	0	0
+47	62	2	Provinciaal Gerechtshof van Limburg (1842-1861)	0	0	0
+48	63	2	Provinciaal Gerechtshof van Noord-Brabant (1838-1861)	0	0	0
+49	64	2	Provinciaal Gerechtshof van Zeeland (1838-1861)	0	0	0
+50	65	2	Provinciaal Gerechtshof van Overijssel (1838-1861)	0	0	0
+51	66	2	Provinciaal Gerechtshof van Gelderland (1838-1861)	0	0	0
+52	67	2	Provinciaal Gerechtshof van Zuid-Holland (1842-1861)	0	0	0
+53	68	2	Provinciaal Gerechtshof van Noord-Holland (1842-1861)	0	0	0
+54	69	2	Provinciaal Gerechtshof van Holland (1838-1841)	0	0	0
+55	70	2	Provinciale Staten van Drenthe (1814-1861)	0	0	0
+56	71	2	Provinciale Staten van Groningen (1814-1861)	0	0	0
+57	72	2	Provinciale Staten van Utrecht (1814-1861)	0	0	0
+58	73	2	Provinciale Staten van Overijssel (1814-1861)	0	0	0
+59	74	2	Provinciale Staten van Noord-Brabant (1814-1861)	0	0	0
+60	75	2	Provinciale Staten van Zeeland (1814-1861)	0	0	0
+61	76	2	Provinciale Staten van Holland (1814-1840)	0	0	0
+62	77	2	Provinciale Staten van Noord-Holland (1840-1861)	0	0	0
+63	78	2	Provinciale Staten van Zuid-Holland (1840-1861)	0	0	0
+64	79	2	Provinciale Staten van Friesland (1814-1861)	0	0	0
+65	80	2	Gedeputeerde Staten van Drenthe (1814-1861)	0	0	0
+66	81	2	Gedeputeerde Staten van Groningen (1814-1861)	0	0	0
+67	82	2	Gedeputeerde Staten van Friesland (1814-1861)	0	0	0
+68	83	2	Gedeputeerde Staten van Overijssel (1814-1861)	0	0	0
+69	84	2	Gedeputeerde Staten van Utrecht (1814-1861)	0	0	0
+70	85	2	Gedeputeerde Staten van Noord-Brabant (1814-1861)	0	0	0
+71	86	2	Gedeputeerde Staten van Zeeland (1814-1861)	0	0	0
+72	87	2	Gedeputeerde Staten van Noord-Holland (1814-1861)	0	0	0
+73	88	2	Gedeputeerde Staten van Zuid-Holland (1814-1861)	0	0	0
+74	89	2	Provinciale Staten van Limburg (1816-1861)	0	0	0
+75	90	2	Gedeputeerde Staten van Limburg (1816-1861)	0	0	0
+76	91	2	Provinciale Staten van Gelderland (1814-1861)	0	0	0
+77	92	2	Gedeputeerde Staten van Gelderland (1814-1861)	0	0	0
+78	94	2	Algemeen Bestuur (1813)	0	0	0
+79	95	2	Generale Directie der Ontvangsten (1821-1824)	0	0	0
+80	96	2	Generale Directie der Centrale Kas (1813-1814)	0	0	0
+81	97	2	Generale Directie der Centrale Kas en Nationale Schuld (1814)	0	0	0
+82	98	2	Generale Directie der Nationale Schuld (1813-1814)	0	0	0

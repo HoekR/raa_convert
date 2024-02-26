@@ -1,0 +1,30 @@
+,regio_id,regio,old_idregio
+0,0,Veere en Vlissingen,me_1
+1,1,Souburg en Sommelsdijk,me_2
+2,2,Brigdamme en Souburg,me_3
+3,3,"Reimerswaal, Goes en Tholen",me_4
+4,4,Middelburg en Zierikzee,me_5
+5,5,Overkwartier,me_6
+6,6,Kwartier Nijmegen,me_7
+7,7,Kwartier Zutphen,me_8
+8,8,Kwartier Veluwe,me_9
+9,9,Arnhem,me_10
+10,10,bannerheren,me_11
+11,11,Nijmegen,me_12
+12,12,Kwartier Roermond,me_13
+13,13,Kwartier Arnhem,me_14
+14,14,Ommelanden,me_15
+15,15,Roermond,me_16
+16,16,Zutphen,me_17
+17,17,Kwartier Harderwijk,me_18
+18,18,Oostergo,divperioden_10
+19,19,Westergo,divperioden_11
+20,20,Zevenwolden,divperioden_12
+21,21,Steden,divperioden_13
+22,22,Salland,republiek_4
+23,23,Twente,republiek_5
+24,24,Vollenhove,republiek_6
+25,25,Hunsingo,republiek_7
+26,26,Fivelingo,republiek_8
+27,27,Westerkwartier,republiek_9
+28,28,Veluwe,republiek_10

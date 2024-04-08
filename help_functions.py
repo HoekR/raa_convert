@@ -1,7 +1,9 @@
 import os
+import re
 import pandas as pd
 import numpy as np
 from collections import defaultdict, OrderedDict
+
 
 def sup(x):
     result = x[0]
@@ -9,11 +11,32 @@ def sup(x):
         result = ' en '.join(x)
     return result
 
+
+
 def deldupids(joinedtable, val_column, old_id_column):
-    xtbl = joinedtable.drop_duplicates([val_column])[[val_column] + [old_id_column]].reset_index(drop=True)
-    xtbl.reset_index(inplace=True)
-    xtbl.rename(columns={'index':f'{val_column}_id'},inplace=True)
-    return xtbl
+    """deduplicate a joined table by grouping by values. 
+       Note that this does not try to do anything smart with deduplication"""
+    idname = f"{val_column}_id"
+    tt = joinedtable.groupby(val_column).agg({old_id_column:list}).reset_index()
+    tt = tt.reset_index() # this sets new ids to the the grouped index
+    tt = tt.rename(columns={'index':idname})
+    return tt
+
+def make_idmapping(deduptable, old_id_column, is_nested=True):
+    """make an id mapping from a deduplicated joined table
+    note that there is a difference for tables with and without duplicate previous ('nested') ids"""
+    dtt = deduptable.to_dict() 
+    if is_nested is True:
+        revdtt = {x:k for k,v in dtt[old_id_column].items() for x in v}
+    else:
+        revdtt = {v:k for k,v in dtt[old_id_column].items()}
+    return revdtt
+
+def alt_idmapping(deduptable, val_column, old_id_column):
+    ps = deduptable[[old_id_column,val_column]]
+    dtt = ps.to_dict() 
+    revdtt = {x:k for k,v in dtt[old_id_column].items() for x in [v]}
+    return revdtt
 
 def my_conv(x):
     try:
@@ -124,7 +147,7 @@ def makedate_from_givendate(givendate, start=True):
 #              np.nan]:
 #     print('begin result: ', makedate_from_givendate(item, start=True))
 
-def get_unique_lower(tbln, joined_tables, uniq_per_table, clean_references):
+def get_unique_lower(tbln, joined_tables, uniq_per_table):
     tbl = joined_tables[tbln]
     uniqcolumn = uniq_per_table[tbln]['uniq']
     if pd.api.types.is_numeric_dtype(tbl[uniqcolumn].dtype):
@@ -133,15 +156,15 @@ def get_unique_lower(tbln, joined_tables, uniq_per_table, clean_references):
         case_insensitive_column = case_insensitive_unique_list(list(tbl[uniqcolumn].unique()))
         uniqtitels = pd.DataFrame(case_insensitive_column, columns=[uniqcolumn]).reset_index(drop=True)
     uniqtitels['id'] = uniqtitels.index + 1 # 1 based indexing for sql compatibility
-    if tbln != 'persoon':
-        clean_references[tbln] = uniqtitels # this is what we need for our final db
+    # if tbln != 'persoon':
+    #     clean_references[tbln] = uniqtitels # this is what we need for our final db
     try:
         nwtable = pd.merge(left=uniqtitels.copy(), right=tbl, on=uniqcolumn, suffixes=('', 'nw'))
     except KeyError:
         print(uniqtitels.columns, tbl.columns)
     nwtable = nwtable.reset_index(drop=True)
     nwtable[f'{tbln}_id'] = nwtable.id
-    return nwtable
+    return {'newtable':nwtable}
 
 
 def case_insensitive_unique_list(data):

@@ -1,656 +1,656 @@
 ,lokaal_id,lokaal,old_idlokaal
-0,0,Arrondissement Amsterdam,batfra_1
-1,1,Arrondissement Appingedam,batfra_2
-2,2,Arrondissement Den Briel,batfra_3
-3,3,Arrondissement Zierikzee,batfra_4
-4,4,Arrondissement Nijmegen,batfra_5
-5,5,Arrondissement Zutphen,batfra_6
-6,6,Arrondissement Eindhoven,batfra_7
-7,7,Arrondissement Rotterdam,batfra_8
-8,8,Arrondissement Zwolle,batfra_9
-9,9,Arrondissement Jever,batfra_10
-10,10,Arrondissement Groningen,batfra_11
-11,11,Arrondissement Emden,batfra_12
-12,12,Arrondissement Tiel,batfra_13
-13,13,Arrondissement Den Haag,batfra_14
-14,14,Arrondissement Alkmaar,batfra_15
-15,15,Arrondissement Leiden,batfra_16
-16,16,Arrondissement Deventer,batfra_17
-17,17,Arrondissement Gorinchem,batfra_18
-18,18,Arrondissement Leeuwarden,batfra_19
-19,19,Arrondissement Assen,batfra_20
-20,20,Arrondissement Heerenveen,batfra_21
-21,21,Arrondissement Hoorn,batfra_22
-22,22,Arrondissement Arnhem,batfra_23
-23,23,Arrondissement Goes,batfra_24
-24,24,Arrondissement Dordrecht,batfra_25
-25,25,Arrondissement Almelo,batfra_26
-26,26,Arrondissement Utrecht,batfra_27
-27,27,Arrondissement Haarlem,batfra_28
-28,28,Arrondissement Sneek,batfra_29
-29,29,Arrondissement Winschoten,batfra_30
-30,30,District Ferwerd,batfra_31
-31,31,District Balk,batfra_32
-32,32,District Amsterdam-I,batfra_33
-33,33,District Amsterdam-II,batfra_34
-34,34,District Amsterdam-III,batfra_35
-35,35,District Amsterdam-IV,batfra_36
-36,36,District Amsterdam-V,batfra_37
-37,37,District Amsterdam-VI,batfra_38
-38,38,District Amsterdam-VII,batfra_39
-39,39,District Amsterdam-VIII,batfra_40
-40,40,District Amsterdam-IX,batfra_41
-41,41,District Amsterdam-X,batfra_42
-42,42,District Amsterdam-XI,batfra_43
-43,43,District Amsterdam-XII,batfra_44
-44,44,District Amsterdam-XIII,batfra_45
-45,45,District Soestdijk,batfra_46
-46,46,District Zeist,batfra_47
-47,47,District Onderdendam,batfra_48
-48,48,District Harlingen,batfra_49
-49,49,District Leeuwarderadeel,batfra_50
-50,50,District Leeuwarden,batfra_51
-51,51,District Dokkum,batfra_52
-52,52,District Brielle,batfra_53
-53,53,District Middelburg-A,batfra_54
-54,54,District Goor,batfra_55
-55,55,District Middelburg-B,batfra_56
-56,56,District Zuidhorn,batfra_57
-57,57,District Tilburg,batfra_58
-58,58,District Drachten,batfra_59
-59,59,District Kampen,batfra_60
-60,60,District Kortgene,batfra_61
-61,61,District Doesburg,batfra_62
-62,62,District Elst,batfra_63
-63,63,District Groningen-I,batfra_64
-64,64,District Groningen-II,batfra_65
-65,65,District Delft,batfra_66
-66,66,District Zwolle,batfra_67
-67,67,District Berlikum,batfra_68
-68,68,District Polanen,batfra_69
-69,69,District Gouda,batfra_70
-70,70,District Enkhuizen,batfra_71
-71,71,District Rotterdam-I,batfra_72
-72,72,District Almelo,batfra_73
-73,73,District Appingedam,batfra_74
-74,74,District Lochem,batfra_75
-75,75,District Sliedrecht-Geertruidenberg,batfra_76
-76,76,District Oirschot,batfra_77
-77,77,District Zaltbommel,batfra_78
-78,78,District Breda,batfra_79
-79,79,District Medemblik,batfra_80
-80,80,District Dordrecht,batfra_81
-81,81,District Haarlem-I,batfra_82
-82,82,District Haarlem-II,batfra_83
-83,83,District Montfoort,batfra_84
-84,84,District Sneek,batfra_85
-85,85,District Schoonhoven,batfra_86
-86,86,District Harderwijk,batfra_87
-87,87,District Gorinchem,batfra_88
-88,88,District Deventer,batfra_89
-89,89,District Bredevoort,batfra_90
-90,90,District Vries,batfra_91
-91,91,District Den Haag-I,batfra_92
-92,92,District Den Haag-II,batfra_93
-93,93,District Den Haag-III,batfra_94
-94,94,District Amsterdam XIV,batfra_95
-95,95,District Den Bosch,batfra_96
-96,96,District Weesp,batfra_97
-97,97,District Zierikzee,batfra_98
-98,98,District Steenbergen-Bergen op Zoom,batfra_99
-99,99,District Doetinchem,batfra_101
-100,100,District Grave,batfra_102
-101,101,District Rotterdam-II,batfra_103
-102,102,District Rotterdam-III,batfra_104
-103,103,District Nijmegen,batfra_105
-104,104,District Ommen,batfra_106
-105,105,District Arnhem,batfra_107
-106,106,District Hengelo,batfra_108
-107,107,District Barneveld,batfra_109
-108,108,District Oisterwijk,batfra_110
-109,109,District Etten,batfra_111
-110,110,District Den Helder,batfra_112
-111,111,District Hoorn,batfra_113
-112,112,District Buren-Culemborg,batfra_114
-113,113,District Nieuwersluis,batfra_115
-114,114,District Oosterwierum,batfra_116
-115,115,District Beverwijk,batfra_117
-116,116,District Veghel,batfra_118
-117,117,District Helmond,batfra_119
-118,118,District Utrecht-I,batfra_120
-119,119,District Utrecht-II,batfra_121
-120,120,District Leiden-I,batfra_122
-121,121,District Leiden-II,batfra_123
-122,122,District Rotterdam-IV,batfra_124
-123,123,District Raalte,batfra_125
-124,124,District Wolvega,batfra_126
-125,125,District Vlaardingen,batfra_127
-126,126,District Leende,batfra_128
-127,127,District Eindhoven,batfra_129
-128,128,District Nieuwerkerk,batfra_130
-129,129,District Zutphen,batfra_131
-130,130,District Middelharnis,batfra_132
-131,131,District Amersfoort,batfra_133
-132,132,District Zweelo,batfra_134
-133,133,District Hattem,batfra_135
-134,134,District Amstelveen,batfra_136
-135,135,District Ridderkerk,batfra_137
-136,136,District Winschoten,batfra_138
-137,137,District Alkmaar,batfra_139
-138,138,District West-Zaandam,batfra_140
-139,139,District Meppel,batfra_141
-140,140,District Oldenzaal,batfra_142
-141,141,District Geertruidenberg,batfra_143
-142,142,District Oost-Zaandam,batfra_144
-143,143,District Noordwijk,batfra_145
-144,144,District Tiel,batfra_146
-145,145,District Druten,batfra_147
-146,146,District Veendam,batfra_148
-147,147,District Assen,batfra_149
-148,148,District Bodegraven,batfra_150
-149,149,District Schiedam,batfra_151
-150,150,District Wateringen,batfra_152
-151,151,District Heusden,batfra_153
-152,152,District Strijen,batfra_154
-153,153,District Leidschendam,batfra_155
-154,154,District Hazerswoude,batfra_156
-155,155,District Scheemda-Veendam,batfra_157
-156,156,District Purmerend,batfra_158
-157,157,District Vollenhove,batfra_159
-158,158,District Oss,batfra_160
-159,159,District Bergen op Zoom,batfra_161
-160,160,District Groenlo,batfra_162
-161,161,District Hunsingo,batfra_163
-162,162,District Fivelgo,batfra_164
-163,163,Stad Groningen,batfra_165
-164,164,District Westerkwartier,batfra_166
-165,165,Baarderadeel,batfra_167
-166,166,Tietjerksteradeel,batfra_168
-167,167,Opsterland,batfra_169
-168,168,Smallingerland,batfra_171
-169,169,Menaldumadeel,batfra_172
-170,170,Barradeel,batfra_174
-171,171,Leeuwarderadeel,batfra_175
-172,172,Oostdongeradeel,batfra_176
-173,173,Idaarderadeel,batfra_177
-174,174,Franekeradeel,batfra_178
-175,175,Lemsterland,batfra_179
-176,176,Schoterland,batfra_180
-177,177,Hemelumer Oldeferd,batfra_181
-178,178,Hennaarderadeel,batfra_182
-179,179,Gaasterland-Sloten,batfra_183
-180,180,Ferwerderadeel,batfra_184
-181,181,Wymbritseradeel,batfra_185
-182,182,Achtkarspelen,batfra_186
-183,183,Het Bildt,batfra_187
-184,184,Weststellingwerf,batfra_188
-185,185,Haskerland,batfra_189
-186,186,Kollumerland,batfra_190
-187,187,Westdongeradeel,batfra_191
-188,188,Wonseradeel,batfra_192
-189,189,Rauwerderhem,batfra_193
-190,190,District Haarlem,batfra_194
-191,191,Aengwirden,batfra_195
-192,192,Utingeradeel,batfra_196
-193,193,District Middelburg,batfra_197
-194,194,District Amsterdam-XIV,batfra_198
-195,195,District Goes,batfra_199
-196,196,District Sliedrecht,batfra_200
-197,197,Oost-Friesland,batfra_201
-198,198,District Middelburg-II/Vlissingen,batfra_202
-199,199,Arrondissement Amersfoort,batfra_203
-200,200,District Scheemda,batfra_204
-201,201,District Den Haag-III/Leidschendam,batfra_205
-202,202,Stad Almelo,batfra_206
-203,203,Landgericht Almelo,batfra_207
-204,204,Blokzijl,batfra_208
-205,205,Borne,batfra_209
-206,206,Colmschate,batfra_210
-207,207,Dalfsen,batfra_211
-208,208,Stad Delden,batfra_212
-209,209,Landgericht Delden,batfra_213
-210,210,Deventer,batfra_214
-211,211,Stad Diepenheim,batfra_215
-212,212,Stad Enschede,batfra_216
-213,213,Landgericht Enschede,batfra_217
-214,214,Stad Genemuiden,batfra_218
-215,215,Schoutambt Genemuiden,batfra_219
-216,216,Giethoorn,batfra_220
-217,217,Goor,batfra_221
-218,218,Grafhorst,batfra_222
-219,219,Gramsbergen,batfra_223
-220,220,Haaksbergen,batfra_224
-221,221,Stad Hardenberg,batfra_225
-222,222,Schoutambt Hardenberg,batfra_226
-223,223,Stad Hasselt,batfra_227
-224,224,Schoutambt Nieuwesluis en Hasselerkerspel,batfra_228
-225,225,Heino,batfra_229
-226,226,Hellendoorn,batfra_230
-227,227,Holten en Bathmen,batfra_231
-228,228,Kampen,batfra_232
-229,229,Kamperveen,batfra_233
-230,230,Landgericht Kedingen,batfra_234
-231,231,Markelo,batfra_235
-232,232,Kuinre en Blankenham,batfra_236
-233,233,Stad Oldenzaal,batfra_237
-234,234,Landgericht Oldenzaal,batfra_238
-235,235,Olst,batfra_239
-236,236,Stad Ommen,batfra_240
-237,237,Schoutambt Ommen en Den Ham,batfra_241
-238,238,Stad Ootmarsum,batfra_242
-239,239,Raalte,batfra_243
-240,240,Rijssen,batfra_244
-241,241,"Staphorst, Rouveen en IJhorst",batfra_245
-242,242,Stad Steenwijk,batfra_246
-243,243,Schoutambt Steenwijk en Steenwijkerkerspelen,batfra_247
-244,244,Stad Vollenhove,batfra_248
-245,245,Schoutambt Vollenhove,batfra_249
-246,246,Vriezenveen,batfra_250
-247,247,Wanneperveen en Dinxterveen,batfra_251
-248,248,Wijhe,batfra_252
-249,249,"IJsselham, Oldemarkt en Paasloo",batfra_253
-250,250,IJsselmuiden,batfra_254
-251,251,Zalk en Veecaten,batfra_255
-252,252,Zwartsluis,batfra_256
-253,253,Stad Zwolle,batfra_257
-254,254,Schoutambt Zwolle,batfra_258
-255,255,Landgericht Diepenheim,batfra_259
-256,256,Landgericht Ootmarsum,batfra_260
-257,257,Wilsum,batfra_261
-258,258,Arnhem,batfra_262
-259,259,Wageningen,batfra_263
-260,260,Harderwijk,batfra_264
-261,261,Elburg,batfra_265
-262,262,Hattem,batfra_266
-263,263,Ede,batfra_267
-264,264,Barneveld,batfra_268
-265,265,Nijkerk,batfra_269
-266,266,Putten,batfra_270
-267,267,Ermelo,batfra_271
-268,268,Doornspijk,batfra_272
-269,269,Oldebroek,batfra_273
-270,270,Heerde,batfra_274
-271,271,Epe,batfra_275
-272,272,Nijbroek,batfra_276
-273,273,Apeldoorn,batfra_277
-274,274,Voorst,batfra_278
-275,275,Brummen,batfra_279
-276,276,Rheden,batfra_280
-277,277,Renkum,batfra_281
-278,278,Scherpenzeel,batfra_282
-279,279,Hoevelaken,batfra_283
-280,280,Rosendaal (Geld.),batfra_284
-281,281,Doorwerth,batfra_285
-282,282,Nijmegen,batfra_286
-283,283,Rijk van Nijmegen,batfra_287
-284,284,Ambt van Nederbetuwe,batfra_288
-285,285,Ambt van Maas en Waal,batfra_289
-286,286,Ambt van Tielerwaard (met Beesd en Rhenoy),batfra_290
-287,287,Ambt van Bommelerwaard,batfra_291
-288,288,Tiel,batfra_292
-289,289,Zaltbommel,batfra_293
-290,290,Ambt van Overbetuwe,batfra_294
-291,291,Doesburg,batfra_295
-292,292,Doetinchem,batfra_296
-293,293,Lochem,batfra_297
-294,294,Groenlo,batfra_298
-295,295,Zutphen,batfra_299
-296,296,Eerste Departement - Beek,batfra_300
-297,297,Eerste Departement - Didam,batfra_301
-298,298,Eerste Departement - Angerlo,batfra_302
-299,299,Eerste Departement - Bahr en Latum,batfra_303
-300,300,Eerste Departement - Westervoort,batfra_304
-301,301,Eerste Departement - Drempt,batfra_305
-302,302,Eerste Departement - Hoog- en Laag-Keppel,batfra_306
-303,303,Tweede Departement - Steenderen,batfra_307
-304,304,Tweede Departement - Bronkhorst,batfra_308
-305,305,Tweede Departement - Hummelo,batfra_309
-306,306,Tweede Departement - Vorden,batfra_310
-307,307,Tweede Departement - Warnsveld en Wichmond,batfra_311
-308,308,Tweede Departement - Almen,batfra_312
-309,309,Tweede Departement - Gorssel,batfra_313
-310,310,Derde Departement - Zeddam,batfra_314
-311,311,Derde Departement - 's-Heerenberg,batfra_315
-312,312,Derde Departement - Stokkum,batfra_316
-313,313,Derde Departement - Netterden,batfra_317
-314,314,Derde Departement - Etten,batfra_318
-315,315,Vierde Departement - Terborg,batfra_319
-316,316,Vierde Departement - Varsseveld,batfra_320
-317,317,Vierde Departement - Silvolde,batfra_321
-318,318,Vierde Departement - Ligtenberg,batfra_322
-319,319,Vierde Departement - Lichtenvoorde,batfra_323
-320,320,Vijfde Departement - Richterambt Doetinchem,batfra_324
-321,321,Vijfde Departement - Zelhem,batfra_325
-322,322,Vijfde Departement - Roderlo,batfra_326
-323,323,Vijfde Departement - Hengelo,batfra_327
-324,324,Zesde Departement - Bredevoort,batfra_328
-325,325,Zesde Departement - Aalten,batfra_329
-326,326,Zesde Departement - Winterswijk,batfra_330
-327,327,Zesde Departement - Dinxperlo,batfra_331
-328,328,Zevende Departement - Borculo,batfra_332
-329,329,Zevende Departement - Beltrum,batfra_333
-330,330,Zevende Departement - Eibergen,batfra_334
-331,331,Zevende Departement - Neede,batfra_335
-332,332,Zevende Departement - Rekken,batfra_336
-333,333,Achtste Departement - Scholtambt Lochem,batfra_337
-334,334,Achtste Departement - Laren,batfra_338
-335,335,Achtste Departement - Verwolde,batfra_339
-336,336,Achtste Departement - Geesteren,batfra_340
-337,337,Achtste Departement - Gelselaar,batfra_341
-338,338,Achtste Departement - Dorth,batfra_342
-339,339,Kwartier van Nijmegen,batfra_343
-340,340,Kwartier van Zutphen,batfra_344
-341,341,Kwartier van de Veluwe,batfra_345
-342,342,Kwartier Arnhem,batfra_346
-343,343,Kwartier Zutphen,batfra_347
-344,344,Kwartier Nijmegen,batfra_348
-345,345,Ring van Gorinchem,batfra_349
-346,346,Ring van Tiel,batfra_350
-347,347,Ring van Utrecht,batfra_351
-348,348,Ring van Amersfoort,batfra_352
-349,349,Ring van Arnhem,batfra_353
-350,350,Ring van Doesburg,batfra_354
-351,351,Ring van Zutphen,batfra_355
-352,352,Middelburg,batfra_357
-353,353,Zierikzee,batfra_358
-354,354,Goes,batfra_359
-355,355,Tholen,batfra_360
-356,356,Vlissingen,batfra_361
-357,357,Veere,batfra_362
-358,358,Walcheren en Sint Joosland,batfra_363
-359,359,Schouwen-Duiveland en Sommelsdijk,batfra_364
-360,360,Zuid-Beveland,batfra_365
-361,361,Tholen en Sint Philipsland,batfra_366
-362,362,Noord-Beveland en Wolphaartsdijk,batfra_367
-363,363,Kwartier Maasland,batfra_368
-364,364,Kwartier Peelland,batfra_369
-365,365,Kwartier Kempenland,batfra_370
-366,366,Stad en Land van Breda,batfra_371
-367,367,Grave en het Land van Cuijk,batfra_372
-368,368,Steden en Landen van Bergen op Zoom en Steenbergen,batfra_373
-369,369,'s-Hertogenbosch,batfra_374
-370,370,Kwartier Oisterwijk,batfra_375
-371,371,Kwartier I Leiden,batfra_376
-372,372,Kwartier II Rotterdam,batfra_377
-373,373,Kwartier III Dordrecht,batfra_378
-374,374,Kwartier IV Goeree en Overflakkee,batfra_379
-375,375,Kwartier II Hoorn,batfra_380
-376,376,Kwartier van Breda,batfra_381
-377,377,Kwartier van 's-Hertogenbosch,batfra_382
-378,378,Kwartier van Eindhoven,batfra_383
-379,379,Arrondissement Middelburg,batfra_384
-380,380,Arrondissement Meppel,batfra_385
-381,381,Schouwen (eiland),batfra_386
-382,382,Noord- en Zuid-Beveland,batfra_387
-383,383,Arrondissement Flakkee,batfra_388
-384,384,Dantumadeel,batfra_389
-385,385,Ooststellingwerf,batfra_390
-386,386,Doniawerstal,batfra_391
-387,387,Stavoren,batfra_392
-388,388,Groningen,batfra_393
-389,389,Bolsward,batfra_394
-390,390,Dokkum,batfra_395
-391,391,IJlst,batfra_396
-392,392,Leeuwarden,batfra_397
-393,393,Franeker,batfra_398
-394,394,Harlingen,batfra_399
-395,395,Workum,batfra_400
-396,396,Sneek,batfra_401
-397,397,Zuidlaren,batfra_402
-398,398,Vries,batfra_403
-399,399,Peize,batfra_404
-400,400,Assen,batfra_405
-401,401,Gasselternijveen,batfra_406
-402,402,Zweelo,batfra_407
-403,403,Beilen,batfra_408
-404,404,Dwingeloo,batfra_409
-405,405,Oosterhesselen,batfra_410
-406,406,Eelde,batfra_411
-407,407,Anloo,batfra_412
-408,408,Ruinen,batfra_413
-409,409,Wapserveen,batfra_414
-410,410,Vledder,batfra_415
-411,411,"Pesse, Echten en Ansen",batfra_416
-412,412,Roswinkel,batfra_417
-413,413,Schoonebeek,batfra_418
-414,414,Nijeveen,batfra_419
-415,415,Zuidwolde,batfra_420
-416,416,Rolde,batfra_421
-417,417,Emmen,batfra_422
-418,418,Hoogeveen,batfra_423
-419,419,Sleen,batfra_424
-420,420,Diever,batfra_425
-421,421,Kolderveen,batfra_426
-422,422,Roden,batfra_427
-423,423,Borger,batfra_428
-424,424,Havelte,batfra_429
-425,425,Meppel,batfra_431
-426,426,Gasselte,batfra_432
-427,427,Gieten,batfra_433
-428,428,Norg,batfra_434
-429,429,Ruinerwold,batfra_435
-430,430,Dalen,batfra_437
-431,431,Coevorden,batfra_438
-432,432,Odoorn,batfra_439
-433,433,De Wijk,batfra_440
-434,434,Smilde,batfra_441
-435,435,Koekange,batfra_442
-436,436,Westerbork,batfra_443
-437,437,Hindeloopen,batfra_444
-438,438,Heerenveen,batfra_445
-439,439,Gouda,batfra_446
-440,440,Schiedam,batfra_447
-441,441,Monnickendam,batfra_448
-442,442,Schoonhoven,batfra_449
-443,443,Rotterdam,batfra_450
-444,444,Alkmaar,batfra_451
-445,445,Enkhuizen,batfra_452
-446,446,Purmerend,batfra_453
-447,447,Delft,batfra_454
-448,448,Hoorn,batfra_455
-449,449,Banne Westzaan,batfra_456
-450,450,Banne Oostzaan,batfra_457
-451,451,Wormerveer,batfra_458
-452,452,Gorinchem,batfra_459
-453,453,Amsterdam,batfra_460
-454,454,Edam,batfra_461
-455,455,Medemblik,batfra_462
-456,456,Dordrecht,batfra_463
-457,457,'s-Gravenhage,batfra_464
-458,458,Vlaardingen,batfra_465
-459,459,Den Briel,batfra_466
-460,460,Leimuiden,batfra_467
-461,461,Haarlem,batfra_468
-462,462,Naarden en Gooiland,batfra_469
-463,463,Maassluis,batfra_470
-464,464,Oostzaan,batfra_471
-465,465,Heusden,batfra_472
-466,466,Rijnland,batfra_473
-467,467,Dorpen rond Hillegom,batfra_474
-468,468,Schermer,batfra_475
-469,469,Dorpen rond Castricum,batfra_476
-470,470,Dorpen rond Haarlem,batfra_477
-471,471,Beemster,batfra_478
-472,472,Woudrichem,batfra_479
-473,473,Leiden,batfra_480
-474,474,Delfshaven,batfra_481
-475,475,Texel,batfra_482
-476,476,Krimpenerwaard,batfra_483
-477,477,Delfland,batfra_484
-478,478,Alblasserwaard,batfra_485
-479,479,Hoeksewaard,batfra_486
-480,480,Leerdam,batfra_487
-481,481,Geertruidenberg,batfra_488
-482,482,Schieland,batfra_490
-483,483,Dorpen rond Zevenbergen,batfra_491
-484,484,Dorpen rond Raamsdonk,batfra_492
-485,485,Hoge en Lage Zwaluwe,batfra_493
-486,486,'s Grevelduin Kapelle,batfra_494
-487,487,Oudewater,batfra_495
-488,488,Schagen,batfra_496
-489,489,Dorpen rond Bussum,batfra_497
-490,490,Overschie,batfra_498
-491,491,Dorpen rond Ouder- en Nieuweramstel,batfra_499
-492,492,Voorne-Putten,batfra_500
-493,493,Terschelling,batfra_501
-494,494,Almelo,negentiende_eeuw_2
-495,495,Amersfoort,negentiende_eeuw_4
-496,496,Appingedam,negentiende_eeuw_5
-497,497,Bergen op Zoom,negentiende_eeuw_8
-498,498,Boxmeer,negentiende_eeuw_9
-499,499,Breda,negentiende_eeuw_10
-500,500,Brielle,negentiende_eeuw_11
-501,501,Eindhoven,negentiende_eeuw_20
-502,502,Elst,negentiende_eeuw_21
-503,503,Enschede,negentiende_eeuw_22
-504,504,Grave,negentiende_eeuw_27
-505,505,Heerlen,negentiende_eeuw_32
-506,506,Helmond,negentiende_eeuw_33
-507,507,IJsselstein,negentiende_eeuw_37
-508,508,Leiderdorp,negentiende_eeuw_41
-509,509,Maastricht,negentiende_eeuw_42
-510,510,Onderdendam,negentiende_eeuw_45
-511,511,Ridderkerk,negentiende_eeuw_46
-512,512,Roermond,negentiende_eeuw_47
-513,513,Ruurlo,negentiende_eeuw_49
-514,514,Sittard,negentiende_eeuw_51
-515,515,Sluis,negentiende_eeuw_52
-516,516,Steenwijk,negentiende_eeuw_54
-517,517,Tilburg,negentiende_eeuw_56
-518,518,Utrecht,negentiende_eeuw_57
-519,519,Venlo,negentiende_eeuw_58
-520,520,Winschoten,negentiende_eeuw_59
-521,521,Zaandam,negentiende_eeuw_60
-522,522,Zevenbergen,negentiende_eeuw_62
-523,523,Zuidhorn,negentiende_eeuw_64
-524,524,Zwolle,negentiende_eeuw_66
-525,525,Zweeloo,negentiende_eeuw_69
-526,526,Zuidbroek,negentiende_eeuw_74
-527,527,Hoogezand,negentiende_eeuw_75
-528,528,Oude Pekela,negentiende_eeuw_76
-529,529,Amerongen,negentiende_eeuw_77
-530,530,Zeist,negentiende_eeuw_78
-531,531,Maarsen,negentiende_eeuw_79
-532,532,Abcoude,negentiende_eeuw_80
-533,533,Harmelen,negentiende_eeuw_81
-534,534,Baarn,negentiende_eeuw_82
-535,535,Montfoort,negentiende_eeuw_83
-536,536,Rhenen,negentiende_eeuw_84
-537,537,Wijk bij Duurstede,negentiende_eeuw_85
-538,538,Breukelen,negentiende_eeuw_86
-539,539,Delden,negentiende_eeuw_87
-540,540,Ommen,negentiende_eeuw_88
-541,541,Hasselt,negentiende_eeuw_90
-542,542,Oldenzaal,negentiende_eeuw_93
-543,543,Ravenstein/Oss,negentiende_eeuw_95
-544,544,St. Oedenrode,negentiende_eeuw_96
-545,545,Oirschot/Boxtel,negentiende_eeuw_97
-546,546,Hilvarenbeek,negentiende_eeuw_98
-547,547,Gemert/Asten,negentiende_eeuw_99
-548,548,Oisterwijk,negentiende_eeuw_100
-549,549,Waalwijk,negentiende_eeuw_101
-550,550,Ginneken,negentiende_eeuw_103
-551,551,Oudenbosch,negentiende_eeuw_104
-552,552,Roosendaal,negentiende_eeuw_105
-553,553,Opper Gelder/Overmaze,negentiende_eeuw_106
-554,554,Oosterhout,negentiende_eeuw_108
-555,555,Willemstad,negentiende_eeuw_109
-556,556,Axel,negentiende_eeuw_110
-557,557,Hulst,negentiende_eeuw_111
-558,558,Alblasserdam,negentiende_eeuw_115
-559,559,Alphen,negentiende_eeuw_116
-560,560,Beverwijk,negentiende_eeuw_117
-561,561,Blokker,negentiende_eeuw_118
-562,562,Bodegraven,negentiende_eeuw_119
-563,563,Broek in Waterland,negentiende_eeuw_120
-564,564,Broek op Langedijk,negentiende_eeuw_121
-565,565,De Rijp,negentiende_eeuw_122
-566,566,Den Helder,negentiende_eeuw_124
-567,567,Geervliet,negentiende_eeuw_125
-568,568,Haastrecht,negentiende_eeuw_126
-569,569,Heiloo,negentiende_eeuw_127
-570,570,Hellevoetsluis,negentiende_eeuw_128
-571,571,Leidschendam,negentiende_eeuw_129
-572,572,Meerkerk,negentiende_eeuw_130
-573,573,Naarden,negentiende_eeuw_131
-574,574,Noordwijk,negentiende_eeuw_132
-575,575,Oegstgeest,negentiende_eeuw_133
-576,576,Oud-Beijerland,negentiende_eeuw_134
-577,577,Pijnacker,negentiende_eeuw_135
-578,578,Schermerhorn,negentiende_eeuw_137
-579,579,Sloterdijk,negentiende_eeuw_138
-580,580,Sommelsdijk,negentiende_eeuw_139
-581,581,Stompwijk,negentiende_eeuw_140
-582,582,Strijen,negentiende_eeuw_141
-583,583,Weesp,negentiende_eeuw_149
-584,584,Woerden,negentiende_eeuw_150
-585,585,Muiden,negentiende_eeuw_151
-586,586,Naaldwijk,negentiende_eeuw_152
-587,587,Nieuwer-Amstel,negentiende_eeuw_153
-588,588,Middelharnis,negentiende_eeuw_154
-589,589,Sliedrecht,negentiende_eeuw_155
-590,590,Zoetermeer,negentiende_eeuw_156
-591,591,Ameland,negentiende_eeuw_159
-592,592,Gaasterland,negentiende_eeuw_167
-593,593,"Hemelumer, Oldephert en Noordwolde",negentiende_eeuw_170
-594,594,Hindelopen,negentiende_eeuw_172
-595,595,Kollumerland en Nieuw Kruisland,negentiende_eeuw_174
-596,596,Rauwerdehem,negentiende_eeuw_180
-597,597,Sloten,negentiende_eeuw_182
-598,598,Stellingwerf Oosteinde,negentiende_eeuw_185
-599,599,Stellingwerf Westeinde,negentiende_eeuw_186
-600,600,Bergum,negentiende_eeuw_194
-601,601,Dronrijp,negentiende_eeuw_195
-602,602,Schiermonnikoog,negentiende_eeuw_197
-603,603,Gronsveld,negentiende_eeuw_199
-604,604,Gulpen,negentiende_eeuw_200
-605,605,Meerssen,negentiende_eeuw_201
-606,606,Valkenburg,negentiende_eeuw_202
-607,607,Oirsbeek,negentiende_eeuw_203
-608,608,Susteren,negentiende_eeuw_204
-609,609,Echt,negentiende_eeuw_205
-610,610,Thorn,negentiende_eeuw_206
-611,611,Heijthuizen,negentiende_eeuw_207
-612,612,Kessel,negentiende_eeuw_208
-613,613,Horst,negentiende_eeuw_209
-614,614,Bergen (L.),negentiende_eeuw_210
-615,615,Weert,negentiende_eeuw_211
-616,616,Beringen,negentiende_eeuw_212
-617,617,Borgloon,negentiende_eeuw_213
-618,618,Bilzen,negentiende_eeuw_214
-619,619,Bree,negentiende_eeuw_215
-620,620,Brustem,negentiende_eeuw_216
-621,621,Eijsden,negentiende_eeuw_217
-622,622,Herk-de-stad,negentiende_eeuw_218
-623,623,Koninksem,negentiende_eeuw_219
-624,624,Mechelen,negentiende_eeuw_220
-625,625,Zonhoven,negentiende_eeuw_221
-626,626,Maaseik,negentiende_eeuw_222
-627,627,Sint Truiden,negentiende_eeuw_223
-628,628,Tongeren,negentiende_eeuw_224
-629,629,Culemborg,negentiende_eeuw_225
-630,630,Apeldoorn/Brummen,negentiende_eeuw_233
-631,631,Doesburg (plattelandsdistrict),negentiende_eeuw_234
-632,632,Groenlo (plattelandsdistrict),negentiende_eeuw_235
-633,633,Heerde/Barneveld [Elspeet],negentiende_eeuw_236
-634,634,Nijmegen/Druten [Druten],negentiende_eeuw_237
-635,635,Tiel/Elst,negentiende_eeuw_238
-636,636,Zaltbommel (plattelandsdistrict),negentiende_eeuw_239
-637,637,Zutphen (plattelandsdistrict),negentiende_eeuw_240
-638,638,Aalten,negentiende_eeuw_241
-639,639,Geldermalsen,negentiende_eeuw_243
-640,640,Wychen,negentiende_eeuw_247
-641,641,Zevenaar,negentiende_eeuw_248
-642,642,Brigdamme,me_3
-643,643,St Maartensdijk,me_6
-644,644,Oost-Stellingwerf,divperioden_24
-645,645,West-Stellingwerf,divperioden_25
-646,646,Engwirden,divperioden_27
-647,647,Ridderschap van Holland,divperioden_42
-648,648,Eerste Edele,republiek_27
-649,649,Ridderschap van Overijssel,republiek_31
-650,650,Geëligeerden van Utrecht,republiek_32
-651,651,Ridderschap van Utrecht,republiek_33
-652,652,Ridderschap van het Kwartier Nijmegen,republiek_39
-653,653,Ridderschap van het Kwartier Zutphen,republiek_40
-654,654,Ridderschap van het Kwartier Veluwe,republiek_41
+0,0,'s Grevelduin Kapelle,['batfra_494']
+1,1,'s-Gravenhage,"['batfra_464', 'negentiende_eeuw_14']"
+2,2,'s-Hertogenbosch,"['batfra_374', 'negentiende_eeuw_13']"
+3,3,Aalten,['negentiende_eeuw_241']
+4,4,Abcoude,['negentiende_eeuw_80']
+5,5,Achtkarspelen,"['batfra_186', 'negentiende_eeuw_157', 'divperioden_3']"
+6,6,Achtste Departement - Dorth,['batfra_342']
+7,7,Achtste Departement - Geesteren,['batfra_340']
+8,8,Achtste Departement - Gelselaar,['batfra_341']
+9,9,Achtste Departement - Laren,['batfra_338']
+10,10,Achtste Departement - Scholtambt Lochem,['batfra_337']
+11,11,Achtste Departement - Verwolde,['batfra_339']
+12,12,Aengwirden,"['batfra_195', 'negentiende_eeuw_158']"
+13,13,Alblasserdam,['negentiende_eeuw_115']
+14,14,Alblasserwaard,['batfra_485']
+15,15,Alkmaar,"['batfra_451', 'negentiende_eeuw_1', 'republiek_13']"
+16,16,Almelo,['negentiende_eeuw_2']
+17,17,Alphen,['negentiende_eeuw_116']
+18,18,Ambt van Bommelerwaard,['batfra_291']
+19,19,Ambt van Maas en Waal,['batfra_289']
+20,20,Ambt van Nederbetuwe,['batfra_288']
+21,21,Ambt van Overbetuwe,['batfra_294']
+22,22,Ambt van Tielerwaard (met Beesd en Rhenoy),['batfra_290']
+23,23,Ameland,['negentiende_eeuw_159']
+24,24,Amerongen,['negentiende_eeuw_77']
+25,25,Amersfoort,"['negentiende_eeuw_4', 'republiek_36']"
+26,26,Amsterdam,"['batfra_460', 'negentiende_eeuw_3', 'me_10', 'republiek_6']"
+27,27,Anloo,"['batfra_412', 'batfra_430']"
+28,28,Apeldoorn,['batfra_277']
+29,29,Apeldoorn/Brummen,['negentiende_eeuw_233']
+30,30,Appingedam,['negentiende_eeuw_5']
+31,31,Arnhem,"['batfra_262', 'negentiende_eeuw_6', 'me_8', 'republiek_45']"
+32,32,Arrondissement Alkmaar,['batfra_15']
+33,33,Arrondissement Almelo,['batfra_26']
+34,34,Arrondissement Amersfoort,['batfra_203']
+35,35,Arrondissement Amsterdam,['batfra_1']
+36,36,Arrondissement Appingedam,['batfra_2']
+37,37,Arrondissement Arnhem,['batfra_23']
+38,38,Arrondissement Assen,['batfra_20']
+39,39,Arrondissement Den Briel,['batfra_3']
+40,40,Arrondissement Den Haag,['batfra_14']
+41,41,Arrondissement Deventer,['batfra_17']
+42,42,Arrondissement Dordrecht,['batfra_25']
+43,43,Arrondissement Eindhoven,['batfra_7']
+44,44,Arrondissement Emden,['batfra_12']
+45,45,Arrondissement Flakkee,['batfra_388']
+46,46,Arrondissement Goes,['batfra_24']
+47,47,Arrondissement Gorinchem,['batfra_18']
+48,48,Arrondissement Groningen,['batfra_11']
+49,49,Arrondissement Haarlem,['batfra_28']
+50,50,Arrondissement Heerenveen,['batfra_21']
+51,51,Arrondissement Hoorn,['batfra_22']
+52,52,Arrondissement Jever,['batfra_10']
+53,53,Arrondissement Leeuwarden,['batfra_19']
+54,54,Arrondissement Leiden,['batfra_16']
+55,55,Arrondissement Meppel,['batfra_385']
+56,56,Arrondissement Middelburg,['batfra_384']
+57,57,Arrondissement Nijmegen,['batfra_5']
+58,58,Arrondissement Rotterdam,['batfra_8']
+59,59,Arrondissement Sneek,['batfra_29']
+60,60,Arrondissement Tiel,['batfra_13']
+61,61,Arrondissement Utrecht,['batfra_27']
+62,62,Arrondissement Winschoten,['batfra_30']
+63,63,Arrondissement Zierikzee,['batfra_4']
+64,64,Arrondissement Zutphen,['batfra_6']
+65,65,Arrondissement Zwolle,['batfra_9']
+66,66,Assen,"['batfra_405', 'negentiende_eeuw_7']"
+67,67,Axel,['negentiende_eeuw_110']
+68,68,Baarderadeel,"['batfra_167', 'batfra_170', 'negentiende_eeuw_160', 'divperioden_14']"
+69,69,Baarn,['negentiende_eeuw_82']
+70,70,Banne Oostzaan,['batfra_457']
+71,71,Banne Westzaan,['batfra_456']
+72,72,Barneveld,['batfra_268']
+73,73,Barradeel,"['batfra_174', 'negentiende_eeuw_161', 'divperioden_16']"
+74,74,Beemster,['batfra_478']
+75,75,Beilen,['batfra_408']
+76,76,Bergen (L.),['negentiende_eeuw_210']
+77,77,Bergen op Zoom,['negentiende_eeuw_8']
+78,78,Bergum,['negentiende_eeuw_194']
+79,79,Beringen,['negentiende_eeuw_212']
+80,80,Beverwijk,['negentiende_eeuw_117']
+81,81,Bilzen,['negentiende_eeuw_214']
+82,82,Blokker,['negentiende_eeuw_118']
+83,83,Blokzijl,['batfra_208']
+84,84,Bodegraven,['negentiende_eeuw_119']
+85,85,Bolsward,"['batfra_394', 'negentiende_eeuw_162', 'divperioden_32']"
+86,86,Borger,['batfra_428']
+87,87,Borgloon,['negentiende_eeuw_213']
+88,88,Borne,['batfra_209']
+89,89,Boxmeer,['negentiende_eeuw_9']
+90,90,Breda,['negentiende_eeuw_10']
+91,91,Bree,['negentiende_eeuw_215']
+92,92,Breukelen,['negentiende_eeuw_86']
+93,93,Brielle,['negentiende_eeuw_11']
+94,94,Brigdamme,['me_3']
+95,95,Broek in Waterland,['negentiende_eeuw_120']
+96,96,Broek op Langedijk,['negentiende_eeuw_121']
+97,97,Brummen,['batfra_279']
+98,98,Brustem,['negentiende_eeuw_216']
+99,99,Coevorden,"['batfra_438', 'negentiende_eeuw_67']"
+100,100,Colmschate,['batfra_210']
+101,101,Culemborg,['negentiende_eeuw_225']
+102,102,Dalen,['batfra_437']
+103,103,Dalfsen,"['batfra_211', 'negentiende_eeuw_91']"
+104,104,Dantumadeel,"['batfra_389', 'negentiende_eeuw_163', 'divperioden_4']"
+105,105,De Rijp,['negentiende_eeuw_122']
+106,106,De Wijk,['batfra_440']
+107,107,Delden,['negentiende_eeuw_87']
+108,108,Delfland,['batfra_484']
+109,109,Delfshaven,"['batfra_481', 'negentiende_eeuw_123']"
+110,110,Delft,"['batfra_454', 'negentiende_eeuw_12', 'me_7', 'republiek_4']"
+111,111,Den Briel,"['batfra_466', 'republiek_12']"
+112,112,Den Helder,['negentiende_eeuw_124']
+113,113,Derde Departement - 's-Heerenberg,['batfra_315']
+114,114,Derde Departement - Etten,['batfra_318']
+115,115,Derde Departement - Netterden,['batfra_317']
+116,116,Derde Departement - Stokkum,['batfra_316']
+117,117,Derde Departement - Zeddam,['batfra_314']
+118,118,Deventer,"['batfra_214', 'negentiende_eeuw_15', 'republiek_28']"
+119,119,Diever,['batfra_425']
+120,120,District Alkmaar,['batfra_139']
+121,121,District Almelo,['batfra_73']
+122,122,District Amersfoort,['batfra_133']
+123,123,District Amstelveen,['batfra_136']
+124,124,District Amsterdam XIV,['batfra_95']
+125,125,District Amsterdam-I,['batfra_33']
+126,126,District Amsterdam-II,['batfra_34']
+127,127,District Amsterdam-III,['batfra_35']
+128,128,District Amsterdam-IV,['batfra_36']
+129,129,District Amsterdam-IX,['batfra_41']
+130,130,District Amsterdam-V,['batfra_37']
+131,131,District Amsterdam-VI,['batfra_38']
+132,132,District Amsterdam-VII,['batfra_39']
+133,133,District Amsterdam-VIII,['batfra_40']
+134,134,District Amsterdam-X,['batfra_42']
+135,135,District Amsterdam-XI,['batfra_43']
+136,136,District Amsterdam-XII,['batfra_44']
+137,137,District Amsterdam-XIII,['batfra_45']
+138,138,District Amsterdam-XIV,['batfra_198']
+139,139,District Appingedam,['batfra_74']
+140,140,District Arnhem,['batfra_107']
+141,141,District Assen,['batfra_149']
+142,142,District Balk,['batfra_32']
+143,143,District Barneveld,['batfra_109']
+144,144,District Bergen op Zoom,['batfra_161']
+145,145,District Berlikum,['batfra_68']
+146,146,District Beverwijk,['batfra_117']
+147,147,District Bodegraven,['batfra_150']
+148,148,District Breda,['batfra_79']
+149,149,District Bredevoort,['batfra_90']
+150,150,District Brielle,['batfra_53']
+151,151,District Buren-Culemborg,['batfra_114']
+152,152,District Delft,['batfra_66']
+153,153,District Den Bosch,['batfra_96']
+154,154,District Den Haag-I,['batfra_92']
+155,155,District Den Haag-II,['batfra_93']
+156,156,District Den Haag-III,['batfra_94']
+157,157,District Den Haag-III/Leidschendam,['batfra_205']
+158,158,District Den Helder,['batfra_112']
+159,159,District Deventer,['batfra_89']
+160,160,District Doesburg,['batfra_62']
+161,161,District Doetinchem,['batfra_101']
+162,162,District Dokkum,['batfra_52']
+163,163,District Dordrecht,['batfra_81']
+164,164,District Drachten,['batfra_59']
+165,165,District Druten,['batfra_147']
+166,166,District Eindhoven,['batfra_129']
+167,167,District Elst,['batfra_63']
+168,168,District Enkhuizen,['batfra_71']
+169,169,District Etten,['batfra_111']
+170,170,District Ferwerd,['batfra_31']
+171,171,District Fivelgo,['batfra_164']
+172,172,District Geertruidenberg,['batfra_143']
+173,173,District Goes,['batfra_199']
+174,174,District Goor,['batfra_55']
+175,175,District Gorinchem,['batfra_88']
+176,176,District Gouda,['batfra_70']
+177,177,District Grave,['batfra_102']
+178,178,District Groenlo,['batfra_162']
+179,179,District Groningen-I,['batfra_64']
+180,180,District Groningen-II,['batfra_65']
+181,181,District Haarlem,['batfra_194']
+182,182,District Haarlem-I,['batfra_82']
+183,183,District Haarlem-II,['batfra_83']
+184,184,District Harderwijk,['batfra_87']
+185,185,District Harlingen,['batfra_49']
+186,186,District Hattem,['batfra_135']
+187,187,District Hazerswoude,['batfra_156']
+188,188,District Helmond,['batfra_119']
+189,189,District Hengelo,['batfra_108']
+190,190,District Heusden,['batfra_153']
+191,191,District Hoorn,['batfra_113']
+192,192,District Hunsingo,['batfra_163']
+193,193,District Kampen,['batfra_60']
+194,194,District Kortgene,['batfra_61']
+195,195,District Leende,['batfra_128']
+196,196,District Leeuwarden,['batfra_51']
+197,197,District Leeuwarderadeel,['batfra_50']
+198,198,District Leiden-I,['batfra_122']
+199,199,District Leiden-II,['batfra_123']
+200,200,District Leidschendam,['batfra_155']
+201,201,District Lochem,['batfra_75']
+202,202,District Medemblik,['batfra_80']
+203,203,District Meppel,['batfra_141']
+204,204,District Middelburg,['batfra_197']
+205,205,District Middelburg-A,['batfra_54']
+206,206,District Middelburg-B,['batfra_56']
+207,207,District Middelburg-II/Vlissingen,['batfra_202']
+208,208,District Middelharnis,['batfra_132']
+209,209,District Montfoort,['batfra_84']
+210,210,District Nieuwerkerk,['batfra_130']
+211,211,District Nieuwersluis,['batfra_115']
+212,212,District Nijmegen,['batfra_105']
+213,213,District Noordwijk,['batfra_145']
+214,214,District Oirschot,['batfra_77']
+215,215,District Oisterwijk,['batfra_110']
+216,216,District Oldenzaal,['batfra_142']
+217,217,District Ommen,['batfra_106']
+218,218,District Onderdendam,['batfra_48']
+219,219,District Oost-Zaandam,['batfra_144']
+220,220,District Oosterwierum,['batfra_116']
+221,221,District Oss,['batfra_160']
+222,222,District Polanen,['batfra_69']
+223,223,District Purmerend,['batfra_158']
+224,224,District Raalte,['batfra_125']
+225,225,District Ridderkerk,['batfra_137']
+226,226,District Rotterdam-I,['batfra_72']
+227,227,District Rotterdam-II,['batfra_103']
+228,228,District Rotterdam-III,['batfra_104']
+229,229,District Rotterdam-IV,['batfra_124']
+230,230,District Scheemda,['batfra_204']
+231,231,District Scheemda-Veendam,['batfra_157']
+232,232,District Schiedam,['batfra_151']
+233,233,District Schoonhoven,['batfra_86']
+234,234,District Sliedrecht,['batfra_200']
+235,235,District Sliedrecht-Geertruidenberg,['batfra_76']
+236,236,District Sneek,['batfra_85']
+237,237,District Soestdijk,['batfra_46']
+238,238,District Steenbergen-Bergen op Zoom,['batfra_99']
+239,239,District Strijen,['batfra_154']
+240,240,District Tiel,['batfra_146']
+241,241,District Tilburg,"['batfra_58', 'batfra_100']"
+242,242,District Utrecht-I,['batfra_120']
+243,243,District Utrecht-II,['batfra_121']
+244,244,District Veendam,['batfra_148']
+245,245,District Veghel,['batfra_118']
+246,246,District Vlaardingen,['batfra_127']
+247,247,District Vollenhove,['batfra_159']
+248,248,District Vries,['batfra_91']
+249,249,District Wateringen,['batfra_152']
+250,250,District Weesp,['batfra_97']
+251,251,District West-Zaandam,['batfra_140']
+252,252,District Westerkwartier,['batfra_166']
+253,253,District Winschoten,['batfra_138']
+254,254,District Wolvega,['batfra_126']
+255,255,District Zaltbommel,['batfra_78']
+256,256,District Zeist,['batfra_47']
+257,257,District Zierikzee,['batfra_98']
+258,258,District Zuidhorn,['batfra_57']
+259,259,District Zutphen,['batfra_131']
+260,260,District Zweelo,['batfra_134']
+261,261,District Zwolle,['batfra_67']
+262,262,Doesburg,"['batfra_295', 'negentiende_eeuw_226', 'republiek_43']"
+263,263,Doesburg (plattelandsdistrict),['negentiende_eeuw_234']
+264,264,Doetinchem,"['batfra_296', 'negentiende_eeuw_16', 'republiek_49']"
+265,265,Dokkum,"['batfra_395', 'negentiende_eeuw_17', 'divperioden_35']"
+266,266,Doniawerstal,"['batfra_391', 'negentiende_eeuw_164', 'divperioden_26']"
+267,267,Doornspijk,['batfra_272']
+268,268,Doorwerth,['batfra_285']
+269,269,Dordrecht,"['batfra_463', 'negentiende_eeuw_18', 'me_12', 'republiek_2']"
+270,270,Dorpen rond Bussum,['batfra_497']
+271,271,Dorpen rond Castricum,['batfra_476']
+272,272,Dorpen rond Haarlem,['batfra_477']
+273,273,Dorpen rond Hillegom,['batfra_474']
+274,274,Dorpen rond Ouder- en Nieuweramstel,['batfra_499']
+275,275,Dorpen rond Raamsdonk,['batfra_492']
+276,276,Dorpen rond Zevenbergen,['batfra_491']
+277,277,Dronrijp,['negentiende_eeuw_195']
+278,278,Dwingeloo,['batfra_409']
+279,279,Echt,['negentiende_eeuw_205']
+280,280,Edam,"['batfra_461', 'negentiende_eeuw_19', 'republiek_16']"
+281,281,Ede,"['batfra_267', 'negentiende_eeuw_242']"
+282,282,Eelde,['batfra_411']
+283,283,Eerste Departement - Angerlo,['batfra_302']
+284,284,Eerste Departement - Bahr en Latum,['batfra_303']
+285,285,Eerste Departement - Beek,['batfra_300']
+286,286,Eerste Departement - Didam,['batfra_301']
+287,287,Eerste Departement - Drempt,['batfra_305']
+288,288,Eerste Departement - Hoog- en Laag-Keppel,['batfra_306']
+289,289,Eerste Departement - Westervoort,['batfra_304']
+290,290,Eerste Edele,['republiek_27']
+291,291,Eijsden,['negentiende_eeuw_217']
+292,292,Eindhoven,['negentiende_eeuw_20']
+293,293,Elburg,"['batfra_265', 'negentiende_eeuw_227', 'republiek_55']"
+294,294,Elst,['negentiende_eeuw_21']
+295,295,Emmen,['batfra_422']
+296,296,Engwirden,['divperioden_27']
+297,297,Enkhuizen,"['batfra_452', 'negentiende_eeuw_142', 'republiek_15']"
+298,298,Enschede,['negentiende_eeuw_22']
+299,299,Epe,['batfra_275']
+300,300,Ermelo,['batfra_271']
+301,301,Ferwerderadeel,"['batfra_184', 'negentiende_eeuw_165', 'divperioden_7']"
+302,302,Franeker,"['batfra_398', 'negentiende_eeuw_23', 'divperioden_33']"
+303,303,Franekeradeel,"['batfra_178', 'negentiende_eeuw_166', 'divperioden_15']"
+304,304,Gaasterland,"['negentiende_eeuw_167', 'divperioden_30']"
+305,305,Gaasterland-Sloten,['batfra_183']
+306,306,Gasselte,"['batfra_432', 'negentiende_eeuw_73']"
+307,307,Gasselternijveen,['batfra_406']
+308,308,Geertruidenberg,"['batfra_488', 'negentiende_eeuw_107']"
+309,309,Geervliet,['negentiende_eeuw_125']
+310,310,Geldermalsen,['negentiende_eeuw_243']
+311,311,Gemert/Asten,['negentiende_eeuw_99']
+312,312,Geëligeerden van Utrecht,['republiek_32']
+313,313,Gieten,['batfra_433']
+314,314,Giethoorn,['batfra_220']
+315,315,Ginneken,['negentiende_eeuw_103']
+316,316,Goes,"['batfra_359', 'negentiende_eeuw_24', 'republiek_22']"
+317,317,Goor,['batfra_221']
+318,318,Gorinchem,"['batfra_459', 'negentiende_eeuw_25', 'me_11', 'republiek_9']"
+319,319,Gouda,"['batfra_446', 'negentiende_eeuw_26', 'me_9', 'republiek_7']"
+320,320,Grafhorst,['batfra_222']
+321,321,Gramsbergen,['batfra_223']
+322,322,Grave,['negentiende_eeuw_27']
+323,323,Grave en het Land van Cuijk,['batfra_372']
+324,324,Groenlo,"['batfra_298', 'negentiende_eeuw_228', 'republiek_44']"
+325,325,Groenlo (plattelandsdistrict),['negentiende_eeuw_235']
+326,326,Groningen,"['batfra_393', 'negentiende_eeuw_28']"
+327,327,Gronsveld,['negentiende_eeuw_199']
+328,328,Gulpen,['negentiende_eeuw_200']
+329,329,Haaksbergen,['batfra_224']
+330,330,Haarlem,"['batfra_468', 'negentiende_eeuw_29', 'me_15', 'republiek_3']"
+331,331,Haastrecht,['negentiende_eeuw_126']
+332,332,Harderwijk,"['batfra_264', 'negentiende_eeuw_30', 'republiek_47']"
+333,333,Harlingen,"['batfra_399', 'negentiende_eeuw_168', 'divperioden_36']"
+334,334,Harmelen,['negentiende_eeuw_81']
+335,335,Haskerland,"['batfra_189', 'negentiende_eeuw_169', 'divperioden_23']"
+336,336,Hasselt,['negentiende_eeuw_90']
+337,337,Hattem,"['batfra_266', 'negentiende_eeuw_229', 'republiek_50']"
+338,338,Havelte,"['batfra_429', 'negentiende_eeuw_71']"
+339,339,Heerde,['batfra_274']
+340,340,Heerde/Barneveld [Elspeet],['negentiende_eeuw_236']
+341,341,Heerenveen,"['batfra_445', 'negentiende_eeuw_31']"
+342,342,Heerlen,['negentiende_eeuw_32']
+343,343,Heijthuizen,['negentiende_eeuw_207']
+344,344,Heiloo,['negentiende_eeuw_127']
+345,345,Heino,['batfra_229']
+346,346,Hellendoorn,['batfra_230']
+347,347,Hellevoetsluis,['negentiende_eeuw_128']
+348,348,Helmond,['negentiende_eeuw_33']
+349,349,Hemelumer Oldeferd,"['batfra_181', 'divperioden_20']"
+350,350,"Hemelumer, Oldephert en Noordwolde",['negentiende_eeuw_170']
+351,351,Hennaarderadeel,"['batfra_182', 'negentiende_eeuw_171', 'divperioden_12']"
+352,352,Herk-de-stad,['negentiende_eeuw_218']
+353,353,Het Bildt,"['batfra_187', 'negentiende_eeuw_196', 'divperioden_18']"
+354,354,Heusden,"['batfra_472', 'negentiende_eeuw_34']"
+355,355,Hilvarenbeek,['negentiende_eeuw_98']
+356,356,Hindeloopen,"['batfra_444', 'divperioden_41']"
+357,357,Hindelopen,['negentiende_eeuw_172']
+358,358,Hoeksewaard,['batfra_486']
+359,359,Hoevelaken,['batfra_283']
+360,360,Hoge en Lage Zwaluwe,['batfra_493']
+361,361,Holten en Bathmen,['batfra_231']
+362,362,Hoogeveen,"['batfra_423', 'negentiende_eeuw_35']"
+363,363,Hoogezand,['negentiende_eeuw_75']
+364,364,Hoorn,"['batfra_455', 'negentiende_eeuw_36', 'republiek_14']"
+365,365,Horst,['negentiende_eeuw_209']
+366,366,Hulst,['negentiende_eeuw_111']
+367,367,IJlst,"['batfra_396', 'negentiende_eeuw_192', 'divperioden_40']"
+368,368,"IJsselham, Oldemarkt en Paasloo",['batfra_253']
+369,369,IJsselmuiden,['batfra_254']
+370,370,IJsselstein,['negentiende_eeuw_37']
+371,371,Idaarderadeel,"['batfra_177', 'negentiende_eeuw_173', 'divperioden_1']"
+372,372,Kampen,"['batfra_232', 'negentiende_eeuw_38', 'republiek_29']"
+373,373,Kamperveen,['batfra_233']
+374,374,Kessel,['negentiende_eeuw_208']
+375,375,Koekange,['batfra_442']
+376,376,Kolderveen,['batfra_426']
+377,377,Kollumerland,"['batfra_190', 'divperioden_11']"
+378,378,Kollumerland en Nieuw Kruisland,['negentiende_eeuw_174']
+379,379,Koninksem,['negentiende_eeuw_219']
+380,380,Krimpenerwaard,"['batfra_483', 'batfra_489']"
+381,381,Kuinre en Blankenham,['batfra_236']
+382,382,Kwartier Arnhem,['batfra_346']
+383,383,Kwartier I Leiden,['batfra_376']
+384,384,Kwartier II Hoorn,['batfra_380']
+385,385,Kwartier II Rotterdam,['batfra_377']
+386,386,Kwartier III Dordrecht,['batfra_378']
+387,387,Kwartier IV Goeree en Overflakkee,['batfra_379']
+388,388,Kwartier Kempenland,['batfra_370']
+389,389,Kwartier Maasland,['batfra_368']
+390,390,Kwartier Nijmegen,['batfra_348']
+391,391,Kwartier Oisterwijk,['batfra_375']
+392,392,Kwartier Peelland,['batfra_369']
+393,393,Kwartier Zutphen,['batfra_347']
+394,394,Kwartier van 's-Hertogenbosch,['batfra_382']
+395,395,Kwartier van Breda,['batfra_381']
+396,396,Kwartier van Eindhoven,['batfra_383']
+397,397,Kwartier van Nijmegen,['batfra_343']
+398,398,Kwartier van Zutphen,['batfra_344']
+399,399,Kwartier van de Veluwe,['batfra_345']
+400,400,Landgericht Almelo,['batfra_207']
+401,401,Landgericht Delden,['batfra_213']
+402,402,Landgericht Diepenheim,['batfra_259']
+403,403,Landgericht Enschede,['batfra_217']
+404,404,Landgericht Kedingen,['batfra_234']
+405,405,Landgericht Oldenzaal,['batfra_238']
+406,406,Landgericht Ootmarsum,['batfra_260']
+407,407,Leerdam,['batfra_487']
+408,408,Leeuwarden,"['batfra_397', 'negentiende_eeuw_39', 'divperioden_31', 'republiek_26']"
+409,409,Leeuwarderadeel,"['batfra_175', 'negentiende_eeuw_175', 'divperioden_5']"
+410,410,Leiden,"['batfra_480', 'negentiende_eeuw_40', 'me_16', 'republiek_5']"
+411,411,Leiderdorp,['negentiende_eeuw_41']
+412,412,Leidschendam,['negentiende_eeuw_129']
+413,413,Leimuiden,['batfra_467']
+414,414,Lemsterland,"['batfra_179', 'negentiende_eeuw_176', 'divperioden_21']"
+415,415,Lochem,"['batfra_297', 'negentiende_eeuw_230', 'republiek_53']"
+416,416,Maarsen,['negentiende_eeuw_79']
+417,417,Maaseik,['negentiende_eeuw_222']
+418,418,Maassluis,"['batfra_470', 'negentiende_eeuw_143']"
+419,419,Maastricht,['negentiende_eeuw_42']
+420,420,Markelo,"['batfra_235', 'negentiende_eeuw_92']"
+421,421,Mechelen,['negentiende_eeuw_220']
+422,422,Medemblik,"['batfra_462', 'negentiende_eeuw_144', 'republiek_18']"
+423,423,Meerkerk,['negentiende_eeuw_130']
+424,424,Meerssen,['negentiende_eeuw_201']
+425,425,Menaldumadeel,"['batfra_172', 'negentiende_eeuw_177', 'divperioden_19']"
+426,426,Meppel,"['batfra_431', 'negentiende_eeuw_68']"
+427,427,Middelburg,"['batfra_357', 'negentiende_eeuw_43', 'me_1', 'republiek_20']"
+428,428,Middelharnis,['negentiende_eeuw_154']
+429,429,Monnickendam,"['batfra_448', 'negentiende_eeuw_145', 'republiek_17']"
+430,430,Montfoort,"['negentiende_eeuw_83', 'republiek_35']"
+431,431,Muiden,['negentiende_eeuw_151']
+432,432,Naaldwijk,['negentiende_eeuw_152']
+433,433,Naarden,['negentiende_eeuw_131']
+434,434,Naarden en Gooiland,['batfra_469']
+435,435,Nieuwer-Amstel,['negentiende_eeuw_153']
+436,436,Nijbroek,['batfra_276']
+437,437,Nijeveen,['batfra_419']
+438,438,Nijkerk,"['batfra_269', 'negentiende_eeuw_231']"
+439,439,Nijmegen,"['batfra_286', 'negentiende_eeuw_44', 'republiek_42']"
+440,440,Nijmegen/Druten [Druten],['negentiende_eeuw_237']
+441,441,Noord- en Zuid-Beveland,['batfra_387']
+442,442,Noord-Beveland en Wolphaartsdijk,['batfra_367']
+443,443,Noordwijk,['negentiende_eeuw_132']
+444,444,Norg,['batfra_434']
+445,445,Odoorn,['batfra_439']
+446,446,Oegstgeest,['negentiende_eeuw_133']
+447,447,Oirsbeek,['negentiende_eeuw_203']
+448,448,Oirschot/Boxtel,['negentiende_eeuw_97']
+449,449,Oisterwijk,['negentiende_eeuw_100']
+450,450,Oldebroek,"['batfra_273', 'negentiende_eeuw_244']"
+451,451,Oldenzaal,['negentiende_eeuw_93']
+452,452,Olst,['batfra_239']
+453,453,Ommen,['negentiende_eeuw_88']
+454,454,Onderdendam,['negentiende_eeuw_45']
+455,455,Oost-Friesland,['batfra_201']
+456,456,Oost-Stellingwerf,['divperioden_24']
+457,457,Oostdongeradeel,"['batfra_176', 'negentiende_eeuw_178', 'divperioden_2']"
+458,458,Oosterhesselen,['batfra_410']
+459,459,Oosterhout,['negentiende_eeuw_108']
+460,460,Ooststellingwerf,['batfra_390']
+461,461,Oostzaan,['batfra_471']
+462,462,Opper Gelder/Overmaze,['negentiende_eeuw_106']
+463,463,Opsterland,"['batfra_169', 'negentiende_eeuw_179', 'divperioden_29']"
+464,464,Oud-Beijerland,['negentiende_eeuw_134']
+465,465,Oude Pekela,['negentiende_eeuw_76']
+466,466,Oudenbosch,['negentiende_eeuw_104']
+467,467,Oudewater,['batfra_495']
+468,468,Overschie,['batfra_498']
+469,469,Peize,['batfra_404']
+470,470,"Pesse, Echten en Ansen",['batfra_416']
+471,471,Pijnacker,['negentiende_eeuw_135']
+472,472,Purmerend,"['batfra_453', 'negentiende_eeuw_146', 'republiek_19']"
+473,473,Putten,"['batfra_270', 'negentiende_eeuw_245']"
+474,474,Raalte,"['batfra_243', 'negentiende_eeuw_89']"
+475,475,Rauwerdehem,['negentiende_eeuw_180']
+476,476,Rauwerderhem,"['batfra_193', 'divperioden_9']"
+477,477,Ravenstein/Oss,['negentiende_eeuw_95']
+478,478,Renkum,['batfra_281']
+479,479,Rheden,['batfra_280']
+480,480,Rhenen,"['negentiende_eeuw_84', 'republiek_38']"
+481,481,Ridderkerk,['negentiende_eeuw_46']
+482,482,Ridderschap van Holland,"['divperioden_42', 'republiek_1']"
+483,483,Ridderschap van Overijssel,['republiek_31']
+484,484,Ridderschap van Utrecht,['republiek_33']
+485,485,Ridderschap van het Kwartier Nijmegen,['republiek_39']
+486,486,Ridderschap van het Kwartier Veluwe,['republiek_41']
+487,487,Ridderschap van het Kwartier Zutphen,['republiek_40']
+488,488,Rijk van Nijmegen,['batfra_287']
+489,489,Rijnland,['batfra_473']
+490,490,Rijssen,['batfra_244']
+491,491,Ring van Amersfoort,['batfra_352']
+492,492,Ring van Arnhem,['batfra_353']
+493,493,Ring van Doesburg,['batfra_354']
+494,494,Ring van Gorinchem,['batfra_349']
+495,495,Ring van Tiel,"['batfra_350', 'batfra_356']"
+496,496,Ring van Utrecht,['batfra_351']
+497,497,Ring van Zutphen,['batfra_355']
+498,498,Roden,"['batfra_427', 'batfra_436']"
+499,499,Roermond,['negentiende_eeuw_47']
+500,500,Rolde,['batfra_421']
+501,501,Roosendaal,['negentiende_eeuw_105']
+502,502,Rosendaal (Geld.),['batfra_284']
+503,503,Roswinkel,['batfra_417']
+504,504,Rotterdam,"['batfra_450', 'negentiende_eeuw_48', 'me_14', 'republiek_8']"
+505,505,Ruinen,"['batfra_413', 'negentiende_eeuw_70']"
+506,506,Ruinerwold,['batfra_435']
+507,507,Ruurlo,['negentiende_eeuw_49']
+508,508,Schagen,"['batfra_496', 'negentiende_eeuw_136']"
+509,509,Schermer,['batfra_475']
+510,510,Schermerhorn,['negentiende_eeuw_137']
+511,511,Scherpenzeel,['batfra_282']
+512,512,Schiedam,"['batfra_447', 'negentiende_eeuw_50', 'me_13', 'republiek_10']"
+513,513,Schieland,['batfra_490']
+514,514,Schiermonnikoog,['negentiende_eeuw_197']
+515,515,Schoonebeek,['batfra_418']
+516,516,Schoonhoven,"['batfra_449', 'negentiende_eeuw_147', 'republiek_11']"
+517,517,Schoterland,"['batfra_180', 'negentiende_eeuw_181', 'divperioden_28']"
+518,518,Schoutambt Genemuiden,['batfra_219']
+519,519,Schoutambt Hardenberg,['batfra_226']
+520,520,Schoutambt Nieuwesluis en Hasselerkerspel,['batfra_228']
+521,521,Schoutambt Ommen en Den Ham,['batfra_241']
+522,522,Schoutambt Steenwijk en Steenwijkerkerspelen,['batfra_247']
+523,523,Schoutambt Vollenhove,['batfra_249']
+524,524,Schoutambt Zwolle,['batfra_258']
+525,525,Schouwen (eiland),['batfra_386']
+526,526,Schouwen-Duiveland en Sommelsdijk,['batfra_364']
+527,527,Sint Truiden,['negentiende_eeuw_223']
+528,528,Sittard,['negentiende_eeuw_51']
+529,529,Sleen,['batfra_424']
+530,530,Sliedrecht,['negentiende_eeuw_155']
+531,531,Sloten,"['negentiende_eeuw_182', 'divperioden_38']"
+532,532,Sloterdijk,['negentiende_eeuw_138']
+533,533,Sluis,['negentiende_eeuw_52']
+534,534,Smallingerland,"['batfra_171', 'negentiende_eeuw_183', 'divperioden_6']"
+535,535,Smilde,['batfra_441']
+536,536,Sneek,"['batfra_401', 'negentiende_eeuw_53', 'divperioden_34']"
+537,537,Sommelsdijk,"['negentiende_eeuw_139', 'me_4']"
+538,538,St Maartensdijk,['me_6']
+539,539,St. Oedenrode,['negentiende_eeuw_96']
+540,540,Stad Almelo,['batfra_206']
+541,541,Stad Delden,['batfra_212']
+542,542,Stad Diepenheim,['batfra_215']
+543,543,Stad Enschede,['batfra_216']
+544,544,Stad Genemuiden,['batfra_218']
+545,545,Stad Groningen,['batfra_165']
+546,546,Stad Hardenberg,['batfra_225']
+547,547,Stad Hasselt,['batfra_227']
+548,548,Stad Oldenzaal,['batfra_237']
+549,549,Stad Ommen,['batfra_240']
+550,550,Stad Ootmarsum,['batfra_242']
+551,551,Stad Steenwijk,['batfra_246']
+552,552,Stad Vollenhove,['batfra_248']
+553,553,Stad Zwolle,['batfra_257']
+554,554,Stad en Land van Breda,['batfra_371']
+555,555,"Staphorst, Rouveen en IJhorst",['batfra_245']
+556,556,Stavoren,"['batfra_392', 'negentiende_eeuw_184', 'divperioden_37']"
+557,557,Steden en Landen van Bergen op Zoom en Steenbergen,['batfra_373']
+558,558,Steenwijk,['negentiende_eeuw_54']
+559,559,Stellingwerf Oosteinde,['negentiende_eeuw_185']
+560,560,Stellingwerf Westeinde,['negentiende_eeuw_186']
+561,561,Stompwijk,['negentiende_eeuw_140']
+562,562,Strijen,['negentiende_eeuw_141']
+563,563,Susteren,['negentiende_eeuw_204']
+564,564,Terschelling,['batfra_501']
+565,565,Texel,['batfra_482']
+566,566,Tholen,"['batfra_360', 'negentiende_eeuw_112', 'republiek_23']"
+567,567,Tholen en Sint Philipsland,['batfra_366']
+568,568,Thorn,['negentiende_eeuw_206']
+569,569,Tiel,"['batfra_292', 'negentiende_eeuw_55', 'republiek_48']"
+570,570,Tiel/Elst,['negentiende_eeuw_238']
+571,571,Tietjerksteradeel,"['batfra_168', 'negentiende_eeuw_187', 'divperioden_10']"
+572,572,Tilburg,['negentiende_eeuw_56']
+573,573,Tongeren,['negentiende_eeuw_224']
+574,574,Tweede Departement - Almen,['batfra_312']
+575,575,Tweede Departement - Bronkhorst,['batfra_308']
+576,576,Tweede Departement - Gorssel,['batfra_313']
+577,577,Tweede Departement - Hummelo,['batfra_309']
+578,578,Tweede Departement - Steenderen,['batfra_307']
+579,579,Tweede Departement - Vorden,['batfra_310']
+580,580,Tweede Departement - Warnsveld en Wichmond,['batfra_311']
+581,581,Utingeradeel,"['batfra_196', 'negentiende_eeuw_188', 'divperioden_22']"
+582,582,Utrecht,"['negentiende_eeuw_57', 'republiek_34']"
+583,583,Valkenburg,['negentiende_eeuw_202']
+584,584,Veere,"['batfra_362', 'negentiende_eeuw_113', 'republiek_25']"
+585,585,Venlo,['negentiende_eeuw_58']
+586,586,Vierde Departement - Lichtenvoorde,['batfra_323']
+587,587,Vierde Departement - Ligtenberg,['batfra_322']
+588,588,Vierde Departement - Silvolde,['batfra_321']
+589,589,Vierde Departement - Terborg,['batfra_319']
+590,590,Vierde Departement - Varsseveld,['batfra_320']
+591,591,Vijfde Departement - Hengelo,['batfra_327']
+592,592,Vijfde Departement - Richterambt Doetinchem,['batfra_324']
+593,593,Vijfde Departement - Roderlo,['batfra_326']
+594,594,Vijfde Departement - Zelhem,['batfra_325']
+595,595,Vlaardingen,"['batfra_465', 'negentiende_eeuw_148']"
+596,596,Vledder,['batfra_415']
+597,597,Vlissingen,"['batfra_361', 'negentiende_eeuw_114', 'republiek_24']"
+598,598,Voorne-Putten,['batfra_500']
+599,599,Voorst,"['batfra_278', 'negentiende_eeuw_246']"
+600,600,Vries,"['batfra_403', 'negentiende_eeuw_72']"
+601,601,Vriezenveen,['batfra_250']
+602,602,Waalwijk,['negentiende_eeuw_101']
+603,603,Wageningen,"['batfra_263', 'negentiende_eeuw_232', 'republiek_54']"
+604,604,Walcheren en Sint Joosland,['batfra_363']
+605,605,Wanneperveen en Dinxterveen,['batfra_251']
+606,606,Wapserveen,['batfra_414']
+607,607,Weert,['negentiende_eeuw_211']
+608,608,Weesp,['negentiende_eeuw_149']
+609,609,West-Stellingwerf,['divperioden_25']
+610,610,Westdongeradeel,"['batfra_191', 'negentiende_eeuw_189', 'divperioden_8']"
+611,611,Westerbork,['batfra_443']
+612,612,Weststellingwerf,['batfra_188']
+613,613,Wijhe,['batfra_252']
+614,614,Wijk bij Duurstede,"['negentiende_eeuw_85', 'republiek_37']"
+615,615,Willemstad,['negentiende_eeuw_109']
+616,616,Wilsum,['batfra_261']
+617,617,Winschoten,['negentiende_eeuw_59']
+618,618,Woerden,['negentiende_eeuw_150']
+619,619,Wonseradeel,"['batfra_192', 'negentiende_eeuw_198', 'divperioden_13']"
+620,620,Workum,"['batfra_400', 'negentiende_eeuw_190', 'divperioden_39']"
+621,621,Wormerveer,['batfra_458']
+622,622,Woudrichem,"['batfra_479', 'negentiende_eeuw_102']"
+623,623,Wychen,['negentiende_eeuw_247']
+624,624,Wymbritseradeel,"['batfra_185', 'negentiende_eeuw_191', 'divperioden_17']"
+625,625,Zaandam,['negentiende_eeuw_60']
+626,626,Zalk en Veecaten,['batfra_255']
+627,627,Zaltbommel,"['batfra_293', 'negentiende_eeuw_61', 'republiek_52']"
+628,628,Zaltbommel (plattelandsdistrict),['negentiende_eeuw_239']
+629,629,Zeist,['negentiende_eeuw_78']
+630,630,Zesde Departement - Aalten,['batfra_329']
+631,631,Zesde Departement - Bredevoort,['batfra_328']
+632,632,Zesde Departement - Dinxperlo,['batfra_331']
+633,633,Zesde Departement - Winterswijk,['batfra_330']
+634,634,Zevenaar,['negentiende_eeuw_248']
+635,635,Zevenbergen,['negentiende_eeuw_62']
+636,636,Zevende Departement - Beltrum,['batfra_333']
+637,637,Zevende Departement - Borculo,['batfra_332']
+638,638,Zevende Departement - Eibergen,['batfra_334']
+639,639,Zevende Departement - Neede,['batfra_335']
+640,640,Zevende Departement - Rekken,['batfra_336']
+641,641,Zierikzee,"['batfra_358', 'negentiende_eeuw_63', 'me_5', 'republiek_21']"
+642,642,Zoetermeer,['negentiende_eeuw_156']
+643,643,Zonhoven,['negentiende_eeuw_221']
+644,644,Zuid-Beveland,['batfra_365']
+645,645,Zuidbroek,['negentiende_eeuw_74']
+646,646,Zuidhorn,['negentiende_eeuw_64']
+647,647,Zuidlaren,['batfra_402']
+648,648,Zuidwolde,['batfra_420']
+649,649,Zutphen,"['batfra_299', 'negentiende_eeuw_65', 'republiek_51']"
+650,650,Zutphen (plattelandsdistrict),['negentiende_eeuw_240']
+651,651,Zwartsluis,"['batfra_256', 'negentiende_eeuw_94']"
+652,652,Zweelo,['batfra_407']
+653,653,Zweeloo,['negentiende_eeuw_69']
+654,654,Zwolle,"['negentiende_eeuw_66', 'republiek_30']"

@@ -1,531 +1,530 @@
 ,college_id,college,old_idcollege
-0,0,Staatssecretarie (Ministerie van de Secretarie van Staat),batfra_1
-1,1,Koninklijke Secretarie,batfra_2
-2,2,Ministerie van Binnenlandse Zaken (1),batfra_3
-3,3,Ministerie van Financiën,batfra_4
-4,4,Ministerie van Justitie en Politie,batfra_5
-5,5,Ministerie van Oorlog,batfra_6
-6,6,Staatsraad (Koninkrijk),batfra_7
-7,7,Ministerie van Openbare Eredienst,batfra_8
-8,8,Ministerie van de Waterstaat,batfra_9
-9,9,Ministerie van Eredienst en Binnenlandse Zaken,batfra_10
-10,10,Ministerie van Buitenlandse Zaken,batfra_11
-11,11,Ministerie van Koophandel en Koloniën,batfra_12
-12,12,Ministerie van Marine en Koloniën,batfra_13
-13,13,Ministerie van Marine,batfra_14
-14,14,Directoraat-Generaal van Openbaar Onderwijs en Wetenschappen,batfra_15
-15,15,Directoraat-Generaal van Schone Kunsten,batfra_16
-16,16,Directoraat-Generaal van Wetenschappen en Kunsten,batfra_17
-17,17,Directoraat-Generaal van de Publieke Schatkist,batfra_18
-18,18,Directoraat-Generaal van de Publieke Schuld (en Pensioenen),batfra_20
-19,19,Kabinet van de Koning van Holland,batfra_21
-20,20,Koninklijke Staatsdrukkerij,batfra_22
-21,21,Raad van Judicature over de Middelen te Water en te Lande (Raadpensionaris),batfra_23
-22,22,Hoge Militaire Vierschaar (2),batfra_24
-23,23,Directoraat-Generaal van de Waterstaat,batfra_25
-24,24,Conseil d' Etat,batfra_29
-25,25,Ministère de l' Intérieur,batfra_30
-26,26,Ministère des Relations Extérieures,batfra_31
-27,27,Ministère de la Guerre,batfra_32
-28,28,Ministère de la Marine et des Colonies,batfra_33
-29,29,Ministère de la Justice,batfra_34
-30,30,Ministère des Finances,batfra_35
-31,31,Ministère de la Police Générale,batfra_36
-32,32,Ministère du Trésor Impérial,batfra_37
-33,33,Ministère de l' Administration de la Guerre,batfra_38
-34,34,Ministère des Cultes,batfra_39
-35,35,Ministère des Manufactures et du Commerce,batfra_40
-36,36,Corps Législatif,batfra_41
-37,37,Sénat Conservateur,batfra_42
-38,38,Secrétairerie d' État Impériale,batfra_43
-39,39,"Direction-Générale des Ponts et Chaussées, Navigation intérieure, Ports de Commerce, Phares et Fanaux, et Lignes Télégraphiques.",batfra_44
-40,40,Direction-Générale des Forêts,batfra_45
-41,41,Direction-Générale des Mines,batfra_46
-42,42,Cour des Comptes,batfra_48
-43,43,Bureau Statistique de l' Empire,batfra_49
-44,44,Direction-Générale de l' Enregistrement et des Domaines,batfra_51
-45,45,Direction-Générale de la Police en Hollande,batfra_53
-46,46,Gendarmerie Impériale,batfra_54
-47,47,Cour de Cassation,batfra_55
-48,48,Conseil Général de Commerce,batfra_59
-49,49,Direction-Générale des Postes,batfra_61
-50,50,Légion d' Honneur,batfra_62
-51,51,Université Impériale,batfra_63
-52,52,Lieutenant-Général de l' Empereur en Hollande,batfra_64
-53,53,"Gouvernement-Général des Départements de la Hollande (Algemene Stedehouder, Prins Stedehouder)",batfra_65
-54,54,Secretarie van het Gouvernement van Holland,batfra_66
-55,55,"Koning van Holland, Lodewijk Napoleon",batfra_67
-56,56,"Koningin van Holland, Hortensia Eugenia",batfra_68
-57,57,"Keizer van Frankrijk, Napoleon",batfra_69
-58,58,Intendance Générale des Finances (et du Trésor Public) en Hollande,batfra_70
-59,59,Commissie vervangende het Hof van Rekeningen,batfra_71
-60,60,Intendance de l' Intérieur en Hollande,batfra_72
-61,61,Direction de la Caisse Centrale à Amsterdam,batfra_73
-62,62,Essayeur-Generaal van de Munt,batfra_74
-63,63,Staatsbewind der Bataafse Republiek,batfra_77
-64,64,"Wetgevend Lichaam, Vergadering van Hun Hoog Mogenden vertegenwoordigende het Bataafs Gemenebest (Raadpensionaris)",batfra_78
-65,65,Raad van Binnenlandse Zaken,batfra_79
-66,66,Wetgevend Lichaam van het Bataafse Gemenebest (1801-1805),batfra_80
-67,67,Raad van de Amerikaanse Bezittingen en Etablissementen,batfra_81
-68,68,Raadpensionaris,batfra_82
-69,69,Cour Impériale en Hollande,batfra_83
-70,70,Conseil Général des Ponts et Chaussées,batfra_88
-71,71,Direction-Générale de l' Imprimerie et de la Librairie,batfra_89
-72,72,Imprimerie Impériale,batfra_97
-73,73,"Eerste Nationale Vergadering, representerende het volk van Nederland",batfra_98
-74,74,Constituerende Vergadering representerende het Bataafse Volk,batfra_99
-75,75,Intermediair Wetgevend Lichaam van het Bataafse Volk,batfra_103
-76,76,Uitvoerend Bewind (Constitutioneel) van de Bataafse Republiek,batfra_104
-77,77,Agentschap van Justitie,batfra_112
-78,78,Nationaal Gerechtshof,batfra_113
-79,79,Nationaal Syndicaat,batfra_114
-80,80,Hoog Nationaal Gerechtshof,batfra_115
-81,81,Agentschap van Inwendige Politie en Waterstaat,batfra_116
-82,82,Commissie van Superintendentie der Rivieren,batfra_117
-83,83,Commissie van Superintendentie van Zeehavens en Zeegaten,batfra_118
-84,84,Commissie van Superintendentie over de Waterstaat der Bataafse Republiek,batfra_119
-85,85,Comité-Centraal van de Waterstaat,batfra_120
-86,86,Agentschap van Nationale Opvoeding,batfra_123
-87,87,Agentschap van Nationale Oeconomie,batfra_124
-88,88,Secretaris van Staat voor de Binnenlandse Zaken,batfra_125
-89,89,Agentschap van Financiën,batfra_127
-90,90,Thesaurier-Generaal en Raden van Financiën,batfra_128
-91,91,Secretaris van Staat voor de Financiën,batfra_129
-92,92,Raad van Financiën,batfra_130
-93,93,Syndicat de Hollande,batfra_131
-94,94,Agentschap van Buitenlandse Betrekkingen,batfra_133
-95,95,Secretaris van Staat voor de Buitenlandse Betrekkingen,batfra_134
-96,96,Comité tot de Algemene Zaken van het Bondgenootschap te Lande,batfra_136
-97,97,Agentschap van Oorlog,batfra_137
-98,98,Raad van Oorlog,batfra_138
-99,99,"Secretaris van Staat, Departement van Oorlog",batfra_139
-100,100,Directoraat-Generaal voor de Zaken van Oorlog,batfra_140
-101,101,Commissariaat der Franse troepen in soldij der Bataafse Republiek,batfra_142
-102,102,Commissaris-Liquidateur van de Pretentiën van Gepreste Schippers,batfra_143
-103,103,Depot-Generaal van Oorlog,batfra_144
-104,104,Directie van de Landelijke Telegrafische Beseiningen,batfra_146
-105,105,Comité tot de Zaken van de Marine,batfra_147
-106,106,Agentschap van Marine,batfra_148
-107,107,Raad van Marine,batfra_149
-108,108,Ministerie van Binnenlandse Zaken (2),batfra_150
-109,109,Comité tot de Oost-Indische Handel en Bezittingen,batfra_151
-110,110,Comité tot de Zaken van de Koloniën en Bezittingen op de kust van Guinea en in Amerika,batfra_153
-111,111,Préfet du Département des Bouches-du-Rhin,batfra_155
-112,112,Préfet du Département des Bouches-de-l' Escaut,batfra_156
-113,113,Préfet du Département des Bouches-de-la-Meuse (Monden van de Maas),batfra_157
-114,114,Préfet du Département des Bouches-de-l' Yssel (Monden van de IJssel),batfra_158
-115,115,Préfet du Département de l' Ems-Occidental (Westereems),batfra_159
-116,116,Préfet du Département de la Frise,batfra_160
-117,117,Préfet du Département de l' Issel-Supérieur (Boven IJssel),batfra_161
-118,118,Préfet du Département du Zuyderzee,batfra_162
-119,119,Conseil des Poids et Mesures,batfra_164
-120,120,Archives de l' Empire,batfra_167
-121,121,Dépot Général de la Guerre,batfra_171
-122,122,Direction-Générale des Revues et de la Conscription Militaire,batfra_172
-123,123,Administration Générale des Poudres et Salpêtres,batfra_173
-124,124,Conseil Impérial des Prises,batfra_174
-125,125,Direction-Générale de la Comptabilité des Communes et des Hospices,batfra_175
-126,126,Direction-Générale des Douanes,batfra_176
-127,127,Direction-Générale de la Caisse d' Amortissement,batfra_177
-128,128,Direction-Générale des Droits Réunis,batfra_178
-129,129,Direction-Générale des Vivres,batfra_179
-130,130,Conseil de Liquidation à Amsterdam,batfra_180
-131,131,Préfet du Département de l' Ems-Oriental,batfra_181
-132,132,Conseil d' Administration des Postes-Relais,batfra_182
-133,133,Raad van Judicature voor de Middelen te Water en te Lande in Holland,batfra_183
-134,134,Provisionele Raad van Regentschap van het Koninkrijk Holland,batfra_186
-135,135,Commissie voor de Zaken van Holland (Conseil pour les Affaires de Hollande),batfra_187
-136,136,Hoog Keizerlijk Gerechtshof in Holland,batfra_188
-137,137,Direction du Grand Livre de la Dette Public en Hollande,batfra_190
-138,138,Direction Principale des Douanes en Hollande à Amsterdam,batfra_192
-139,139,"Maître des Requêtes chargé de l' Administration des Polders, Digues et Routes",batfra_193
-140,140,Direction Principale des Postes en Hollande à Amsterdam,batfra_194
-141,141,Ordre Impérial de la Réunion,batfra_195
-142,142,Generaliteitsmuntkamer,batfra_197
-143,143,Commissarissen van de Nationale Rekening,batfra_198
-144,144,Nationale Rekenkamer (1),batfra_199
-145,145,Hof van Rekeningen van het Koninkrijk Holland,batfra_200
-146,146,Zeeraad,batfra_202
-147,147,Administration des Monnaies,batfra_203
-148,148,Banque de France,batfra_205
-149,149,Société Maternelle,batfra_207
-150,150,Tweede Nationale Vergadering,batfra_208
-151,151,Vertegenwoordigend Lichaam (1) (mei 1798-juni 1798),batfra_209
-152,152,Vertegenwoordigend Lichaam (2) (juli 1798-oktober 1801),batfra_210
-153,153,Directie van de Levantse Handel,batfra_212
-154,154,Staatsdrukkerij,batfra_213
-155,155,Hoge Zeekrijgsraad (tot oktober 1799),batfra_216
-156,156,Raad van de Amerikaanse Koloniën en Bezittingen,batfra_217
-157,157,Secretarie van het Staatsbewind,batfra_218
-158,158,Landsdrukkerij,batfra_219
-159,159,Commissie van 's Lands Advocaten,batfra_222
-160,160,Commissarissen der Bataafse Posterijen,batfra_223
-161,161,Commissaris tot de Gecedeerde Landen aan de Bataafse Republiek,batfra_226
-162,162,Algemene Secretarie van Staat,batfra_229
-163,163,Secretaris van Staat Departement van Buitenlandse Zaken,batfra_230
-164,164,Secretaris van Staat voor de Zaken van Oorlog,batfra_231
-165,165,Secretaris van Staat voor de Zaken der Marine,batfra_232
-166,166,Staatsraad (Raadpensionaris),batfra_233
-167,167,Intermediair Uitvoerend Bewind,batfra_234
-168,168,Directoraat-Generaal van Justitie en Politie,batfra_236
-169,169,"Directoraat-Generaal voor de Zaken van de Indiën, de Koophandel en Koloniën",batfra_237
-170,170,Directoraat-Generaal van de Posterijen,batfra_239
-171,171,Raad van Judicature over de Middelen te Water en te Lande (Koninkrijk 1),batfra_241
-172,172,"Wetgevend Lichaam, Vergadering van Hun Hoog Mogenden (Koninkrijk)",batfra_243
-173,173,Betaalmeester van de Armée (van Oorlog),batfra_244
-174,174,Directeur van de Administratie van Oorlog,batfra_245
-175,175,Koninklijke Orde van de Unie,batfra_246
-176,176,Koninklijke Orde van Verdiensten,batfra_247
-177,177,Algemene Administratie van de Waterstaat,batfra_248
-178,178,Administrateurs der Posterijen,batfra_250
-179,179,Opperjagermeester,batfra_251
-180,180,Raad van Judicature over de Middelen te Water en te Lande (Koninkrijk 2),batfra_252
-181,181,Algemeen Bestuur van Weldadigheid,batfra_253
-182,182,Hoog Heraldiek College,batfra_254
-183,183,Hoge Militaire Vierschaar in Holland,batfra_255
-184,184,Napoleon Louis Koning van Holland,batfra_256
-185,185,Mortificatiefonds,batfra_259
-186,186,Amortisatiekas (Mortificatiekas),batfra_260
-187,187,Ontvanger-Generaal van de Marine,batfra_262
-188,188,Commissarissen der Nationale Beleenbank,batfra_263
-189,189,"Uitvoerend Bewind der Bataafse Republiek (tot 17 maart 1798 Provisioneel, vanaf 12 juni 1798 Intermediair)",batfra_265
-190,190,Gouverneur-Generaal van Indië,batfra_268
-191,191,Administrateurs de la Loterie Impériale de France,batfra_269
-192,192,Landdrost en Assessoren van Friesland (1807-1810),batfra_270
-193,193,Landdrost en Assessoren van Overijssel (1807-1810),batfra_272
-194,194,Landdrost en Assessoren van Oost-Friesland (1808-1810),batfra_275
-195,195,Landdrost en Assessoren van Brabant (1807-1810),batfra_278
-196,196,Hof van Friesland (1499-1811),batfra_279
-197,197,Departementaal Gerechtshof van Friesland (1802-1811),batfra_280
-198,198,Representanten van het volk van Friesland,batfra_281
-199,199,Departementaal Bestuur van Friesland (1805-1807),batfra_287
-200,200,Departementaal Gerechtshof van Groningen (1802-1811),batfra_288
-201,201,Departementaal Bestuur van Overijssel (1802-1805),batfra_289
-202,202,Departementaal Bestuur van de Delf,batfra_290
-203,203,Departementaal Bestuur van Holland (1802-1805),batfra_291
-204,204,Departementaal Bestuur van de Rijn,batfra_295
-205,205,Departementaal Bestuur van Utrecht (1802-1805),batfra_296
-206,206,Departementaal Bestuur van Gelderland (1802-1805),batfra_298
-207,207,Departementaal Bestuur van Zeeland (1802-1805),batfra_299
-208,208,Departementaal Bestuur van Brabant (1802-1805),batfra_300
-209,209,Hof van Justitie van Gelderland (1795-1802),batfra_301
-210,210,Departementaal Gerechtshof van Gelderland (1802-1811),batfra_302
-211,211,Departementaal Bestuur van de Amstel,batfra_303
-212,212,Departementaal Bestuur van de Eems,batfra_304
-213,213,Landdrost en Assessoren van Maasland (1807-1810),batfra_305
-214,214,Landdrost en Assessoren van Groningen (1807-1810),batfra_306
-215,215,Hof van Justitie (Hof Provinciaal) van Groningen (1795-1802),batfra_307
-216,216,Landdrost en Assessoren van Gelderland (1807-1810),batfra_308
-217,217,Departementaal Bestuur van de Dommel,batfra_309
-218,218,Drossaard en Raden in de Etstoel (Hof van Justitie) van Drenthe,batfra_310
-219,219,Departementaal Gerechtshof van Overijssel (1802-1811),batfra_311
-220,220,Departementaal Gerechtshof van de Oude IJssel (Deventer) (1799-1801),batfra_312
-221,221,Hof van Justitie van Brabant (1795-1802),batfra_313
-222,222,Landdrost en Assessoren van Amstelland (1807-1810),batfra_315
-223,223,Departementaal Bestuur van de Schelde en Maas,batfra_316
-224,224,Departementaal Bestuur van de Oude IJssel,batfra_317
-225,225,Departementaal Gerechtshof (Etstoel) van Drenthe (1802-1811),batfra_318
-226,226,Landdrost en Assessoren van Drenthe (1807-1810),batfra_320
-227,227,Provisionele Representanten van het Volk van Bataafs Brabant,batfra_322
-228,228,Provisionele Representanten van het Volk van Zeeland,batfra_323
-229,229,Provisionele Representanten van het Volk van Holland,batfra_324
-230,230,Provisionele Representanten van het Volk van Overijssel,batfra_325
-231,231,Departementaal Bestuur van de Landschap Drenthe (1805-1807),batfra_327
-232,232,Landdrost en Assessoren van Utrecht (1807-1810),batfra_328
-233,233,Landdrost en Assessoren van Zeeland (1807-1809),batfra_329
-234,234,Departementaal Bestuur van Texel,batfra_330
-235,235,Departementaal Bestuur van Groningen (1802-1805),batfra_332
-236,236,Hof van Utrecht (1795-1799),batfra_333
-237,237,Departementaal Gerechtshof van Brabant (1802-1811),batfra_341
-238,238,Departementaal Gerechtshof van Holland (1803-1811),batfra_342
-239,239,Departementaal Gerechtshof van Zeeland (1803-1811),batfra_343
-240,240,Departementaal Gerechtshof van Utrecht (1802-1811),batfra_344
-241,241,Representanten van het volk van Stad en Lande,batfra_345
-242,242,Provisionele Representanten van het Volk van Friesland,batfra_346
-243,243,Provisionele Representanten van het Volk van Drenthe,batfra_347
-244,244,Representanten van het volk van Drenthe,batfra_348
-245,245,"Provinciaal College van Politie, Financie en Algemeen Welzijn van Gelderland",batfra_352
-246,246,Staten (Provisionele Representanten) van het Kwartier van de Veluwe,batfra_353
-247,247,Staten (Provisionele Representanten) van het Kwartier van Nijmegen,batfra_354
-248,248,Staten (Provisionele Representanten) van het Kwartier van Zutphen,batfra_355
-249,249,Raad van Financiën in het Departement Gelderland,batfra_359
-250,250,Departementaal Bestuur van Gelderland (1805-1807),batfra_360
-251,251,Departementaal Bestuur van Brabant (1805-1807),batfra_361
-252,252,Departementaal Bestuur van Friesland (1802-1805),batfra_362
-253,253,Departementaal Bestuur van Groningen (1805-1807),batfra_363
-254,254,Departementaal Bestuur van Holland (1805-1807),batfra_364
-255,255,Departementaal Bestuur van Overijssel (1805-1807),batfra_365
-256,256,Departementaal Bestuur van Utrecht (1805-1807),batfra_366
-257,257,Departementaal Bestuur van Zeeland (1805-1807),batfra_367
-258,258,"Comité van Algemeen Welzijn, Waakzaamheid en Veiligheid van Zeeland",batfra_381
-259,259,Representanten van het volk van Bataafs Brabant,batfra_382
-260,260,Intermediair Administratief Bestuur van Gelderland,batfra_383
-261,261,Intermediair Administratief Bestuur van Holland,batfra_390
-262,262,Financiële Commissie van Holland (1799-1802),batfra_392
-263,263,Gedeputeerd Bestuur van Holland (1802-1805),batfra_393
-264,264,Raad van Financiën in het Departement Holland,batfra_394
-265,265,Intermediair Administratief Bestuur van Bataafs Brabant,batfra_395
-266,266,Raad van Financiën in het Departement Bataafs Brabant,batfra_397
-267,267,Raad van Financiën in de Landschap Drenthe,batfra_398
-268,268,Constitutiecommissie van 1796,batfra_400
-269,269,Constitutiecommissie van 1797,batfra_404
-270,270,Constitutiecommissie van 1798,batfra_405
-271,271,Departement van Buitenlandse Zaken (Provisioneel Uitvoerend Bewind),batfra_406
-272,272,Intermediair Administratief Bestuur van Zeeland,batfra_409
-273,273,Intermediair Administratief Bestuur van Friesland,batfra_410
-274,274,Intermediair Administratief Bestuur van Utrecht,batfra_411
-275,275,Intermediair Administratief Bestuur van Overijssel,batfra_412
-276,276,Algemene Secretarie van het Uitvoerend Bewind,batfra_413
-277,277,Intermediair Administratief Bestuur van Groningen,batfra_414
-278,278,Nationale Kanselarij (Secretarie Eerste Kamer Vertegenwoordigend Lichaam),batfra_415
-279,279,Hoge Zeekrijgsraad (vanaf oktober 1799),batfra_418
-280,280,Hoge Militaire Vierschaar (1),batfra_420
-281,281,Raad van de Aziatische Bezittingen en Etablissementen (1800-1804),batfra_422
-282,282,Raad van de Aziatische Bezittingen en Etablissementen (1804-1806),batfra_423
-283,283,Raad van Financiën van Stad en Lande (1802-1805),batfra_424
-284,284,Kanselarij van het Wetgevend Lichaam,batfra_427
-285,285,Landsadvocaten ter advies van het Staatsbewind,batfra_429
-286,286,Raad van Financiën in het Departement Zeeland,batfra_431
-287,287,Raad van Financiën in het Departement Utrecht,batfra_432
-288,288,Raad van Financiën in het Departement Friesland,batfra_433
-289,289,Raad van Financiën in het Departement Overijssel,batfra_434
-290,290,Raad van Financiën in het Departement Groningen,batfra_435
-291,291,Gouvernement-Generaal van Oost-Friesland,batfra_436
-292,292,Koninklijke Courant,batfra_437
-293,293,Landdrost en Kwartierdrosten van Zeeland (1809-1810),batfra_438
-294,294,Representanten van het Volk van Utrecht,batfra_439
-295,295,Generaliteitsloterij,batfra_441
-296,296,Intermediair Administratief Bestuur van het voormalige gewest Drenthe,batfra_443
-297,297,College van Administratie van de Domeinen van Nassau,batfra_444
-298,298,Provinciaal Bestuur van Friesland (1796-1797),batfra_446
-299,299,Préfecture Maritime de la Hollande,batfra_448
-300,300,Commissarissen van het Uitvoerend Bewind bij de Departementale Besturen,batfra_449
-301,301,Raad der Ministers van de Koning (Ministerraad),batfra_450
-302,302,Provinciaal Bestuur van Holland (maart 1796 - januari 1798),batfra_451
-303,303,Provinciaal Comité van Holland (april 1796 - februari 1798),batfra_452
-304,304,Intendance des Domaines de la Couronne en Hollande,batfra_453
-305,305,Maître des Requêtes chargé du Service des Ponts et Chaussées dans les Départements de la Hollande,batfra_454
-306,306,Commissarissen van de Generale Beleenbank,batfra_455
-307,307,Intermediair Bestuur over de Zaken der Koloniën en Bezittingen in Amerika en op de Kust van Guinea,batfra_456
-308,308,Commissarissen van het Uitvoerend Bewind bij de Departementale Gerechtshoven,batfra_457
-309,309,Nationale Rekenkamer (2),batfra_458
-310,310,Nationale Rekenkamer (3),batfra_459
-311,311,Provinciaal Bestuur van Utrecht (oktober 1796 - februari 1798),batfra_460
-312,312,Generaliteitsrekenkamer (1608-1799),batfra_196
-313,313,"Hof van Holland, Zeeland en West-Friesland (1428-1802)",batfra_292
-314,314,Staten-Generaal der Verenigde Nederlandse Provinciën (1588-1796),batfra_102
-315,315,Eerste Kamer der Staten-Generaal (1815-1861),negentiende_eeuw_1
-316,316,Vergadering van Notabelen (1814),negentiende_eeuw_2
-317,317,Staten-Generaal (1814-1815),negentiende_eeuw_3
-318,318,Tweede Kamer der Staten-Generaal (1815-1861),negentiende_eeuw_4
-319,319,Raad van State (1814-1861),negentiende_eeuw_5
-320,320,Departement van Financiën (1813-1861),negentiende_eeuw_6
-321,321,Departement van Justitie (1815-1861),negentiende_eeuw_7
-322,322,Departement van Waterstaat (1814-1815),negentiende_eeuw_8
-323,323,Departement van Binnenlandse Zaken (1813-1861),negentiende_eeuw_9
-324,324,Staatssecretarie (1813-1840),negentiende_eeuw_10
-325,325,Kabinet des Konings (1813-1861),negentiende_eeuw_12
-326,326,Departement van Buitenlandse Zaken (1813-1861),negentiende_eeuw_13
-327,327,Departement van Rooms-Katholieke Eredienst (1815-1861),negentiende_eeuw_14
-328,328,Departement van Oorlog (1813-1861),negentiende_eeuw_15
-329,329,Departement van Koloniën (1814-1861),negentiende_eeuw_16
-330,330,Provisionele Rekenkamer (1813-1814),negentiende_eeuw_18
-331,331,Algemene Rekenkamer (1813-1861),negentiende_eeuw_19
-332,332,"Departement van Binnenlandse Zaken, Waterstaat en Publieke Werken (1820-1824)",negentiende_eeuw_20
-333,333,"Departement van Binnenlandse Zaken, Onderwijs en Waterstaat (1824-1825)",negentiende_eeuw_21
-334,334,Departement van Marine (1813-1861),negentiende_eeuw_22
-335,335,Departement van Marine en Koloniën (1825-1841),negentiende_eeuw_23
-336,336,Departement van Koophandel en Koloniën (1814-1818),negentiende_eeuw_24
-337,337,"Departement van Publiek Onderwijs, Nationale Nijverheid en Koloniën (1818-1824)",negentiende_eeuw_25
-338,338,Departement van Nationale Nijverheid en Koloniën (1824-1833),negentiende_eeuw_26
-339,339,"Departement van Waterstaat, Nationale Nijverheid en Koloniën (1830-1831)",negentiende_eeuw_27
-340,340,"Departement van Onderwijs, Kunsten en Wetenschappen (1815-1818)",negentiende_eeuw_28
-341,341,Departement van Waterstaat en Publieke Werken (1815-1819),negentiende_eeuw_29
-342,342,Departement van Hervormde Eredienst (1815-1861),negentiende_eeuw_30
-343,343,Algemene Directie der Posterijen (1813-1819),negentiende_eeuw_31
-344,344,Hoog Gerechtshof  (1813-1838),negentiende_eeuw_32
-345,345,Generale Directie der Directe Belastingen en Posterijen (1819-1821),negentiende_eeuw_33
-346,346,Departement van Politie (1813-1818),negentiende_eeuw_34
-347,347,Departement van Politie in de Zuidelijke Nederlanden,negentiende_eeuw_35
-348,348,Hoofdadministratie der Domeinen,negentiende_eeuw_36
-349,349,Generale Directie der Indirecte Belastingen en Convooien en Licenten (1815),negentiende_eeuw_37
-350,350,Generale Directie der Convooien en Licenten (1815-1818),negentiende_eeuw_38
-351,351,Generale Directie der Indirecte Belastingen (1815-1818),negentiende_eeuw_39
-352,352,Generale Directie der In- en Uitgaande Rechten en Indirecte Belastingen (1818-1821),negentiende_eeuw_40
-353,353,Departement van Ontvangsten (1824-1831),negentiende_eeuw_41
-354,354,Hoge Raad (1838-1861),negentiende_eeuw_42
-355,355,Criminele Rechtbank (1838-1841),negentiende_eeuw_50
-356,356,Hoog Militair Gerechtshof (1814-1861),negentiende_eeuw_56
-357,357,Hoog Gerechtshof voor Financiën en Zeezaken (1814-1819),negentiende_eeuw_57
-358,358,Provinciaal Gerechtshof van Utrecht (1838-1861),negentiende_eeuw_58
-359,359,Provinciaal Gerechtshof van Groningen (1838-1861),negentiende_eeuw_59
-360,360,Provinciaal Gerechtshof van Drenthe (1838-1861),negentiende_eeuw_60
-361,361,Provinciaal Gerechtshof van Friesland (1838-1861),negentiende_eeuw_61
-362,362,Provinciaal Gerechtshof van Limburg (1842-1861),negentiende_eeuw_62
-363,363,Provinciaal Gerechtshof van Noord-Brabant (1838-1861),negentiende_eeuw_63
-364,364,Provinciaal Gerechtshof van Zeeland (1838-1861),negentiende_eeuw_64
-365,365,Provinciaal Gerechtshof van Overijssel (1838-1861),negentiende_eeuw_65
-366,366,Provinciaal Gerechtshof van Gelderland (1838-1861),negentiende_eeuw_66
-367,367,Provinciaal Gerechtshof van Zuid-Holland (1842-1861),negentiende_eeuw_67
-368,368,Provinciaal Gerechtshof van Noord-Holland (1842-1861),negentiende_eeuw_68
-369,369,Provinciaal Gerechtshof van Holland (1838-1841),negentiende_eeuw_69
-370,370,Provinciale Staten van Drenthe (1814-1861),negentiende_eeuw_70
-371,371,Provinciale Staten van Groningen (1814-1861),negentiende_eeuw_71
-372,372,Provinciale Staten van Utrecht (1814-1861),negentiende_eeuw_72
-373,373,Provinciale Staten van Overijssel (1814-1861),negentiende_eeuw_73
-374,374,Provinciale Staten van Noord-Brabant (1814-1861),negentiende_eeuw_74
-375,375,Provinciale Staten van Zeeland (1814-1861),negentiende_eeuw_75
-376,376,Provinciale Staten van Holland (1814-1840),negentiende_eeuw_76
-377,377,Provinciale Staten van Noord-Holland (1840-1861),negentiende_eeuw_77
-378,378,Provinciale Staten van Zuid-Holland (1840-1861),negentiende_eeuw_78
-379,379,Provinciale Staten van Friesland (1814-1861),negentiende_eeuw_79
-380,380,Gedeputeerde Staten van Drenthe (1814-1861),negentiende_eeuw_80
-381,381,Gedeputeerde Staten van Groningen (1814-1861),negentiende_eeuw_81
-382,382,Gedeputeerde Staten van Friesland (1814-1861),negentiende_eeuw_82
-383,383,Gedeputeerde Staten van Overijssel (1814-1861),negentiende_eeuw_83
-384,384,Gedeputeerde Staten van Utrecht (1814-1861),negentiende_eeuw_84
-385,385,Gedeputeerde Staten van Noord-Brabant (1814-1861),negentiende_eeuw_85
-386,386,Gedeputeerde Staten van Zeeland (1814-1861),negentiende_eeuw_86
-387,387,Gedeputeerde Staten van Noord-Holland (1814-1861),negentiende_eeuw_87
-388,388,Gedeputeerde Staten van Zuid-Holland (1814-1861),negentiende_eeuw_88
-389,389,Provinciale Staten van Limburg (1816-1861),negentiende_eeuw_89
-390,390,Gedeputeerde Staten van Limburg (1816-1861),negentiende_eeuw_90
-391,391,Provinciale Staten van Gelderland (1814-1861),negentiende_eeuw_91
-392,392,Gedeputeerde Staten van Gelderland (1814-1861),negentiende_eeuw_92
-393,393,Algemeen Bestuur (1813),negentiende_eeuw_94
-394,394,Generale Directie der Ontvangsten (1821-1824),negentiende_eeuw_95
-395,395,Generale Directie der Centrale Kas (1813-1814),negentiende_eeuw_96
-396,396,Generale Directie der Centrale Kas en Nationale Schuld (1814),negentiende_eeuw_97
-397,397,Generale Directie der Nationale Schuld (1813-1814),negentiende_eeuw_98
-398,398,,me_83
-399,399,Raad van State (1531-1578),me_84
-400,400,Schive Utrecht (1474-1477),me_85
-401,401,Hof van Gelre en Zutphen (1544-1588),me_29
-402,402,Rekenkamer Gelre (1559-1588),me_40
-403,403,Geheime Raad (1531-1578),me_24
-404,404,Grote Raad (te Mechelen) (1473-1582),me_28
-405,405,Raadkamer Gelre (1473-1477),me_44
-406,406,Raad van Financiën (1531-1578),me_25
-407,407,Hof van Utrecht (1530-1588),me_31
-408,408,Rekenkamer Holland en Zeeland (1447-1572),me_1
-409,409,Gedeputeerde Staten van Friesland (1577-1795),divperioden_5
-410,410,Admiraliteit in Friesland (1596-1795),divperioden_6
-411,411,Admiraliteit te Amsterdam (1586-1795),divperioden_7
-412,412,College van Superintendentie der Admiralteit (1589-1593),divperioden_8
-413,413,Raad van State (1588-1795),divperioden_9
-414,414,Provinciale Rekenkamer van Friesland (1582-1795),divperioden_31
-415,415,Ridderschap van Overijssel,divperioden_32
-416,416,Vroedschap van Harlingen,divperioden_36
-417,417,Vroedschap van Leeuwarden,divperioden_43
-418,418,Vroedschap van Sneek,divperioden_44
-419,419,Admiraliteit op de Maze (1586-1795),divperioden_45
-420,420,Vroedschap van Workum,divperioden_46
-421,421,Ridderschap van Holland,divperioden_47
-422,422,Admiraliteit in het Noorderkwartier (1589-1795),divperioden_48
-423,423,Vroedschap van Stavoren,divperioden_50
-424,424,Vroedschap van Franeker,divperioden_55
-425,425,Vroedschap van IJlst,divperioden_56
-426,426,Vroedschap van Dokkum,divperioden_57
-427,427,Vroedschap van Sloten,divperioden_58
-428,428,Vroedschap van Bolsward,divperioden_59
-429,429,Staten van Friesland (1580-1795),divperioden_60
-430,430,VOC ter kamer Amsterdam,divperioden_62
-431,431,Raad van Leeuwarden,divperioden_64
-432,432,Vroedschap van Hindeloopen,divperioden_65
-433,433,Vroedschap van Zierikzee,divperioden_66
-434,434,Gecommitteerde Raden van Holland in het Zuiderkwartier (1590-1795),republiek_7
-435,435,Gecommitteerde Raden van Holland in het Noorderkwartier (1573-1795),republiek_8
-436,436,Rekenkamer ter Auditie van Holland in het Zuiderkwartier (1590-1752),republiek_9
-437,437,Rekenkamer ter Auditie van Holland in het Noorderkwartier (1590-1752),republiek_10
-438,438,Provinciale Rekenkamer van Holland (1752-1795),republiek_11
-439,439,Hoge Raad van Holland en Zeeland (1582-1795),republiek_12
-440,440,Hof van Holland en Zeeland (1572-1795),republiek_13
-441,441,Gecommitteerde Raden van Zeeland (1578-1795),republiek_14
-442,442,Provinciale Rekenkamer van Zeeland (1596-1795),republiek_15
-443,443,Hof van Friesland (15??-1795),republiek_21
-444,444,Gedeputeerde Staten van Overijssel (1591-1795),republiek_22
-445,445,Staten van Holland (1572-1795),republiek_26
-446,446,Staten-Generaal der Verenigde Nederlanden (1588-1795),republiek_27
-447,447,Admiraliteit in Zeeland (1584-1795),republiek_32
-448,448,VOC ter Kamer Amsterdam,republiek_35
-449,449,VOC ter Kamer Zeeland,republiek_36
-450,450,VOC ter Kamer Delft,republiek_37
-451,451,VOC ter Kamer Rotterdam,republiek_38
-452,452,VOC ter Kamer Hoorn,republiek_39
-453,453,VOC ter Kamer Enkhuizen,republiek_40
-454,454,WIC ter Kamer Amsterdam,republiek_41
-455,455,WIC ter Kamer Zeeland,republiek_42
-456,456,WIC ter Kamer op de Maze,republiek_43
-457,457,WIC ter Kamer van het Noorderkwartier,republiek_44
-458,458,WIC ter Kamer Stad en Lande,republiek_45
-459,459,Raad van Brabant (1591-1795),republiek_46
-460,460,Raad van Vlaanderen (1599-1795),republiek_47
-461,461,Staten van Zeeland (1578-1795),republiek_49
-462,462,Staten van Friesland,republiek_51
-463,463,Staten van Overijssel,republiek_52
-464,464,Ridderschap van het Kwartier Nijmegen,republiek_54
-465,465,Ridderschap van het Graafschap Zutphen,republiek_55
-466,466,Ridderschap van het Kwartier Veluwe,republiek_56
-467,467,Raad van Nijmegen,republiek_57
-468,468,Raad van Tiel,republiek_58
-469,469,Raad van Zaltbommel,republiek_59
-470,470,Raad van Zutphen,republiek_60
-471,471,Raad van Doesburg,republiek_61
-472,472,Raad van Doetinchem,republiek_62
-473,473,Raad van Lochem,republiek_63
-474,474,Raad van Groenlo,republiek_64
-475,475,Raad van Arnhem,republiek_65
-476,476,Raad van Harderwijk,republiek_66
-477,477,Raad van Wageningen,republiek_67
-478,478,Raad van Hattem,republiek_68
-479,479,Raad van Elburg,republiek_69
-480,480,Vroedschap van Haarlem,republiek_72
-481,481,Vroedschap van Delft,republiek_73
-482,482,Vroedschap van Leiden,republiek_74
-483,483,Vroedschap van Amsterdam,republiek_75
-484,484,Vroedschap van Gouda,republiek_76
-485,485,Vroedschap van Rotterdam,republiek_77
-486,486,Vroedschap van Gorinchem,republiek_78
-487,487,Vroedschap van Schiedam,republiek_79
-488,488,Vroedschap van Schoonhoven,republiek_80
-489,489,Vroedschap van Den Briel,republiek_81
-490,490,Vroedschap van Alkmaar,republiek_82
-491,491,Vroedschap van Hoorn,republiek_83
-492,492,Vroedschap van Enkhuizen,republiek_84
-493,493,Vroedschap van Edam,republiek_85
-494,494,Vroedschap van Monnickendam,republiek_86
-495,495,Vroedschap van Medemblik,republiek_87
-496,496,Vroedschap van Purmerend,republiek_88
-497,497,Representant van de Eerste Edele in Zeeland,republiek_89
-498,498,Vroedschap van Goes,republiek_92
-499,499,Vroedschap van Veere,republiek_94
-500,500,Vroedschap van Vlissingen,republiek_95
-501,501,College van Geëligeerden van Utrecht,republiek_96
-502,502,Ridderschap van Utrecht,republiek_97
-503,503,Vroedschap van Utrecht,republiek_98
-504,504,Vroedschap van Amersfoort,republiek_99
-505,505,Vroedschap van Rhenen,republiek_100
-506,506,"Vroedschap van Montfoort
-Vroedschap van Wijk bij Duurstede",republiek_101
-507,507,Raad van Deventer,republiek_116
-508,508,Raad van Kampen,republiek_117
-509,509,Raad van Zwolle,republiek_118
-510,510,Raad van Groningen,republiek_119
-511,511,Provinciale Rekenkamer van Groningen (1596-1795),republiek_138
-512,512,Gedeputeerde Staten van Groningen (1595-1795),republiek_139
-513,513,Hof van Gelre en Zutphen (1588-1795),republiek_142
-514,514,Hof van Utrecht (1588-1795),republiek_143
-515,515,Gedeputeerde Staten van Utrecht (1577-1795),republiek_145
-516,516,Staten van Utrecht,republiek_146
-517,517,Vroedschap van Wijk bij Duurstede,republiek_160
-518,518,Provinciale Rekenkamer van Gelderland (1581-1795),republiek_161
-519,519,Gedeputeerde Staten van het Graafschap Zutphen (1598-1795),republiek_164
-520,520,Vroedschap van Middelburg,republiek_90
-521,521,Gedeputeerde Staten van het Kwartier Veluwe (1580-1795),republiek_162
-522,522,Vroedschap van Dordrecht,republiek_71
-523,523,Vroedschap van Tholen,republiek_93
-524,524,Grafelijkheidsrekenkamer van Holland (1588-1728),republiek_137
-525,525,Kamer ter Finantie van Utrecht (1663-1795),republiek_144
-526,526,Gedeputeerde Staten van het Kwartier Nijmegen (1593-1795),republiek_163
-527,527,Ommelander Vergadering [onderverdelen in 3 kwartieren],republiek_120
-528,528,"Hoofdmannenkamer, vanaf 1749 Hoge Justitiekamer van Groningen (1594-1795)",republiek_140
+0,0,Administrateurs de la Loterie Impériale de France,['batfra_269']
+1,1,Administrateurs der Posterijen,['batfra_250']
+2,2,Administration Générale des Poudres et Salpêtres,['batfra_173']
+3,3,Administration des Monnaies,['batfra_203']
+4,4,Admiraliteit in Friesland (1596-1795),"['divperioden_6', 'republiek_34']"
+5,5,Admiraliteit in Zeeland (1584-1795),['republiek_32']
+6,6,Admiraliteit in het Noorderkwartier (1589-1795),"['divperioden_48', 'republiek_33']"
+7,7,Admiraliteit op de Maze (1586-1795),"['divperioden_45', 'republiek_30']"
+8,8,Admiraliteit te Amsterdam (1586-1795),"['divperioden_7', 'republiek_31']"
+9,9,Agentschap van Buitenlandse Betrekkingen,['batfra_133']
+10,10,Agentschap van Financiën,['batfra_127']
+11,11,Agentschap van Inwendige Politie en Waterstaat,['batfra_116']
+12,12,Agentschap van Justitie,['batfra_112']
+13,13,Agentschap van Marine,['batfra_148']
+14,14,Agentschap van Nationale Oeconomie,['batfra_124']
+15,15,Agentschap van Nationale Opvoeding,['batfra_123']
+16,16,Agentschap van Oorlog,['batfra_137']
+17,17,Algemeen Bestuur (1813),['negentiende_eeuw_94']
+18,18,Algemeen Bestuur van Weldadigheid,['batfra_253']
+19,19,Algemene Administratie van de Waterstaat,['batfra_248']
+20,20,Algemene Directie der Posterijen (1813-1819),['negentiende_eeuw_31']
+21,21,Algemene Rekenkamer (1813-1861),['negentiende_eeuw_19']
+22,22,Algemene Secretarie van Staat,['batfra_229']
+23,23,Algemene Secretarie van het Uitvoerend Bewind,['batfra_413']
+24,24,Amortisatiekas (Mortificatiekas),['batfra_260']
+25,25,Archives de l' Empire,['batfra_167']
+26,26,Banque de France,['batfra_205']
+27,27,Betaalmeester van de Armée (van Oorlog),['batfra_244']
+28,28,Bureau Statistique de l' Empire,['batfra_49']
+29,29,College van Administratie van de Domeinen van Nassau,['batfra_444']
+30,30,College van Geëligeerden van Utrecht,['republiek_96']
+31,31,College van Superintendentie der Admiralteit (1589-1593),"['divperioden_8', 'republiek_130']"
+32,32,Comité tot de Algemene Zaken van het Bondgenootschap te Lande,['batfra_136']
+33,33,Comité tot de Oost-Indische Handel en Bezittingen,['batfra_151']
+34,34,Comité tot de Zaken van de Koloniën en Bezittingen op de kust van Guinea en in Amerika,['batfra_153']
+35,35,Comité tot de Zaken van de Marine,['batfra_147']
+36,36,"Comité van Algemeen Welzijn, Waakzaamheid en Veiligheid van Zeeland",['batfra_381']
+37,37,Comité-Centraal van de Waterstaat,['batfra_120']
+38,38,Commissariaat der Franse troepen in soldij der Bataafse Republiek,['batfra_142']
+39,39,Commissaris tot de Gecedeerde Landen aan de Bataafse Republiek,['batfra_226']
+40,40,Commissaris-Liquidateur van de Pretentiën van Gepreste Schippers,['batfra_143']
+41,41,Commissarissen der Bataafse Posterijen,['batfra_223']
+42,42,Commissarissen der Nationale Beleenbank,['batfra_263']
+43,43,Commissarissen van de Generale Beleenbank,['batfra_455']
+44,44,Commissarissen van de Nationale Rekening,['batfra_198']
+45,45,Commissarissen van het Uitvoerend Bewind bij de Departementale Besturen,['batfra_449']
+46,46,Commissarissen van het Uitvoerend Bewind bij de Departementale Gerechtshoven,['batfra_457']
+47,47,Commissie van 's Lands Advocaten,['batfra_222']
+48,48,Commissie van Superintendentie der Rivieren,['batfra_117']
+49,49,Commissie van Superintendentie over de Waterstaat der Bataafse Republiek,['batfra_119']
+50,50,Commissie van Superintendentie van Zeehavens en Zeegaten,['batfra_118']
+51,51,Commissie vervangende het Hof van Rekeningen,['batfra_71']
+52,52,Commissie voor de Zaken van Holland (Conseil pour les Affaires de Hollande),['batfra_187']
+53,53,Conseil Général de Commerce,['batfra_59']
+54,54,Conseil Général des Ponts et Chaussées,['batfra_88']
+55,55,Conseil Impérial des Prises,['batfra_174']
+56,56,Conseil d' Administration des Postes-Relais,['batfra_182']
+57,57,Conseil d' Etat,['batfra_29']
+58,58,Conseil de Liquidation à Amsterdam,['batfra_180']
+59,59,Conseil des Poids et Mesures,['batfra_164']
+60,60,Constituerende Vergadering representerende het Bataafse Volk,['batfra_99']
+61,61,Constitutiecommissie van 1796,['batfra_400']
+62,62,Constitutiecommissie van 1797,['batfra_404']
+63,63,Constitutiecommissie van 1798,['batfra_405']
+64,64,Corps Législatif,['batfra_41']
+65,65,Cour Impériale en Hollande,['batfra_83']
+66,66,Cour de Cassation,['batfra_55']
+67,67,Cour des Comptes,['batfra_48']
+68,68,Criminele Rechtbank (1838-1841),['negentiende_eeuw_50']
+69,69,Departement van Binnenlandse Zaken (1813-1861),['negentiende_eeuw_9']
+70,70,"Departement van Binnenlandse Zaken, Onderwijs en Waterstaat (1824-1825)",['negentiende_eeuw_21']
+71,71,"Departement van Binnenlandse Zaken, Waterstaat en Publieke Werken (1820-1824)",['negentiende_eeuw_20']
+72,72,Departement van Buitenlandse Zaken (1813-1861),['negentiende_eeuw_13']
+73,73,Departement van Buitenlandse Zaken (Provisioneel Uitvoerend Bewind),['batfra_406']
+74,74,Departement van Financiën (1813-1861),['negentiende_eeuw_6']
+75,75,Departement van Hervormde Eredienst (1815-1861),['negentiende_eeuw_30']
+76,76,Departement van Justitie (1815-1861),['negentiende_eeuw_7']
+77,77,Departement van Koloniën (1814-1861),['negentiende_eeuw_16']
+78,78,Departement van Koophandel en Koloniën (1814-1818),['negentiende_eeuw_24']
+79,79,Departement van Marine (1813-1861),['negentiende_eeuw_22']
+80,80,Departement van Marine en Koloniën (1825-1841),['negentiende_eeuw_23']
+81,81,Departement van Nationale Nijverheid en Koloniën (1824-1833),['negentiende_eeuw_26']
+82,82,"Departement van Onderwijs, Kunsten en Wetenschappen (1815-1818)",['negentiende_eeuw_28']
+83,83,Departement van Ontvangsten (1824-1831),['negentiende_eeuw_41']
+84,84,Departement van Oorlog (1813-1861),['negentiende_eeuw_15']
+85,85,Departement van Politie (1813-1818),['negentiende_eeuw_34']
+86,86,Departement van Politie in de Zuidelijke Nederlanden,['negentiende_eeuw_35']
+87,87,"Departement van Publiek Onderwijs, Nationale Nijverheid en Koloniën (1818-1824)",['negentiende_eeuw_25']
+88,88,Departement van Rooms-Katholieke Eredienst (1815-1861),['negentiende_eeuw_14']
+89,89,Departement van Waterstaat (1814-1815),['negentiende_eeuw_8']
+90,90,Departement van Waterstaat en Publieke Werken (1815-1819),['negentiende_eeuw_29']
+91,91,"Departement van Waterstaat, Nationale Nijverheid en Koloniën (1830-1831)",['negentiende_eeuw_27']
+92,92,Departementaal Bestuur van Brabant (1802-1805),['batfra_300']
+93,93,Departementaal Bestuur van Brabant (1805-1807),['batfra_361']
+94,94,Departementaal Bestuur van Friesland (1802-1805),['batfra_362']
+95,95,Departementaal Bestuur van Friesland (1805-1807),['batfra_287']
+96,96,Departementaal Bestuur van Gelderland (1802-1805),['batfra_298']
+97,97,Departementaal Bestuur van Gelderland (1805-1807),['batfra_360']
+98,98,Departementaal Bestuur van Groningen (1802-1805),['batfra_332']
+99,99,Departementaal Bestuur van Groningen (1805-1807),['batfra_363']
+100,100,Departementaal Bestuur van Holland (1802-1805),['batfra_291']
+101,101,Departementaal Bestuur van Holland (1805-1807),['batfra_364']
+102,102,Departementaal Bestuur van Overijssel (1802-1805),['batfra_289']
+103,103,Departementaal Bestuur van Overijssel (1805-1807),['batfra_365']
+104,104,Departementaal Bestuur van Texel,['batfra_330']
+105,105,Departementaal Bestuur van Utrecht (1802-1805),['batfra_296']
+106,106,Departementaal Bestuur van Utrecht (1805-1807),['batfra_366']
+107,107,Departementaal Bestuur van Zeeland (1802-1805),['batfra_299']
+108,108,Departementaal Bestuur van Zeeland (1805-1807),['batfra_367']
+109,109,Departementaal Bestuur van de Amstel,['batfra_303']
+110,110,Departementaal Bestuur van de Delf,['batfra_290']
+111,111,Departementaal Bestuur van de Dommel,['batfra_309']
+112,112,Departementaal Bestuur van de Eems,['batfra_304']
+113,113,Departementaal Bestuur van de Landschap Drenthe (1805-1807),['batfra_327']
+114,114,Departementaal Bestuur van de Oude IJssel,['batfra_317']
+115,115,Departementaal Bestuur van de Rijn,['batfra_295']
+116,116,Departementaal Bestuur van de Schelde en Maas,['batfra_316']
+117,117,Departementaal Gerechtshof (Etstoel) van Drenthe (1802-1811),['batfra_318']
+118,118,Departementaal Gerechtshof van Brabant (1802-1811),['batfra_341']
+119,119,Departementaal Gerechtshof van Friesland (1802-1811),['batfra_280']
+120,120,Departementaal Gerechtshof van Gelderland (1802-1811),['batfra_302']
+121,121,Departementaal Gerechtshof van Groningen (1802-1811),['batfra_288']
+122,122,Departementaal Gerechtshof van Holland (1803-1811),['batfra_342']
+123,123,Departementaal Gerechtshof van Overijssel (1802-1811),['batfra_311']
+124,124,Departementaal Gerechtshof van Utrecht (1802-1811),['batfra_344']
+125,125,Departementaal Gerechtshof van Zeeland (1803-1811),['batfra_343']
+126,126,Departementaal Gerechtshof van de Oude IJssel (Deventer) (1799-1801),['batfra_312']
+127,127,Depot-Generaal van Oorlog,['batfra_144']
+128,128,Directeur van de Administratie van Oorlog,['batfra_245']
+129,129,Directie van de Landelijke Telegrafische Beseiningen,['batfra_146']
+130,130,Directie van de Levantse Handel,['batfra_212']
+131,131,Direction Principale des Douanes en Hollande à Amsterdam,['batfra_192']
+132,132,Direction Principale des Postes en Hollande à Amsterdam,['batfra_194']
+133,133,Direction de la Caisse Centrale à Amsterdam,['batfra_73']
+134,134,Direction du Grand Livre de la Dette Public en Hollande,['batfra_190']
+135,135,Direction-Générale de l' Enregistrement et des Domaines,['batfra_51']
+136,136,Direction-Générale de l' Imprimerie et de la Librairie,['batfra_89']
+137,137,Direction-Générale de la Caisse d' Amortissement,['batfra_177']
+138,138,Direction-Générale de la Comptabilité des Communes et des Hospices,['batfra_175']
+139,139,Direction-Générale de la Police en Hollande,['batfra_53']
+140,140,Direction-Générale des Douanes,['batfra_176']
+141,141,Direction-Générale des Droits Réunis,['batfra_178']
+142,142,Direction-Générale des Forêts,['batfra_45']
+143,143,Direction-Générale des Mines,['batfra_46']
+144,144,"Direction-Générale des Ponts et Chaussées, Navigation intérieure, Ports de Commerce, Phares et Fanaux, et Lignes Télégraphiques.",['batfra_44']
+145,145,Direction-Générale des Postes,['batfra_61']
+146,146,Direction-Générale des Revues et de la Conscription Militaire,['batfra_172']
+147,147,Direction-Générale des Vivres,['batfra_179']
+148,148,Directoraat-Generaal van Justitie en Politie,['batfra_236']
+149,149,Directoraat-Generaal van Openbaar Onderwijs en Wetenschappen,['batfra_15']
+150,150,Directoraat-Generaal van Schone Kunsten,['batfra_16']
+151,151,Directoraat-Generaal van Wetenschappen en Kunsten,['batfra_17']
+152,152,Directoraat-Generaal van de Posterijen,['batfra_239']
+153,153,Directoraat-Generaal van de Publieke Schatkist,['batfra_18']
+154,154,Directoraat-Generaal van de Publieke Schuld (en Pensioenen),['batfra_20']
+155,155,Directoraat-Generaal van de Waterstaat,['batfra_25']
+156,156,Directoraat-Generaal voor de Zaken van Oorlog,['batfra_140']
+157,157,"Directoraat-Generaal voor de Zaken van de Indiën, de Koophandel en Koloniën",['batfra_237']
+158,158,Drossaard en Raden in de Etstoel (Hof van Justitie) van Drenthe,['batfra_310']
+159,159,Dépot Général de la Guerre,['batfra_171']
+160,160,Eerste Kamer der Staten-Generaal (1815-1861),['negentiende_eeuw_1']
+161,161,"Eerste Nationale Vergadering, representerende het volk van Nederland",['batfra_98']
+162,162,Essayeur-Generaal van de Munt,['batfra_74']
+163,163,Financiële Commissie van Holland (1799-1802),['batfra_392']
+164,164,Gecommitteerde Raden van Holland in het Noorderkwartier (1573-1795),['republiek_8']
+165,165,Gecommitteerde Raden van Holland in het Zuiderkwartier (1590-1795),['republiek_7']
+166,166,Gecommitteerde Raden van Zeeland (1578-1795),['republiek_14']
+167,167,Gedeputeerd Bestuur van Holland (1802-1805),['batfra_393']
+168,168,Gedeputeerde Staten van Drenthe (1814-1861),['negentiende_eeuw_80']
+169,169,Gedeputeerde Staten van Friesland (1577-1795),"['divperioden_5', 'republiek_19']"
+170,170,Gedeputeerde Staten van Friesland (1814-1861),['negentiende_eeuw_82']
+171,171,Gedeputeerde Staten van Gelderland (1814-1861),['negentiende_eeuw_92']
+172,172,Gedeputeerde Staten van Groningen (1595-1795),['republiek_139']
+173,173,Gedeputeerde Staten van Groningen (1814-1861),['negentiende_eeuw_81']
+174,174,Gedeputeerde Staten van Limburg (1816-1861),['negentiende_eeuw_90']
+175,175,Gedeputeerde Staten van Noord-Brabant (1814-1861),['negentiende_eeuw_85']
+176,176,Gedeputeerde Staten van Noord-Holland (1814-1861),['negentiende_eeuw_87']
+177,177,Gedeputeerde Staten van Overijssel (1591-1795),['republiek_22']
+178,178,Gedeputeerde Staten van Overijssel (1814-1861),['negentiende_eeuw_83']
+179,179,Gedeputeerde Staten van Utrecht (1577-1795),['republiek_145']
+180,180,Gedeputeerde Staten van Utrecht (1814-1861),['negentiende_eeuw_84']
+181,181,Gedeputeerde Staten van Zeeland (1814-1861),['negentiende_eeuw_86']
+182,182,Gedeputeerde Staten van Zuid-Holland (1814-1861),['negentiende_eeuw_88']
+183,183,Gedeputeerde Staten van het Graafschap Zutphen (1598-1795),['republiek_164']
+184,184,Gedeputeerde Staten van het Kwartier Nijmegen (1593-1795),['republiek_163']
+185,185,Gedeputeerde Staten van het Kwartier Veluwe (1580-1795),['republiek_162']
+186,186,Geheime Raad (1531-1578),['me_24']
+187,187,Gendarmerie Impériale,['batfra_54']
+188,188,Generale Directie der Centrale Kas (1813-1814),['negentiende_eeuw_96']
+189,189,Generale Directie der Centrale Kas en Nationale Schuld (1814),['negentiende_eeuw_97']
+190,190,Generale Directie der Convooien en Licenten (1815-1818),['negentiende_eeuw_38']
+191,191,Generale Directie der Directe Belastingen en Posterijen (1819-1821),['negentiende_eeuw_33']
+192,192,Generale Directie der In- en Uitgaande Rechten en Indirecte Belastingen (1818-1821),['negentiende_eeuw_40']
+193,193,Generale Directie der Indirecte Belastingen (1815-1818),['negentiende_eeuw_39']
+194,194,Generale Directie der Indirecte Belastingen en Convooien en Licenten (1815),['negentiende_eeuw_37']
+195,195,Generale Directie der Nationale Schuld (1813-1814),['negentiende_eeuw_98']
+196,196,Generale Directie der Ontvangsten (1821-1824),['negentiende_eeuw_95']
+197,197,Generaliteitsloterij,['batfra_441']
+198,198,Generaliteitsmuntkamer,['batfra_197']
+199,199,Generaliteitsrekenkamer (1608-1799),"['batfra_196', 'divperioden_15', 'republiek_29']"
+200,200,Gouvernement-Generaal van Oost-Friesland,['batfra_436']
+201,201,"Gouvernement-Général des Départements de la Hollande (Algemene Stedehouder, Prins Stedehouder)",['batfra_65']
+202,202,Gouverneur-Generaal van Indië,['batfra_268']
+203,203,Grafelijkheidsrekenkamer van Holland (1588-1728),['republiek_137']
+204,204,Grote Raad (te Mechelen) (1473-1582),['me_28']
+205,205,Hof van Friesland (1499-1811),"['batfra_279', 'divperioden_1']"
+206,206,Hof van Friesland (15??-1795),['republiek_21']
+207,207,Hof van Gelre en Zutphen (1544-1588),['me_29']
+208,208,Hof van Gelre en Zutphen (1588-1795),['republiek_142']
+209,209,Hof van Holland en Zeeland (1572-1795),['republiek_13']
+210,210,"Hof van Holland, Zeeland en West-Friesland (1428-1802)","['batfra_292', 'me_2', 'divperioden_2']"
+211,211,Hof van Justitie (Hof Provinciaal) van Groningen (1795-1802),['batfra_307']
+212,212,Hof van Justitie van Brabant (1795-1802),['batfra_313']
+213,213,Hof van Justitie van Gelderland (1795-1802),['batfra_301']
+214,214,Hof van Rekeningen van het Koninkrijk Holland,['batfra_200']
+215,215,Hof van Utrecht (1530-1588),['me_31']
+216,216,Hof van Utrecht (1588-1795),['republiek_143']
+217,217,Hof van Utrecht (1795-1799),['batfra_333']
+218,218,Hoge Militaire Vierschaar (1),['batfra_420']
+219,219,Hoge Militaire Vierschaar (2),['batfra_24']
+220,220,Hoge Militaire Vierschaar in Holland,['batfra_255']
+221,221,Hoge Raad (1838-1861),['negentiende_eeuw_42']
+222,222,Hoge Raad van Holland en Zeeland (1582-1795),['republiek_12']
+223,223,Hoge Zeekrijgsraad (tot oktober 1799),['batfra_216']
+224,224,Hoge Zeekrijgsraad (vanaf oktober 1799),['batfra_418']
+225,225,Hoofdadministratie der Domeinen,['negentiende_eeuw_36']
+226,226,"Hoofdmannenkamer, vanaf 1749 Hoge Justitiekamer van Groningen (1594-1795)",['republiek_140']
+227,227,Hoog Gerechtshof  (1813-1838),['negentiende_eeuw_32']
+228,228,Hoog Gerechtshof voor Financiën en Zeezaken (1814-1819),['negentiende_eeuw_57']
+229,229,Hoog Heraldiek College,['batfra_254']
+230,230,Hoog Keizerlijk Gerechtshof in Holland,['batfra_188']
+231,231,Hoog Militair Gerechtshof (1814-1861),['negentiende_eeuw_56']
+232,232,Hoog Nationaal Gerechtshof,['batfra_115']
+233,233,Imprimerie Impériale,['batfra_97']
+234,234,Intendance Générale des Finances (et du Trésor Public) en Hollande,['batfra_70']
+235,235,Intendance de l' Intérieur en Hollande,['batfra_72']
+236,236,Intendance des Domaines de la Couronne en Hollande,['batfra_453']
+237,237,Intermediair Administratief Bestuur van Bataafs Brabant,['batfra_395']
+238,238,Intermediair Administratief Bestuur van Friesland,['batfra_410']
+239,239,Intermediair Administratief Bestuur van Gelderland,['batfra_383']
+240,240,Intermediair Administratief Bestuur van Groningen,['batfra_414']
+241,241,Intermediair Administratief Bestuur van Holland,['batfra_390']
+242,242,Intermediair Administratief Bestuur van Overijssel,['batfra_412']
+243,243,Intermediair Administratief Bestuur van Utrecht,['batfra_411']
+244,244,Intermediair Administratief Bestuur van Zeeland,['batfra_409']
+245,245,Intermediair Administratief Bestuur van het voormalige gewest Drenthe,['batfra_443']
+246,246,Intermediair Bestuur over de Zaken der Koloniën en Bezittingen in Amerika en op de Kust van Guinea,['batfra_456']
+247,247,Intermediair Uitvoerend Bewind,['batfra_234']
+248,248,Intermediair Wetgevend Lichaam van het Bataafse Volk,['batfra_103']
+249,249,Kabinet des Konings (1813-1861),['negentiende_eeuw_12']
+250,250,Kabinet van de Koning van Holland,['batfra_21']
+251,251,Kamer ter Finantie van Utrecht (1663-1795),['republiek_144']
+252,252,Kanselarij van het Wetgevend Lichaam,['batfra_427']
+253,253,"Keizer van Frankrijk, Napoleon",['batfra_69']
+254,254,"Koning van Holland, Lodewijk Napoleon",['batfra_67']
+255,255,"Koningin van Holland, Hortensia Eugenia",['batfra_68']
+256,256,Koninklijke Courant,['batfra_437']
+257,257,Koninklijke Orde van Verdiensten,['batfra_247']
+258,258,Koninklijke Orde van de Unie,['batfra_246']
+259,259,Koninklijke Secretarie,['batfra_2']
+260,260,Koninklijke Staatsdrukkerij,['batfra_22']
+261,261,Landdrost en Assessoren van Amstelland (1807-1810),['batfra_315']
+262,262,Landdrost en Assessoren van Brabant (1807-1810),['batfra_278']
+263,263,Landdrost en Assessoren van Drenthe (1807-1810),['batfra_320']
+264,264,Landdrost en Assessoren van Friesland (1807-1810),['batfra_270']
+265,265,Landdrost en Assessoren van Gelderland (1807-1810),['batfra_308']
+266,266,Landdrost en Assessoren van Groningen (1807-1810),['batfra_306']
+267,267,Landdrost en Assessoren van Maasland (1807-1810),['batfra_305']
+268,268,Landdrost en Assessoren van Oost-Friesland (1808-1810),['batfra_275']
+269,269,Landdrost en Assessoren van Overijssel (1807-1810),['batfra_272']
+270,270,Landdrost en Assessoren van Utrecht (1807-1810),['batfra_328']
+271,271,Landdrost en Assessoren van Zeeland (1807-1809),['batfra_329']
+272,272,Landdrost en Kwartierdrosten van Zeeland (1809-1810),['batfra_438']
+273,273,Landsadvocaten ter advies van het Staatsbewind,['batfra_429']
+274,274,Landsdrukkerij,['batfra_219']
+275,275,Lieutenant-Général de l' Empereur en Hollande,['batfra_64']
+276,276,Légion d' Honneur,['batfra_62']
+277,277,"Maître des Requêtes chargé de l' Administration des Polders, Digues et Routes",['batfra_193']
+278,278,Maître des Requêtes chargé du Service des Ponts et Chaussées dans les Départements de la Hollande,['batfra_454']
+279,279,Ministerie van Binnenlandse Zaken (1),['batfra_3']
+280,280,Ministerie van Binnenlandse Zaken (2),['batfra_150']
+281,281,Ministerie van Buitenlandse Zaken,['batfra_11']
+282,282,Ministerie van Eredienst en Binnenlandse Zaken,['batfra_10']
+283,283,Ministerie van Financiën,['batfra_4']
+284,284,Ministerie van Justitie en Politie,['batfra_5']
+285,285,Ministerie van Koophandel en Koloniën,['batfra_12']
+286,286,Ministerie van Marine,['batfra_14']
+287,287,Ministerie van Marine en Koloniën,['batfra_13']
+288,288,Ministerie van Oorlog,['batfra_6']
+289,289,Ministerie van Openbare Eredienst,['batfra_8']
+290,290,Ministerie van de Waterstaat,['batfra_9']
+291,291,Ministère de l' Administration de la Guerre,['batfra_38']
+292,292,Ministère de l' Intérieur,['batfra_30']
+293,293,Ministère de la Guerre,['batfra_32']
+294,294,Ministère de la Justice,['batfra_34']
+295,295,Ministère de la Marine et des Colonies,['batfra_33']
+296,296,Ministère de la Police Générale,['batfra_36']
+297,297,Ministère des Cultes,['batfra_39']
+298,298,Ministère des Finances,['batfra_35']
+299,299,Ministère des Manufactures et du Commerce,['batfra_40']
+300,300,Ministère des Relations Extérieures,['batfra_31']
+301,301,Ministère du Trésor Impérial,['batfra_37']
+302,302,Mortificatiefonds,['batfra_259']
+303,303,Napoleon Louis Koning van Holland,['batfra_256']
+304,304,Nationaal Gerechtshof,['batfra_113']
+305,305,Nationaal Syndicaat,['batfra_114']
+306,306,Nationale Kanselarij (Secretarie Eerste Kamer Vertegenwoordigend Lichaam),['batfra_415']
+307,307,Nationale Rekenkamer (1),['batfra_199']
+308,308,Nationale Rekenkamer (2),['batfra_458']
+309,309,Nationale Rekenkamer (3),['batfra_459']
+310,310,Ommelander Vergadering [onderverdelen in 3 kwartieren],['republiek_120']
+311,311,Ontvanger-Generaal van de Marine,['batfra_262']
+312,312,Opperjagermeester,['batfra_251']
+313,313,Ordre Impérial de la Réunion,['batfra_195']
+314,314,Provinciaal Bestuur van Friesland (1796-1797),['batfra_446']
+315,315,Provinciaal Bestuur van Holland (maart 1796 - januari 1798),['batfra_451']
+316,316,Provinciaal Bestuur van Utrecht (oktober 1796 - februari 1798),['batfra_460']
+317,317,"Provinciaal College van Politie, Financie en Algemeen Welzijn van Gelderland",['batfra_352']
+318,318,Provinciaal Comité van Holland (april 1796 - februari 1798),['batfra_452']
+319,319,Provinciaal Gerechtshof van Drenthe (1838-1861),['negentiende_eeuw_60']
+320,320,Provinciaal Gerechtshof van Friesland (1838-1861),['negentiende_eeuw_61']
+321,321,Provinciaal Gerechtshof van Gelderland (1838-1861),['negentiende_eeuw_66']
+322,322,Provinciaal Gerechtshof van Groningen (1838-1861),['negentiende_eeuw_59']
+323,323,Provinciaal Gerechtshof van Holland (1838-1841),['negentiende_eeuw_69']
+324,324,Provinciaal Gerechtshof van Limburg (1842-1861),['negentiende_eeuw_62']
+325,325,Provinciaal Gerechtshof van Noord-Brabant (1838-1861),['negentiende_eeuw_63']
+326,326,Provinciaal Gerechtshof van Noord-Holland (1842-1861),['negentiende_eeuw_68']
+327,327,Provinciaal Gerechtshof van Overijssel (1838-1861),['negentiende_eeuw_65']
+328,328,Provinciaal Gerechtshof van Utrecht (1838-1861),['negentiende_eeuw_58']
+329,329,Provinciaal Gerechtshof van Zeeland (1838-1861),['negentiende_eeuw_64']
+330,330,Provinciaal Gerechtshof van Zuid-Holland (1842-1861),['negentiende_eeuw_67']
+331,331,Provinciale Rekenkamer van Friesland (1582-1795),"['divperioden_31', 'republiek_20']"
+332,332,Provinciale Rekenkamer van Gelderland (1581-1795),['republiek_161']
+333,333,Provinciale Rekenkamer van Groningen (1596-1795),['republiek_138']
+334,334,Provinciale Rekenkamer van Holland (1752-1795),['republiek_11']
+335,335,Provinciale Rekenkamer van Zeeland (1596-1795),['republiek_15']
+336,336,Provinciale Staten van Drenthe (1814-1861),['negentiende_eeuw_70']
+337,337,Provinciale Staten van Friesland (1814-1861),['negentiende_eeuw_79']
+338,338,Provinciale Staten van Gelderland (1814-1861),['negentiende_eeuw_91']
+339,339,Provinciale Staten van Groningen (1814-1861),['negentiende_eeuw_71']
+340,340,Provinciale Staten van Holland (1814-1840),['negentiende_eeuw_76']
+341,341,Provinciale Staten van Limburg (1816-1861),['negentiende_eeuw_89']
+342,342,Provinciale Staten van Noord-Brabant (1814-1861),['negentiende_eeuw_74']
+343,343,Provinciale Staten van Noord-Holland (1840-1861),['negentiende_eeuw_77']
+344,344,Provinciale Staten van Overijssel (1814-1861),['negentiende_eeuw_73']
+345,345,Provinciale Staten van Utrecht (1814-1861),['negentiende_eeuw_72']
+346,346,Provinciale Staten van Zeeland (1814-1861),['negentiende_eeuw_75']
+347,347,Provinciale Staten van Zuid-Holland (1840-1861),['negentiende_eeuw_78']
+348,348,Provisionele Raad van Regentschap van het Koninkrijk Holland,['batfra_186']
+349,349,Provisionele Rekenkamer (1813-1814),['negentiende_eeuw_18']
+350,350,Provisionele Representanten van het Volk van Bataafs Brabant,['batfra_322']
+351,351,Provisionele Representanten van het Volk van Drenthe,['batfra_347']
+352,352,Provisionele Representanten van het Volk van Friesland,['batfra_346']
+353,353,Provisionele Representanten van het Volk van Holland,['batfra_324']
+354,354,Provisionele Representanten van het Volk van Overijssel,['batfra_325']
+355,355,Provisionele Representanten van het Volk van Zeeland,['batfra_323']
+356,356,Préfecture Maritime de la Hollande,['batfra_448']
+357,357,Préfet du Département de l' Ems-Occidental (Westereems),['batfra_159']
+358,358,Préfet du Département de l' Ems-Oriental,['batfra_181']
+359,359,Préfet du Département de l' Issel-Supérieur (Boven IJssel),['batfra_161']
+360,360,Préfet du Département de la Frise,['batfra_160']
+361,361,Préfet du Département des Bouches-de-l' Escaut,['batfra_156']
+362,362,Préfet du Département des Bouches-de-l' Yssel (Monden van de IJssel),['batfra_158']
+363,363,Préfet du Département des Bouches-de-la-Meuse (Monden van de Maas),['batfra_157']
+364,364,Préfet du Département des Bouches-du-Rhin,['batfra_155']
+365,365,Préfet du Département du Zuyderzee,['batfra_162']
+366,366,Raad der Ministers van de Koning (Ministerraad),['batfra_450']
+367,367,Raad van Arnhem,['republiek_65']
+368,368,Raad van Binnenlandse Zaken,['batfra_79']
+369,369,Raad van Brabant (1591-1795),['republiek_46']
+370,370,Raad van Deventer,['republiek_116']
+371,371,Raad van Doesburg,['republiek_61']
+372,372,Raad van Doetinchem,['republiek_62']
+373,373,Raad van Elburg,['republiek_69']
+374,374,Raad van Financiën,['batfra_130']
+375,375,Raad van Financiën (1531-1578),['me_25']
+376,376,Raad van Financiën in de Landschap Drenthe,['batfra_398']
+377,377,Raad van Financiën in het Departement Bataafs Brabant,['batfra_397']
+378,378,Raad van Financiën in het Departement Friesland,['batfra_433']
+379,379,Raad van Financiën in het Departement Gelderland,['batfra_359']
+380,380,Raad van Financiën in het Departement Groningen,['batfra_435']
+381,381,Raad van Financiën in het Departement Holland,['batfra_394']
+382,382,Raad van Financiën in het Departement Overijssel,['batfra_434']
+383,383,Raad van Financiën in het Departement Utrecht,['batfra_432']
+384,384,Raad van Financiën in het Departement Zeeland,['batfra_431']
+385,385,Raad van Financiën van Stad en Lande (1802-1805),['batfra_424']
+386,386,Raad van Groenlo,['republiek_64']
+387,387,Raad van Groningen,['republiek_119']
+388,388,Raad van Harderwijk,['republiek_66']
+389,389,Raad van Hattem,['republiek_68']
+390,390,Raad van Judicature over de Middelen te Water en te Lande (Koninkrijk 1),['batfra_241']
+391,391,Raad van Judicature over de Middelen te Water en te Lande (Koninkrijk 2),['batfra_252']
+392,392,Raad van Judicature over de Middelen te Water en te Lande (Raadpensionaris),['batfra_23']
+393,393,Raad van Judicature voor de Middelen te Water en te Lande in Holland,['batfra_183']
+394,394,Raad van Kampen,['republiek_117']
+395,395,Raad van Leeuwarden,['divperioden_64']
+396,396,Raad van Lochem,['republiek_63']
+397,397,Raad van Marine,['batfra_149']
+398,398,Raad van Nijmegen,['republiek_57']
+399,399,Raad van Oorlog,['batfra_138']
+400,400,Raad van State (1531-1578),['me_84']
+401,401,Raad van State (1588-1795),"['divperioden_9', 'republiek_28']"
+402,402,Raad van State (1814-1861),['negentiende_eeuw_5']
+403,403,Raad van Tiel,['republiek_58']
+404,404,Raad van Vlaanderen (1599-1795),['republiek_47']
+405,405,Raad van Wageningen,['republiek_67']
+406,406,Raad van Zaltbommel,['republiek_59']
+407,407,Raad van Zutphen,['republiek_60']
+408,408,Raad van Zwolle,['republiek_118']
+409,409,Raad van de Amerikaanse Bezittingen en Etablissementen,['batfra_81']
+410,410,Raad van de Amerikaanse Koloniën en Bezittingen,['batfra_217']
+411,411,Raad van de Aziatische Bezittingen en Etablissementen (1800-1804),['batfra_422']
+412,412,Raad van de Aziatische Bezittingen en Etablissementen (1804-1806),['batfra_423']
+413,413,Raadkamer Gelre (1473-1477),['me_44']
+414,414,Raadpensionaris,['batfra_82']
+415,415,Rekenkamer Gelre (1559-1588),['me_40']
+416,416,Rekenkamer Holland en Zeeland (1447-1572),['me_1']
+417,417,Rekenkamer ter Auditie van Holland in het Noorderkwartier (1590-1752),['republiek_10']
+418,418,Rekenkamer ter Auditie van Holland in het Zuiderkwartier (1590-1752),['republiek_9']
+419,419,Representant van de Eerste Edele in Zeeland,['republiek_89']
+420,420,Representanten van het Volk van Utrecht,['batfra_439']
+421,421,Representanten van het volk van Bataafs Brabant,['batfra_382']
+422,422,Representanten van het volk van Drenthe,['batfra_348']
+423,423,Representanten van het volk van Friesland,['batfra_281']
+424,424,Representanten van het volk van Stad en Lande,['batfra_345']
+425,425,Ridderschap van Holland,"['divperioden_47', 'republiek_70']"
+426,426,Ridderschap van Overijssel,"['divperioden_32', 'republiek_129']"
+427,427,Ridderschap van Utrecht,['republiek_97']
+428,428,Ridderschap van het Graafschap Zutphen,['republiek_55']
+429,429,Ridderschap van het Kwartier Nijmegen,['republiek_54']
+430,430,Ridderschap van het Kwartier Veluwe,['republiek_56']
+431,431,Schive Utrecht (1474-1477),['me_85']
+432,432,Secretarie van het Gouvernement van Holland,['batfra_66']
+433,433,Secretarie van het Staatsbewind,['batfra_218']
+434,434,Secretaris van Staat Departement van Buitenlandse Zaken,['batfra_230']
+435,435,Secretaris van Staat voor de Binnenlandse Zaken,['batfra_125']
+436,436,Secretaris van Staat voor de Buitenlandse Betrekkingen,['batfra_134']
+437,437,Secretaris van Staat voor de Financiën,['batfra_129']
+438,438,Secretaris van Staat voor de Zaken der Marine,['batfra_232']
+439,439,Secretaris van Staat voor de Zaken van Oorlog,['batfra_231']
+440,440,"Secretaris van Staat, Departement van Oorlog",['batfra_139']
+441,441,Secrétairerie d' État Impériale,['batfra_43']
+442,442,Société Maternelle,['batfra_207']
+443,443,Staatsbewind der Bataafse Republiek,['batfra_77']
+444,444,Staatsdrukkerij,['batfra_213']
+445,445,Staatsraad (Koninkrijk),['batfra_7']
+446,446,Staatsraad (Raadpensionaris),['batfra_233']
+447,447,Staatssecretarie (1813-1840),['negentiende_eeuw_10']
+448,448,Staatssecretarie (Ministerie van de Secretarie van Staat),['batfra_1']
+449,449,Staten (Provisionele Representanten) van het Kwartier van Nijmegen,['batfra_354']
+450,450,Staten (Provisionele Representanten) van het Kwartier van Zutphen,['batfra_355']
+451,451,Staten (Provisionele Representanten) van het Kwartier van de Veluwe,['batfra_353']
+452,452,Staten van Friesland,['republiek_51']
+453,453,Staten van Friesland (1580-1795),['divperioden_60']
+454,454,Staten van Holland (1572-1795),['republiek_26']
+455,455,Staten van Overijssel,['republiek_52']
+456,456,Staten van Utrecht,['republiek_146']
+457,457,Staten van Zeeland (1578-1795),['republiek_49']
+458,458,Staten-Generaal (1814-1815),['negentiende_eeuw_3']
+459,459,Staten-Generaal der Verenigde Nederlanden (1588-1795),['republiek_27']
+460,460,Staten-Generaal der Verenigde Nederlandse Provinciën (1588-1796),"['batfra_102', 'divperioden_11']"
+461,461,Syndicat de Hollande,['batfra_131']
+462,462,Sénat Conservateur,['batfra_42']
+463,463,Thesaurier-Generaal en Raden van Financiën,['batfra_128']
+464,464,Tweede Kamer der Staten-Generaal (1815-1861),['negentiende_eeuw_4']
+465,465,Tweede Nationale Vergadering,['batfra_208']
+466,466,Uitvoerend Bewind (Constitutioneel) van de Bataafse Republiek,['batfra_104']
+467,467,"Uitvoerend Bewind der Bataafse Republiek (tot 17 maart 1798 Provisioneel, vanaf 12 juni 1798 Intermediair)",['batfra_265']
+468,468,Université Impériale,['batfra_63']
+469,469,VOC ter Kamer Amsterdam,['republiek_35']
+470,470,VOC ter Kamer Delft,['republiek_37']
+471,471,VOC ter Kamer Enkhuizen,['republiek_40']
+472,472,VOC ter Kamer Hoorn,['republiek_39']
+473,473,VOC ter Kamer Rotterdam,['republiek_38']
+474,474,VOC ter Kamer Zeeland,['republiek_36']
+475,475,VOC ter kamer Amsterdam,['divperioden_62']
+476,476,Vergadering van Notabelen (1814),['negentiende_eeuw_2']
+477,477,Vertegenwoordigend Lichaam (1) (mei 1798-juni 1798),['batfra_209']
+478,478,Vertegenwoordigend Lichaam (2) (juli 1798-oktober 1801),['batfra_210']
+479,479,Vroedschap van Alkmaar,['republiek_82']
+480,480,Vroedschap van Amersfoort,['republiek_99']
+481,481,Vroedschap van Amsterdam,['republiek_75']
+482,482,Vroedschap van Bolsward,"['divperioden_59', 'republiek_103']"
+483,483,Vroedschap van Delft,['republiek_73']
+484,484,Vroedschap van Den Briel,['republiek_81']
+485,485,Vroedschap van Dokkum,"['divperioden_57', 'republiek_106']"
+486,486,Vroedschap van Dordrecht,['republiek_71']
+487,487,Vroedschap van Edam,['republiek_85']
+488,488,Vroedschap van Enkhuizen,['republiek_84']
+489,489,Vroedschap van Franeker,"['divperioden_55', 'republiek_104']"
+490,490,Vroedschap van Goes,['republiek_92']
+491,491,Vroedschap van Gorinchem,['republiek_78']
+492,492,Vroedschap van Gouda,['republiek_76']
+493,493,Vroedschap van Haarlem,['republiek_72']
+494,494,Vroedschap van Harlingen,"['divperioden_36', 'republiek_107']"
+495,495,Vroedschap van Hindeloopen,"['divperioden_65', 'republiek_112']"
+496,496,Vroedschap van Hoorn,['republiek_83']
+497,497,Vroedschap van IJlst,"['divperioden_56', 'republiek_111']"
+498,498,Vroedschap van Leeuwarden,"['divperioden_43', 'republiek_102']"
+499,499,Vroedschap van Leiden,['republiek_74']
+500,500,Vroedschap van Medemblik,['republiek_87']
+501,501,Vroedschap van Middelburg,['republiek_90']
+502,502,Vroedschap van Monnickendam,['republiek_86']
+503,503,"Vroedschap van Montfoort
+Vroedschap van Wijk bij Duurstede",['republiek_101']
+504,504,Vroedschap van Purmerend,['republiek_88']
+505,505,Vroedschap van Rhenen,['republiek_100']
+506,506,Vroedschap van Rotterdam,['republiek_77']
+507,507,Vroedschap van Schiedam,['republiek_79']
+508,508,Vroedschap van Schoonhoven,['republiek_80']
+509,509,Vroedschap van Sloten,"['divperioden_58', 'republiek_109']"
+510,510,Vroedschap van Sneek,"['divperioden_44', 'republiek_105']"
+511,511,Vroedschap van Stavoren,"['divperioden_50', 'republiek_108']"
+512,512,Vroedschap van Tholen,['republiek_93']
+513,513,Vroedschap van Utrecht,['republiek_98']
+514,514,Vroedschap van Veere,['republiek_94']
+515,515,Vroedschap van Vlissingen,['republiek_95']
+516,516,Vroedschap van Wijk bij Duurstede,['republiek_160']
+517,517,Vroedschap van Workum,"['divperioden_46', 'republiek_110']"
+518,518,Vroedschap van Zierikzee,"['divperioden_66', 'republiek_91']"
+519,519,WIC ter Kamer Amsterdam,['republiek_41']
+520,520,WIC ter Kamer Stad en Lande,['republiek_45']
+521,521,WIC ter Kamer Zeeland,['republiek_42']
+522,522,WIC ter Kamer op de Maze,['republiek_43']
+523,523,WIC ter Kamer van het Noorderkwartier,['republiek_44']
+524,524,Wetgevend Lichaam van het Bataafse Gemenebest (1801-1805),['batfra_80']
+525,525,"Wetgevend Lichaam, Vergadering van Hun Hoog Mogenden (Koninkrijk)",['batfra_243']
+526,526,"Wetgevend Lichaam, Vergadering van Hun Hoog Mogenden vertegenwoordigende het Bataafs Gemenebest (Raadpensionaris)",['batfra_78']
+527,527,Zeeraad,['batfra_202']

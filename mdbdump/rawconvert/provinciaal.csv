@@ -1,45 +1,45 @@
 ,provincie_id,provincie,old_idprovincie
-0,0,Zeeland,batfra_2
-1,1,Frise,batfra_3
-2,2,Texel,batfra_4
-3,3,Ems-Occidental,batfra_5
-4,4,Yssel-Supérieur,batfra_6
-5,5,Bouches-de-la-Meuse,batfra_7
-6,6,Zuyderzée,batfra_8
-7,7,Friesland,batfra_9
-8,8,Bouches-de-l' Yssel,batfra_10
-9,9,Holland,batfra_11
-10,10,Utrecht,batfra_12
-11,11,Gelderland,batfra_13
-12,12,Groningen,batfra_14
-13,13,Brabant,batfra_15
-14,14,Maasland,batfra_16
-15,15,Drenthe,batfra_17
-16,16,Amstelland,batfra_18
-17,17,Delf,batfra_19
-18,18,Oude IJssel,batfra_20
-19,19,Eems,batfra_21
-20,20,Rijn,batfra_22
-21,21,Dommel,batfra_23
-22,22,Schelde en Maas,batfra_24
-23,23,Overijssel,batfra_25
-24,24,Oost-Friesland,batfra_26
-25,25,Amstel,batfra_28
-26,26,Limburg,negentiende_eeuw_5
-27,27,Noord-Brabant,negentiende_eeuw_6
-28,28,Noord-Holland,negentiende_eeuw_7
-29,29,Zuid-Holland,negentiende_eeuw_11
-30,30,Boven-IJssel,negentiende_eeuw_13
-31,31,Monden van de IJssel,negentiende_eeuw_14
-32,32,Monden van de Maas,negentiende_eeuw_15
-33,33,Monden van de Rijn,negentiende_eeuw_16
-34,34,Monden van de Schelde,negentiende_eeuw_17
-35,35,Wester Eems,negentiende_eeuw_18
-36,36,Zuiderzee,negentiende_eeuw_19
-37,37,Landen van Overmaze,negentiende_eeuw_20
-38,38,Vlaanderen,me_9
-39,39,Artesië,me_10
-40,40,Namen,me_11
-41,41,Rijsel,me_12
-42,42,Henegouwen,me_13
-43,43,Holland en Zeeland,me_14
+0,0,Amstel,['batfra_28']
+1,1,Amstelland,['batfra_18']
+2,2,Artesië,['me_10']
+3,3,Bouches-de-l' Yssel,['batfra_10']
+4,4,Bouches-de-la-Meuse,['batfra_7']
+5,5,Boven-IJssel,['negentiende_eeuw_13']
+6,6,Brabant,"['batfra_15', 'me_8']"
+7,7,Delf,['batfra_19']
+8,8,Dommel,['batfra_23']
+9,9,Drenthe,"['batfra_17', 'negentiende_eeuw_1']"
+10,10,Eems,['batfra_21']
+11,11,Ems-Occidental,['batfra_5']
+12,12,Friesland,"['batfra_9', 'negentiende_eeuw_2', 'me_5', 'divperioden_1', 'republiek_6']"
+13,13,Frise,['batfra_3']
+14,14,Gelderland,"['batfra_13', 'negentiende_eeuw_3', 'me_6', 'republiek_8']"
+15,15,Groningen,"['batfra_14', 'negentiende_eeuw_4', 'me_7', 'republiek_2']"
+16,16,Henegouwen,['me_13']
+17,17,Holland,"['batfra_11', 'negentiende_eeuw_12', 'me_4', 'divperioden_2', 'republiek_3']"
+18,18,Holland en Zeeland,"['me_14', 'republiek_10']"
+19,19,Landen van Overmaze,['negentiende_eeuw_20']
+20,20,Limburg,['negentiende_eeuw_5']
+21,21,Maasland,['batfra_16']
+22,22,Monden van de IJssel,['negentiende_eeuw_14']
+23,23,Monden van de Maas,['negentiende_eeuw_15']
+24,24,Monden van de Rijn,['negentiende_eeuw_16']
+25,25,Monden van de Schelde,['negentiende_eeuw_17']
+26,26,Namen,['me_11']
+27,27,Noord-Brabant,['negentiende_eeuw_6']
+28,28,Noord-Holland,['negentiende_eeuw_7']
+29,29,Oost-Friesland,['batfra_26']
+30,30,Oude IJssel,['batfra_20']
+31,31,Overijssel,"['batfra_25', 'negentiende_eeuw_8', 'me_2', 'republiek_9']"
+32,32,Rijn,['batfra_22']
+33,33,Rijsel,['me_12']
+34,34,Schelde en Maas,['batfra_24']
+35,35,Texel,['batfra_4']
+36,36,Utrecht,"['batfra_12', 'negentiende_eeuw_9', 'me_3', 'republiek_7']"
+37,37,Vlaanderen,['me_9']
+38,38,Wester Eems,['negentiende_eeuw_18']
+39,39,Yssel-Supérieur,['batfra_6']
+40,40,Zeeland,"['batfra_2', 'negentiende_eeuw_10', 'me_1', 'republiek_5']"
+41,41,Zuid-Holland,['negentiende_eeuw_11']
+42,42,Zuiderzee,['negentiende_eeuw_19']
+43,43,Zuyderzée,['batfra_8']

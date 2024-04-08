@@ -1,1395 +1,1644 @@
-,alias_id,alias,old_idpersoon
-0,0,Bertrand dit Béto,batfra_154
-1,1,Rooie Pieter,batfra_638
-2,2,"Ville-sur-Illon, Comte de Lacépède.",batfra_145
-3,3,"Verhuell, Graaf van Sevenaer.",batfra_35
-4,4,"Twenth van Raephorst, Graaf van Rozenburg.",batfra_15
-5,5,"Winter, Graaf van Huessen",batfra_207
-6,6,"Cambacérès, Prince-Duc de Parme",batfra_71
-7,7,"Caulaincourt, Duc de Vicence",batfra_129
-8,8,"Clarke, Duc de Feltre",batfra_77
-9,9,"Duroc, Duc de Frioul.",batfra_126
-10,10,"Gaudin, Duc de Gaëte",batfra_81
-11,11,"Moncey, Duc de Conegliano",batfra_94
-12,12,"Lebrun, Prince-Duc de Plaisance",batfra_100
-13,13,"Maret, Duc de Bassano",batfra_73
-14,14,"Nompère de Champagny, Duc de Cadore",batfra_80
-15,15,"Régnier, Duc de Massa",batfra_84
-16,16,"Savary, Duc de Rovigo",batfra_85
-17,17,Pol,batfra_871
-18,18,Dedden,batfra_1442
-19,19,Tymmerman,batfra_1486
-20,20,Nanninks,batfra_1489
-21,21,Borgerink,batfra_1325
-22,22,Bruins,batfra_1308
-23,23,Brons,batfra_1308
-24,24,Heumelder,batfra_1505
-25,25,Snijders,batfra_1387
-26,26,Meilink,batfra_1676
-27,27,Leeuwenkamp,batfra_1746
-28,28,Adriaansen,batfra_1761
-29,29,Kaelcken,batfra_1802
-30,30,Nieuwenhuis,batfra_1818
-31,31,Baars,batfra_1856
-32,32,Caen,batfra_2438
-33,33,"Noever, Ten",batfra_861
-34,34,Vrijdag,batfra_1306
-35,35,Sut,batfra_2349
-36,36,Bisschop,batfra_2572
-37,37,Gerritzen,batfra_2629
-38,38,Drochlet,batfra_2845
-39,39,Droilhet,batfra_2845
-40,40,Jalink,batfra_2806
-41,41,,batfra_2573
-42,42,Issing,batfra_2907
-43,43,Orklij,batfra_2749
-44,44,Pijpers,batfra_2842
-45,45,Dingman,batfra_2998
-46,46,Haagen.,batfra_378
-47,47,Gaschard,batfra_2987
-48,48,Bonnikerhausen,batfra_3096
-49,49,Feijt,batfra_2812
-50,50,Schneitter,batfra_3175
-51,51,Ogelwigt,batfra_3162
-52,52,Suermond,batfra_2698
-53,53,Van Middachten van Vrieswijk en Oldhagensdorp,batfra_1319
-54,54,Muentz,batfra_1256
-55,55,Sijpkens,batfra_350
-56,56,L' Espinasse,batfra_831
-57,57,Tobias.,batfra_57
-58,58,Vermoedelijk Goske Cassa.,batfra_2832
-59,59,Aufmorth,batfra_2598
-60,60,Migchels,batfra_3339
-61,61,Verhousen,batfra_20
-62,62,Naam las eerst als Masehoek.,batfra_3368
-63,63,Vatenbender,batfra_934
-64,64,Heijden,batfra_3385
-65,65,Of J.G.C.,batfra_3362
-66,66,Blijswijk Parde,batfra_3371
-67,67,Raay,batfra_3390
-68,68,Fallee en Galle.,batfra_3367
-69,69,F.H. zou ook kunnen.,batfra_3207
-70,70,NB Elders lijkt er sprake te zijn van andere voorletters in rijtje met dezelfde collega's (C.A. voor C.A. van Ray? Dus vermoedelijk gewoon een fout.),batfra_2661
-71,71,Elders J.H.,batfra_3185
-72,72,Boudewijn (zie Van der Aa.),batfra_629
-73,73,Adrianus Francois,batfra_69
-74,74,Jacob George Jeronimo,batfra_498
-75,75,"Zou ook Tilenius kunnen zijn, zie hiertoe Van der Aa.",batfra_2893
-76,76,Fromant,batfra_210
-77,77,Gazinget,batfra_2968
-78,78,Gerritsen,batfra_2629
-79,79,Goetzee,batfra_1563
-80,80,Zeylstra,batfra_1117
-81,81,Kijmmel,batfra_2975
-82,82,Kok,batfra_2885
-83,83,Kühl,batfra_2753
-84,84,Lelijveld,batfra_2646
-85,85,Mallevault,batfra_259
-86,86,Marnet,batfra_592
-87,87,Covert,batfra_1014
-88,88,Polarin,batfra_3393
-89,89,Reijn,batfra_2887
-90,90,Romerts,batfra_1632
-91,91,Reynders,batfra_1604
-92,92,Nijenhuis,batfra_1657
-93,93,Barink,batfra_1659
-94,94,Stokebrand,batfra_1672
-95,95,Braak,batfra_1680
-96,96,Lammerdink,batfra_1726
-97,97,Haasewinkel,batfra_1740
-98,98,Schuijseman,batfra_1741
-99,99,Bekman,batfra_1749
-100,100,Geurts,batfra_1783
-101,101,Vooren,batfra_2829
-102,102,Volckar,batfra_2902
-103,103,Okke,batfra_2712
-104,104,Siebes,batfra_3432
-105,105,Berkhof,batfra_3348
-106,106,Bernhofft,batfra_2850
-107,107,Scheffer,batfra_3403
-108,108,Slingenburg,batfra_3295
-109,109,"Clé, J. la",batfra_528
-110,110,Ekkenhuisen,batfra_2782
-111,111,Deurveldt,batfra_3280
-112,112,Saaijmans,batfra_2888
-113,113,Eikendal,batfra_2756
-114,114,De Coninck d'Outryve,batfra_135
-115,115,Wittert van Bloemendaal,batfra_3569
-116,116,Harij,batfra_2995
-117,117,Calkoen van Kortenhoef,batfra_422
-118,118,Van Asbeck tot Berge en Munsterhausen,batfra_439
-119,119,Van Aylva van Waardenburg en Neerijnen,batfra_693
-120,120,Van Brienen van de Groote Lindt,batfra_222
-121,121,Van Wickevoort Crommelin van Berkenrode,batfra_4
-122,122,Van der Goes van Dirxland,batfra_17
-123,123,Van Heeckeren van Enghuizen,batfra_1566
-124,124,Van Heeckeren van Beverweerd,batfra_1566
-125,125,Van Leyden van Westbarendrecht,batfra_14
-126,126,Van Lynden van Lunenburg,batfra_180
-127,127,Van Pallandt van Eerde,batfra_465
-128,128,Van Pallandt tot Beerse,batfra_465
-129,129,Sloet van Warmelo,batfra_3086
-130,130,Van Spaen van Biljoen,batfra_915
-131,131,Van Spaen la Lecq van Hardenstein,batfra_3190
-132,132,Hendrik Jansz. Mossel van Stralen,batfra_392
-133,133,"Fontein Verschuir van Heiloo, Oesdom en ter Coulster",batfra_298
-134,134,De Vos van Steenwijk van den Hogenhof,batfra_181
-135,135,Van Bylandt Halt,batfra_726
-136,136,Nagell,batfra_3257
-137,137,Van Pallandt van Keppel,batfra_428
-138,138,Van Pallandt van Barlham,batfra_428
-139,139,Van Rhemen van Rhemenshuizen,batfra_886
-140,140,Singendonck van Dieden,batfra_909
-141,141,Staring van den Wildenborch,batfra_1513
-142,142,Van Zuylen van Nievelt van den Schaffelaar,batfra_961
-143,143,Van Dedem van de Rollecate,batfra_2516
-144,144,Van Dedem van de Berg,batfra_2516
-145,145,Van Haersolte tot den Doorn,batfra_777
-146,146,Reint Willem van Middachten,batfra_1319
-147,147,Beelaerts van Emmichoven,batfra_2680
-148,148,Gevaerts van Geervliet,batfra_2112
-149,149,Reepmaker van Strevelshoek,batfra_565
-150,150,Six van Hillegom,batfra_912
-151,151,Jantzon van Nieuwland,batfra_2497
-152,152,Nahuys van Burgst,batfra_1967
-153,153,Trip van Zoudtlandt,batfra_931
-154,154,Pierre Hofstede,batfra_138
-155,155,Van Holthe van Echten,batfra_795
-156,156,De Vos van Steenwijk tot Havixhorst,batfra_636
-157,157,Van Haersma van Nederhorst den Berg,batfra_1106
-158,158,Huydecoper van Maarsseveen,batfra_2803
-159,159,Six van Oterleek,batfra_7
-160,160,Taets van Amerongen van Woudenberg,batfra_2935
-161,161,Van Heiden Reinestein tot Laarwoud,batfra_785
-162,162,Van Schuylenburch van Bommenede,batfra_904
-163,163,Canneman van de Mijle,batfra_26
-164,164,Groeninx van Zoelen van Ridderkerk,batfra_2480
-165,165,Collot d'Escury van Heinenoord,batfra_2476
-166,166,Warin van Schonauwen,batfra_3071
-167,167,Van der Brugghen van Croy,batfra_2467
-168,168,Cuypers van Spangen,batfra_438
-169,169,Sandberg van 't Laar,batfra_3315
-170,170,Van Heeckeren van Brandsenburg en Boelestein,batfra_3523
-171,171,Caan van Maurick,batfra_2438
-172,172,Van Gobbelschroy van Spoelbeeck,batfra_237
-173,173,Verstolk van Soelen,batfra_141
-174,174,Van der Capellen van Berkenwoude,batfra_16
-175,175,Repelaer van Driel,batfra_429
-176,176,Von Müntz van Heuvelwijk,batfra_1256
-177,177,Van Limburg Stirum van de Wildenborch,batfra_179
-178,178,Eppo Cremers,batfra_182
-179,179,De Sandra Veldtman van Slochteren,batfra_2951
-180,180,Bijleveld van den Ham,batfra_2930
-181,181,De Perponcher Sedlnitsky van Wolphaartsdijk,batfra_3115
-182,182,Cramer van Ootmarsum,batfra_631
-183,183,Blijdenstein van Enschede,batfra_706
-184,184,Sloet van Tweenyenhuizen en Bredenhorst,batfra_2936
-185,185,De Jongh van Son van Raamsdonk,batfra_1008
-186,186,Van Kretschmar van Veen,batfra_3270
-187,187,Speelman van Heeswijk en Dinther,batfra_916
-188,188,Lambrechtsen van Ritthem,batfra_1893
-189,189,Gevers van Endegeest en Kethel en Spaland,batfra_427
-190,190,Van Hees van Berkel,batfra_2473
-191,191,Repelaer van Spijkenisse,batfra_884
-192,192,Repelaer van Valkenswaard,batfra_884
-193,193,Van Tets van Goudriaan,batfra_3094
-194,194,Van Tuyll van Serooskerken van Vleuten,batfra_301
-195,195,Van der Borch van Vorden,batfra_294
-196,196,Van Kinsbergen van Doggersbank,batfra_232
-197,197,Van Heeckeren van de Cloese,batfra_304
-198,198,Van Haersolte van Staverden,batfra_314
-199,199,Van Pallandt van Walfort en Klarenbeek,batfra_1574
-200,200,Aaldert Schouten,batfra_1628
-201,201,Wittert van Hoogland,batfra_3569
-202,202,Van Doorn van Westkapelle,batfra_3088
-203,203,Linsen de Jonge,batfra_2463
-204,204,Van Gennip,batfra_460
-205,205,Van Nagell van Ampsen,batfra_3257
-206,206,Van Rhemen van Rhemenshuizen en de Geldersche Toren,batfra_886
-207,207,Pélichy de Lichtervelde,negentiende_eeuw_3870
-208,208,Van Ewijck van Oostbroek en De Bilt,negentiende_eeuw_3877
-209,209,Provó Kluit van Rijnsaterwoude,negentiende_eeuw_3945
-210,210,Noiret de Bruyn van Melis- en Mariekerke,negentiende_eeuw_3965
-211,211,Melort van Middelharnis (1840),negentiende_eeuw_3968
-212,212,Evertsz,negentiende_eeuw_3969
-213,213,De Vos van Nederveen Cappel,negentiende_eeuw_3974
-214,214,Van Hugenpoth tot den Beerenclaauw,negentiende_eeuw_4107
-215,215,Rau van Gameren,negentiende_eeuw_4015
-216,216,De Lange van Wijngaarden,negentiende_eeuw_4047
-217,217,Van Panhuys van Haeren,negentiende_eeuw_4092
-218,218,Ver Loren van Themaat,negentiende_eeuw_4130
-219,219,Coenen van 's Gravesloot,negentiende_eeuw_4138
-220,220,Van Rijckevorsel van Rijsenburg,negentiende_eeuw_4141
-221,221,Van Oosthuyse van Rijckevorsel van Rijsenburg,negentiende_eeuw_4141
-222,222,Van Doorn van Koudekerke,negentiende_eeuw_4145
-223,223,Schorer van St. Philipsland,negentiende_eeuw_4150
-224,224,Versluys van Krabbendijke en Nieuwlande,negentiende_eeuw_4151
-225,225,De Bruyn van Melis- en Mariekerke,negentiende_eeuw_4161
-226,226,De Jongh van Hedikhuizen,negentiende_eeuw_4137
-227,227,De Vos van Steenwijk van den Oldenhof,negentiende_eeuw_3027
-228,228,Strick van Linschoten van Bunnik en Vechten,negentiende_eeuw_3306
-229,229,Van der Burgh van Kroonenburgh,negentiende_eeuw_3224
-230,230,Von Schwartz van Ansen,negentiende_eeuw_4168
-231,231,Van Hoey van Vlijmen,negentiende_eeuw_4171
-232,232,Van Teylingen van Hilvarenbeek,negentiende_eeuw_4179
-233,233,De Marees van Swinderen van Allersma,negentiende_eeuw_3199
-234,234,Rietvelt van Herpt en Sprang,negentiende_eeuw_3141
-235,235,Van Berenbroeck,negentiende_eeuw_2849
-236,236,François van Harencarspel Decker van Beverwijk,negentiende_eeuw_3043
-237,237,Taets van Amerongen van Natewisch,negentiende_eeuw_2884
-238,238,De Jonge van Ellemeet,negentiende_eeuw_2885
-239,239,Van der Lek de Clercq van Stavenisse,negentiende_eeuw_2886
-240,240,Paspoort van Grijpskerke,negentiende_eeuw_2887
-241,241,Gevers van Endegeest,negentiende_eeuw_2890
-242,242,'t Hooft van Benthuizen,negentiende_eeuw_2893
-243,243,Huughe van Peutevin,negentiende_eeuw_2904
-244,244,Van Borssele van Wadenoyen,negentiende_eeuw_2913
-245,245,Van der Capellen van Rijsselt,negentiende_eeuw_2918
-246,246,Van Dedem van Vosbergen,negentiende_eeuw_2920
-247,247,Engelen van Angerstein,negentiende_eeuw_2925
-248,248,Van Heeckeren van de Wiersse,negentiende_eeuw_2931
-249,249,Van Heeckeren van Nettelhorst,negentiende_eeuw_2932
-250,250,Van Hövell tot Westerflier en Wezeveld,negentiende_eeuw_2933
-251,251,Van Loë van Overdijck,negentiende_eeuw_2937
-252,252,Van Lynden van Oldenaller en de Snor,negentiende_eeuw_2938
-253,253,Mackay van Ophemert en Zennewijnen,negentiende_eeuw_2939
-254,254,Van Pabst van Bingerden,negentiende_eeuw_2944
-255,255,Van Rappard van Balgoy,negentiende_eeuw_2948
-256,256,Van Spaen van Schouwenburg,negentiende_eeuw_2955
-257,257,Van Westerholt van Hacfort,negentiende_eeuw_2965
-258,258,Van der Haer van Campensnieuwland,negentiende_eeuw_2976
-259,259,Bentinck van Schoonheten,negentiende_eeuw_2997
-260,260,Gansneb genaamd Tengnagel van de Luttenberg,negentiende_eeuw_3003
-261,261,Van Isselmuden van Zwollingercamp,negentiende_eeuw_3009
-262,262,Van Ittersum van Relaer,negentiende_eeuw_3010
-263,263,Van Rechteren van de Hofstede,negentiende_eeuw_3019
-264,264,Van Rechteren Limpurg van Rechteren,negentiende_eeuw_3020
-265,265,Bisdom van Vliet,negentiende_eeuw_3036
-266,266,Van der Goes van Naters,negentiende_eeuw_3054
-267,267,De Heere van Holy,negentiende_eeuw_3057
-268,268,Niclas Kyronius,negentiende_eeuw_3064
-269,269,Van Lockhorst van Toll en Venhuizen,negentiende_eeuw_3074
-270,270,Van Poeliën van Nuland,negentiende_eeuw_3085
-271,271,De Roo van Westmaas,negentiende_eeuw_3091
-272,272,Van Boetzelaer van Kijfhoek,negentiende_eeuw_2692
-273,273,Van der Heyden van Baak,negentiende_eeuw_2694
-274,274,Van Aerschot van Schoonhoven,negentiende_eeuw_2702
-275,275,Van Boetzelaer van Dubbeldam,negentiende_eeuw_2711
-276,276,De Goër de Forêt,negentiende_eeuw_2737
-277,277,Van Heeckeren van Enghuizen en Beverweerd,negentiende_eeuw_2746
-278,278,Van Heerdt tot Eversberg,negentiende_eeuw_2747
-279,279,De Hemricourt de Ramioul,negentiende_eeuw_2750
-280,280,De Keverberg d'Aldengoor,negentiende_eeuw_2760
-281,281,Liedekerke de Beaufort prins de Gavre,negentiende_eeuw_2765
-282,282,De Liedel de Well,negentiende_eeuw_2766
-283,283,Van Limburg Stirum Noordwijk,negentiende_eeuw_2769
-284,284,Van Lynden van Hemmen,negentiende_eeuw_2773
-285,285,Van Nes van Meerkerk,negentiende_eeuw_2783
-286,286,De Néverlée de la Fortelle,negentiende_eeuw_2784
-287,287,Van Pallandt van Beerse,negentiende_eeuw_2791
-288,288,De Pesters van Cattenbroek,negentiende_eeuw_2792
-289,289,Schimmelpenninck van Nijenhuis,negentiende_eeuw_2803
-290,290,Schimmelpenninck van der Oye van den Poll,negentiende_eeuw_2804
-291,291,Steengracht van Oosterland,negentiende_eeuw_2810
-292,292,De Stockhem de Heers,negentiende_eeuw_2811
-293,293,Van Swinderen van Rensuma,negentiende_eeuw_2813
-294,294,Van Tuyll van Serooskerken van Zuylen,negentiende_eeuw_2820
-295,295,Vaernewijck d'Angest,negentiende_eeuw_2821
-296,296,De Vinck de Wesel,negentiende_eeuw_2824
-297,297,Van Wassenaer van Starrenburg,negentiende_eeuw_2828
-298,298,Van Weede van Dijkveld,negentiende_eeuw_2829
-299,299,Van Pallandt van Waardenburg en Neerijnen,negentiende_eeuw_2836
-300,300,Van Goltstein van Oldenaller,negentiende_eeuw_2842
-301,301,Sichterman van de Brake,negentiende_eeuw_2847
-302,302,Boreel van Hogelanden,negentiende_eeuw_2874
-303,303,Van Heeckeren van Wassenaer,negentiende_eeuw_2876
-304,304,Soetens van Royen,negentiende_eeuw_2877
-305,305,De Vos van Steenwijk van Voorstonden,negentiende_eeuw_2878
-306,306,Martens van Sevenhoven,negentiende_eeuw_2880
-307,307,Van der Staal van Piershil,negentiende_eeuw_3097
-308,308,Van der Werff van Zuidland,negentiende_eeuw_3106
-309,309,Van Zuylen van Nijevelt van de Ehze,negentiende_eeuw_3109
-310,310,Van Hogendorp van Hofwegen,negentiende_eeuw_3128
-311,311,De Jonge van Helvoirt,negentiende_eeuw_3135
-312,312,De Grancy van Haanwijck,negentiende_eeuw_3145
-313,313,De Smeth van Deurne,negentiende_eeuw_3146
-314,314,De Voocht van het Hof te Tongelre,negentiende_eeuw_3154
-315,315,Van Weichs van Winnen van Geysteren,negentiende_eeuw_3156
-316,316,De Jonge van Campensnieuwland,negentiende_eeuw_3166
-317,317,Mogge Muilman van Haamstede,negentiende_eeuw_3169
-318,318,D'Aulnis de Bourouill van Bijma,negentiende_eeuw_3176
-319,319,Polman Gruys van Garreweer,negentiende_eeuw_3180
-320,320,Van In- en Kniphuizen van de Nienoord,negentiende_eeuw_3185
-321,321,Wijchgel van Lellens,negentiende_eeuw_3206
-322,322,Berg van Dussen-Muilkerk,negentiende_eeuw_3212
-323,323,Hoeufft van Velsen,negentiende_eeuw_3254
-324,324,Hovy van Spanderswoud,negentiende_eeuw_3259
-325,325,Van Nellesteyn van Broekhuizen,negentiende_eeuw_3280
-326,326,Nutges van Bennebroek,negentiende_eeuw_3283
-327,327,Van Reede van Middachten,negentiende_eeuw_3292
-328,328,Rendorp van Marquette,negentiende_eeuw_3293
-329,329,Van Renesse van Wilp,negentiende_eeuw_3294
-330,330,Van Bredehoff de Vicq van Oosthuizen,negentiende_eeuw_3313
-331,331,Van Heeckeren van Kell,negentiende_eeuw_3350
-332,332,Van Lynden van Hoevelaken,negentiende_eeuw_3351
-333,333,Van Nagell tot Ampsen,negentiende_eeuw_3356
-334,334,Hora Siccama van Slochteren,negentiende_eeuw_3367
-335,335,Van Wassenaer van Sint Pancras,negentiende_eeuw_3392
-336,336,Donker Curtius van Tienhoven,negentiende_eeuw_3415
-337,337,Repelaer van Molenaarsgraaf,negentiende_eeuw_3422
-338,338,Röell van Hazerswoude,negentiende_eeuw_3429
-339,339,Van Hoorn van Burgh en Westland,negentiende_eeuw_3430
-340,340,Mackay van Ophemert,negentiende_eeuw_3449
-341,341,De Leonaerdts d'Achel,negentiende_eeuw_3454
-342,342,Half-Wassenaer van Onsenoord,negentiende_eeuw_3467
-343,343,Van Tuyll van Serooskerken van Heeze,negentiende_eeuw_3470
-344,344,Sandberg van Essenburg,negentiende_eeuw_3484
-345,345,Van Suchtelen van de Haare,negentiende_eeuw_3485
-346,346,Bentinck van Nijenhuis,negentiende_eeuw_3486
-347,347,Van Rechteren van Appeltern,negentiende_eeuw_3495
-348,348,Voet van Winssen van Sevenhoven,negentiende_eeuw_3500
-349,349,Van Utenhove van Heemstede,negentiende_eeuw_3501
-350,350,Van Tuyll van Serooskerken van Coelhorst,negentiende_eeuw_3502
-351,351,Bijleveld van Serooskerke,negentiende_eeuw_3512
-352,352,Egter van Wissekerke,negentiende_eeuw_3513
-353,353,Slicher van Domburg,negentiende_eeuw_3514
-354,354,Van Reenen van Loenen,negentiende_eeuw_3526
-355,355,Van Walchren van Wadenoyen,negentiende_eeuw_3531
-356,356,Mensonides van Hensbroek,negentiende_eeuw_3577
-357,357,Schuurbeque Boeye van de Haamstede,negentiende_eeuw_3622
-358,358,De Geer van Jutphaas,negentiende_eeuw_3630
-359,359,Van Tuyll van Serooskerken van Heeze en Leende,negentiende_eeuw_3636
-360,360,Gaiffier van de Velde d'Emeville,negentiende_eeuw_3688
-361,361,Van Hambroick van Weleveld,negentiende_eeuw_3692
-362,362,Van der Heim van Duivendijke,negentiende_eeuw_3694
-363,363,koning Willem III,negentiende_eeuw_3705
-364,364,koning Willem I,negentiende_eeuw_3706
-365,365,koning Willem II,negentiende_eeuw_3707
-366,366,prins Frederik,negentiende_eeuw_3708
-367,367,prins Willem,negentiende_eeuw_3709
-368,368,Van Rechteren van Ahnem,negentiende_eeuw_3715
-369,369,Gericke van Herwijnen,negentiende_eeuw_3724
-370,370,Pronck Appelius,negentiende_eeuw_3729
-371,371,Brantsen van de Zijp,negentiende_eeuw_3742
-372,372,De Crombrugghe van Looringhe,negentiende_eeuw_3751
-373,373,De Gijzelaar,negentiende_eeuw_3760
-374,374,Van der Gracht d'Eeghen,negentiende_eeuw_3766
-375,375,Hemricourt de Ramioulle,negentiende_eeuw_3769
-376,376,De Jongh van Son tot Raamsdonk,negentiende_eeuw_3777
-377,377,Schimmelpenninck van der Oye tot den Poll,negentiende_eeuw_3805
-378,378,Van Wassenaer Spanbroeck,negentiende_eeuw_3820
-379,379,Del Court van Krimpen,negentiende_eeuw_3041
-380,380,Van Heeckeren van Wassenaer-Twickel,negentiende_eeuw_2876
-381,381,De Jonge van Zwijnsbergen,negentiende_eeuw_3135
-382,382,Van Reede van Ginkel,negentiende_eeuw_3292
-383,383,Gevers van Kethel en Spaland,negentiende_eeuw_3823
-384,384,Bentinck van Buckhorst,negentiende_eeuw_3841
-385,385,Van der Wyck tot de Klencke,negentiende_eeuw_4208
-386,386,De Vos van Steenwijk van den Havixhorst,negentiende_eeuw_4295
-387,387,Van Asbeck van Luilema,negentiende_eeuw_4297
-388,388,Tjarda van Starkenborgh van Wehe,negentiende_eeuw_4303
-389,389,Tjarda van Starkenborgh Stachouwer van Wehe,negentiende_eeuw_4313
-390,390,De Savornin Lohman van Zonnemaire,negentiende_eeuw_4320
-391,391,Beelaerts van Blokland van Oosterwijk,negentiende_eeuw_4587
-392,392,Hinlopen van Sterkenburg,negentiende_eeuw_4588
-393,393,Van Nellesteyn van Broekhuizen en Darthuizen,negentiende_eeuw_4589
-394,394,Van Collen van Gunterstein,negentiende_eeuw_4600
-395,395,Van Reede van ter Aa,negentiende_eeuw_4601
-396,396,Duuring van Oudaen en Breukelen-St. Pieter,negentiende_eeuw_4602
-397,397,Strick van Linschoten van Rijnauwen,negentiende_eeuw_4603
-398,398,Beeldsnijder van Voshol en Vrije Nes,negentiende_eeuw_4607
-399,399,Van Beusechem van Harmelen,negentiende_eeuw_4609
-400,400,Van der Brugghen van Lauwerecht,negentiende_eeuw_4610
-401,401,Van Zijll van den Ham,negentiende_eeuw_4613
-402,402,Van Nooten van Honkoop,negentiende_eeuw_4617
-403,403,Strick van Linschoten van Vlooswijk,negentiende_eeuw_4618
-404,404,Van Hardenbroek van Lockhorst,negentiende_eeuw_4620
-405,405,Utenhove van Bottestein en Amelisweerd,negentiende_eeuw_4626
-406,406,Van Reede van Athlone,negentiende_eeuw_4627
-407,407,Taets van Amerongen van Deyl,negentiende_eeuw_4628
-408,408,Taets van Amerongen van Renswoude en Emmikhuizen,negentiende_eeuw_4629
-409,409,Van Tuyll van Serooskerken van Maarssen,negentiende_eeuw_4630
-410,410,Von Derfelden van Hindersteyn,negentiende_eeuw_4632
-411,411,Beelaerts van Blokland van Remmerstein,negentiende_eeuw_4635
-412,412,Van Zuylen van Nijevelt van Hinderstein,negentiende_eeuw_4640
-413,413,Story van Blokland,negentiende_eeuw_4653
-414,414,Nepveu van Herlaer,negentiende_eeuw_4663
-415,415,Ram van Bottestein,negentiende_eeuw_4666
-416,416,Van der Muelen van Maarssenbroek,negentiende_eeuw_4667
-417,417,Van Hardenbroek van Hardenbroek,negentiende_eeuw_4675
-418,418,De Geer van Oudegein,negentiende_eeuw_4700
-419,419,De Heus van Nyenrode,negentiende_eeuw_4712
-420,420,Bosch van Oud-Amelisweerd,negentiende_eeuw_4720
-421,421,De Muralt van Vlijmen,negentiende_eeuw_4721
-422,422,Strick van Linschoten van Nieuw-Helvoet,negentiende_eeuw_4603
-423,423,Von Bönninghausen van Herinkhave,negentiende_eeuw_4936
-424,424,Von Bönninghausen van de Eeshof,negentiende_eeuw_4941
-425,425,Roessingh Udink van Singraven,negentiende_eeuw_4956
-426,426,Van Foreest van Heemse,negentiende_eeuw_4961
-427,427,Van der Wyck van Archem,negentiende_eeuw_4967
-428,428,Teding van Berkhout tot Hoenlo,negentiende_eeuw_4973
-429,429,Van Ittersum tot den Oosterhof,negentiende_eeuw_5000
-430,430,Van Raesfelt van Elsen,negentiende_eeuw_5002
-431,431,Sloet van Westerholt,negentiende_eeuw_5006
-432,432,Coninck Bentinck,negentiende_eeuw_5009
-433,433,Van Coeverden van Kampferbeek,negentiende_eeuw_5010
-434,434,Van Voërst tot Hagevoorde en Bergentheim,negentiende_eeuw_5014
-435,435,Mulert tot de Leemcule,negentiende_eeuw_5017
-436,436,Van Fridagh tot Rutenberg,negentiende_eeuw_5019
-437,437,Van Rechteren Limpurg van den Schulenborg,negentiende_eeuw_5021
-438,438,Bentinck tot Nijenhuis,negentiende_eeuw_5022
-439,439,Van Pallandt tot Eerde,negentiende_eeuw_5023
-440,440,De Vos van Steenwijk van Windesheim,negentiende_eeuw_5024
-441,441,"Van Knobelsdorff tot de Gelder, Krijtenberg en Scherpenzeel",negentiende_eeuw_5027
-442,442,Van Dedem tot de Rollecate,negentiende_eeuw_5029
-443,443,De Vos van Steenwijk van Abbenbroek,negentiende_eeuw_5035
-444,444,Van Naamen van Eemnes,negentiende_eeuw_5083
-445,445,Van Coeverden van Wegdam,negentiende_eeuw_5138
-446,446,Van Ittersum van Plattenburg,negentiende_eeuw_5000
-447,447,Van Lanschot van Berlicum,negentiende_eeuw_5140
-448,448,Smits van Oyen,negentiende_eeuw_5150
-449,449,De Roy van Zuydewijn-Capelle,negentiende_eeuw_5161
-450,450,Verschoor van Sleeuwijk,negentiende_eeuw_5165
-451,451,Billehé de Valensart van Leuth,negentiende_eeuw_5188
-452,452,De Geloes van Elsloo,negentiende_eeuw_5189
-453,453,Speelman van Wulverhorst,negentiende_eeuw_5193
-454,454,Martini van Geffen,negentiende_eeuw_5196
-455,455,Wesselman van Helmond,negentiende_eeuw_5223
-456,456,Verheijen van Estvelt,negentiende_eeuw_5265
-457,457,Van Dam van Hekendorp en Polanen,negentiende_eeuw_5285
-458,458,Van Reede van Doeveren,negentiende_eeuw_5192
-459,459,Thibaut van Aagtekerke,negentiende_eeuw_6089
-460,460,Van der Mandere van Ouwerkerk,negentiende_eeuw_6114
-461,461,Moens van Blois,negentiende_eeuw_6151
-462,462,Sprenger van Duinbeek,negentiende_eeuw_6166
-463,463,Verschoor van Nisse,negentiende_eeuw_6173
-464,464,Lenshoek van Zwake,negentiende_eeuw_6178
-465,465,Steengracht van Moyland,negentiende_eeuw_6199
-466,466,De Clercq van Stavenisse,negentiende_eeuw_6222
-467,467,Mulock Houwer van Noordgouwe,negentiende_eeuw_6223
-468,468,Van Barnevelt van Noordeloos,negentiende_eeuw_6283
-469,469,Barnaart van Bergen,negentiende_eeuw_6289
-470,470,Griffioen van Waarder,negentiende_eeuw_6293
-471,471,Jantzon van Erffrenten van Capelle en Hoogeveen,negentiende_eeuw_6301
-472,472,Kwak van Zwartewaal,negentiende_eeuw_6306
-473,473,Weldijk van Limmen,negentiende_eeuw_6310
-474,474,Vlielander van Rockanje,negentiende_eeuw_6311
-475,475,Diemont van Langerak,negentiende_eeuw_6316
-476,476,De Raadt van Hendrik-Ido-Ambacht,negentiende_eeuw_6326
-477,477,De Dieu Fontein Verschuir van Heiloo,negentiende_eeuw_6328
-478,478,Sandenberg Matthiessen van Petten en Nolmerban,negentiende_eeuw_6329
-479,479,Van Weel van Sommelsdijk,negentiende_eeuw_6331
-480,480,Vlielander van Nieuwenhoorn,negentiende_eeuw_6334
-481,481,Van Leyden Gael van Vlaardingen,negentiende_eeuw_6335
-482,482,Van de Wall van Puttershoek,negentiende_eeuw_6356
-483,483,Huydecoper van Zeist,negentiende_eeuw_6358
-484,484,Steengracht van Duivenvoorde,negentiende_eeuw_6359
-485,485,Van Tets van Langerak,negentiende_eeuw_6381
-486,486,Van Kuffeler van Hoogeveen,negentiende_eeuw_6389
-487,487,Van Dam van Noordeloos,negentiende_eeuw_6411
-488,488,Bachman van Schipluiden en Hodenpijl,negentiende_eeuw_6424
-489,489,Ham van Sluipwijk,negentiende_eeuw_6427
-490,490,Snouck van Loosen,negentiende_eeuw_3390
-491,491,Peelen van Honswijk,negentiende_eeuw_3285
-492,492,Van Zuylen van Nijevelt van Nieuw-Beijerland,negentiende_eeuw_3109
-493,493,Maas van Zuid-Scharwoude,negentiende_eeuw_6453
-494,494,Van Naamen van Scherpenzeel,negentiende_eeuw_6457
-495,495,Hooft van Vreeland,negentiende_eeuw_6460
-496,496,Hooft van Woudenberg en Geerestein,negentiende_eeuw_6469
-497,497,Stokbroo van Hoog- en Aartswoud,negentiende_eeuw_6479
-498,498,Lette van Oostvoorne,negentiende_eeuw_6561
-499,499,Cremer van den Berch van Heemstede,negentiende_eeuw_6571
-500,500,Rengers van Warmenhuyzen,negentiende_eeuw_6592
-501,501,Rijkee van Alblasserdam,negentiende_eeuw_6594
-502,502,Hein van Rockanje,negentiende_eeuw_6622
-503,503,Jantzon van Erffrenten van Babylonienbroek,negentiende_eeuw_6679
-504,504,Van Asbeck zu Bergen und Munsterhausen,negentiende_eeuw_6709
-505,505,Van den Bogaerde van Terbrugge,negentiende_eeuw_6974
-506,506,van Lommessem Strijthagen,negentiende_eeuw_7108
-507,507,Van Riemsdijk van Gemert,negentiende_eeuw_7130
-508,508,D'Ansembourg de Neuborg,negentiende_eeuw_7134
-509,509,Kerkhoffs,negentiende_eeuw_7115
-510,510,Corten van Oensel,negentiende_eeuw_7469
-511,511,Wouters van Beringen,negentiende_eeuw_7478
-512,512,Schiervel d'Altembrouck,negentiende_eeuw_7481
-513,513,De Heusch de Bombrouck,negentiende_eeuw_7485
-514,514,Clermont de Vaelshoek,negentiende_eeuw_7514
-515,515,Arazola Déonata,negentiende_eeuw_7515
-516,516,Van Erp tot Baerlo en Holt,negentiende_eeuw_7521
-517,517,Bloemaerts,negentiende_eeuw_7571
-518,518,Kerens Cadet,negentiende_eeuw_3458
-519,519,De Rosen de Haren,negentiende_eeuw_7575
-520,520,De Stenbier de Wideux,negentiende_eeuw_7576
-521,521,Van Balveren van Leur,negentiende_eeuw_7582
-522,522,Van Brakell tot den Brakell en Vredestein,negentiende_eeuw_3358
-523,523,Van Bylandt van Mariënweerd,negentiende_eeuw_7584
-524,524,Van Eck van Vieracker en Ommershof,negentiende_eeuw_2923
-525,525,Van Heeckeren van Overlaer,negentiende_eeuw_7586
-526,526,D'Isendoorn à Blois van Cannenburg,negentiende_eeuw_7587
-527,527,Van Nagell van Wisch,negentiende_eeuw_7589
-528,528,Van Neukirchen genaamd Nyvenheim tot Eck en Wiel,negentiende_eeuw_7590
-529,529,Van Rouwenoort van Ulenpas,negentiende_eeuw_7591
-530,530,Schimmelpenninck van der Oye van de Poll,negentiende_eeuw_7592
-531,531,Van Spaen van Hulshorst,negentiende_eeuw_2955
-532,532,Van Heeckeren van Oldoolde,negentiende_eeuw_7593
-533,533,Van Heeckeren van Molecaten,negentiende_eeuw_7599
-534,534,Van Heeckeren van Marhulsen,negentiende_eeuw_7601
-535,535,Van Eck van Overbeek,negentiende_eeuw_7604
-536,536,Van Heeckeren van de Beurze,negentiende_eeuw_2746
-537,537,Van Zuylen van Nievelt van den Brielert,negentiende_eeuw_7607
-538,538,Van Bylandt van Mariënwaerd,negentiende_eeuw_7611
-539,539,Van Wassenaer van Katwijk,negentiende_eeuw_7613
-540,540,Van Ranzow van Meinerswijk,negentiende_eeuw_7614
-541,541,Torck van Rosendael,negentiende_eeuw_7617
-542,542,Van der Heyden van Doornenburg en Suideras,negentiende_eeuw_7618
-543,543,Van Pallandt van Oud-Beyerland,negentiende_eeuw_7620
-544,544,Van Balveren van Echteld en Leur,negentiende_eeuw_7621
-545,545,Van Zuylen van Nievelt van de Schaffelaar,negentiende_eeuw_7624
-546,546,Van Voorst tot Voorst en Ploen,negentiende_eeuw_7625
-547,547,Van Brakell van Wadenoyen en Doorwerth,negentiende_eeuw_7626
-548,548,Sloet van Zwanenburg,negentiende_eeuw_7631
-549,549,Van Randwijck van Rossum,negentiende_eeuw_7634
-550,550,De Vos van Steenwijk genaamd van Essen van Abbenbroek,negentiende_eeuw_7638
-551,551,Van Wijnbergen van Bussloo,negentiende_eeuw_7639
-552,552,Van Schuylenburch van den Ulenpas,negentiende_eeuw_7640
-553,553,Mollerus van Westkerke en Wulpendaal,negentiende_eeuw_7642
-554,554,Van Pallandt van Westervoort,negentiende_eeuw_7655
-555,555,Van Coeverden van Putten en den Schuylenburg,negentiende_eeuw_7668
-556,556,Van Hasselt van Empe,negentiende_eeuw_7710
-557,557,Sloet van de Beele,negentiende_eeuw_7712
-558,558,Boesses van Leeuwen en Puiflijk,negentiende_eeuw_7716
-559,559,Engelen van 't Celle,negentiende_eeuw_7718
-560,560,Vermeulen van 't Munnikeland,negentiende_eeuw_7721
-561,561,Van Brakell van Geldermalsen,negentiende_eeuw_7722
-562,562,Bouwens van Horssen,negentiende_eeuw_7724
-563,563,Sloet van Diepenbroeck en Sinderen,negentiende_eeuw_7725
-564,564,Van Meurs van Hulshorst,negentiende_eeuw_2837
-565,565,Sloet tot Oldhuis van de Beele,negentiende_eeuw_7738
-566,566,Brantsen van Rhederoord,negentiende_eeuw_7744
-567,567,Van der Borch van den Ulenpas,negentiende_eeuw_7745
-568,568,Van der Borch tot Helbergen,negentiende_eeuw_7745
-569,569,Van Nispen van Velde,negentiende_eeuw_7763
-570,570,De Nerée van Babberich,negentiende_eeuw_7766
-571,571,Van Westerholt van Hackfort,negentiende_eeuw_7782
-572,572,Van den Steen van Wadestein,negentiende_eeuw_2958
-573,573,Van Barneveld van Meteren en Geldermalsen,negentiende_eeuw_7793
-574,574,Van Scherpenzeel Heusch van Dreumel en Oosterhout,negentiende_eeuw_7781
-575,575,Viruly van Vuren en Dalem,negentiende_eeuw_7838
-576,576,Van Wassenaer van Catwijck,negentiende_eeuw_7842
-577,577,Six tot Oterleek,negentiende_eeuw_7905
-578,578,Evertz,negentiende_eeuw_3969
-579,579,Sweerts de Landas van Oirschot,negentiende_eeuw_2697
-580,580,De Vos van Steenwijk tot Havoxhorst,negentiende_eeuw_3205
-581,581,Arend Jacob Drabbe,negentiende_eeuw_3936
-582,582,A.J.F. van Galen,negentiende_eeuw_4106
-583,583,Borssele van der Hooghe,negentiende_eeuw_6092
-584,584,Sloet tot Lindenhorst,negentiende_eeuw_3021
-585,585,Lamoraal Johan Joachim Rengers,negentiende_eeuw_2984
-586,586,Hans Hendrik Boreel van Haersma,negentiende_eeuw_3244
-587,587,D'Estruemont,me_474
-588,588,Gerrit van Gronsselt,me_481
-589,589,Richard Rengher,me_515
-590,590,Adrian de Roubais,me_519
-591,591,Louis Veury,me_536
-592,592,Tielman van Dulken,me_6
-593,593,Dirk van Utrecht,me_662
-594,594,Arend Boonenburch,me_683
-595,595,Viglius,me_243
-596,596,Simon d'Amont,me_330
-597,597,Casper Lievensz. van Hoochlande,me_370
-598,598,Heyme van de Ketel,me_12
-599,599,Guiset,me_1001
-600,600,Komen,me_718
-601,601,Schagen,me_1040
-602,602,Leoninus,me_1217
-603,603,Beka,me_435
-604,604,Honsteyn,me_683
-605,605,Casparus de Terra Alta,me_370
-606,606,Simon du Mont,me_330
-607,607,Simon de Mons,me_330
-608,608,Longolius,me_1217
-609,609,Tielman van Dullekem,me_6
-610,610,Jan Jelis,me_656
-611,611,Gerrit van Gronselle,me_481
-612,612,Gerard van Gronselle,me_482
-613,613,Grusset,me_1001
-614,614,Jean Louis de Mocheron,me_504
-615,615,Gerard Milert,me_505
-616,616,Richard Renigher,me_515
-617,617,Platea,me_527
-618,618,Johan Wordt,me_665
-619,619,Louis Vary,me_536
-620,620,Louis Pori,me_536
-621,621,Viglius Zuichemus ab Aytta,me_243
-622,622,Johan van Darth,me_673
-623,623,Leonard Stalberg,me_670
-624,624,Dirk van Weer,me_746
-625,625,Gerrit van den Zijl,me_622
-626,626,Vossius,me_965
-627,627,Van Middelburg,me_472
-628,628,Grudius,me_280
-629,629,Wieger Aytta van Swichum,me_243
-630,630,Andrieu de la Croix,me_565
-631,631,Oostervant,me_542
-632,632,Grandpré,me_629
-633,633,Christophe Dassonville,me_350
-634,634,Jacob Bossaert van Belle,me_552
-635,635,Jan van der Bouverien,me_443
-636,636,Roelof de Brouxelles,me_447
-637,637,Frans Coebel van der Loo,me_956
-638,638,Filips bastaard van Brabant,me_463
-639,639,Antoon van Bergen,me_1342
-640,640,Dismas van Bergen,me_436
-641,641,Hendrik van Bergen,me_437
-642,642,Jan van Bergen,me_346
-643,643,Humbercourt,me_694
-644,644,Roeulx,me_251
-645,645,Chimay,me_455
-646,646,Aarschot,me_248
-647,647,Engelbert van den Dalle,me_464
-648,648,Buren,me_362
-649,649,Nicolas Nicolai,me_280
-650,650,Everard Everaerts,me_327
-651,651,Louis du Chesne,me_618
-652,652,Boussu,me_344
-653,653,Bossu,me_344
-654,654,Casparus Levini Hogelandius,me_370
-655,655,Marets,me_318
-656,656,Hoogstraten,me_130
-657,657,Gavere,me_247
-658,658,Jean de Masuny,me_970
-659,659,Thomas Bokelaer,me_1
-660,660,Regius,me_1467
-661,661,Lodewijk van Gruuthuse,me_446
-662,662,Lodewijk van Gruythuyse,me_446
-663,663,Winchester,me_446
-664,664,Meindert Klaasz. van Haarlem,me_636
-665,665,Floris Paedzen van Leiden,me_643
-666,666,Mercurino Arborio,me_476
-667,667,NIeuwenaar,me_425
-668,668,Antoine Montjeu,me_1123
-669,669,Horn,me_253
-670,670,Hoorne,me_253
-671,671,Hachicourt,me_266
-672,672,René van Nassau,me_110
-673,673,Johan van Nassau-Katzenelnbogen,me_695
-674,674,Nicolaas Nicolai,me_472
-675,675,Nicolaas Everaerts,me_109
-676,676,Floris Paedzensz.,me_643
-677,677,Granvelle,me_347
-678,678,Bucquoy,me_1345
-679,679,Jean de Cortewille,me_461
-680,680,Neufville,me_257
-681,681,Jan van de Werve,me_582
-682,682,Bengaert Scay,me_551
-683,683,Scepperus,me_322
-684,684,Filips van der Spaengen,me_1130
-685,685,Glajon,me_345
-686,686,Lodewijk van Bloys,me_626
-687,687,Bartholomeus van der Zeuge,me_1062
-688,688,Rassenghien,me_256
-689,689,Praat,me_113
-690,690,Chrétien de Weert,me_73
-691,691,Banjaart Scey,me_551
-692,692,Boudewijn van Zweeten,me_600
-693,693,Dirk van Zweeten,me_575
-694,694,Boudijn van Swieten,me_600
-695,695,Dirk van Swieten,me_646
-696,696,Hugo van Swieten,me_603
-697,697,Jan Bouwensz.,me_562
-698,698,Grote Prior,me_1504
-699,699,Wouter Jansz. van Zierikzee,me_596
-700,700,Jean Peeters,me_508
-701,701,Josse Laureys,me_492
-702,702,Josse Lauwreys,me_492
-703,703,Louis Velaire,me_981
-704,704,Jean Coomans,me_1307
-705,705,Jean van der Gherst,me_991
-706,706,Roussel,me_1105
-707,707,Le Bontechou,me_1104
-708,708,Jean de Geuly,me_490
-709,709,Artur de Bourbon,me_1540
-710,710,Lienart de Potes,me_1542
-711,711,Guillaume le Gros,me_483
-712,712,Rogier,me_515
-713,713,Arnoud Bogaert,me_439
-714,714,Beveren,me_1340
-715,715,Sempy,me_1341
-716,716,Molenbaix,me_246
-717,717,Montbarrey,me_242
-718,718,Ressegem,me_256
-719,719,Havré,me_355
-720,720,Hierges,me_357
-721,721,Bellem,me_338
-722,722,Stefaan Brants,me_302
-723,723,Courteville,me_1457
-724,724,Leonard Herdinck,me_293
-725,725,Piramyus,me_295
-726,726,Stratius,me_650
-727,727,Frederik van Keppel tot Verwolde,me_657
-728,728,Jacob Pieck van IJzendoorn,me_653
-729,729,Evert van Heeckeren tot Nettelhorst,me_664
-730,730,Adolf van Goer tot Caldenbroeck,me_677
-731,731,Hendrik in den Hoorn,me_380
-732,732,Radelantius,me_414
-733,733,Humpius van Emden,me_399
-734,734,Joannes Carolus,me_1007
-735,735,Hette van Hoxwier,me_372
-736,736,Van Boucamp,me_442
-737,737,Bousani,me_444
-738,738,Cornelis Bouwin,me_5
-739,739,Corneille de Muenincx,me_985
-740,740,Antoine de Branchion,me_1325
-741,741,Pierre de Breuil,me_969
-742,742,Montanus,me_407
-743,743,Adriaan Sandelijn,me_126
-744,744,Heiman van Mierop van de Ketel,me_12
-745,745,Antoine Michiel,me_601
-746,746,Cornelis Neostadius,me_86
-747,747,Louis de Back,me_432
-748,748,Louis de Vacq,me_432
-749,749,Peter van Apeldoren,me_666
-750,750,Peter van Appeldoren,me_666
-751,751,Rubais,me_519
-752,752,Jacob van Abcoude,me_631
-753,753,François de Berch,me_990
-754,754,Willem (van der) Cryp,me_909
-755,755,De Sancto Petro,me_11
-756,756,Bartold van Bassen genaamd Ernst,me_59
-757,757,Thomas Boickelaer,me_1
-758,758,Barthélemi le Febvre,me_1102
-759,759,Gillis de Caboeter,me_553
-760,760,Cornelis Jansz.,me_578
-761,761,Diderich von Westrom zu Langendonck,me_1223
-762,762,Druittius,me_992
-763,763,Filips Duclert,me_784
-764,764,Tielman van Dullekin,me_6
-765,765,Eerst van Ysendoren,me_398
-766,766,Jan Gelis,me_656
-767,767,Bartholt van Gendt,me_676
-768,768,Willem van Gendt,me_669
-769,769,George Rataleur,me_374
-770,770,George Voeth,me_678
-771,771,Gerard Muylaert,me_505
-772,772,Ghillam Scryvers,me_389
-773,773,Jacques de Gradebault,me_478
-774,774,Gerard van Gronsselt,me_482
-775,775,Jean Guillet,me_477
-776,776,Hendrikse,me_115
-777,777,Haio Hompius,me_399
-778,778,Hopperus,me_335
-779,779,Jacques Muysart,me_977
-780,780,Jan Bruyninck,me_328
-781,781,Jean Baers,me_971
-782,782,Jean Baptiste Berty,me_284
-783,783,Jelis Pieck,me_687
-784,784,Jean Jonnet,me_479
-785,785,Joris Themsicke,me_320
-786,786,Josse Cranevelt,me_655
-787,787,Josse Kevin,me_513
-788,788,Lanchals,me_395
-789,789,Philippe le Febre,me_988
-790,790,Filips le Noir,me_323
-791,791,Jeronimus Lettyn,me_659
-792,792,Pierre de Longneu,me_496
-793,793,Arend van Zevenbergen,me_616
-794,794,Louis van Beughem,me_384
-795,795,Loys Rataller,me_22
-796,796,Fernand de Lucerne,me_497
-797,797,Tristam de Lucerne,me_498
-798,798,Manke Jan,me_614
-799,799,Guillaume le Marquis,me_499
-800,800,Martinus de Narden,me_371
-801,801,Pierre de Mettenci,me_500
-802,802,Willem van Zaanden,me_570
-803,803,Middelburg,me_1322
-804,804,Jean Louis de Moucheron,me_504
-805,805,Jan van der Staten,me_527
-806,806,Jan Stoop,me_864
-807,807,Gossuin le Sauvage,me_539
-808,808,Johan Urd,me_665
-809,809,Johan van Niel,me_672
-810,810,Jean le Sauvage,me_525
-811,811,Dirk van Leiden,me_236
-812,812,Renesse,me_1027
-813,813,Reyer van der Does,me_17
-814,814,Hayo Riperdorn,me_660
-815,815,Jacques de Roeck,me_520
-816,816,Jean Rousseau,me_521
-817,817,Jan Engelsz. van Lezanen,me_907
-818,818,Johan Stalborch,me_658
-819,819,Hadrianus Marius,me_401
-820,820,Colaert van Comene,me_718
-821,821,Jan van den Berch,me_420
-822,822,Hendrik Lottemsz. van Zeelem,me_862
-823,823,Noircarmes,me_254
-824,824,Willem van Alkmaar,me_71
-825,825,Thierry Jansz. van Woerden,me_1483
-826,826,Wulven,me_408
-827,827,Zosius,me_379
-828,828,Dionys van Wesenhagen,me_668
-829,829,Bernardus Bucho Aytta,divperioden_4
-830,830,Mamma Eponis,divperioden_5
-831,831,Renik Eminga,divperioden_6
-832,832,Schelte Tjaerda,divperioden_7
-833,833,Tako Heemstra,divperioden_8
-834,834,Benedictus Heris,divperioden_10
-835,835,Dietrich von Witzleben zu Wendelstein,divperioden_15
-836,836,Günther von Bünau zu Elsterberg und Christgrün,divperioden_22
-837,837,Casper Ziegler zu Gauernitz und Taubenheim,divperioden_24
-838,838,Otto Pflug zu Strehla und Lamperswalde,divperioden_26
-839,839,Seifard von Lüttichau zu Kmehlen und Ortrand,divperioden_29
-840,840,Veit von Drachsdorf zu Osterau,divperioden_32
-841,841,Goslik Jongema,divperioden_39
-842,842,Sytthie Aylva,divperioden_56
-843,843,Gregorius van Aken,divperioden_59
-844,844,Jacob Rousseau,divperioden_71
-845,845,Alexius van Harderwijck,divperioden_73
-846,846,Valerius van Ockinga,divperioden_75
-847,847,Wilhelmus van der Linden,divperioden_86
-848,848,Juw van Dekema,divperioden_96
-849,849,Karel Nicolai,divperioden_100
-850,850,Jurgien Godefridi,divperioden_116
-851,851,Sjoerd Hania,divperioden_124
-852,852,Meyne Lyckles Nijeholpada,divperioden_118
-853,853,Homerus van Harinxma,divperioden_143
-854,854,Theodorus Saeckma,divperioden_148
-855,855,Gerlich Doys thoe Nieuwland,divperioden_172
-856,856,Philippus Aebinga van Humalda,divperioden_173
-857,857,Godschalk van Knijff,divperioden_191
-858,858,Hendrik Johan Schultens,divperioden_198
-859,859,Boccatius Hoppers,divperioden_252
-860,860,Jan Huybertsz. Cath,divperioden_368
-861,861,Syds van Donia,divperioden_381
-862,862,Jurg Georg van Burmania,divperioden_208
-863,863,Sapheus Hiemstra,divperioden_466
-864,864,Schelto van Hiemstra,divperioden_468
-865,865,Sixtus a Decama,divperioden_376
-866,866,Horatius Meinsma,divperioden_637
-867,867,Dirck Sipperds Ennes,divperioden_389
-868,868,Idzard van Douma,divperioden_384
-869,869,"Stanzius, Theodorus",divperioden_800
-870,870,Arnoldus van Haersma,divperioden_434
-871,871,Adam van Eysinga,divperioden_132
-872,872,Frederick van Epema,divperioden_709
-873,873,Pieter Wopkesz. Cromwal,divperioden_754
-874,874,Pieter van Jongestal,divperioden_146
-875,875,Rintze van Andringa,divperioden_287
-876,876,Rinso van Andringa,divperioden_287
-877,877,Anchises van Andla,divperioden_283
-878,878,Ulpianus ab Aylva,divperioden_311
-879,879,Adrianus Bergsma,divperioden_558
-880,880,Suffridus van Boelens,divperioden_256
-881,881,Tarquinius van Boelens,divperioden_330
-882,882,Allart van Burum,divperioden_362
-883,883,Valerius Camminga,divperioden_364
-884,884,Erasmus van Douma,divperioden_384
-885,885,Pytter van Eysinga,divperioden_396
-886,886,Dirck Foegelsangh,divperioden_407
-887,887,Theodorus Fogelsangh,divperioden_407
-888,888,Valerius van Glinstra,divperioden_421
-889,889,Julius van Harinxma,divperioden_460
-890,890,Tjerck van Heerma,divperioden_471
-891,891,Duco van Hemmema,divperioden_473
-892,892,Dominicus ab Hottinga,divperioden_481
-893,893,Meynte van Idsaerda,divperioden_490
-894,894,Rembertus Syrcxma,divperioden_499
-895,895,Ritske van Ringia,divperioden_505
-896,896,Agge van Walta,divperioden_506
-897,897,Frederick van Vervou van Martenahuis,divperioden_511
-898,898,Pieter van Waltha,divperioden_514
-899,899,Rinco van Burmania,divperioden_515
-900,900,Eyse Lycklama,divperioden_519
-901,901,Arent Julianus de Beere,divperioden_570
-902,902,Willem August Sirtema van Grovestins,divperioden_581
-903,903,Eiso van Lycklama,divperioden_519
-904,904,Hans van Lycklama,divperioden_627
-905,905,Doecke van Martena,divperioden_635
-906,906,Scipio van Meckema,divperioden_636
-907,907,Andries Doedes,divperioden_673
-908,908,Sicco Meckema van Aylva,divperioden_698
-909,909,Scipio Meckema van Aylva,divperioden_698
-910,910,Ernst van Doenija,divperioden_710
-911,911,Lodewijck van Ockinga,divperioden_714
-912,912,Bocco van Burmania,divperioden_719
-913,913,Hotze van Aysma,divperioden_731
-914,914,Hotthie van Aysma,divperioden_731
-915,915,Douwe Sytsma,divperioden_807
-916,916,Douwe van Unia,divperioden_820
-917,917,Abram van Venema,divperioden_902
-918,918,Georg Sigismund van Hiemstra,divperioden_465
-919,919,Jelle Bruininga,divperioden_341
-920,920,Hartius Iepema,divperioden_157
-921,921,Saco van Idsinga,divperioden_488
-922,922,Bartholomeus van Nijsten,divperioden_641
-923,923,Willem Hendrick van Hiemstra,divperioden_469
-924,924,Carel Georg van Wassenaer Twickel,divperioden_564
-925,925,Titus van Hania,divperioden_1024
-926,926,Sape van Wissema,divperioden_841
-927,927,Suffridus Saeckma,divperioden_852
-928,928,Zidzie van Aylva,divperioden_56
-929,929,Theodorus van Scheltinga,divperioden_162
-930,930,Sixtus Anthonius van Galama,divperioden_900
-931,931,Augustinus Lycklama à Nijeholt,divperioden_955
-932,932,Ritske van Rengia,divperioden_505
-933,933,Taco van Burmania,divperioden_509
-934,934,Christoffel Arentsma,divperioden_272
-935,935,Jan Nanningsz.,divperioden_512
-936,936,Frederick van Inthema,divperioden_491
-937,937,Jelte van Eysinga,divperioden_501
-938,938,Frederik Schuirmans,divperioden_876
-939,939,Johan Abraham Schuirmans,divperioden_545
-940,940,Epo van Bootsma,divperioden_699
-941,941,Epo van Aylva,divperioden_297
-942,942,Ausonius Aijsma,divperioden_1080
-943,943,Rienk Atsma,divperioden_292
-944,944,Johannes Culenburg,divperioden_375
-945,945,Wilhelmus van Velsen,divperioden_508
-946,946,Jelle Bruinga,divperioden_341
-947,947,Juw van Bottinga,divperioden_51
-948,948,Pytter Edzard Mockema van Harinxma thoe Sloten,divperioden_463
-949,949,Aemilius van Oenema,divperioden_847
-950,950,Feycke Tetmans,divperioden_732
-951,951,Johannes ter Wisga,divperioden_840
-952,952,Pieter Beerent van Wijdenbrugh,divperioden_1117
-953,953,Pieter Beerent van Widenbrug,divperioden_1117
-954,954,Douwe van Botnia,divperioden_346
-955,955,Worp Jessens,divperioden_738
-956,956,Worp Tjessens,divperioden_738
-957,957,Dierck Thijssens,divperioden_744
-958,958,Hero Viarda,divperioden_772
-959,959,Rombertus Siercksma,divperioden_499
-960,960,Ipe van Bootsma,divperioden_1140
-961,961,Gijsbert van Arentsma,divperioden_1030
-962,962,Joachim Gerardi,divperioden_1144
-963,963,Ruurt Bauts,divperioden_1153
-964,964,Syds van Scheltema,divperioden_762
-965,965,Juw van Eysinga,divperioden_1142
-966,966,Edo van Eysinga,divperioden_392
-967,967,Sicco van Aylva,divperioden_300
-968,968,Aduard van Reynalda,divperioden_660
-969,969,Theotardus van Heloma,divperioden_944
-970,970,Jacobus van Botnia,divperioden_334
-971,971,Epo van Douwma,divperioden_382
-972,972,Fritz von Grumbach zu Eschefeld,divperioden_37
-973,973,Egbert Annes Idtskema,divperioden_493
-974,974,Ipe van Juckema,divperioden_504
-975,975,Jelle van Jongestal,divperioden_135
-976,976,Julius van Botnia,divperioden_51
-977,977,Johan Rotaller,divperioden_44
-978,978,Petrus Wiardi,divperioden_9
-979,979,Pieter Claesz. Seylemaecker,republiek_1264
-980,980,Cornelis Thomasz. Sevenhuijsen,republiek_1272
-981,981,Thijman Osdorp,republiek_567
-982,982,Sebastiaen Egberti,republiek_787
-983,983,Gerard Adriaensz. Koel,republiek_931
-984,984,Jan Maertsz.,republiek_1129
-985,985,Dirk Dirksz. Ben,republiek_1137
-986,986,Albert Borritsz.,republiek_1138
-987,987,Johan d'Edel,republiek_408
-988,988,Jacob van der Meer,republiek_915
-989,989,Cornelis Tetrode van Weesp,republiek_857
-990,990,Jan Jansz. Secretaris,republiek_1214
-991,991,Cornelis Jansz. du Bois,republiek_1215
-992,992,Cornelis Jacobsz. Everhardt,republiek_1211
-993,993,Willem Jacobsz. Brassen,republiek_1017
-994,994,Johan van Duvenvoirde (vóór 1600),republiek_188
-995,995,Nicolaus Bulius,republiek_1043
-996,996,Pouwels Claesz. Haring,republiek_1283
-997,997,Hendrik Jansz. Snouck,republiek_971
-998,998,Henrick Melisz. Coppens,republiek_1222
-999,999,Adriaen Dircxz. Jong(e),republiek_1604
-1000,1000,Anthony Leemans,republiek_1005
-1001,1001,Francois Pietersz. Maekschoon,republiek_1128
-1002,1002,Brienen Manchon,republiek_970
-1003,1003,Claas Jansz. 't Hoen,republiek_1595
-1004,1004,Gerard Pietersz. Twisch,republiek_1149
-1005,1005,Engbert Engbertsz. Versteegh,republiek_958
-1006,1006,Joan Schott,republiek_431
-1007,1007,Aelbrecht van der Graaff,republiek_412
-1008,1008,Claes Jacobsz. Simonsz.,republiek_1055
-1009,1009,Nicolaas le Febre,republiek_1741
-1010,1010,Johan van Wassenaer,republiek_1686
-1011,1011,Thomas van de Nieuburg,republiek_1268
-1012,1012,Franco de Vree,republiek_889
-1013,1013,Wilhem Bardesius,republiek_1965
-1014,1014,Rutger Wessel van den Boetzelaer,republiek_1335
-1015,1015,Johan Claasz. Dirout,republiek_982
-1016,1016,Hans Colterman,republiek_1717
-1017,1017,Pieter van Blankenbort,republiek_1317
-1018,1018,Gerard Hoeufft,republiek_2042
-1019,1019,Capiteyn Vinck,republiek_2089
-1020,1020,Adriaen Pietersz. van Vlaerdingen,republiek_2092
-1021,1021,Oom Jan Pietersz.,republiek_2128
-1022,1022,Jacob Pietersz. Muusses,republiek_2131
-1023,1023,Jacob Pietersz. Meuwisz.,republiek_2131
-1024,1024,Bertram Philip Sigismund Albrecht graaf van Gronsfeld Diepenbroick Impel,republiek_2022
-1025,1025,Willem Jacobsz. Brassaert,republiek_1017
-1026,1026,Willem Reyersz. Kievit,republiek_2177
-1027,1027,Michiel Michielsz. Feltron,republiek_2336
-1028,1028,Wenceslaus van den Boetzelaer,republiek_1335
-1029,1029,Wouter Jacobsz. Scherf,republiek_2007
-1030,1030,Adriaen Cornelisz. Stockman,republiek_2352
-1031,1031,Johan Swinnes,republiek_2391
-1032,1032,Johan Swijsnas,republiek_2391
-1033,1033,Cornelis Tymonsz. Schipper,republiek_2357
-1034,1034,Claes Jacobsz. Haringcarspel,republiek_2355
-1035,1035,Jacob Claesz. Haringcarspel,republiek_2401
-1036,1036,Jacob Schoen,republiek_1051
-1037,1037,Jan Cornelisz. Schellinger,republiek_2310
-1038,1038,Jan Teen,republiek_2309
-1039,1039,Jan Tedijn,republiek_2309
-1040,1040,Jan Symonsz. Soutman,republiek_2311
-1041,1041,Willem Jansz. Swan,republiek_2000
-1042,1042,Jan Cornelisz. Schipper,republiek_2310
-1043,1043,Dirck Heyndricksz. Dyckgraeff,republiek_2493
-1044,1044,Gerard Fladderack,republiek_2463
-1045,1045,Jacob Josias Wybout,republiek_454
-1046,1046,Symon Cornelisz. Hugens,republiek_2361
-1047,1047,Diederik Diederiksz. 't Hooft,republiek_1796
-1048,1048,Diederik Diederiksz. Theuft,republiek_1796
-1049,1049,Johan Eliasz. van Loo,republiek_2449
-1050,1050,Louis Huriblock,republiek_2188
-1051,1051,Jacob Pauli,republiek_2706
-1052,1052,Adriaen de Jongh,republiek_1646
-1053,1053,Cornelis de Neyn,republiek_1818
-1054,1054,Franchois Regius,republiek_2785
-1055,1055,Dirk Thierry Jansz. van Woerden,republiek_2787
-1056,1056,Evert de Neyn,republiek_1825
-1057,1057,Geraart Montaigne,republiek_1635
-1058,1058,Dirk van de Nieuburg,republiek_1625
-1059,1059,Frederik Harmens,republiek_1634
-1060,1060,Jan Arnold Ludolf Mulert tot Baeckenhagen,republiek_3520
-1061,1061,Arent Hendrik ten Oever,republiek_3362
-1062,1062,Arent van Lauwick,republiek_3379
-1063,1063,Ernst van der Ceurbeecke,republiek_3538
-1064,1064,Jan Gijsbert Reinder Opten Noort,republiek_3550
-1065,1065,Jan Veen,republiek_3593
-1066,1066,Diederik van Romond,republiek_3605
-1067,1067,Pieter Derk Golts,republiek_3409
-1068,1068,Rutger van Haersolte tot Toutenburg,republiek_3655
-1069,1069,Rutger van Haersolte tot Hoenlo,republiek_3656
-1070,1070,Roelof van Hoevel tot Nijenhuis,republiek_3681
-1071,1071,Arend Veen,republiek_3686
-1072,1072,Johan Everhard Adolf van Rechteren tot de Eze,republiek_3695
-1073,1073,Lodewijk Arend Gansneb genaamd Tengnagel tot Oldhuis,republiek_3519
-1074,1074,Lodewijk Arend Gansneb genaamd Tengnagel tot Oldenhof,republiek_3519
-1075,1075,Gijsbert Kuijper,republiek_3295
-1076,1076,Jan van Schrick,republiek_3292
-1077,1077,Bartold ter Barhurst,republiek_3540
-1078,1078,Theymen Vrieze,republiek_3598
-1079,1079,Diederich van Willig tot Oldenhof,republiek_3636
-1080,1080,Carl Philip Crafft van Huffel van Neÿwindeck,republiek_3517
-1081,1081,Adolf Carel Bentinck tot Nijenhuis,republiek_3717
-1082,1082,Borchard Amelis van Coeverden tot Hengelo,republiek_3720
-1083,1083,Georg Otto von Munchausen tot Oldemeule,republiek_3721
-1084,1084,Jan Zeger Sloet tot Grimberg,republiek_3723
-1085,1085,Johan van Echten tot Olduitenborgh,republiek_3724
-1086,1086,Boldewijn Sloet tot Lindenhorst,republiek_3366
-1087,1087,Rutger van Haersolte tot Paaslo,republiek_3655
-1088,1088,Hendrik van Isselmuden tot Hogenhuys,republiek_3371
-1089,1089,Philip Gerrit van Echten tot Oldruitenborgh,republiek_3661
-1090,1090,Christoffel Hendriksz. Grauweijck,republiek_3747
-1091,1091,Engbert Claasz. Engberts,republiek_3591
-1092,1092,Marten Albertsz. Martens,republiek_3340
-1093,1093,Johan Louwensz. Buijs,republiek_3755
-1094,1094,Hendrik Crachtsz. Stuirman,republiek_3760
-1095,1095,Dirk Hendriksz. Vrese,republiek_3682
-1096,1096,Otto van Bijssel,republiek_3762
-1097,1097,Herman Ewouts,republiek_3779
-1098,1098,Herman ter Beecke,republiek_3739
-1099,1099,Erasmus van Romondt,republiek_3607
-1100,1100,Alexander Wijdenbrugh,republiek_2262
-1101,1101,Arent Rijckarsse,republiek_3870
-1102,1102,Johan de Bruyne,republiek_3145
-1103,1103,Taems Gerritsz. van der Does,republiek_2396
-1104,1104,Dirck Jacobsz. Seijs,republiek_2486
-1105,1105,John Melvill,republiek_69
-1106,1106,Jacob Fransz. Wittens,republiek_142
-1107,1107,Carel Antoni Maclaine,republiek_561
-1108,1108,Willem van Goedereede,republiek_671
-1109,1109,Hugo van Erkel,republiek_724
-1110,1110,Thomas Verver,republiek_3288
-1111,1111,Joan van der Beek,republiek_3291
-1112,1112,Goswijn Hogers,republiek_3294
-1113,1113,Janus Dousa,republiek_2824
-1114,1114,Pieter de Hiniossa,republiek_1676
-1115,1115,Apollonius Schotte,republiek_1683
-1116,1116,Ellert de Veer,republiek_1712
-1117,1117,Jacob Gerritsz. Koorn,republiek_1715
-1118,1118,George Rataller,republiek_1736
-1119,1119,Jacob Scotte,republiek_1753
-1120,1120,Nicolaas Ruysch Claassen,republiek_2837
-1121,1121,Dirk Jansz. Graswinckel,republiek_1754
-1122,1122,Cornelis Boey,republiek_2766
-1123,1123,Cornelis Boyus Ictus,republiek_2766
-1124,1124,Jacob Jes,republiek_1679
-1125,1125,Dirck Outgersz. Oostzanen,republiek_515
-1126,1126,Claes Allert Doctor,republiek_1043
-1127,1127,Nicasius de Sille,republiek_1959
-1128,1128,Johan Bets,republiek_1631
-1129,1129,Joris van Hoogwerf,republiek_2600
-1130,1130,Johan Swijnaart,republiek_2391
-1131,1131,Johan Swijnas,republiek_2391
-1132,1132,Duvenvoorde,republiek_2335
-1133,1133,David Jacobsz. Verheul,republiek_2326
-1134,1134,Antoine Genits,republiek_2838
-1135,1135,Jacob Gerritsz. Cassaties,republiek_2860
-1136,1136,Hendrick Dircksz. Wems,republiek_2865
-1137,1137,Hendrick Dircksz. Wemmes,republiek_2865
-1138,1138,François Riccen,republiek_1779
-1139,1139,Hendrick Dircksz. Wemes,republiek_2865
-1140,1140,Jan Tijmonsz. Gast,republiek_1519
-1141,1141,Jacob Jansz. Mars,republiek_1307
-1142,1142,Gerardt Duesen,republiek_1616
-1143,1143,Hubrecht Jan Anthonisse,republiek_2946
-1144,1144,Cornelis Fransz. Wittens,republiek_143
-1145,1145,Cornelis Fransz. de Witte,republiek_143
-1146,1146,Hubrecht de Jonge,republiek_2946
-1147,1147,Dirk van Teylingen,republiek_696
-1148,1148,Albrecht van Schagen,republiek_2014
-1149,1149,Theodoricus van Leyden van Leeuwen,republiek_1613
-1150,1150,Gerardt Doesze,republiek_1616
-1151,1151,Gerardt Deuse,republiek_1616
-1152,1152,Gerardt Deusze,republiek_1616
-1153,1153,Frederick Boymer,republiek_2853
-1154,1154,Floris Schoterbosch,republiek_1667
-1155,1155,Andries Cornelisz. de Witte,republiek_1708
-1156,1156,Frederik de Lier,republiek_1804
-1157,1157,Johan Iman Cau van de Dussen,republiek_2735
-1158,1158,Johan van Zuijrendael,republiek_2791
-1159,1159,Franchois Boot,republiek_2796
-1160,1160,Cornelis van Groendijk,republiek_1785
-1161,1161,Meinardus van Buuren,republiek_2799
-1162,1162,Johan Raven,republiek_1847
-1163,1163,Evert Both van der Eem,republiek_2840
-1164,1164,Pieter Rosa (vanaf 1682),republiek_238
-1165,1165,Jan Arentsz. Snyder,republiek_3011
-1166,1166,Dirck Reynersz. Bood,republiek_3015
-1167,1167,Jan Adriaensz. Croon,republiek_3018
-1168,1168,Bouwen Heijnsz.,republiek_1175
-1169,1169,Govert Christiaensz. van Slingeland,republiek_2516
-1170,1170,Adriaan Andriesz. de Lange,republiek_959
-1171,1171,Everard Verschuyr,republiek_2328
-1172,1172,Adriaan van Clevesteijn,republiek_1072
-1173,1173,Willem Keyzer,republiek_1403
-1174,1174,Diderik van der Meyden,republiek_1926
-1175,1175,Gerrit Aertsz. van Hasselt,republiek_2339
-1176,1176,Wouter Jacobsz. Schaep,republiek_2007
-1177,1177,Wouter Jacobsz. Scharp,republiek_2007
-1178,1178,Jan Dircksz. van der Zeijde,republiek_2353
-1179,1179,David Jacobsz. van den Heuvel,republiek_2326
-1180,1180,Johan Pauli,republiek_1621
-1181,1181,Pieter Arijensz. Bois,republiek_1026
-1182,1182,Pieter Arijensz. Boys,republiek_1026
-1183,1183,Carel Bosgaert,republiek_1409
-1184,1184,Bruine Arendsz. van der Dussen,republiek_1022
-1185,1185,Cornelis Mesen,republiek_1032
-1186,1186,Nicolaas Ewoutsz. Vermeulen,republiek_2284
-1187,1187,Zacharias Hoffdijck van Beresteyn,republiek_346
-1188,1188,Dirk Jansz. Heemskerk van Beest,republiek_298
-1189,1189,Michiel Willemsz. van Hoyst,republiek_1330
-1190,1190,Jan Pietersz. Reijnse,republiek_543
-1191,1191,Cornelis de Jonge,republiek_592
-1192,1192,Arnout Daye de Jode jr.,republiek_852
-1193,1193,Nicasius de Sylla,republiek_1959
-1194,1194,Paulus Bordsen,republiek_1689
-1195,1195,Paulus Baertssen,republiek_1689
-1196,1196,Paulus Basson,republiek_1689
-1197,1197,Louis Heuriblocq,republiek_2188
-1198,1198,Louis Huerenblock,republiek_2188
-1199,1199,Pieter Claesz. Verhorst,republiek_2367
-1200,1200,Job Pietersz. Ruvere,republiek_1970
-1201,1201,Job Pietersz. van Ruiven,republiek_1970
-1202,1202,Job Pietersz. van Roeren,republiek_1970
-1203,1203,Willem Vrancken,republiek_2368
-1204,1204,Pieter Rodincx,republiek_1994
-1205,1205,Jan Cornelisz. Verhé,republiek_2002
-1206,1206,Mattheus Augustijnsz. Steyns,republiek_2006
-1207,1207,Jan Cornelisz. Schellingen,republiek_2310
-1208,1208,Cornelis Nicolai,republiek_660
-1209,1209,Cornelis Florisz. Blom,republiek_2494
-1210,1210,Wigbold Adriaan Graaf van Nassau-Bergen,republiek_2660
-1211,1211,Cornelis Teymon,republiek_2877
-1212,1212,Jacob de Block,republiek_2960
-1213,1213,Nicolaas de Block,republiek_2959
-1214,1214,Johan Ghyselingh,republiek_3119
-1215,1215,Gasper Ingelsen,republiek_3120
-1216,1216,Ingel Leunissen,republiek_3115
-1217,1217,Adriaan Mannemaker,republiek_3057
-1218,1218,Diderik Buysero,republiek_2994
-1219,1219,Johan Gijseling,republiek_3193
-1220,1220,Salomon Dierquens,republiek_418
-1221,1221,André Hesselt van Dinther,republiek_3227
-1222,1222,Andries Hessels van Dinther,republiek_3227
-1223,1223,Mattheus Hessels van Dinther,republiek_3231
-1224,1224,Jasper van Kinschot,republiek_407
-1225,1225,Boudewijn van Barlicom,republiek_3245
-1226,1226,Gijsbrecht van Loen,republiek_3253
-1227,1227,Cornelis Vrancken,republiek_3252
-1228,1228,Derk Frederik van Voorst tot Alerdinck,republiek_3413
-1229,1229,Borchard Joost van Welvelde tot Buckhorst,republiek_3268
-1230,1230,Wolter Jan van Broeckhuysen tot den Doorn,republiek_3272
-1231,1231,Wolf Bentinck tot Langevelso,republiek_3273
-1232,1232,August Leopold van Pallandt tot Eerde,republiek_3277
-1233,1233,Gerrit Helmich van Voorst tot Alerdinck,republiek_3279
-1234,1234,Robert Hendrik van Hambroeck tot Welefelt,republiek_3330
-1235,1235,Frederik Gijsbert van Dedem tot den Pekkedam,republiek_3331
-1236,1236,Frederik Gijsbert van Dedem tot Hackmeule,republiek_3331
-1237,1237,Arend van Raesfelt tot Elssen,republiek_3329
-1238,1238,Arend Coenraad van der Lauwick tot Benthuis,republiek_3445
-1239,1239,Christoffel Aemilius van Voorst tot Hagenvoorde,republiek_3499
-1240,1240,Gillis de Geerbode,republiek_994
-1241,1241,Adriaan van Allemande,republiek_1003
-1242,1242,Jacob Wormersen van Schonen,republiek_1051
-1243,1243,Cornelis van Nierop,republiek_1066
-1244,1244,Joachim van Nierop,republiek_1067
-1245,1245,Adriaan de Raat,republiek_1099
-1246,1246,Cornelis Cornelisz. Butterkooper,republiek_1231
-1247,1247,Adriaen 't Jonk,republiek_1646
-1248,1248,Kasper van Poelgeest,republiek_1983
-1249,1249,Joos de Huybert,republiek_3156
-1250,1250,Cornelis Joansz. Steengracht de Wehl,republiek_3186
-1251,1251,Gerhardt Doncker,republiek_3290
-1252,1252,Roelof van den Clooster tot Groenlo,republiek_3509
-1253,1253,Pieter Stas,republiek_3258
-1254,1254,Henrick Nieulandt,republiek_3565
-1255,1255,Johan d'Alles,republiek_3178
-1256,1256,Cornelis Munnicken,republiek_2880
-1257,1257,Bonaventura Broen de Keijzer,republiek_2924
-1258,1258,Jacob Arent Baron de Perponcher Sedlnitsky,republiek_430
-1259,1259,Willem Coux,republiek_2928
-1260,1260,George Rathaller,republiek_1736
-1261,1261,Alexander Widenbrug,republiek_2262
-1262,1262,Crijn Takesz. Ossekooper,republiek_1235
-1263,1263,Frederik Ricxen,republiek_1759
-1264,1264,Jacob Pietersz. Tromp,republiek_2130
-1265,1265,Nanning Kayser,republiek_2241
-1266,1266,Jan Jansz. Teengh van Berkhout,republiek_2309
-1267,1267,Willem van der Aa,republiek_2368
-1268,1268,Jacob Johansz. van Meeuwen,republiek_2479
-1269,1269,Willem Cornelisz. de Jonge,republiek_2521
-1270,1270,Aelbert Nierop,republiek_2715
-1271,1271,Johan Valentijn Sprenger,republiek_3167
-1272,1272,Gerhard Joan van Suchtelen,republiek_3306
-1273,1273,Berent de Lespierre,republiek_3743
-1274,1274,Roelof van Hoevell tot Nijenhuis,republiek_3808
-1275,1275,Roelof van Hoevell tot den Dam,republiek_3808
-1276,1276,Pieter de Hynojossa,republiek_1676
-1277,1277,Jodocus de Huybert,republiek_3156
-1278,1278,Pieter Ingelveert,republiek_3053
-1279,1279,Pieter Engelvaart,republiek_3053
-1280,1280,Cornelis Staefnisse,republiek_3144
-1281,1281,Cornelis Staefvenisse,republiek_3144
-1282,1282,Joos Ewoudsz. Teeling,republiek_3079
-1283,1283,Pieter Duijvelaer,republiek_3157
-1284,1284,François Valerius,republiek_4043
-1285,1285,David Hubert Verelst,republiek_3852
-1286,1286,Jan van de Werke,republiek_3140
-1287,1287,Nicolaas Willemsz. van Cromstryen,republiek_4059
-1288,1288,Dirck Stickingh,republiek_3283
-1289,1289,Lambert ter Cuelen,republiek_3812
-1290,1290,Lambert ter Coelen,republiek_3812
-1291,1291,Hendrik Haga,republiek_3364
-1292,1292,Diederik Stikke,republiek_3283
-1293,1293,Arnold Lemker,republiek_3296
-1294,1294,Casper ter Borchorst,republiek_3339
-1295,1295,Casper ter Borgersz.,republiek_3339
-1296,1296,Hendrik ter Coelen,republiek_3381
-1297,1297,Steven Cornelisz. Nijs,republiek_3067
-1298,1298,Pieter Jansz. Liorne,republiek_4078
-1299,1299,Pieter Jansz. Livorne,republiek_4078
-1300,1300,Willem Pietersz. Caescooper,republiek_2524
-1301,1301,Theodorus Huberti,republiek_3816
-1302,1302,Willem Ripperda tot Hengelo,republiek_3317
-1303,1303,Ernst van Ittersum tot de Hofstede,republiek_3631
-1304,1304,Willem Ripperda tot Boekelo,republiek_3317
-1305,1305,Arend Sloet tot Tweenijenhuizen,republiek_3455
-1306,1306,Willem Jurjen van den Boetzelaer tot Westerholt,republiek_3706
-1307,1307,Peter van Uterwyck tot Alerdinck,republiek_3436
-1308,1308,Ernst van Ittersum tot Beverveurde,republiek_3437
-1309,1309,Gerrit Sloet tot Bannevelt,republiek_3453
-1310,1310,Arend Herman Sloet tot Tweenijenhuizen,republiek_3732
-1311,1311,François Francq,republiek_1655
-1312,1312,Crijn Takesz. Osseweyer,republiek_1235
-1313,1313,Pieter Ingelbert,republiek_3053
-1314,1314,Feynte Fredericx,republiek_4109
-1315,1315,George de Bie,republiek_3997
-1316,1316,Jacques Walravens,republiek_4110
-1317,1317,Fento Rixen,republiek_4109
-1318,1318,Fento Fredericsz. Blauvelt,republiek_4109
-1319,1319,Pieter van Borre,republiek_3257
-1320,1320,Augustinus Bakker,republiek_3969
-1321,1321,Jacob Fabrice Bouman,republiek_3989
-1322,1322,Jacob van Aerssen,republiek_3230
-1323,1323,Pierre Changuion,republiek_4149
-1324,1324,Hendrik Verburch,republiek_4171
-1325,1325,Casper Fagel,republiek_770
-1326,1326,Hendrik Huigh,republiek_1162
-1327,1327,Comen Reyner Fransz.,republiek_1195
-1328,1328,Adolphus Transisulanus van Voorst,republiek_1852
-1329,1329,Hendrik Willemsz. van den Broeck,republiek_1972
-1330,1330,Willem van Lijere,republiek_2019
-1331,1331,Galenus Bevers,republiek_2990
-1332,1332,Jodocus Fockinck,republiek_3574
-1333,1333,Theodorus Berdenis,republiek_3742
-1334,1334,Johan ter Beeck,republiek_3810
-1335,1335,Adriaan van der Hooge,republiek_2834
-1336,1336,Nicolaas Willem Symonsz. Cromstryen,republiek_4059
-1337,1337,Johan Ghiselyn,republiek_3193
-1338,1338,François Francken,republiek_1655
-1339,1339,Johan van Boeckhoven,republiek_2954
-1340,1340,Diederik van Egmond van de Nijenburg,republiek_1625
-1341,1341,Gerrit Jansz. van de Nieuburch,republiek_1266
-1342,1342,Cornelis Jansz. van de Nieuwburg,republiek_1980
-1343,1343,Johan Gerritsz. van de Nijenburgh,republiek_1275
-1344,1344,Lucas Siberti,republiek_4200
-1345,1345,Gasper Jacob van Citters,republiek_2940
-1346,1346,Jan André van der Meulen,republiek_4239
-1347,1347,Meynart van Hensz.,republiek_4212
-1348,1348,Meynart van Huessen,republiek_4212
-1349,1349,Meynart van Huissen,republiek_4212
-1350,1350,Jacob van Beresteyn,republiek_4211
-1351,1351,Jan Claasz. Noortland,republiek_2232
-1352,1352,Joachim van den Boetzelaer tot Toutenburg,republiek_4096
-1353,1353,Buyesius,republiek_1669
-1354,1354,Edzard Jacob Lewe van Middelstum,republiek_5098
-1355,1355,Berend Alting,republiek_5330
-1356,1356,Daniel Henri l'Argentier,republiek_5702
-1357,1357,Hindrick Grauwens,republiek_5403
-1358,1358,Johannes Grauwens,republiek_5435
-1359,1359,Hendrik van Heek,republiek_4285
-1360,1360,Borchert van Aswede,republiek_4288
-1361,1361,Nicolaas van Millinga,republiek_4289
-1362,1362,Sijger Sijgers,republiek_4290
-1363,1363,Siger de Sigers,republiek_4290
-1364,1364,Rudolf Dijk,republiek_4311
-1365,1365,Eling Ketel,republiek_4322
-1366,1366,Hendrik Swartte,republiek_4323
-1367,1367,Pompejus de Valcke,republiek_4370
-1368,1368,Abel Coenders de oudere,republiek_5011
-1369,1369,Abel Coenders de jongere,republiek_5741
-1370,1370,Sijger Sijgers in den Dam,republiek_5386
-1371,1371,Wicher Wichers de jongere,republiek_5744
-1372,1372,Wicher Wichers de oudere,republiek_5745
-1373,1373,Theodorus Jacob Clant,republiek_5136
-1374,1374,Johan de Mepsche op den Ham,republiek_5378
-1375,1375,Willem Ubbena de jonge,republiek_5423
-1376,1376,Edzard Rengers ten Post,republiek_5472
-1377,1377,Reint Alberda de jonge,republiek_5594
-1378,1378,Ulrich van Ewsum,republiek_5675
-1379,1379,Focko Ulfarts van Hoysum,republiek_5446
-1380,1380,Otto van Farmsum,republiek_5026
-1381,1381,Johan van Meurs,republiek_5192
-1382,1382,Jan Remmert Clant van Godlinze,republiek_5271
-1383,1383,Hendrik van Bushoff (Boshoff).,republiek_6577
-1384,1384,Meurs,republiek_6578
-1385,1385,Hartfelt,republiek_5760
-1386,1386,Joan Frederik Gordon,republiek_5174
-1387,1387,Adriaan Wolter Willem Stoet tot Diepenbroek,republiek_6796
-1388,1388,Alexander Munq de oude,republiek_6941
-1389,1389,'t manke van Furstendom van Gelre,republiek_4960
-1390,1390,Guillielmo Bartolotti,republiek_7387
-1391,1391,Cornelis Nicolaessoon,republiek_7481
-1392,1392,van Diederen,republiek_6586
-1393,1393,Martin Gregorii,republiek_5749
+,index,alias,idpersoon,old_idpersoon
+0,0,Bertrand dit Béto,154,batfra_154
+1,1,Rooie Pieter,638,batfra_638
+2,2,"Ville-sur-Illon, Comte de Lacépède.",145,batfra_145
+3,3,"Verhuell, Graaf van Sevenaer.",35,batfra_35
+4,4,"Twenth van Raephorst, Graaf van Rozenburg.",15,batfra_15
+5,5,"Winter, Graaf van Huessen",207,batfra_207
+6,6,"Cambacérès, Prince-Duc de Parme",71,batfra_71
+7,7,"Caulaincourt, Duc de Vicence",129,batfra_129
+8,8,"Clarke, Duc de Feltre",77,batfra_77
+9,9,"Duroc, Duc de Frioul.",126,batfra_126
+10,10,"Gaudin, Duc de Gaëte",81,batfra_81
+11,11,"Moncey, Duc de Conegliano",94,batfra_94
+12,12,"Lebrun, Prince-Duc de Plaisance",100,batfra_100
+13,13,"Maret, Duc de Bassano",73,batfra_73
+14,14,"Nompère de Champagny, Duc de Cadore",80,batfra_80
+15,15,"Régnier, Duc de Massa",84,batfra_84
+16,16,"Savary, Duc de Rovigo",85,batfra_85
+17,17,Pol,871,batfra_871
+18,18,Dedden,1442,batfra_1442
+19,19,Tymmerman,1486,batfra_1486
+20,20,Nanninks,1489,batfra_1489
+21,21,Borgerink,1325,batfra_1325
+22,22,Bruins,1308,batfra_1308
+23,23,Brons,1308,batfra_1308
+24,24,Heumelder,1505,batfra_1505
+25,25,Snijders,1387,batfra_1387
+26,26,Meilink,1676,batfra_1676
+27,27,Leeuwenkamp,1746,batfra_1746
+28,28,Adriaansen,1761,batfra_1761
+29,29,Kaelcken,1802,batfra_1802
+30,30,Nieuwenhuis,1818,batfra_1818
+31,31,Baars,1856,batfra_1856
+32,32,Caen,2438,batfra_2438
+33,33,"Noever, Ten",861,batfra_861
+34,34,Vrijdag,1306,batfra_1306
+35,35,Sut,2349,batfra_2349
+36,36,Bisschop,2572,batfra_2572
+37,37,Gerritzen,2629,batfra_2629
+38,38,Drochlet,2845,batfra_2845
+39,39,Droilhet,2845,batfra_2845
+40,40,Jalink,2806,batfra_2806
+41,41,,2573,batfra_2573
+42,42,Issing,2907,batfra_2907
+43,43,Orklij,2749,batfra_2749
+44,44,Pijpers,2842,batfra_2842
+45,45,Dingman,2998,batfra_2998
+46,46,Haagen.,378,batfra_378
+47,47,Gaschard,2987,batfra_2987
+48,48,Bonnikerhausen,3096,batfra_3096
+49,49,Feijt,2812,batfra_2812
+50,50,Schneitter,3175,batfra_3175
+51,51,Ogelwigt,3162,batfra_3162
+52,52,Suermond,2698,batfra_2698
+53,53,,3112,batfra_3112
+54,54,,1171,batfra_1171
+55,55,,2192,batfra_2192
+56,56,,462,batfra_462
+57,57,,122,batfra_122
+58,58,,65,batfra_65
+59,59,,1748,batfra_1748
+60,60,,2510,batfra_2510
+61,61,,1682,batfra_1682
+62,62,,234,batfra_234
+63,63,Van Middachten van Vrieswijk en Oldhagensdorp,1319,batfra_1319
+64,64,Muentz,1256,batfra_1256
+65,65,Sijpkens,350,batfra_350
+66,66,L' Espinasse,831,batfra_831
+67,67,Tobias.,57,batfra_57
+68,68,Vermoedelijk Goske Cassa.,2832,batfra_2832
+69,69,Aufmorth,2598,batfra_2598
+70,70,Migchels,3339,batfra_3339
+71,71,Verhousen,20,batfra_20
+72,72,Naam las eerst als Masehoek.,3368,batfra_3368
+73,73,Vatenbender,934,batfra_934
+74,74,Heijden,3385,batfra_3385
+75,75,Of J.G.C.,3362,batfra_3362
+76,76,Blijswijk Parde,3371,batfra_3371
+77,77,Raay,3390,batfra_3390
+78,78,Fallee en Galle.,3367,batfra_3367
+79,79,,3386,batfra_3386
+80,80,F.H. zou ook kunnen.,3207,batfra_3207
+81,81,NB Elders lijkt er sprake te zijn van andere voorletters in rijtje met dezelfde collega's (C.A. voor C.A. van Ray? Dus vermoedelijk gewoon een fout.),2661,batfra_2661
+82,82,Elders J.H.,3185,batfra_3185
+83,83,Boudewijn (zie Van der Aa.),629,batfra_629
+84,84,Adrianus Francois,69,batfra_69
+85,85,Jacob George Jeronimo,498,batfra_498
+86,86,,2986,batfra_2986
+87,87,"Zou ook Tilenius kunnen zijn, zie hiertoe Van der Aa.",2893,batfra_2893
+88,88,Fromant,210,batfra_210
+89,89,Gazinget,2968,batfra_2968
+90,90,Gerritsen,2629,batfra_2629
+91,91,Goetzee,1563,batfra_1563
+92,92,Zeylstra,1117,batfra_1117
+93,93,Kijmmel,2975,batfra_2975
+94,94,Kok,2885,batfra_2885
+95,95,Kühl,2753,batfra_2753
+96,96,Lelijveld,2646,batfra_2646
+97,97,Mallevault,259,batfra_259
+98,98,Marnet,592,batfra_592
+99,99,Covert,1014,batfra_1014
+100,100,Polarin,3393,batfra_3393
+101,101,Reijn,2887,batfra_2887
+102,102,Romerts,1632,batfra_1632
+103,103,Reynders,1604,batfra_1604
+104,104,Nijenhuis,1657,batfra_1657
+105,105,Barink,1659,batfra_1659
+106,106,Stokebrand,1672,batfra_1672
+107,107,Braak,1680,batfra_1680
+108,108,Lammerdink,1726,batfra_1726
+109,109,Haasewinkel,1740,batfra_1740
+110,110,Schuijseman,1741,batfra_1741
+111,111,Bekman,1749,batfra_1749
+112,112,Geurts,1783,batfra_1783
+113,113,Vooren,2829,batfra_2829
+114,114,Volckar,2902,batfra_2902
+115,115,Okke,2712,batfra_2712
+116,116,Siebes,3432,batfra_3432
+117,117,Berkhof,3348,batfra_3348
+118,118,Bisschop,2577,batfra_2577
+119,119,Bernhofft,2850,batfra_2850
+120,120,Scheffer,3403,batfra_3403
+121,121,Slingenburg,3295,batfra_3295
+122,122,"Clé, J. la",528,batfra_528
+123,123,Ekkenhuisen,2782,batfra_2782
+124,124,Deurveldt,3280,batfra_3280
+125,125,Bisschop,3486,batfra_3486
+126,126,Saaijmans,2888,batfra_2888
+127,127,Eikendal,2756,batfra_2756
+128,128,De Coninck d'Outryve,135,batfra_135
+129,129,Wittert van Bloemendaal,3569,batfra_3569
+130,130,Harij,2995,batfra_2995
+131,131,Calkoen van Kortenhoef,422,batfra_422
+132,132,Van Asbeck tot Berge en Munsterhausen,439,batfra_439
+133,133,Van Aylva van Waardenburg en Neerijnen,693,batfra_693
+134,134,Van Brienen van de Groote Lindt,222,batfra_222
+135,135,Van Wickevoort Crommelin van Berkenrode,4,batfra_4
+136,136,Van der Goes van Dirxland,17,batfra_17
+137,137,Van Heeckeren van Enghuizen,1566,batfra_1566
+138,138,Van Heeckeren van Beverweerd,1566,batfra_1566
+139,139,Van Leyden van Westbarendrecht,14,batfra_14
+140,140,Van Lynden van Lunenburg,180,batfra_180
+141,141,Van Pallandt van Eerde,465,batfra_465
+142,142,Van Pallandt tot Beerse,465,batfra_465
+143,143,Sloet van Warmelo,3086,batfra_3086
+144,144,Van Spaen van Biljoen,915,batfra_915
+145,145,Van Spaen la Lecq van Hardenstein,3190,batfra_3190
+146,146,Hendrik Jansz. Mossel van Stralen,392,batfra_392
+147,147,"Fontein Verschuir van Heiloo, Oesdom en ter Coulster",298,batfra_298
+148,148,De Vos van Steenwijk van den Hogenhof,181,batfra_181
+149,149,Van Bylandt Halt,726,batfra_726
+150,150,Nagell,3257,batfra_3257
+151,151,Van Pallandt van Keppel,428,batfra_428
+152,152,Van Pallandt van Barlham,428,batfra_428
+153,153,Van Rhemen van Rhemenshuizen,886,batfra_886
+154,154,Singendonck van Dieden,909,batfra_909
+155,155,Staring van den Wildenborch,1513,batfra_1513
+156,156,Van Zuylen van Nievelt van den Schaffelaar,961,batfra_961
+157,157,Van Dedem van de Rollecate,2516,batfra_2516
+158,158,Van Dedem van de Berg,2516,batfra_2516
+159,159,Van Haersolte tot den Doorn,777,batfra_777
+160,160,Reint Willem van Middachten,1319,batfra_1319
+161,161,Beelaerts van Emmichoven,2680,batfra_2680
+162,162,Gevaerts van Geervliet,2112,batfra_2112
+163,163,Reepmaker van Strevelshoek,565,batfra_565
+164,164,Six van Hillegom,912,batfra_912
+165,165,Jantzon van Nieuwland,2497,batfra_2497
+166,166,Nahuys van Burgst,1967,batfra_1967
+167,167,Trip van Zoudtlandt,931,batfra_931
+168,168,Pierre Hofstede,138,batfra_138
+169,169,Van Holthe van Echten,795,batfra_795
+170,170,De Vos van Steenwijk tot Havixhorst,636,batfra_636
+171,171,Van Haersma van Nederhorst den Berg,1106,batfra_1106
+172,172,Huydecoper van Maarsseveen,2803,batfra_2803
+173,173,Six van Oterleek,7,batfra_7
+174,174,Taets van Amerongen van Woudenberg,2935,batfra_2935
+175,175,Van Heiden Reinestein tot Laarwoud,785,batfra_785
+176,176,Van Schuylenburch van Bommenede,904,batfra_904
+177,177,Canneman van de Mijle,26,batfra_26
+178,178,Groeninx van Zoelen van Ridderkerk,2480,batfra_2480
+179,179,Collot d'Escury van Heinenoord,2476,batfra_2476
+180,180,Warin van Schonauwen,3071,batfra_3071
+181,181,Van der Brugghen van Croy,2467,batfra_2467
+182,182,Cuypers van Spangen,438,batfra_438
+183,183,Sandberg van 't Laar,3315,batfra_3315
+184,184,Van Heeckeren van Brandsenburg en Boelestein,3523,batfra_3523
+185,185,Caan van Maurick,2438,batfra_2438
+186,186,Van Gobbelschroy van Spoelbeeck,237,batfra_237
+187,187,Verstolk van Soelen,141,batfra_141
+188,188,Van der Capellen van Berkenwoude,16,batfra_16
+189,189,Repelaer van Driel,429,batfra_429
+190,190,Von Müntz van Heuvelwijk,1256,batfra_1256
+191,191,Van Limburg Stirum van de Wildenborch,179,batfra_179
+192,192,Eppo Cremers,182,batfra_182
+193,193,De Sandra Veldtman van Slochteren,2951,batfra_2951
+194,194,Bijleveld van den Ham,2930,batfra_2930
+195,195,De Perponcher Sedlnitsky van Wolphaartsdijk,3115,batfra_3115
+196,196,Cramer van Ootmarsum,631,batfra_631
+197,197,Blijdenstein van Enschede,706,batfra_706
+198,198,Sloet van Tweenyenhuizen en Bredenhorst,2936,batfra_2936
+199,199,De Jongh van Son van Raamsdonk,1008,batfra_1008
+200,200,Van Kretschmar van Veen,3270,batfra_3270
+201,201,Speelman van Heeswijk en Dinther,916,batfra_916
+202,202,Lambrechtsen van Ritthem,1893,batfra_1893
+203,203,Gevers van Endegeest en Kethel en Spaland,427,batfra_427
+204,204,Van Hees van Berkel,2473,batfra_2473
+205,205,Repelaer van Spijkenisse,884,batfra_884
+206,206,Repelaer van Valkenswaard,884,batfra_884
+207,207,Van Tets van Goudriaan,3094,batfra_3094
+208,208,Van Tuyll van Serooskerken van Vleuten,301,batfra_301
+209,209,Van der Borch van Vorden,294,batfra_294
+210,210,Van Pallandt van Eerde,450,batfra_450
+211,211,Van Kinsbergen van Doggersbank,232,batfra_232
+212,212,Van Heeckeren van de Cloese,304,batfra_304
+213,213,Van Haersolte van Staverden,314,batfra_314
+214,214,Van Pallandt van Walfort en Klarenbeek,1574,batfra_1574
+215,215,Aaldert Schouten,1628,batfra_1628
+216,216,Wittert van Hoogland,3569,batfra_3569
+217,217,Van Doorn van Westkapelle,3088,batfra_3088
+218,218,Linsen de Jonge,2463,batfra_2463
+219,219,Van Gennip,460,batfra_460
+220,220,Van Nagell van Ampsen,3257,batfra_3257
+221,221,Van Rhemen van Rhemenshuizen en de Geldersche Toren,886,batfra_886
+0,0,Van der Capellen van Berkenwoude,3860,negentiende_eeuw_3860
+1,1,Repelaer van Driel,3867,negentiende_eeuw_3867
+2,2,Pélichy de Lichtervelde,3870,negentiende_eeuw_3870
+3,3,Van Ewijck van Oostbroek en De Bilt,3877,negentiende_eeuw_3877
+4,4,Von Müntz van Heuvelwijk,3904,negentiende_eeuw_3904
+5,5,Provó Kluit van Rijnsaterwoude,3945,negentiende_eeuw_3945
+6,6,Noiret de Bruyn van Melis- en Mariekerke,3965,negentiende_eeuw_3965
+7,7,Melort van Middelharnis (1840),3968,negentiende_eeuw_3968
+8,8,Evertsz,3969,negentiende_eeuw_3969
+9,9,De Vos van Nederveen Cappel,3974,negentiende_eeuw_3974
+10,10,Van Hugenpoth tot den Beerenclaauw,4107,negentiende_eeuw_4107
+11,11,Rau van Gameren,4015,negentiende_eeuw_4015
+12,12,De Lange van Wijngaarden,4047,negentiende_eeuw_4047
+13,13,Van Panhuys van Haeren,4092,negentiende_eeuw_4092
+14,14,Ver Loren van Themaat,4130,negentiende_eeuw_4130
+15,15,Coenen van 's Gravesloot,4138,negentiende_eeuw_4138
+16,16,Van Rijckevorsel van Rijsenburg,4141,negentiende_eeuw_4141
+17,17,Van Oosthuyse van Rijckevorsel van Rijsenburg,4141,negentiende_eeuw_4141
+18,18,Van Doorn van Koudekerke,4145,negentiende_eeuw_4145
+19,19,Lambrechtsen van Ritthem,4148,negentiende_eeuw_4148
+20,20,Schorer van St. Philipsland,4150,negentiende_eeuw_4150
+21,21,Versluys van Krabbendijke en Nieuwlande,4151,negentiende_eeuw_4151
+22,22,De Bruyn van Melis- en Mariekerke,4161,negentiende_eeuw_4161
+23,23,De Jongh van Hedikhuizen,4137,negentiende_eeuw_4137
+24,24,Van Middachten van Vrieswijk en Oldhagensdorp,3014,negentiende_eeuw_3014
+25,25,De Vos van Steenwijk van den Oldenhof,3027,negentiende_eeuw_3027
+26,26,Strick van Linschoten van Bunnik en Vechten,3306,negentiende_eeuw_3306
+27,27,Van der Burgh van Kroonenburgh,3224,negentiende_eeuw_3224
+28,28,Von Schwartz van Ansen,4168,negentiende_eeuw_4168
+29,29,Van Hoey van Vlijmen,4171,negentiende_eeuw_4171
+30,30,Van Teylingen van Hilvarenbeek,4179,negentiende_eeuw_4179
+31,31,Van Heeckeren van Brandsenburg en Boelestein,3505,negentiende_eeuw_3505
+32,32,De Marees van Swinderen van Allersma,3199,negentiende_eeuw_3199
+33,33,Rietvelt van Herpt en Sprang,3141,negentiende_eeuw_3141
+34,34,Van Wickevoort Crommelin van Berkenrode,2727,negentiende_eeuw_2727
+35,35,Cuypers van Spangen,3466,negentiende_eeuw_3466
+36,36,Van Haersma van Nederhorst den Berg,3244,negentiende_eeuw_3244
+37,37,Van Berenbroeck,2849,negentiende_eeuw_2849
+38,38,François van Harencarspel Decker van Beverwijk,3043,negentiende_eeuw_3043
+39,39,Taets van Amerongen van Natewisch,2884,negentiende_eeuw_2884
+40,40,De Jonge van Ellemeet,2885,negentiende_eeuw_2885
+41,41,Van der Lek de Clercq van Stavenisse,2886,negentiende_eeuw_2886
+42,42,Paspoort van Grijpskerke,2887,negentiende_eeuw_2887
+43,43,Gevers van Endegeest,2890,negentiende_eeuw_2890
+44,44,'t Hooft van Benthuizen,2893,negentiende_eeuw_2893
+45,45,Huughe van Peutevin,2904,negentiende_eeuw_2904
+46,46,Van Tets van Goudriaan,2908,negentiende_eeuw_2908
+47,47,Van Borssele van Wadenoyen,2913,negentiende_eeuw_2913
+48,48,Van Bylandt Halt,2917,negentiende_eeuw_2917
+49,49,Van der Capellen van Rijsselt,2918,negentiende_eeuw_2918
+50,50,Van Dedem van Vosbergen,2920,negentiende_eeuw_2920
+51,51,Engelen van Angerstein,2925,negentiende_eeuw_2925
+52,52,Van Heeckeren van de Wiersse,2931,negentiende_eeuw_2931
+53,53,Van Heeckeren van Nettelhorst,2932,negentiende_eeuw_2932
+54,54,Van Hövell tot Westerflier en Wezeveld,2933,negentiende_eeuw_2933
+55,55,Van Loë van Overdijck,2937,negentiende_eeuw_2937
+56,56,Van Lynden van Oldenaller en de Snor,2938,negentiende_eeuw_2938
+57,57,Mackay van Ophemert en Zennewijnen,2939,negentiende_eeuw_2939
+58,58,Van Nagell van Ampsen,2940,negentiende_eeuw_2940
+59,59,Van Pabst van Bingerden,2944,negentiende_eeuw_2944
+60,60,Van Pallandt van Keppel,2945,negentiende_eeuw_2945
+61,61,Van Rappard van Balgoy,2948,negentiende_eeuw_2948
+62,62,Van Rhemen van Rhemenshuizen,2950,negentiende_eeuw_2950
+63,63,Singendonck van Dieden,2954,negentiende_eeuw_2954
+64,64,Van Spaen van Schouwenburg,2955,negentiende_eeuw_2955
+65,65,Staring van den Wildenborch,2957,negentiende_eeuw_2957
+66,66,Van Westerholt van Hacfort,2965,negentiende_eeuw_2965
+67,67,Van Zuylen van Nievelt van den Schaffelaar,2966,negentiende_eeuw_2966
+68,68,Van der Haer van Campensnieuwland,2976,negentiende_eeuw_2976
+69,69,Bentinck van Schoonheten,2997,negentiende_eeuw_2997
+70,70,Bentinck van Schoonheten,2998,negentiende_eeuw_2998
+71,71,Van Dedem van de Rollecate,3000,negentiende_eeuw_3000
+72,72,Gansneb genaamd Tengnagel van de Luttenberg,3003,negentiende_eeuw_3003
+73,73,Van Haersolte tot den Doorn,3005,negentiende_eeuw_3005
+74,74,Van Isselmuden van Zwollingercamp,3009,negentiende_eeuw_3009
+75,75,Van Ittersum van Relaer,3010,negentiende_eeuw_3010
+76,76,Van Rechteren van de Hofstede,3019,negentiende_eeuw_3019
+77,77,Van Rechteren Limpurg van Rechteren,3020,negentiende_eeuw_3020
+78,78,Beelaerts van Emmichoven,3033,negentiende_eeuw_3033
+79,79,Bisdom van Vliet,3036,negentiende_eeuw_3036
+80,80,Van der Goes van Naters,3054,negentiende_eeuw_3054
+81,81,De Heere van Holy,3057,negentiende_eeuw_3057
+82,82,Niclas Kyronius,3064,negentiende_eeuw_3064
+83,83,Van Lockhorst van Toll en Venhuizen,3074,negentiende_eeuw_3074
+84,84,Van Poeliën van Nuland,3085,negentiende_eeuw_3085
+85,85,Reepmaker van Strevelshoek,3089,negentiende_eeuw_3089
+86,86,De Roo van Westmaas,3091,negentiende_eeuw_3091
+87,87,Six van Hillegom,3095,negentiende_eeuw_3095
+88,88,Van Boetzelaer van Kijfhoek,2692,negentiende_eeuw_2692
+89,89,Calkoen van Kortenhoef,2693,negentiende_eeuw_2693
+90,90,Van der Heyden van Baak,2694,negentiende_eeuw_2694
+91,91,Van Aerschot van Schoonhoven,2702,negentiende_eeuw_2702
+92,92,Van Aylva van Waardenburg en Neerijnen,2704,negentiende_eeuw_2704
+93,93,Van Boetzelaer van Dubbeldam,2711,negentiende_eeuw_2711
+94,94,Van Brienen van de Groote Lindt,2715,negentiende_eeuw_2715
+95,95,Van Brienen van de Groote Lindt,2716,negentiende_eeuw_2716
+96,96,De Goër de Forêt,2737,negentiende_eeuw_2737
+97,97,Van der Goes van Dirxland,2738,negentiende_eeuw_2738
+98,98,Van Heeckeren van Enghuizen,2745,negentiende_eeuw_2745
+99,99,Van Heeckeren van Enghuizen en Beverweerd,2746,negentiende_eeuw_2746
+100,100,Van Heerdt tot Eversberg,2747,negentiende_eeuw_2747
+101,101,De Hemricourt de Ramioul,2750,negentiende_eeuw_2750
+102,102,De Keverberg d'Aldengoor,2760,negentiende_eeuw_2760
+103,103,Van Leyden van Westbarendrecht,2764,negentiende_eeuw_2764
+104,104,Liedekerke de Beaufort prins de Gavre,2765,negentiende_eeuw_2765
+105,105,De Liedel de Well,2766,negentiende_eeuw_2766
+106,106,Van Limburg Stirum Noordwijk,2769,negentiende_eeuw_2769
+107,107,Van Lynden van Hemmen,2773,negentiende_eeuw_2773
+108,108,Van Lynden van Lunenburg,2774,negentiende_eeuw_2774
+109,109,Van Nes van Meerkerk,2783,negentiende_eeuw_2783
+110,110,De Néverlée de la Fortelle,2784,negentiende_eeuw_2784
+111,111,Van Pallandt van Eerde,2790,negentiende_eeuw_2790
+112,112,Van Pallandt van Beerse,2791,negentiende_eeuw_2791
+113,113,De Pesters van Cattenbroek,2792,negentiende_eeuw_2792
+114,114,Schimmelpenninck van Nijenhuis,2803,negentiende_eeuw_2803
+115,115,Schimmelpenninck van der Oye van den Poll,2804,negentiende_eeuw_2804
+116,116,Sloet van Warmelo,2806,negentiende_eeuw_2806
+117,117,Van Spaen van Biljoen,2807,negentiende_eeuw_2807
+118,118,Van Spaen la Lecq van Hardenstein,2808,negentiende_eeuw_2808
+119,119,Steengracht van Oosterland,2810,negentiende_eeuw_2810
+120,120,De Stockhem de Heers,2811,negentiende_eeuw_2811
+121,121,Van Swinderen van Rensuma,2813,negentiende_eeuw_2813
+122,122,Van Tuyll van Serooskerken van Zuylen,2820,negentiende_eeuw_2820
+123,123,Vaernewijck d'Angest,2821,negentiende_eeuw_2821
+124,124,"Fontein Verschuir van Heiloo, Oesdom en ter Coulster",2823,negentiende_eeuw_2823
+125,125,De Vinck de Wesel,2824,negentiende_eeuw_2824
+126,126,De Vos van Steenwijk van den Hogenhof,2825,negentiende_eeuw_2825
+127,127,Van Wassenaer van Starrenburg,2828,negentiende_eeuw_2828
+128,128,Van Weede van Dijkveld,2829,negentiende_eeuw_2829
+129,129,Van Pallandt van Waardenburg en Neerijnen,2836,negentiende_eeuw_2836
+130,130,Van Rhemen van Rhemenshuizen,2840,negentiende_eeuw_2840
+131,131,Van Goltstein van Oldenaller,2842,negentiende_eeuw_2842
+132,132,Sichterman van de Brake,2847,negentiende_eeuw_2847
+133,133,Boreel van Hogelanden,2874,negentiende_eeuw_2874
+134,134,Van Heeckeren van Wassenaer,2876,negentiende_eeuw_2876
+135,135,Soetens van Royen,2877,negentiende_eeuw_2877
+136,136,De Vos van Steenwijk van Voorstonden,2878,negentiende_eeuw_2878
+137,137,Martens van Sevenhoven,2880,negentiende_eeuw_2880
+138,138,Huydecoper van Maarsseveen,2883,negentiende_eeuw_2883
+139,139,Van der Staal van Piershil,3097,negentiende_eeuw_3097
+140,140,Van der Werff van Zuidland,3106,negentiende_eeuw_3106
+141,141,Wittert van Bloemendaal,3108,negentiende_eeuw_3108
+142,142,Van Zuylen van Nijevelt van de Ehze,3109,negentiende_eeuw_3109
+143,143,Van Hogendorp van Hofwegen,3128,negentiende_eeuw_3128
+144,144,Jantzon van Nieuwland,3133,negentiende_eeuw_3133
+145,145,De Jonge van Helvoirt,3135,negentiende_eeuw_3135
+146,146,Nahuys van Burgst,3138,negentiende_eeuw_3138
+147,147,De Grancy van Haanwijck,3145,negentiende_eeuw_3145
+148,148,De Smeth van Deurne,3146,negentiende_eeuw_3146
+149,149,Trip van Zoudtlandt,3150,negentiende_eeuw_3150
+150,150,De Voocht van het Hof te Tongelre,3154,negentiende_eeuw_3154
+151,151,Van Weichs van Winnen van Geysteren,3156,negentiende_eeuw_3156
+152,152,De Jonge van Campensnieuwland,3166,negentiende_eeuw_3166
+153,153,De Jonge van Ellemeet,3167,negentiende_eeuw_3167
+154,154,Mogge Muilman van Haamstede,3169,negentiende_eeuw_3169
+155,155,D'Aulnis de Bourouill van Bijma,3176,negentiende_eeuw_3176
+156,156,Polman Gruys van Garreweer,3180,negentiende_eeuw_3180
+157,157,Van Holthe van Echten,3182,negentiende_eeuw_3182
+158,158,Van In- en Kniphuizen van de Nienoord,3185,negentiende_eeuw_3185
+159,159,Wijchgel van Lellens,3206,negentiende_eeuw_3206
+160,160,Berg van Dussen-Muilkerk,3212,negentiende_eeuw_3212
+161,161,Hoeufft van Velsen,3254,negentiende_eeuw_3254
+162,162,Hovy van Spanderswoud,3259,negentiende_eeuw_3259
+163,163,Huydecoper van Maarsseveen,3260,negentiende_eeuw_3260
+164,164,Van Nellesteyn van Broekhuizen,3280,negentiende_eeuw_3280
+165,165,Nutges van Bennebroek,3283,negentiende_eeuw_3283
+166,166,Van Reede van Middachten,3292,negentiende_eeuw_3292
+167,167,Rendorp van Marquette,3293,negentiende_eeuw_3293
+168,168,Van Renesse van Wilp,3294,negentiende_eeuw_3294
+169,169,Six van Oterleek,3298,negentiende_eeuw_3298
+170,170,Taets van Amerongen van Woudenberg,3310,negentiende_eeuw_3310
+171,171,Van Bredehoff de Vicq van Oosthuizen,3313,negentiende_eeuw_3313
+172,172,Van Heiden Reinestein tot Laarwoud,3322,negentiende_eeuw_3322
+173,173,Van Heeckeren van Kell,3350,negentiende_eeuw_3350
+174,174,Van Lynden van Hoevelaken,3351,negentiende_eeuw_3351
+175,175,Van Nagell tot Ampsen,3356,negentiende_eeuw_3356
+176,176,Hora Siccama van Slochteren,3367,negentiende_eeuw_3367
+177,177,Van Schuylenburch van Bommenede,3389,negentiende_eeuw_3389
+178,178,Van Wassenaer van Sint Pancras,3392,negentiende_eeuw_3392
+179,179,Canneman van de Mijle,3398,negentiende_eeuw_3398
+180,180,Groeninx van Zoelen van Ridderkerk,3401,negentiende_eeuw_3401
+181,181,Collot d'Escury van Heinenoord,3403,negentiende_eeuw_3403
+182,182,Van Rhemen van Rhemenshuizen,3407,negentiende_eeuw_3407
+183,183,Caen,3746,negentiende_eeuw_3746
+184,184,Warin van Schonauwen,3408,negentiende_eeuw_3408
+185,185,Donker Curtius van Tienhoven,3415,negentiende_eeuw_3415
+186,186,Repelaer van Molenaarsgraaf,3422,negentiende_eeuw_3422
+187,187,Röell van Hazerswoude,3429,negentiende_eeuw_3429
+188,188,Van Hoorn van Burgh en Westland,3430,negentiende_eeuw_3430
+189,189,Mackay van Ophemert,3449,negentiende_eeuw_3449
+190,190,De Leonaerdts d'Achel,3454,negentiende_eeuw_3454
+191,191,Van der Brugghen van Croy,3465,negentiende_eeuw_3465
+192,192,Half-Wassenaer van Onsenoord,3467,negentiende_eeuw_3467
+193,193,Van Tuyll van Serooskerken van Heeze,3470,negentiende_eeuw_3470
+194,194,Sandberg van Essenburg,3484,negentiende_eeuw_3484
+195,195,Van Suchtelen van de Haare,3485,negentiende_eeuw_3485
+196,196,Bentinck van Nijenhuis,3486,negentiende_eeuw_3486
+197,197,Sandberg van 't Laar,3491,negentiende_eeuw_3491
+198,198,Van Rechteren van Appeltern,3495,negentiende_eeuw_3495
+199,199,Voet van Winssen van Sevenhoven,3500,negentiende_eeuw_3500
+200,200,Van Utenhove van Heemstede,3501,negentiende_eeuw_3501
+201,201,Van Tuyll van Serooskerken van Coelhorst,3502,negentiende_eeuw_3502
+202,202,Bijleveld van Serooskerke,3512,negentiende_eeuw_3512
+203,203,Egter van Wissekerke,3513,negentiende_eeuw_3513
+204,204,Slicher van Domburg,3514,negentiende_eeuw_3514
+205,205,Van Reenen van Loenen,3526,negentiende_eeuw_3526
+206,206,Van Walchren van Wadenoyen,3531,negentiende_eeuw_3531
+207,207,Mensonides van Hensbroek,3577,negentiende_eeuw_3577
+208,208,Schimmelpenninck van Nijenhuis,3584,negentiende_eeuw_3584
+209,209,Van Zuylen van Nijevelt van de Ehze,3601,negentiende_eeuw_3601
+210,210,Schuurbeque Boeye van de Haamstede,3622,negentiende_eeuw_3622
+211,211,De Geer van Jutphaas,3630,negentiende_eeuw_3630
+212,212,Van Tuyll van Serooskerken van Heeze en Leende,3636,negentiende_eeuw_3636
+213,213,Van Doorn van Westkapelle,3684,negentiende_eeuw_3684
+214,214,Gaiffier van de Velde d'Emeville,3688,negentiende_eeuw_3688
+215,215,Van Hambroick van Weleveld,3692,negentiende_eeuw_3692
+216,216,Van der Heim van Duivendijke,3694,negentiende_eeuw_3694
+217,217,koning Willem III,3705,negentiende_eeuw_3705
+218,218,koning Willem I,3706,negentiende_eeuw_3706
+219,219,koning Willem II,3707,negentiende_eeuw_3707
+220,220,prins Frederik,3708,negentiende_eeuw_3708
+221,221,prins Willem,3709,negentiende_eeuw_3709
+222,222,Van Pabst van Bingerden,3711,negentiende_eeuw_3711
+223,223,Van Rechteren van Ahnem,3715,negentiende_eeuw_3715
+224,224,Gericke van Herwijnen,3724,negentiende_eeuw_3724
+225,225,Pronck Appelius,3729,negentiende_eeuw_3729
+226,226,Brantsen van de Zijp,3742,negentiende_eeuw_3742
+227,227,De Crombrugghe van Looringhe,3751,negentiende_eeuw_3751
+228,228,De Gijzelaar,3760,negentiende_eeuw_3760
+229,229,Van Goltstein van Oldenaller,3764,negentiende_eeuw_3764
+230,230,Van der Gracht d'Eeghen,3766,negentiende_eeuw_3766
+231,231,Hemricourt de Ramioulle,3769,negentiende_eeuw_3769
+232,232,De Jongh van Son tot Raamsdonk,3777,negentiende_eeuw_3777
+233,233,Schimmelpenninck van der Oye tot den Poll,3805,negentiende_eeuw_3805
+234,234,Six van Oterleek,3808,negentiende_eeuw_3808
+235,235,Van Wassenaer Spanbroeck,3820,negentiende_eeuw_3820
+236,236,Van Heeckeren van Beverweerd,2745,negentiende_eeuw_2745
+237,237,Van Dedem van de Berg,3000,negentiende_eeuw_3000
+238,238,Del Court van Krimpen,3041,negentiende_eeuw_3041
+239,239,Van Heeckeren van Wassenaer-Twickel,2876,negentiende_eeuw_2876
+240,240,Wittert van Hoogland,3108,negentiende_eeuw_3108
+241,241,De Jonge van Zwijnsbergen,3135,negentiende_eeuw_3135
+242,242,Van Reede van Ginkel,3292,negentiende_eeuw_3292
+243,243,Gevers van Kethel en Spaland,3823,negentiende_eeuw_3823
+244,244,De Coninck d'Outryve,3828,negentiende_eeuw_3828
+245,245,Bentinck van Nijenhuis,3835,negentiende_eeuw_3835
+246,246,Verstolk van Soelen,3832,negentiende_eeuw_3832
+247,247,Van Tets van Goudriaan,3838,negentiende_eeuw_3838
+248,248,Bentinck van Buckhorst,3841,negentiende_eeuw_3841
+249,249,Van der Wyck tot de Klencke,4208,negentiende_eeuw_4208
+250,250,Van der Wyck tot de Klencke,4289,negentiende_eeuw_4289
+251,251,De Vos van Steenwijk van den Havixhorst,4295,negentiende_eeuw_4295
+252,252,Van Asbeck van Luilema,4297,negentiende_eeuw_4297
+253,253,Tjarda van Starkenborgh van Wehe,4303,negentiende_eeuw_4303
+254,254,Tjarda van Starkenborgh Stachouwer van Wehe,4313,negentiende_eeuw_4313
+255,255,Hora Siccama van Slochteren,4316,negentiende_eeuw_4316
+256,256,De Savornin Lohman van Zonnemaire,4320,negentiende_eeuw_4320
+257,257,De Marees van Swinderen van Allersma,4436,negentiende_eeuw_4436
+258,258,Beelaerts van Blokland van Oosterwijk,4587,negentiende_eeuw_4587
+259,259,Hinlopen van Sterkenburg,4588,negentiende_eeuw_4588
+260,260,Van Nellesteyn van Broekhuizen en Darthuizen,4589,negentiende_eeuw_4589
+261,261,Van Collen van Gunterstein,4600,negentiende_eeuw_4600
+262,262,Van Reede van ter Aa,4601,negentiende_eeuw_4601
+263,263,Duuring van Oudaen en Breukelen-St. Pieter,4602,negentiende_eeuw_4602
+264,264,Strick van Linschoten van Rijnauwen,4603,negentiende_eeuw_4603
+265,265,Beeldsnijder van Voshol en Vrije Nes,4607,negentiende_eeuw_4607
+266,266,Van Beusechem van Harmelen,4609,negentiende_eeuw_4609
+267,267,Van der Brugghen van Lauwerecht,4610,negentiende_eeuw_4610
+268,268,Van Zijll van den Ham,4613,negentiende_eeuw_4613
+269,269,Van Nooten van Honkoop,4617,negentiende_eeuw_4617
+270,270,Strick van Linschoten van Vlooswijk,4618,negentiende_eeuw_4618
+271,271,Van Hardenbroek van Lockhorst,4620,negentiende_eeuw_4620
+272,272,De Perponcher Sedlnitsky van Wolphaartsdijk,4625,negentiende_eeuw_4625
+273,273,Utenhove van Bottestein en Amelisweerd,4626,negentiende_eeuw_4626
+274,274,Van Reede van Athlone,4627,negentiende_eeuw_4627
+275,275,Taets van Amerongen van Deyl,4628,negentiende_eeuw_4628
+276,276,Taets van Amerongen van Renswoude en Emmikhuizen,4629,negentiende_eeuw_4629
+277,277,Van Tuyll van Serooskerken van Maarssen,4630,negentiende_eeuw_4630
+278,278,Von Derfelden van Hindersteyn,4632,negentiende_eeuw_4632
+279,279,Taets van Amerongen van Woudenberg,4634,negentiende_eeuw_4634
+280,280,Beelaerts van Blokland van Remmerstein,4635,negentiende_eeuw_4635
+281,281,De Pesters van Cattenbroek,4637,negentiende_eeuw_4637
+282,282,Van Boetzelaer van Dubbeldam,4639,negentiende_eeuw_4639
+283,283,Van Zuylen van Nijevelt van Hinderstein,4640,negentiende_eeuw_4640
+284,284,Van Tuyll van Serooskerken van Zuylen,4641,negentiende_eeuw_4641
+285,285,Story van Blokland,4653,negentiende_eeuw_4653
+286,286,Nepveu van Herlaer,4663,negentiende_eeuw_4663
+287,287,Ram van Bottestein,4666,negentiende_eeuw_4666
+288,288,Van der Muelen van Maarssenbroek,4667,negentiende_eeuw_4667
+289,289,Van Hardenbroek van Hardenbroek,4675,negentiende_eeuw_4675
+290,290,Van Hardenbroek van Lockhorst,4692,negentiende_eeuw_4692
+291,291,De Geer van Oudegein,4700,negentiende_eeuw_4700
+292,292,De Heus van Nyenrode,4712,negentiende_eeuw_4712
+293,293,Bosch van Oud-Amelisweerd,4720,negentiende_eeuw_4720
+294,294,De Muralt van Vlijmen,4721,negentiende_eeuw_4721
+295,295,Strick van Linschoten van Nieuw-Helvoet,4603,negentiende_eeuw_4603
+296,296,Cramer van Ootmarsum,4933,negentiende_eeuw_4933
+297,297,Von Bönninghausen van Herinkhave,4936,negentiende_eeuw_4936
+298,298,Blijdenstein van Enschede,4937,negentiende_eeuw_4937
+299,299,Von Bönninghausen van de Eeshof,4941,negentiende_eeuw_4941
+300,300,Sloet van Warmelo,4955,negentiende_eeuw_4955
+301,301,Roessingh Udink van Singraven,4956,negentiende_eeuw_4956
+302,302,Van Foreest van Heemse,4961,negentiende_eeuw_4961
+303,303,Sandberg van 't Laar,4966,negentiende_eeuw_4966
+304,304,Van der Wyck van Archem,4967,negentiende_eeuw_4967
+305,305,Teding van Berkhout tot Hoenlo,4973,negentiende_eeuw_4973
+306,306,Van Ittersum tot den Oosterhof,5000,negentiende_eeuw_5000
+307,307,Van Pallandt van Eerde,5001,negentiende_eeuw_5001
+308,308,Van Raesfelt van Elsen,5002,negentiende_eeuw_5002
+309,309,Sloet van Tweenyenhuizen en Bredenhorst,5004,negentiende_eeuw_5004
+310,310,Sloet van Westerholt,5006,negentiende_eeuw_5006
+311,311,Van Haersolte tot den Doorn,5007,negentiende_eeuw_5007
+312,312,Coninck Bentinck,5009,negentiende_eeuw_5009
+313,313,Van Coeverden van Kampferbeek,5010,negentiende_eeuw_5010
+314,314,Van Voërst tot Hagevoorde en Bergentheim,5014,negentiende_eeuw_5014
+315,315,De Vos van Steenwijk van den Oldenhof,5015,negentiende_eeuw_5015
+316,316,Mulert tot de Leemcule,5017,negentiende_eeuw_5017
+317,317,Van Fridagh tot Rutenberg,5019,negentiende_eeuw_5019
+318,318,Van Rechteren Limpurg van den Schulenborg,5021,negentiende_eeuw_5021
+319,319,Bentinck tot Nijenhuis,5022,negentiende_eeuw_5022
+320,320,Van Pallandt tot Eerde,5023,negentiende_eeuw_5023
+321,321,De Vos van Steenwijk van Windesheim,5024,negentiende_eeuw_5024
+322,322,Sandberg van Essenburg,5025,negentiende_eeuw_5025
+323,323,Van Ittersum tot den Oosterhof,5026,negentiende_eeuw_5026
+324,324,"Van Knobelsdorff tot de Gelder, Krijtenberg en Scherpenzeel",5027,negentiende_eeuw_5027
+325,325,Van Dedem tot de Rollecate,5029,negentiende_eeuw_5029
+326,326,De Vos van Steenwijk van Abbenbroek,5035,negentiende_eeuw_5035
+327,327,Sandberg van 't Laar,5078,negentiende_eeuw_5078
+328,328,Van Naamen van Eemnes,5083,negentiende_eeuw_5083
+329,329,Von Bönninghausen van Herinkhave,5090,negentiende_eeuw_5090
+330,330,Bentinck van Schoonheten,5128,negentiende_eeuw_5128
+331,331,Van Coeverden van Wegdam,5138,negentiende_eeuw_5138
+332,332,Van Ittersum van Plattenburg,5000,negentiende_eeuw_5000
+333,333,Bentinck van Buckhorst,5009,negentiende_eeuw_5009
+334,334,Van Lanschot van Berlicum,5140,negentiende_eeuw_5140
+335,335,Smits van Oyen,5150,negentiende_eeuw_5150
+336,336,De Roy van Zuydewijn-Capelle,5161,negentiende_eeuw_5161
+337,337,Verschoor van Sleeuwijk,5165,negentiende_eeuw_5165
+338,338,Van Panhuys van Haeren,5181,negentiende_eeuw_5181
+339,339,De Jongh van Son van Raamsdonk,5186,negentiende_eeuw_5186
+340,340,Van Hugenpoth tot den Beerenclaauw,5187,negentiende_eeuw_5187
+341,341,Billehé de Valensart van Leuth,5188,negentiende_eeuw_5188
+342,342,De Geloes van Elsloo,5189,negentiende_eeuw_5189
+343,343,Van Kretschmar van Veen,5190,negentiende_eeuw_5190
+344,344,Van Reede van Ginkel,5192,negentiende_eeuw_5192
+345,345,Speelman van Wulverhorst,5193,negentiende_eeuw_5193
+346,346,Martini van Geffen,5196,negentiende_eeuw_5196
+347,347,Wesselman van Helmond,5223,negentiende_eeuw_5223
+348,348,Speelman van Heeswijk en Dinther,5249,negentiende_eeuw_5249
+349,349,Verheijen van Estvelt,5265,negentiende_eeuw_5265
+350,350,Van Dam van Hekendorp en Polanen,5285,negentiende_eeuw_5285
+351,351,Van Reede van Doeveren,5192,negentiende_eeuw_5192
+352,352,Thibaut van Aagtekerke,6089,negentiende_eeuw_6089
+353,353,Van der Mandere van Ouwerkerk,6114,negentiende_eeuw_6114
+354,354,Paspoort van Grijpskerke,6119,negentiende_eeuw_6119
+355,355,Lambrechtsen van Ritthem,6145,negentiende_eeuw_6145
+356,356,Moens van Blois,6151,negentiende_eeuw_6151
+357,357,Sprenger van Duinbeek,6166,negentiende_eeuw_6166
+358,358,Verschoor van Nisse,6173,negentiende_eeuw_6173
+359,359,Lenshoek van Zwake,6178,negentiende_eeuw_6178
+360,360,Steengracht van Moyland,6199,negentiende_eeuw_6199
+361,361,De Clercq van Stavenisse,6222,negentiende_eeuw_6222
+362,362,Mulock Houwer van Noordgouwe,6223,negentiende_eeuw_6223
+363,363,Van Barnevelt van Noordeloos,6283,negentiende_eeuw_6283
+364,364,Barnaart van Bergen,6289,negentiende_eeuw_6289
+365,365,Griffioen van Waarder,6293,negentiende_eeuw_6293
+366,366,Van Bredehoff de Vicq van Oosthuizen,6300,negentiende_eeuw_6300
+367,367,Jantzon van Erffrenten van Capelle en Hoogeveen,6301,negentiende_eeuw_6301
+368,368,Kwak van Zwartewaal,6306,negentiende_eeuw_6306
+369,369,Van Tuyll van Serooskerken van Vleuten,6309,negentiende_eeuw_6309
+370,370,Weldijk van Limmen,6310,negentiende_eeuw_6310
+371,371,Vlielander van Rockanje,6311,negentiende_eeuw_6311
+372,372,Van Boetzelaer van Kijfhoek,6314,negentiende_eeuw_6314
+373,373,Diemont van Langerak,6316,negentiende_eeuw_6316
+374,374,Gevers van Endegeest en Kethel en Spaland,6321,negentiende_eeuw_6321
+375,375,Van Hees van Berkel,6324,negentiende_eeuw_6324
+376,376,De Raadt van Hendrik-Ido-Ambacht,6326,negentiende_eeuw_6326
+377,377,De Dieu Fontein Verschuir van Heiloo,6328,negentiende_eeuw_6328
+378,378,Sandenberg Matthiessen van Petten en Nolmerban,6329,negentiende_eeuw_6329
+379,379,Van Weel van Sommelsdijk,6331,negentiende_eeuw_6331
+380,380,Repelaer van Spijkenisse,6333,negentiende_eeuw_6333
+381,381,Vlielander van Nieuwenhoorn,6334,negentiende_eeuw_6334
+382,382,Van Leyden Gael van Vlaardingen,6335,negentiende_eeuw_6335
+383,383,Boreel van Hogelanden,6342,negentiende_eeuw_6342
+384,384,Van Pallandt van Eerde,6345,negentiende_eeuw_6345
+385,385,Van de Wall van Puttershoek,6356,negentiende_eeuw_6356
+386,386,Van Boetzelaer van Dubbeldam,6357,negentiende_eeuw_6357
+387,387,Huydecoper van Zeist,6358,negentiende_eeuw_6358
+388,388,Steengracht van Duivenvoorde,6359,negentiende_eeuw_6359
+389,389,Van Tets van Langerak,6381,negentiende_eeuw_6381
+390,390,Van Kuffeler van Hoogeveen,6389,negentiende_eeuw_6389
+391,391,Van Tets van Goudriaan,6391,negentiende_eeuw_6391
+392,392,De Lange van Wijngaarden,6392,negentiende_eeuw_6392
+393,393,Reepmaker van Strevelshoek,6409,negentiende_eeuw_6409
+394,394,Van Dam van Noordeloos,6411,negentiende_eeuw_6411
+395,395,Bachman van Schipluiden en Hodenpijl,6424,negentiende_eeuw_6424
+396,396,Ham van Sluipwijk,6427,negentiende_eeuw_6427
+397,397,Snouck van Loosen,3390,negentiende_eeuw_3390
+398,398,Gevaerts van Geervliet,3050,negentiende_eeuw_3050
+399,399,Peelen van Honswijk,3285,negentiende_eeuw_3285
+400,400,Van Zuylen van Nijevelt van Nieuw-Beijerland,3109,negentiende_eeuw_3109
+401,401,Maas van Zuid-Scharwoude,6453,negentiende_eeuw_6453
+402,402,Van Naamen van Scherpenzeel,6457,negentiende_eeuw_6457
+403,403,Hooft van Vreeland,6460,negentiende_eeuw_6460
+404,404,Hooft van Woudenberg en Geerestein,6469,negentiende_eeuw_6469
+405,405,Stokbroo van Hoog- en Aartswoud,6479,negentiende_eeuw_6479
+406,406,Hoeufft van Velsen,6501,negentiende_eeuw_6501
+407,407,Berg van Dussen-Muilkerk,6521,negentiende_eeuw_6521
+408,408,Lette van Oostvoorne,6561,negentiende_eeuw_6561
+409,409,Cremer van den Berch van Heemstede,6571,negentiende_eeuw_6571
+410,410,Van Rijckevorsel van Rijsenburg,6589,negentiende_eeuw_6589
+411,411,Rengers van Warmenhuyzen,6592,negentiende_eeuw_6592
+412,412,Rijkee van Alblasserdam,6594,negentiende_eeuw_6594
+413,413,Hein van Rockanje,6622,negentiende_eeuw_6622
+414,414,Bisdom van Vliet,6639,negentiende_eeuw_6639
+415,415,Lette van Oostvoorne,6675,negentiende_eeuw_6675
+416,416,Van der Goes van Naters,6677,negentiende_eeuw_6677
+417,417,Jantzon van Erffrenten van Babylonienbroek,6679,negentiende_eeuw_6679
+418,418,Van Asbeck zu Bergen und Munsterhausen,6709,negentiende_eeuw_6709
+419,419,Van Asbeck tot Berge en Munsterhausen,2703,negentiende_eeuw_2703
+420,420,Bijleveld van den Ham,4598,negentiende_eeuw_4598
+421,421,Caan van Maurick,3746,negentiende_eeuw_3746
+422,422,Van Lynden van Hoevelaken,6967,negentiende_eeuw_6967
+423,423,Van den Bogaerde van Terbrugge,6974,negentiende_eeuw_6974
+424,424,Van Tuyll van Serooskerken van Vleuten,6976,negentiende_eeuw_6976
+425,425,van Lommessem Strijthagen,7108,negentiende_eeuw_7108
+426,426,De Liedel de Well,7126,negentiende_eeuw_7126
+427,427,Van Riemsdijk van Gemert,7130,negentiende_eeuw_7130
+428,428,D'Ansembourg de Neuborg,7134,negentiende_eeuw_7134
+429,429,Kerkhoffs,7115,negentiende_eeuw_7115
+430,430,Kerkhoffs,7166,negentiende_eeuw_7166
+431,431,Corten van Oensel,7469,negentiende_eeuw_7469
+432,432,Wouters van Beringen,7478,negentiende_eeuw_7478
+433,433,Schiervel d'Altembrouck,7481,negentiende_eeuw_7481
+434,434,De Heusch de Bombrouck,7485,negentiende_eeuw_7485
+435,435,Clermont de Vaelshoek,7514,negentiende_eeuw_7514
+436,436,Arazola Déonata,7515,negentiende_eeuw_7515
+437,437,Van Erp tot Baerlo en Holt,7521,negentiende_eeuw_7521
+438,438,Bloemaerts,7571,negentiende_eeuw_7571
+439,439,Kerens Cadet,3458,negentiende_eeuw_3458
+440,440,De Rosen de Haren,7575,negentiende_eeuw_7575
+441,441,De Stenbier de Wideux,7576,negentiende_eeuw_7576
+442,442,Van Balveren van Leur,7582,negentiende_eeuw_7582
+443,443,Van der Borch van Vorden,7583,negentiende_eeuw_7583
+444,444,Van Brakell tot den Brakell en Vredestein,3358,negentiende_eeuw_3358
+445,445,Van Bylandt van Mariënweerd,7584,negentiende_eeuw_7584
+446,446,Van Eck van Vieracker en Ommershof,2923,negentiende_eeuw_2923
+447,447,Van Heeckeren van Overlaer,7586,negentiende_eeuw_7586
+448,448,D'Isendoorn à Blois van Cannenburg,7587,negentiende_eeuw_7587
+449,449,Van Nagell van Wisch,7589,negentiende_eeuw_7589
+450,450,Van Neukirchen genaamd Nyvenheim tot Eck en Wiel,7590,negentiende_eeuw_7590
+451,451,Van Rouwenoort van Ulenpas,7591,negentiende_eeuw_7591
+452,452,Schimmelpenninck van der Oye van de Poll,7592,negentiende_eeuw_7592
+453,453,Van Spaen van Hulshorst,2955,negentiende_eeuw_2955
+454,454,Van Heeckeren van Overlaer,7593,negentiende_eeuw_7593
+455,455,Van Heeckeren van Oldoolde,7593,negentiende_eeuw_7593
+456,456,Van Pallandt van Eerde,7596,negentiende_eeuw_7596
+457,457,Van Heeckeren van Molecaten,7599,negentiende_eeuw_7599
+458,458,Van Heeckeren van Marhulsen,7601,negentiende_eeuw_7601
+459,459,Van Heeckeren van de Cloese,7602,negentiende_eeuw_7602
+460,460,Van Eck van Overbeek,7604,negentiende_eeuw_7604
+461,461,Van Lynden van Hemmen,7605,negentiende_eeuw_7605
+462,462,Van Haersolte van Staverden,7606,negentiende_eeuw_7606
+463,463,Van Heeckeren van de Beurze,2746,negentiende_eeuw_2746
+464,464,Van Zuylen van Nievelt van den Brielert,7607,negentiende_eeuw_7607
+465,465,Reint Willem van Middachten,3014,negentiende_eeuw_3014
+466,466,Elders J.H.,3114,negentiende_eeuw_3114
+467,467,Van Pallandt van Barlham,7608,negentiende_eeuw_7608
+468,468,Van Pallandt van Keppel,7608,negentiende_eeuw_7608
+469,469,Van Pallandt van Waardenburg en Neerijnen,7608,negentiende_eeuw_7608
+470,470,Van Bylandt van Mariënwaerd,7611,negentiende_eeuw_7611
+471,471,Van Wassenaer van Katwijk,7613,negentiende_eeuw_7613
+472,472,Van Ranzow van Meinerswijk,7614,negentiende_eeuw_7614
+473,473,Torck van Rosendael,7617,negentiende_eeuw_7617
+474,474,Van der Heyden van Doornenburg en Suideras,7618,negentiende_eeuw_7618
+475,475,Van Pallandt van Oud-Beyerland,7620,negentiende_eeuw_7620
+476,476,Van Balveren van Echteld en Leur,7621,negentiende_eeuw_7621
+477,477,Van Nagell van Wisch,7622,negentiende_eeuw_7622
+478,478,Van Zuylen van Nievelt van de Schaffelaar,7624,negentiende_eeuw_7624
+479,479,Van Voorst tot Voorst en Ploen,7625,negentiende_eeuw_7625
+480,480,Van Brakell van Wadenoyen en Doorwerth,7626,negentiende_eeuw_7626
+481,481,Van Heeckeren van de Wiersse,7627,negentiende_eeuw_7627
+482,482,Sloet van Zwanenburg,7631,negentiende_eeuw_7631
+483,483,Van Kretschmar van Veen,7632,negentiende_eeuw_7632
+484,484,Van Randwijck van Rossum,7634,negentiende_eeuw_7634
+485,485,De Vos van Steenwijk genaamd van Essen van Abbenbroek,7638,negentiende_eeuw_7638
+486,486,Van Wijnbergen van Bussloo,7639,negentiende_eeuw_7639
+487,487,Van Schuylenburch van den Ulenpas,7640,negentiende_eeuw_7640
+488,488,Mollerus van Westkerke en Wulpendaal,7642,negentiende_eeuw_7642
+489,489,Brantsen van de Zijp,7651,negentiende_eeuw_7651
+490,490,Van Pallandt van Westervoort,7655,negentiende_eeuw_7655
+491,491,Van Coeverden van Putten en den Schuylenburg,7668,negentiende_eeuw_7668
+492,492,Van Hasselt van Empe,7710,negentiende_eeuw_7710
+493,493,Sloet van de Beele,7712,negentiende_eeuw_7712
+494,494,Boesses van Leeuwen en Puiflijk,7716,negentiende_eeuw_7716
+495,495,Engelen van 't Celle,7718,negentiende_eeuw_7718
+496,496,Vermeulen van 't Munnikeland,7721,negentiende_eeuw_7721
+497,497,Van Brakell van Geldermalsen,7722,negentiende_eeuw_7722
+498,498,Bouwens van Horssen,7724,negentiende_eeuw_7724
+499,499,Sloet van Diepenbroeck en Sinderen,7725,negentiende_eeuw_7725
+500,500,Van Heeckeren van Molecaten,7727,negentiende_eeuw_7727
+501,501,Van Meurs van Hulshorst,2837,negentiende_eeuw_2837
+502,502,Van Rhemen van Rhemenshuizen en de Geldersche Toren,2950,negentiende_eeuw_2950
+503,503,Sloet tot Oldhuis van de Beele,7738,negentiende_eeuw_7738
+504,504,Brantsen van Rhederoord,7744,negentiende_eeuw_7744
+505,505,Van der Borch van den Ulenpas,7745,negentiende_eeuw_7745
+506,506,Van der Borch tot Helbergen,7745,negentiende_eeuw_7745
+507,507,Van der Borch van Vorden,7748,negentiende_eeuw_7748
+508,508,Van Pallandt van Walfort en Klarenbeek,7753,negentiende_eeuw_7753
+509,509,Van Heeckeren van Marhulsen,7758,negentiende_eeuw_7758
+510,510,Van Nispen van Velde,7763,negentiende_eeuw_7763
+511,511,De Nerée van Babberich,7766,negentiende_eeuw_7766
+512,512,De Nerée van Babberich,7768,negentiende_eeuw_7768
+513,513,Van Westerholt van Hackfort,7782,negentiende_eeuw_7782
+514,514,Van den Steen van Wadestein,2958,negentiende_eeuw_2958
+515,515,Van Barneveld van Meteren en Geldermalsen,7793,negentiende_eeuw_7793
+516,516,Van Nagell van Ampsen,7814,negentiende_eeuw_7814
+517,517,Van Scherpenzeel Heusch van Dreumel en Oosterhout,7781,negentiende_eeuw_7781
+518,518,Viruly van Vuren en Dalem,7838,negentiende_eeuw_7838
+519,519,Van Wassenaer van Catwijck,7842,negentiende_eeuw_7842
+520,520,Six tot Oterleek,7905,negentiende_eeuw_7905
+521,521,Evertz,3969,negentiende_eeuw_3969
+522,522,Sweerts de Landas van Oirschot,2697,negentiende_eeuw_2697
+523,523,Repelaer van Valkenswaard,6333,negentiende_eeuw_6333
+524,524,De Sandra Veldtman van Slochteren,4352,negentiende_eeuw_4352
+525,525,Hendrik Jansz. Mossel van Stralen,2812,negentiende_eeuw_2812
+526,526,Van Pallandt tot Beerse,2790,negentiende_eeuw_2790
+527,527,Van Gennip,2736,negentiende_eeuw_2736
+528,528,Nagell,2940,negentiende_eeuw_2940
+529,529,Van Pallandt van Barlham,2945,negentiende_eeuw_2945
+530,530,Pierre Hofstede,3181,negentiende_eeuw_3181
+531,531,Kijmmel,3188,negentiende_eeuw_3188
+532,532,De Vos van Steenwijk tot Havoxhorst,3205,negentiende_eeuw_3205
+533,533,Gaschard,3368,negentiende_eeuw_3368
+534,534,Van Gobbelschroy van Spoelbeeck,3824,negentiende_eeuw_3824
+535,535,Arend Jacob Drabbe,3936,negentiende_eeuw_3936
+536,536,A.J.F. van Galen,4106,negentiende_eeuw_4106
+537,537,Muentz,3904,negentiende_eeuw_3904
+538,538,Sijpkens,3913,negentiende_eeuw_3913
+539,539,Slingenburg,4213,negentiende_eeuw_4213
+540,540,Van Limburg Stirum van de Wildenborch,4304,negentiende_eeuw_4304
+541,541,Eppo Cremers,4323,negentiende_eeuw_4323
+542,542,Verhousen,5155,negentiende_eeuw_5155
+543,543,Linsen de Jonge,5221,negentiende_eeuw_5221
+544,544,Van Kinsbergen van Doggersbank,7598,negentiende_eeuw_7598
+545,545,Aaldert Schouten,7779,negentiende_eeuw_7779
+546,546,Borssele van der Hooghe,6092,negentiende_eeuw_6092
+547,547,Sloet tot Lindenhorst,3021,negentiende_eeuw_3021
+548,548,Lamoraal Johan Joachim Rengers,2984,negentiende_eeuw_2984
+549,549,Hans Hendrik Boreel van Haersma,3244,negentiende_eeuw_3244
+0,0,D'Estruemont,474,me_474
+1,1,Gerrit van Gronsselt,481,me_481
+2,2,Richard Rengher,515,me_515
+3,3,Adrian de Roubais,519,me_519
+4,4,Louis Veury,536,me_536
+5,5,Tielman van Dulken,6,me_6
+6,6,Dirk van Utrecht,662,me_662
+7,7,Arend Boonenburch,683,me_683
+8,8,Viglius,243,me_243
+9,9,Simon d'Amont,330,me_330
+10,10,Casper Lievensz. van Hoochlande,370,me_370
+11,11,Heyme van de Ketel,12,me_12
+12,12,Guiset,1001,me_1001
+13,13,Komen,718,me_718
+14,14,Schagen,1040,me_1040
+15,15,Leoninus,1217,me_1217
+16,16,Beka,435,me_435
+17,17,Honsteyn,683,me_683
+18,18,Casparus de Terra Alta,370,me_370
+19,19,Simon du Mont,330,me_330
+20,20,Simon de Mons,330,me_330
+21,21,Longolius,1217,me_1217
+22,22,Tielman van Dullekem,6,me_6
+23,23,Jan Jelis,656,me_656
+24,24,Gerrit van Gronselle,481,me_481
+25,25,Gerard van Gronselle,482,me_482
+26,26,Grusset,1001,me_1001
+27,27,Jean Louis de Mocheron,504,me_504
+28,28,Gerard Milert,505,me_505
+29,29,Richard Renigher,515,me_515
+30,30,Platea,527,me_527
+31,31,Johan Wordt,665,me_665
+32,32,Louis Vary,536,me_536
+33,33,Louis Pori,536,me_536
+34,34,Viglius Zuichemus ab Aytta,243,me_243
+35,35,Johan van Darth,673,me_673
+36,36,Leonard Stalberg,670,me_670
+37,37,Dirk van Weer,746,me_746
+38,38,Gerrit van den Zijl,622,me_622
+39,39,Vossius,965,me_965
+40,40,Van Middelburg,472,me_472
+41,41,Grudius,280,me_280
+42,42,Wieger Aytta van Swichum,243,me_243
+43,43,Andrieu de la Croix,565,me_565
+44,44,Oostervant,542,me_542
+45,45,Grandpré,629,me_629
+46,46,Christophe Dassonville,350,me_350
+47,47,Jacob Bossaert van Belle,552,me_552
+48,48,Jan van der Bouverien,443,me_443
+49,49,Roelof de Brouxelles,447,me_447
+50,50,Frans Coebel van der Loo,956,me_956
+51,51,Filips bastaard van Brabant,463,me_463
+52,52,Antoon van Bergen,1342,me_1342
+53,53,Dismas van Bergen,436,me_436
+54,54,Hendrik van Bergen,437,me_437
+55,55,Jan van Bergen,346,me_346
+56,56,Jan van Bergen,348,me_348
+57,57,Grandpré,549,me_549
+58,58,Humbercourt,694,me_694
+59,59,Roeulx,251,me_251
+60,60,Chimay,455,me_455
+61,61,Aarschot,248,me_248
+62,62,Aarschot,255,me_255
+63,63,Roeulx,356,me_356
+64,64,Aarschot,252,me_252
+65,65,Engelbert van den Dalle,464,me_464
+66,66,Buren,362,me_362
+67,67,Nicolas Nicolai,280,me_280
+68,68,Everard Everaerts,327,me_327
+69,69,Louis du Chesne,618,me_618
+70,70,Boussu,344,me_344
+71,71,Boussu,424,me_424
+72,72,Bossu,344,me_344
+73,73,Bossu,424,me_424
+74,74,Casparus Levini Hogelandius,370,me_370
+75,75,Marets,318,me_318
+76,76,Hoogstraten,130,me_130
+77,77,Gavere,247,me_247
+78,78,Jean de Masuny,970,me_970
+79,79,Thomas Bokelaer,1,me_1
+80,80,Regius,1467,me_1467
+81,81,Lodewijk van Gruuthuse,446,me_446
+82,82,Lodewijk van Gruythuyse,446,me_446
+83,83,Winchester,446,me_446
+84,84,Meindert Klaasz. van Haarlem,636,me_636
+85,85,Floris Paedzen van Leiden,643,me_643
+86,86,Mercurino Arborio,476,me_476
+87,87,NIeuwenaar,425,me_425
+88,88,Antoine Montjeu,1123,me_1123
+89,89,Horn,253,me_253
+90,90,Hoorne,253,me_253
+91,91,Hachicourt,266,me_266
+92,92,René van Nassau,110,me_110
+93,93,Johan van Nassau-Katzenelnbogen,695,me_695
+94,94,Nicolaas Nicolai,472,me_472
+95,95,Grudius,109,me_109
+96,96,Nicolaas Everaerts,109,me_109
+97,97,Floris Paedzensz.,643,me_643
+98,98,Granvelle,347,me_347
+99,99,Bucquoy,1345,me_1345
+100,100,Jean de Cortewille,461,me_461
+101,101,Granvelle,1474,me_1474
+102,102,Neufville,257,me_257
+103,103,Jan van de Werve,582,me_582
+104,104,Bengaert Scay,551,me_551
+105,105,Scepperus,322,me_322
+106,106,Filips van der Spaengen,1130,me_1130
+107,107,Glajon,345,me_345
+108,108,Lodewijk van Bloys,626,me_626
+109,109,Bartholomeus van der Zeuge,1062,me_1062
+110,110,Rassenghien,256,me_256
+111,111,Praat,113,me_113
+112,112,Chrétien de Weert,73,me_73
+113,113,Banjaart Scey,551,me_551
+114,114,Boudewijn van Zweeten,600,me_600
+115,115,Dirk van Zweeten,575,me_575
+116,116,Dirk van Zweeten,646,me_646
+117,117,Boudijn van Swieten,600,me_600
+118,118,Dirk van Swieten,646,me_646
+119,119,Dirk van Swieten,575,me_575
+120,120,Hugo van Swieten,603,me_603
+121,121,Jan Bouwensz.,562,me_562
+122,122,Grote Prior,1504,me_1504
+123,123,Wouter Jansz. van Zierikzee,596,me_596
+124,124,Jean Peeters,508,me_508
+125,125,Josse Laureys,492,me_492
+126,126,Josse Lauwreys,492,me_492
+127,127,Louis Velaire,981,me_981
+128,128,Jean Coomans,1307,me_1307
+129,129,Jean van der Gherst,991,me_991
+130,130,Roussel,1105,me_1105
+131,131,Le Bontechou,1104,me_1104
+132,132,Humbercourt,1124,me_1124
+133,133,Jean de Geuly,490,me_490
+134,134,Artur de Bourbon,1540,me_1540
+135,135,Lienart de Potes,1542,me_1542
+136,136,Guillaume le Gros,483,me_483
+137,137,Rogier,515,me_515
+138,138,Arnoud Bogaert,439,me_439
+139,139,Buren,369,me_369
+140,140,Beveren,1340,me_1340
+141,141,Sempy,1341,me_1341
+142,142,Molenbaix,246,me_246
+143,143,Montbarrey,242,me_242
+144,144,Ressegem,256,me_256
+145,145,Havré,355,me_355
+146,146,Hierges,357,me_357
+147,147,Bellem,338,me_338
+148,148,Stefaan Brants,302,me_302
+149,149,Courteville,1457,me_1457
+150,150,Leonard Herdinck,293,me_293
+151,151,Piramyus,295,me_295
+152,152,Stratius,650,me_650
+153,153,Frederik van Keppel tot Verwolde,657,me_657
+154,154,Jacob Pieck van IJzendoorn,653,me_653
+155,155,Evert van Heeckeren tot Nettelhorst,664,me_664
+156,156,Adolf van Goer tot Caldenbroeck,677,me_677
+157,157,Hendrik in den Hoorn,380,me_380
+158,158,Radelantius,414,me_414
+159,159,Humpius van Emden,399,me_399
+160,160,Joannes Carolus,1007,me_1007
+161,161,Hette van Hoxwier,372,me_372
+162,162,Van Boucamp,442,me_442
+163,163,Bousani,444,me_444
+164,164,Cornelis Bouwin,5,me_5
+165,165,Corneille de Muenincx,985,me_985
+166,166,Antoine de Branchion,1325,me_1325
+167,167,Pierre de Breuil,969,me_969
+168,168,Montanus,407,me_407
+169,169,Adriaan Sandelijn,126,me_126
+170,170,Heiman van Mierop van de Ketel,12,me_12
+171,171,Antoine Michiel,601,me_601
+172,172,Cornelis Neostadius,86,me_86
+173,173,Louis de Back,432,me_432
+174,174,Louis de Vacq,432,me_432
+175,175,Peter van Apeldoren,666,me_666
+176,176,Peter van Appeldoren,666,me_666
+177,177,Rubais,519,me_519
+178,178,Jacob van Abcoude,631,me_631
+179,179,François de Berch,990,me_990
+180,180,Willem (van der) Cryp,909,me_909
+181,181,De Sancto Petro,11,me_11
+182,182,Bartold van Bassen genaamd Ernst,59,me_59
+183,183,Thomas Boickelaer,1,me_1
+184,184,Barthélemi le Febvre,1102,me_1102
+185,185,Gillis de Caboeter,553,me_553
+186,186,Cornelis Jansz.,578,me_578
+187,187,Diderich von Westrom zu Langendonck,1223,me_1223
+188,188,Druittius,992,me_992
+189,189,Filips Duclert,784,me_784
+190,190,Tielman van Dullekin,6,me_6
+191,191,Eerst van Ysendoren,398,me_398
+192,192,Jan Gelis,656,me_656
+193,193,Bartholt van Gendt,676,me_676
+194,194,Willem van Gendt,669,me_669
+195,195,George Rataleur,374,me_374
+196,196,George Voeth,678,me_678
+197,197,Gerard Muylaert,505,me_505
+198,198,Ghillam Scryvers,389,me_389
+199,199,Jacques de Gradebault,478,me_478
+200,200,Gerard van Gronsselt,482,me_482
+201,201,Jean Guillet,477,me_477
+202,202,Hendrikse,115,me_115
+203,203,Haio Hompius,399,me_399
+204,204,Hopperus,335,me_335
+205,205,Jacques Muysart,977,me_977
+206,206,Jan Bruyninck,328,me_328
+207,207,Jean Baers,971,me_971
+208,208,Jean Baptiste Berty,284,me_284
+209,209,Jelis Pieck,687,me_687
+210,210,Jean Jonnet,479,me_479
+211,211,Joris Themsicke,320,me_320
+212,212,Josse Cranevelt,655,me_655
+213,213,Josse Kevin,513,me_513
+214,214,Lanchals,395,me_395
+215,215,Philippe le Febre,988,me_988
+216,216,Filips le Noir,323,me_323
+217,217,Jeronimus Lettyn,659,me_659
+218,218,Pierre de Longneu,496,me_496
+219,219,Arend van Zevenbergen,616,me_616
+220,220,Louis van Beughem,384,me_384
+221,221,Loys Rataller,22,me_22
+222,222,Fernand de Lucerne,497,me_497
+223,223,Tristam de Lucerne,498,me_498
+224,224,Manke Jan,614,me_614
+225,225,Guillaume le Marquis,499,me_499
+226,226,Martinus de Narden,371,me_371
+227,227,Pierre de Mettenci,500,me_500
+228,228,Willem van Zaanden,570,me_570
+229,229,Middelburg,1322,me_1322
+230,230,Jean Louis de Moucheron,504,me_504
+231,231,Jan van der Staten,527,me_527
+232,232,Jan Stoop,864,me_864
+233,233,Gossuin le Sauvage,539,me_539
+234,234,Johan Urd,665,me_665
+235,235,Johan van Niel,672,me_672
+236,236,Jean le Sauvage,525,me_525
+237,237,Jan van Bergen,973,me_973
+238,238,Dirk van Leiden,236,me_236
+239,239,Renesse,1027,me_1027
+240,240,Reyer van der Does,17,me_17
+241,241,Hayo Riperdorn,660,me_660
+242,242,Jacques de Roeck,520,me_520
+243,243,Jean Rousseau,521,me_521
+244,244,Jan Engelsz. van Lezanen,907,me_907
+245,245,Johan Stalborch,658,me_658
+246,246,Hadrianus Marius,401,me_401
+247,247,Colaert van Comene,718,me_718
+248,248,Jan van den Berch,420,me_420
+249,249,Hendrik Lottemsz. van Zeelem,862,me_862
+250,250,Noircarmes,254,me_254
+251,251,Willem van Alkmaar,71,me_71
+252,252,Thierry Jansz. van Woerden,1483,me_1483
+253,253,Wulven,408,me_408
+254,254,Zosius,379,me_379
+255,255,Dionys van Wesenhagen,668,me_668
+0,0,Bernardus Bucho Aytta,4,divperioden_4
+1,1,Mamma Eponis,5,divperioden_5
+2,2,Renik Eminga,6,divperioden_6
+3,3,Schelte Tjaerda,7,divperioden_7
+4,4,Tako Heemstra,8,divperioden_8
+5,5,Benedictus Heris,10,divperioden_10
+6,6,Dietrich von Witzleben zu Wendelstein,15,divperioden_15
+7,7,Günther von Bünau zu Elsterberg und Christgrün,22,divperioden_22
+8,8,Casper Ziegler zu Gauernitz und Taubenheim,24,divperioden_24
+9,9,Otto Pflug zu Strehla und Lamperswalde,26,divperioden_26
+10,10,Seifard von Lüttichau zu Kmehlen und Ortrand,29,divperioden_29
+11,11,Veit von Drachsdorf zu Osterau,32,divperioden_32
+12,12,Goslik Jongema,39,divperioden_39
+13,13,Sytthie Aylva,56,divperioden_56
+14,14,Gregorius van Aken,59,divperioden_59
+15,15,Haio Hompius,62,divperioden_62
+16,16,Hette van Hoxwier,70,divperioden_70
+17,17,Jacob Rousseau,71,divperioden_71
+18,18,Alexius van Harderwijck,73,divperioden_73
+19,19,Valerius van Ockinga,75,divperioden_75
+20,20,Wilhelmus van der Linden,86,divperioden_86
+21,21,Joannes Carolus,95,divperioden_95
+22,22,Juw van Dekema,96,divperioden_96
+23,23,Karel Nicolai,100,divperioden_100
+24,24,Jurgien Godefridi,116,divperioden_116
+25,25,Sjoerd Hania,124,divperioden_124
+26,26,Meyne Lyckles Nijeholpada,118,divperioden_118
+27,27,Homerus van Harinxma,143,divperioden_143
+28,28,Theodorus Saeckma,148,divperioden_148
+29,29,Gerlich Doys thoe Nieuwland,172,divperioden_172
+30,30,Philippus Aebinga van Humalda,173,divperioden_173
+31,31,Godschalk van Knijff,191,divperioden_191
+32,32,Hendrik Johan Schultens,198,divperioden_198
+33,33,Boccatius Hoppers,252,divperioden_252
+34,34,Jan Huybertsz. Cath,368,divperioden_368
+35,35,Syds van Donia,381,divperioden_381
+36,36,Jurg Georg van Burmania,208,divperioden_208
+37,37,Sapheus Hiemstra,466,divperioden_466
+38,38,Schelto van Hiemstra,468,divperioden_468
+39,39,Schelto van Hiemstra,467,divperioden_467
+40,40,Sixtus a Decama,376,divperioden_376
+41,41,Horatius Meinsma,637,divperioden_637
+42,42,Dirck Sipperds Ennes,389,divperioden_389
+43,43,Idzard van Douma,384,divperioden_384
+44,44,"Stanzius, Theodorus",800,divperioden_800
+45,45,Arnoldus van Haersma,434,divperioden_434
+46,46,Adam van Eysinga,132,divperioden_132
+47,47,Frederick van Epema,709,divperioden_709
+48,48,Pieter Wopkesz. Cromwal,754,divperioden_754
+49,49,Pieter van Jongestal,146,divperioden_146
+50,50,Rintze van Andringa,287,divperioden_287
+51,51,Rinso van Andringa,287,divperioden_287
+52,52,Anchises van Andla,283,divperioden_283
+53,53,Ulpianus ab Aylva,311,divperioden_311
+54,54,Adrianus Bergsma,558,divperioden_558
+55,55,Suffridus van Boelens,256,divperioden_256
+56,56,Tarquinius van Boelens,330,divperioden_330
+57,57,Allart van Burum,362,divperioden_362
+58,58,Valerius Camminga,364,divperioden_364
+59,59,Erasmus van Douma,384,divperioden_384
+60,60,Pytter van Eysinga,396,divperioden_396
+61,61,Dirck Foegelsangh,407,divperioden_407
+62,62,Theodorus Fogelsangh,407,divperioden_407
+63,63,Valerius van Glinstra,421,divperioden_421
+64,64,Julius van Harinxma,460,divperioden_460
+65,65,Tjerck van Heerma,471,divperioden_471
+66,66,Duco van Hemmema,473,divperioden_473
+67,67,Dominicus ab Hottinga,481,divperioden_481
+68,68,Meynte van Idsaerda,490,divperioden_490
+69,69,Rembertus Syrcxma,499,divperioden_499
+70,70,Ritske van Ringia,505,divperioden_505
+71,71,Agge van Walta,506,divperioden_506
+72,72,Frederick van Vervou van Martenahuis,511,divperioden_511
+73,73,Pieter van Waltha,514,divperioden_514
+74,74,Rinco van Burmania,515,divperioden_515
+75,75,Eyse Lycklama,519,divperioden_519
+76,76,Arent Julianus de Beere,570,divperioden_570
+77,77,Hans Hendrik Boreel van Haersma,575,divperioden_575
+78,78,Willem August Sirtema van Grovestins,581,divperioden_581
+79,79,Eiso van Lycklama,519,divperioden_519
+80,80,Hans van Lycklama,627,divperioden_627
+81,81,Doecke van Martena,635,divperioden_635
+82,82,Scipio van Meckema,636,divperioden_636
+83,83,Lamoraal Johan Joachim Rengers,657,divperioden_657
+84,84,Andries Doedes,673,divperioden_673
+85,85,Sicco Meckema van Aylva,698,divperioden_698
+86,86,Scipio Meckema van Aylva,698,divperioden_698
+87,87,Ernst van Doenija,710,divperioden_710
+88,88,Lodewijck van Ockinga,714,divperioden_714
+89,89,Bocco van Burmania,719,divperioden_719
+90,90,Hotze van Aysma,731,divperioden_731
+91,91,Hotthie van Aysma,731,divperioden_731
+92,92,Douwe Sytsma,807,divperioden_807
+93,93,Douwe van Unia,820,divperioden_820
+94,94,Abram van Venema,902,divperioden_902
+95,95,Georg Sigismund van Hiemstra,465,divperioden_465
+96,96,Jelle Bruininga,341,divperioden_341
+97,97,Hartius Iepema,157,divperioden_157
+98,98,Saco van Idsinga,488,divperioden_488
+99,99,Bartholomeus van Nijsten,641,divperioden_641
+100,100,Willem Hendrick van Hiemstra,469,divperioden_469
+101,101,Carel Georg van Wassenaer Twickel,564,divperioden_564
+102,102,Titus van Hania,1024,divperioden_1024
+103,103,Sape van Wissema,841,divperioden_841
+104,104,Suffridus Saeckma,852,divperioden_852
+105,105,Zidzie van Aylva,56,divperioden_56
+106,106,Theodorus van Scheltinga,162,divperioden_162
+107,107,Sixtus Anthonius van Galama,900,divperioden_900
+108,108,Augustinus Lycklama à Nijeholt,955,divperioden_955
+109,109,Ritske van Rengia,505,divperioden_505
+110,110,Taco van Burmania,509,divperioden_509
+111,111,Christoffel Arentsma,272,divperioden_272
+112,112,Jan Nanningsz.,512,divperioden_512
+113,113,Frederick van Inthema,491,divperioden_491
+114,114,Jelte van Eysinga,501,divperioden_501
+115,115,Frederik Schuirmans,876,divperioden_876
+116,116,Johan Abraham Schuirmans,545,divperioden_545
+117,117,Epo van Bootsma,699,divperioden_699
+118,118,Epo van Aylva,297,divperioden_297
+119,119,Ausonius Aijsma,1080,divperioden_1080
+120,120,Rienk Atsma,292,divperioden_292
+121,121,Johannes Culenburg,375,divperioden_375
+122,122,Wilhelmus van Velsen,508,divperioden_508
+123,123,Jelle Bruinga,341,divperioden_341
+124,124,Tarquinius van Boelens,1087,divperioden_1087
+125,125,Juw van Bottinga,51,divperioden_51
+126,126,Pytter Edzard Mockema van Harinxma thoe Sloten,463,divperioden_463
+127,127,Aemilius van Oenema,847,divperioden_847
+128,128,Feycke Tetmans,732,divperioden_732
+129,129,Johannes ter Wisga,840,divperioden_840
+130,130,Pieter Beerent van Wijdenbrugh,1117,divperioden_1117
+131,131,Pieter Beerent van Widenbrug,1117,divperioden_1117
+132,132,Douwe van Botnia,346,divperioden_346
+133,133,Worp Jessens,738,divperioden_738
+134,134,Worp Tjessens,738,divperioden_738
+135,135,Dierck Thijssens,744,divperioden_744
+136,136,Hero Viarda,772,divperioden_772
+137,137,Rombertus Siercksma,499,divperioden_499
+138,138,Ipe van Bootsma,1140,divperioden_1140
+139,139,Gijsbert van Arentsma,1030,divperioden_1030
+140,140,Joachim Gerardi,1144,divperioden_1144
+141,141,Ruurt Bauts,1153,divperioden_1153
+142,142,Syds van Scheltema,762,divperioden_762
+143,143,Juw van Eysinga,1142,divperioden_1142
+144,144,Edo van Eysinga,392,divperioden_392
+145,145,Sicco van Aylva,300,divperioden_300
+146,146,Aduard van Reynalda,660,divperioden_660
+147,147,Van der Haer van Campensnieuwland,431,divperioden_431
+148,148,Van Schuylenburch van Bommenede,578,divperioden_578
+149,149,Van Aylva van Waardenburg en Neerijnen,572,divperioden_572
+150,150,Van Haersma van Nederhorst den Berg,575,divperioden_575
+151,151,Theotardus van Heloma,944,divperioden_944
+152,152,Dirk van Utrecht,81,divperioden_81
+153,153,Humpius van Emden,62,divperioden_62
+154,154,Gerard Muylaert,45,divperioden_45
+155,155,Gerard Milert,45,divperioden_45
+156,156,Martinus de Narden,57,divperioden_57
+157,157,Everard Everaerts,58,divperioden_58
+158,158,Jacobus van Botnia,334,divperioden_334
+159,159,Epo van Douwma,382,divperioden_382
+160,160,Fritz von Grumbach zu Eschefeld,37,divperioden_37
+161,161,Egbert Annes Idtskema,493,divperioden_493
+162,162,Ipe van Juckema,504,divperioden_504
+163,163,Jelle van Jongestal,135,divperioden_135
+164,164,Julius van Botnia,51,divperioden_51
+165,165,Johan Rotaller,44,divperioden_44
+166,166,Petrus Wiardi,9,divperioden_9
+167,167,Van Hambroick van Weleveld,449,divperioden_449
+0,0,Pieter Claesz. Seylemaecker,1264,republiek_1264
+1,1,Cornelis Thomasz. Sevenhuijsen,1272,republiek_1272
+2,2,Thijman Osdorp,567,republiek_567
+3,3,Sebastiaen Egberti,787,republiek_787
+4,4,Gerard Adriaensz. Koel,931,republiek_931
+5,5,Jan Maertsz.,1129,republiek_1129
+6,6,Dirk Dirksz. Ben,1137,republiek_1137
+7,7,Albert Borritsz.,1138,republiek_1138
+8,8,Johan d'Edel,408,republiek_408
+9,9,Jacob van der Meer,915,republiek_915
+10,10,Cornelis Tetrode van Weesp,857,republiek_857
+11,11,Jan Jansz. Secretaris,1214,republiek_1214
+12,12,Cornelis Jansz. du Bois,1215,republiek_1215
+13,13,Cornelis Jacobsz. Everhardt,1211,republiek_1211
+14,14,Willem Jacobsz. Brassen,1017,republiek_1017
+15,15,Johan van Duvenvoirde (vóór 1600),188,republiek_188
+16,16,Nicolaus Bulius,1043,republiek_1043
+17,17,Pouwels Claesz. Haring,1283,republiek_1283
+18,18,Hendrik Jansz. Snouck,971,republiek_971
+19,19,Henrick Melisz. Coppens,1222,republiek_1222
+20,20,Adriaen Dircxz. Jong(e),1604,republiek_1604
+21,21,Anthony Leemans,1005,republiek_1005
+22,22,Francois Pietersz. Maekschoon,1128,republiek_1128
+23,23,Brienen Manchon,970,republiek_970
+24,24,Claas Jansz. 't Hoen,1595,republiek_1595
+25,25,Gerard Pietersz. Twisch,1149,republiek_1149
+26,26,Engbert Engbertsz. Versteegh,958,republiek_958
+27,27,Joan Schott,431,republiek_431
+28,28,Aelbrecht van der Graaff,412,republiek_412
+29,29,Claes Jacobsz. Simonsz.,1055,republiek_1055
+30,30,Nicolaas le Febre,1741,republiek_1741
+31,31,Johan van Wassenaer,1686,republiek_1686
+32,32,Thomas van de Nieuburg,1268,republiek_1268
+33,33,Franco de Vree,889,republiek_889
+34,34,Wilhem Bardesius,1965,republiek_1965
+35,35,Rutger Wessel van den Boetzelaer,1335,republiek_1335
+36,36,Johan Claasz. Dirout,982,republiek_982
+37,37,Hans Colterman,1717,republiek_1717
+38,38,Pieter van Blankenbort,1317,republiek_1317
+39,39,Gerard Hoeufft,2042,republiek_2042
+40,40,Capiteyn Vinck,2089,republiek_2089
+41,41,Adriaen Pietersz. van Vlaerdingen,2092,republiek_2092
+42,42,Oom Jan Pietersz.,2128,republiek_2128
+43,43,Jacob Pietersz. Muusses,2131,republiek_2131
+44,44,Jacob Pietersz. Meuwisz.,2131,republiek_2131
+45,45,Bertram Philip Sigismund Albrecht graaf van Gronsfeld Diepenbroick Impel,2022,republiek_2022
+46,46,Willem Jacobsz. Brassaert,1017,republiek_1017
+47,47,Willem Reyersz. Kievit,2177,republiek_2177
+48,48,Michiel Michielsz. Feltron,2336,republiek_2336
+49,49,Wenceslaus van den Boetzelaer,1335,republiek_1335
+50,50,Wouter Jacobsz. Scherf,2007,republiek_2007
+51,51,Adriaen Cornelisz. Stockman,2352,republiek_2352
+52,52,Johan Swinnes,2391,republiek_2391
+53,53,Johan Swijsnas,2391,republiek_2391
+54,54,Cornelis Tymonsz. Schipper,2357,republiek_2357
+55,55,Claes Jacobsz. Haringcarspel,2355,republiek_2355
+56,56,Jacob Claesz. Haringcarspel,2401,republiek_2401
+57,57,Jacob Schoen,1051,republiek_1051
+58,58,Jan Cornelisz. Schellinger,2310,republiek_2310
+59,59,Jan Teen,2309,republiek_2309
+60,60,Jan Tedijn,2309,republiek_2309
+61,61,Jan Symonsz. Soutman,2311,republiek_2311
+62,62,Willem Jansz. Swan,2000,republiek_2000
+63,63,Jan Cornelisz. Schipper,2310,republiek_2310
+64,64,Dirck Heyndricksz. Dyckgraeff,2493,republiek_2493
+65,65,Gerard Fladderack,2463,republiek_2463
+66,66,Jacob Josias Wybout,454,republiek_454
+67,67,Symon Cornelisz. Hugens,2361,republiek_2361
+68,68,Diederik Diederiksz. 't Hooft,1796,republiek_1796
+69,69,Diederik Diederiksz. Theuft,1796,republiek_1796
+70,70,Johan Eliasz. van Loo,2449,republiek_2449
+71,71,Louis Huriblock,2188,republiek_2188
+72,72,Jacob Pauli,2706,republiek_2706
+73,73,Adriaen de Jongh,1646,republiek_1646
+74,74,Cornelis de Neyn,1818,republiek_1818
+75,75,Franchois Regius,2785,republiek_2785
+76,76,Dirk Thierry Jansz. van Woerden,2787,republiek_2787
+77,77,Evert de Neyn,1825,republiek_1825
+78,78,Geraart Montaigne,1635,republiek_1635
+79,79,Cornelis Neostadius,1682,republiek_1682
+80,80,Dirk van de Nieuburg,1625,republiek_1625
+81,81,Frederik Harmens,1634,republiek_1634
+82,82,Jan Arnold Ludolf Mulert tot Baeckenhagen,3520,republiek_3520
+83,83,Arent Hendrik ten Oever,3362,republiek_3362
+84,84,Arent van Lauwick,3379,republiek_3379
+85,85,Ernst van der Ceurbeecke,3538,republiek_3538
+86,86,Jan Gijsbert Reinder Opten Noort,3550,republiek_3550
+87,87,Jan Veen,3593,republiek_3593
+88,88,Diederik van Romond,3605,republiek_3605
+89,89,Pieter Derk Golts,3409,republiek_3409
+90,90,Rutger van Haersolte tot Toutenburg,3655,republiek_3655
+91,91,Rutger van Haersolte tot Hoenlo,3656,republiek_3656
+92,92,Roelof van Hoevel tot Nijenhuis,3681,republiek_3681
+93,93,Arend Veen,3686,republiek_3686
+94,94,Johan Everhard Adolf van Rechteren tot de Eze,3695,republiek_3695
+95,95,Lodewijk Arend Gansneb genaamd Tengnagel tot Oldhuis,3519,republiek_3519
+96,96,Lodewijk Arend Gansneb genaamd Tengnagel tot Oldenhof,3519,republiek_3519
+97,97,Gijsbert Kuijper,3295,republiek_3295
+98,98,Jan van Schrick,3292,republiek_3292
+99,99,Bartold ter Barhurst,3540,republiek_3540
+100,100,Theymen Vrieze,3598,republiek_3598
+101,101,Diederich van Willig tot Oldenhof,3636,republiek_3636
+102,102,Carl Philip Crafft van Huffel van Neÿwindeck,3517,republiek_3517
+103,103,Adolf Carel Bentinck tot Nijenhuis,3717,republiek_3717
+104,104,Borchard Amelis van Coeverden tot Hengelo,3720,republiek_3720
+105,105,Georg Otto von Munchausen tot Oldemeule,3721,republiek_3721
+106,106,Jan Zeger Sloet tot Grimberg,3723,republiek_3723
+107,107,Johan van Echten tot Olduitenborgh,3724,republiek_3724
+108,108,Boldewijn Sloet tot Lindenhorst,3366,republiek_3366
+109,109,Rutger van Haersolte tot Paaslo,3655,republiek_3655
+110,110,Hendrik van Isselmuden tot Hogenhuys,3371,republiek_3371
+111,111,Philip Gerrit van Echten tot Oldruitenborgh,3661,republiek_3661
+112,112,Sloet tot Lindenhorst,3735,republiek_3735
+113,113,Christoffel Hendriksz. Grauweijck,3747,republiek_3747
+114,114,Engbert Claasz. Engberts,3591,republiek_3591
+115,115,Marten Albertsz. Martens,3340,republiek_3340
+116,116,Johan Louwensz. Buijs,3755,republiek_3755
+117,117,Hendrik Crachtsz. Stuirman,3760,republiek_3760
+118,118,Dirk Hendriksz. Vrese,3682,republiek_3682
+119,119,Otto van Bijssel,3762,republiek_3762
+120,120,Herman Ewouts,3779,republiek_3779
+121,121,Herman ter Beecke,3739,republiek_3739
+122,122,Erasmus van Romondt,3607,republiek_3607
+123,123,Alexander Wijdenbrugh,2262,republiek_2262
+124,124,Arent Rijckarsse,3870,republiek_3870
+125,125,Johan de Bruyne,3145,republiek_3145
+126,126,Taems Gerritsz. van der Does,2396,republiek_2396
+127,127,Dirck Jacobsz. Seijs,2486,republiek_2486
+128,128,John Melvill,69,republiek_69
+129,129,Jacob Fransz. Wittens,142,republiek_142
+130,130,Carel Antoni Maclaine,561,republiek_561
+131,131,Willem van Goedereede,671,republiek_671
+132,132,Hugo van Erkel,724,republiek_724
+133,133,Thomas Verver,3288,republiek_3288
+134,134,Joan van der Beek,3291,republiek_3291
+135,135,Goswijn Hogers,3294,republiek_3294
+136,136,Janus Dousa,2824,republiek_2824
+137,137,Pieter de Hiniossa,1676,republiek_1676
+138,138,Apollonius Schotte,1683,republiek_1683
+139,139,Ellert de Veer,1712,republiek_1712
+140,140,Jacob Gerritsz. Koorn,1715,republiek_1715
+141,141,George Rataller,1736,republiek_1736
+142,142,Jacob Scotte,1753,republiek_1753
+143,143,Nicolaas Ruysch Claassen,2837,republiek_2837
+144,144,Dirk Jansz. Graswinckel,1754,republiek_1754
+145,145,Cornelis Boey,2766,republiek_2766
+146,146,Cornelis Boyus Ictus,2766,republiek_2766
+147,147,Jacob Jes,1679,republiek_1679
+148,148,Dirck Outgersz. Oostzanen,515,republiek_515
+149,149,Claes Allert Doctor,1043,republiek_1043
+150,150,Nicasius de Sille,1959,republiek_1959
+151,151,Johan Bets,1631,republiek_1631
+152,152,Joris van Hoogwerf,2600,republiek_2600
+153,153,Johan Swijnaart,2391,republiek_2391
+154,154,Johan Swijnas,2391,republiek_2391
+155,155,Duvenvoorde,2335,republiek_2335
+156,156,David Jacobsz. Verheul,2326,republiek_2326
+157,157,Antoine Genits,2838,republiek_2838
+158,158,Ellert de Veer,2826,republiek_2826
+159,159,Jacob Gerritsz. Cassaties,2860,republiek_2860
+160,160,Hendrick Dircksz. Wems,2865,republiek_2865
+161,161,Hendrick Dircksz. Wemmes,2865,republiek_2865
+162,162,François Riccen,1779,republiek_1779
+163,163,Hendrick Dircksz. Wemes,2865,republiek_2865
+164,164,Jan Tijmonsz. Gast,1519,republiek_1519
+165,165,Jacob Jansz. Mars,1307,republiek_1307
+166,166,Gerardt Duesen,1616,republiek_1616
+167,167,Hubrecht Jan Anthonisse,2946,republiek_2946
+168,168,Cornelis Fransz. Wittens,143,republiek_143
+169,169,Cornelis Fransz. de Witte,143,republiek_143
+170,170,Hubrecht de Jonge,2946,republiek_2946
+171,171,Dirk van Teylingen,696,republiek_696
+172,172,Albrecht van Schagen,2014,republiek_2014
+173,173,Theodoricus van Leyden van Leeuwen,1613,republiek_1613
+174,174,Gerardt Doesze,1616,republiek_1616
+175,175,Gerardt Deuse,1616,republiek_1616
+176,176,Gerardt Deusze,1616,republiek_1616
+177,177,Frederick Boymer,2853,republiek_2853
+178,178,Floris Schoterbosch,1667,republiek_1667
+179,179,Andries Cornelisz. de Witte,1708,republiek_1708
+180,180,Frederik de Lier,1804,republiek_1804
+181,181,Johan Iman Cau van de Dussen,2735,republiek_2735
+182,182,Johan van Zuijrendael,2791,republiek_2791
+183,183,Franchois Boot,2796,republiek_2796
+184,184,Cornelis van Groendijk,1785,republiek_1785
+185,185,Meinardus van Buuren,2799,republiek_2799
+186,186,Johan Raven,1847,republiek_1847
+187,187,Evert Both van der Eem,2840,republiek_2840
+188,188,Pieter Rosa (vanaf 1682),238,republiek_238
+189,189,Jan Arentsz. Snyder,3011,republiek_3011
+190,190,Dirck Reynersz. Bood,3015,republiek_3015
+191,191,Jan Adriaensz. Croon,3018,republiek_3018
+192,192,Bouwen Heijnsz.,1175,republiek_1175
+193,193,Govert Christiaensz. van Slingeland,2516,republiek_2516
+194,194,Adriaan Andriesz. de Lange,959,republiek_959
+195,195,Everard Verschuyr,2328,republiek_2328
+196,196,Adriaan van Clevesteijn,1072,republiek_1072
+197,197,Willem Keyzer,1403,republiek_1403
+198,198,Diderik van der Meyden,1926,republiek_1926
+199,199,Gerrit Aertsz. van Hasselt,2339,republiek_2339
+200,200,Wouter Jacobsz. Schaep,2007,republiek_2007
+201,201,Wouter Jacobsz. Scharp,2007,republiek_2007
+202,202,Jan Dircksz. van der Zeijde,2353,republiek_2353
+203,203,David Jacobsz. van den Heuvel,2326,republiek_2326
+204,204,Johan Pauli,1621,republiek_1621
+205,205,Pieter Arijensz. Bois,1026,republiek_1026
+206,206,Pieter Arijensz. Boys,1026,republiek_1026
+207,207,Carel Bosgaert,1409,republiek_1409
+208,208,Bruine Arendsz. van der Dussen,1022,republiek_1022
+209,209,Cornelis Mesen,1032,republiek_1032
+210,210,Nicolaas Ewoutsz. Vermeulen,2284,republiek_2284
+211,211,Zacharias Hoffdijck van Beresteyn,346,republiek_346
+212,212,Dirk Jansz. Heemskerk van Beest,298,republiek_298
+213,213,Michiel Willemsz. van Hoyst,1330,republiek_1330
+214,214,Jan Pietersz. Reijnse,543,republiek_543
+215,215,Cornelis de Jonge,592,republiek_592
+216,216,Arnout Daye de Jode jr.,852,republiek_852
+217,217,Nicasius de Sylla,1959,republiek_1959
+218,218,Paulus Bordsen,1689,republiek_1689
+219,219,Paulus Baertssen,1689,republiek_1689
+220,220,Paulus Basson,1689,republiek_1689
+221,221,Louis Heuriblocq,2188,republiek_2188
+222,222,Louis Huerenblock,2188,republiek_2188
+223,223,Pieter Claesz. Verhorst,2367,republiek_2367
+224,224,Job Pietersz. Ruvere,1970,republiek_1970
+225,225,Job Pietersz. van Ruiven,1970,republiek_1970
+226,226,Job Pietersz. van Roeren,1970,republiek_1970
+227,227,Willem Vrancken,2368,republiek_2368
+228,228,Pieter Rodincx,1994,republiek_1994
+229,229,Jan Cornelisz. Verhé,2002,republiek_2002
+230,230,Mattheus Augustijnsz. Steyns,2006,republiek_2006
+231,231,Jan Cornelisz. Schellingen,2310,republiek_2310
+232,232,Cornelis Nicolai,660,republiek_660
+233,233,Cornelis Florisz. Blom,2494,republiek_2494
+234,234,Wigbold Adriaan Graaf van Nassau-Bergen,2660,republiek_2660
+235,235,Cornelis Teymon,2877,republiek_2877
+236,236,Jacob de Block,2960,republiek_2960
+237,237,Nicolaas de Block,2959,republiek_2959
+238,238,Johan Ghyselingh,3119,republiek_3119
+239,239,Gasper Ingelsen,3120,republiek_3120
+240,240,Ingel Leunissen,3115,republiek_3115
+241,241,Adriaan Mannemaker,3057,republiek_3057
+242,242,Diderik Buysero,2994,republiek_2994
+243,243,Johan Gijseling,3193,republiek_3193
+244,244,Salomon Dierquens,418,republiek_418
+245,245,André Hesselt van Dinther,3227,republiek_3227
+246,246,Andries Hessels van Dinther,3227,republiek_3227
+247,247,Mattheus Hessels van Dinther,3231,republiek_3231
+248,248,Jasper van Kinschot,407,republiek_407
+249,249,Boudewijn van Barlicom,3245,republiek_3245
+250,250,Gijsbrecht van Loen,3253,republiek_3253
+251,251,Cornelis Vrancken,3252,republiek_3252
+252,252,Derk Frederik van Voorst tot Alerdinck,3413,republiek_3413
+253,253,Borchard Joost van Welvelde tot Buckhorst,3268,republiek_3268
+254,254,Wolter Jan van Broeckhuysen tot den Doorn,3272,republiek_3272
+255,255,Wolf Bentinck tot Langevelso,3273,republiek_3273
+256,256,August Leopold van Pallandt tot Eerde,3277,republiek_3277
+257,257,Gerrit Helmich van Voorst tot Alerdinck,3279,republiek_3279
+258,258,Robert Hendrik van Hambroeck tot Welefelt,3330,republiek_3330
+259,259,Frederik Gijsbert van Dedem tot den Pekkedam,3331,republiek_3331
+260,260,Frederik Gijsbert van Dedem tot Hackmeule,3331,republiek_3331
+261,261,Arend van Raesfelt tot Elssen,3329,republiek_3329
+262,262,Arend Coenraad van der Lauwick tot Benthuis,3445,republiek_3445
+263,263,Christoffel Aemilius van Voorst tot Hagenvoorde,3499,republiek_3499
+264,264,Gillis de Geerbode,994,republiek_994
+265,265,Adriaan van Allemande,1003,republiek_1003
+266,266,Jacob Wormersen van Schonen,1051,republiek_1051
+267,267,Cornelis van Nierop,1066,republiek_1066
+268,268,Joachim van Nierop,1067,republiek_1067
+269,269,Adriaan de Raat,1099,republiek_1099
+270,270,Cornelis Cornelisz. Butterkooper,1231,republiek_1231
+271,271,Adriaen 't Jonk,1646,republiek_1646
+272,272,Kasper van Poelgeest,1983,republiek_1983
+273,273,Joos de Huybert,3156,republiek_3156
+274,274,Cornelis Joansz. Steengracht de Wehl,3186,republiek_3186
+275,275,Gerhardt Doncker,3290,republiek_3290
+276,276,Roelof van den Clooster tot Groenlo,3509,republiek_3509
+277,277,Pieter Stas,3258,republiek_3258
+278,278,Henrick Nieulandt,3565,republiek_3565
+279,279,Johan d'Alles,3178,republiek_3178
+280,280,Cornelis Munnicken,2880,republiek_2880
+281,281,Bonaventura Broen de Keijzer,2924,republiek_2924
+282,282,Jacob Arent Baron de Perponcher Sedlnitsky,430,republiek_430
+283,283,Willem Coux,2928,republiek_2928
+284,284,George Rathaller,1736,republiek_1736
+285,285,Alexander Widenbrug,2262,republiek_2262
+286,286,Crijn Takesz. Ossekooper,1235,republiek_1235
+287,287,Frederik Ricxen,1759,republiek_1759
+288,288,Jacob Pietersz. Tromp,2130,republiek_2130
+289,289,Nanning Kayser,2241,republiek_2241
+290,290,Jan Jansz. Teengh van Berkhout,2309,republiek_2309
+291,291,Willem van der Aa,2368,republiek_2368
+292,292,Jacob Johansz. van Meeuwen,2479,republiek_2479
+293,293,Willem Cornelisz. de Jonge,2521,republiek_2521
+294,294,Aelbert Nierop,2715,republiek_2715
+295,295,Johan Valentijn Sprenger,3167,republiek_3167
+296,296,Gerhard Joan van Suchtelen,3306,republiek_3306
+297,297,Berent de Lespierre,3743,republiek_3743
+298,298,Roelof van Hoevell tot Nijenhuis,3808,republiek_3808
+299,299,Roelof van Hoevell tot den Dam,3808,republiek_3808
+300,300,Pieter de Hynojossa,1676,republiek_1676
+301,301,Jodocus de Huybert,3156,republiek_3156
+302,302,Pieter Ingelveert,3053,republiek_3053
+303,303,Pieter Engelvaart,3053,republiek_3053
+304,304,Cornelis Staefnisse,3144,republiek_3144
+305,305,Cornelis Staefvenisse,3144,republiek_3144
+306,306,Joos Ewoudsz. Teeling,3079,republiek_3079
+307,307,Pieter Duijvelaer,3157,republiek_3157
+308,308,François Valerius,4043,republiek_4043
+309,309,David Hubert Verelst,3852,republiek_3852
+310,310,Jan van de Werke,3140,republiek_3140
+311,311,Nicolaas Willemsz. van Cromstryen,4059,republiek_4059
+312,312,Dirck Stickingh,3283,republiek_3283
+313,313,Lambert ter Cuelen,3812,republiek_3812
+314,314,Lambert ter Coelen,3812,republiek_3812
+315,315,Hendrik Haga,3364,republiek_3364
+316,316,Diederik Stikke,3283,republiek_3283
+317,317,Arnold Lemker,3296,republiek_3296
+318,318,Casper ter Borchorst,3339,republiek_3339
+319,319,Casper ter Borgersz.,3339,republiek_3339
+320,320,Hendrik ter Coelen,3381,republiek_3381
+321,321,Steven Cornelisz. Nijs,3067,republiek_3067
+322,322,Pieter Jansz. Liorne,4078,republiek_4078
+323,323,Pieter Jansz. Livorne,4078,republiek_4078
+324,324,Willem Pietersz. Caescooper,2524,republiek_2524
+325,325,Theodorus Huberti,3816,republiek_3816
+326,326,Willem Ripperda tot Hengelo,3317,republiek_3317
+327,327,Ernst van Ittersum tot de Hofstede,3631,republiek_3631
+328,328,Willem Ripperda tot Boekelo,3317,republiek_3317
+329,329,Arend Sloet tot Tweenijenhuizen,3455,republiek_3455
+330,330,Willem Jurjen van den Boetzelaer tot Westerholt,3706,republiek_3706
+331,331,Peter van Uterwyck tot Alerdinck,3436,republiek_3436
+332,332,Ernst van Ittersum tot Beverveurde,3437,republiek_3437
+333,333,Gerrit Sloet tot Bannevelt,3453,republiek_3453
+334,334,Arend Herman Sloet tot Tweenijenhuizen,3732,republiek_3732
+335,335,François Francq,1655,republiek_1655
+336,336,Crijn Takesz. Osseweyer,1235,republiek_1235
+337,337,Pieter Ingelbert,3053,republiek_3053
+338,338,Feynte Fredericx,4109,republiek_4109
+339,339,George de Bie,3997,republiek_3997
+340,340,Jacques Walravens,4110,republiek_4110
+341,341,Fento Rixen,4109,republiek_4109
+342,342,Fento Fredericsz. Blauvelt,4109,republiek_4109
+343,343,Pieter van Borre,3257,republiek_3257
+344,344,Augustinus Bakker,3969,republiek_3969
+345,345,Jacob Fabrice Bouman,3989,republiek_3989
+346,346,Jacob van Aerssen,3230,republiek_3230
+347,347,Pierre Changuion,4149,republiek_4149
+348,348,Hendrik Verburch,4171,republiek_4171
+349,349,Casper Fagel,770,republiek_770
+350,350,Hendrik Huigh,1162,republiek_1162
+351,351,Comen Reyner Fransz.,1195,republiek_1195
+352,352,Adolphus Transisulanus van Voorst,1852,republiek_1852
+353,353,Hendrik Willemsz. van den Broeck,1972,republiek_1972
+354,354,Willem van Lijere,2019,republiek_2019
+355,355,Galenus Bevers,2990,republiek_2990
+356,356,Jodocus Fockinck,3574,republiek_3574
+357,357,Theodorus Berdenis,3742,republiek_3742
+358,358,Johan ter Beeck,3810,republiek_3810
+359,359,Adriaan van der Hooge,2834,republiek_2834
+360,360,Nicolaas Willem Symonsz. Cromstryen,4059,republiek_4059
+361,361,Johan Ghiselyn,3193,republiek_3193
+362,362,François Francken,1655,republiek_1655
+363,363,Johan van Boeckhoven,2954,republiek_2954
+364,364,Diederik van Egmond van de Nijenburg,1625,republiek_1625
+365,365,Gerrit Jansz. van de Nieuburch,1266,republiek_1266
+366,366,Cornelis Jansz. van de Nieuwburg,1980,republiek_1980
+367,367,Johan Gerritsz. van de Nijenburgh,1275,republiek_1275
+368,368,Lucas Siberti,4200,republiek_4200
+369,369,Gasper Jacob van Citters,2940,republiek_2940
+370,370,Jan André van der Meulen,4239,republiek_4239
+371,371,Meynart van Hensz.,4212,republiek_4212
+372,372,Meynart van Huessen,4212,republiek_4212
+373,373,Meynart van Huissen,4212,republiek_4212
+374,374,Jacob van Beresteyn,4211,republiek_4211
+375,375,Jan Claasz. Noortland,2232,republiek_2232
+376,376,Joachim van den Boetzelaer tot Toutenburg,4096,republiek_4096
+377,377,Van Pallandt tot Beerse,3716,republiek_3716
+378,378,Van Wassenaer van Starrenburg,250,republiek_250
+379,379,Hendrik Jansz. Mossel van Stralen,471,republiek_471
+380,380,Steengracht van Oosterland,2216,republiek_2216
+381,381,Griffioen van Waarder,2852,republiek_2852
+382,382,Sloet van Warmelo,3415,republiek_3415
+383,383,Sloet van Westerholt,3417,republiek_3417
+384,384,Van Rhemen van Rhemenshuizen,3501,republiek_3501
+385,385,Van Rhemen van Rhemenshuizen en de Geldersche Toren,3501,republiek_3501
+386,386,Van Isselmuden van Zwollingercamp,3502,republiek_3502
+387,387,Van Heerdt tot Eversberg,3522,republiek_3522
+388,388,Gansneb genaamd Tengnagel van de Luttenberg,3676,republiek_3676
+389,389,Van Pallandt van Eerde,3716,republiek_3716
+390,390,Sloet van Tweenyenhuizen en Bredenhorst,3736,republiek_3736
+391,391,Borssele van der Hooghe,3839,republiek_3839
+392,392,Van Nagell van Ampsen,4249,republiek_4249
+393,393,Van Boetzelaer van Kijfhoek,1957,republiek_1957
+394,394,Calkoen van Kortenhoef,755,republiek_755
+395,395,François van Harencarspel Decker van Beverwijk,2126,republiek_2126
+396,396,Van Kuffeler van Hoogeveen,2088,republiek_2088
+397,397,Van der Mandere van Ouwerkerk,3869,republiek_3869
+398,398,Nagell,4249,republiek_4249
+399,399,Buyesius,1669,republiek_1669
+400,400,Edzard Jacob Lewe van Middelstum,5098,republiek_5098
+401,401,,5547,republiek_5547
+402,402,Berend Alting,5330,republiek_5330
+403,403,Daniel Henri l'Argentier,5702,republiek_5702
+404,404,Hindrick Grauwens,5403,republiek_5403
+405,405,Johannes Grauwens,5435,republiek_5435
+406,406,Hendrik van Heek,4285,republiek_4285
+407,407,Borchert van Aswede,4288,republiek_4288
+408,408,Nicolaas van Millinga,4289,republiek_4289
+409,409,Sijger Sijgers,4290,republiek_4290
+410,410,Siger de Sigers,4290,republiek_4290
+411,411,,4303,republiek_4303
+412,412,Rudolf Dijk,4311,republiek_4311
+413,413,Eling Ketel,4322,republiek_4322
+414,414,Hendrik Swartte,4323,republiek_4323
+415,415,,5380,republiek_5380
+416,416,Pompejus de Valcke,4370,republiek_4370
+417,417,Abel Coenders de oudere,5011,republiek_5011
+418,418,Abel Coenders de jongere,5741,republiek_5741
+419,419,Sijger Sijgers in den Dam,5386,republiek_5386
+420,420,Wicher Wichers de jongere,5744,republiek_5744
+421,421,Wicher Wichers de oudere,5745,republiek_5745
+422,422,Theodorus Jacob Clant,5136,republiek_5136
+423,423,,5350,republiek_5350
+424,424,Johan de Mepsche op den Ham,5378,republiek_5378
+425,425,Willem Ubbena de jonge,5423,republiek_5423
+426,426,Edzard Rengers ten Post,5472,republiek_5472
+427,427,Reint Alberda de jonge,5594,republiek_5594
+428,428,,5596,republiek_5596
+429,429,Ulrich van Ewsum,5675,republiek_5675
+430,430,Focko Ulfarts van Hoysum,5446,republiek_5446
+431,431,,5009,republiek_5009
+432,432,Otto van Farmsum,5026,republiek_5026
+433,433,,5931,republiek_5931
+434,434,Johan van Meurs,5192,republiek_5192
+435,435,Jan Remmert Clant van Godlinze,5271,republiek_5271
+436,436,Hendrik van Bushoff (Boshoff).,6577,republiek_6577
+437,437,Meurs,6578,republiek_6578
+438,438,Hartfelt,5760,republiek_5760
+439,439,Joan Frederik Gordon,5174,republiek_5174
+440,440,Adriaan Wolter Willem Stoet tot Diepenbroek,6796,republiek_6796
+441,441,Alexander Munq de oude,6941,republiek_6941
+442,442,'t manke van Furstendom van Gelre,4960,republiek_4960
+443,443,Guillielmo Bartolotti,7387,republiek_7387
+444,444,Cornelis Nicolaessoon,7481,republiek_7481
+445,445,van Diederen,6586,republiek_6586
+446,446,Martin Gregorii,5749,republiek_5749

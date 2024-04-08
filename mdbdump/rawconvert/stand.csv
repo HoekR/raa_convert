@@ -1,7 +1,7 @@
 ,stand_id,stand,old_idstand
-0,0,ridderschap,negentiende_eeuw_1
-1,1,landelijke stand,negentiende_eeuw_2
-2,2,stedelijke stand,negentiende_eeuw_3
-3,3,adel,me_2
-4,4,steden,me_3
-5,5,platteland,me_4
+0,0,adel,['me_2']
+1,1,landelijke stand,['negentiende_eeuw_2']
+2,2,platteland,['me_4']
+3,3,ridderschap,['negentiende_eeuw_1']
+4,4,stedelijke stand,['negentiende_eeuw_3']
+5,5,steden,['me_3']

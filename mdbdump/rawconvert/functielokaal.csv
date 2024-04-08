@@ -1,10 +1,10 @@
 ,functielokaal_id,functielokaal,old_id functielokaal
-0,0,-,batfra_1
-1,1,Lid,republiek_2
-2,2,Volmacht ten Landdage namens het Kwartier Zevenwolden,republiek_16
-3,3,Volmacht ten Landdage namens het Kwartier der Steden,republiek_17
-4,4,Oud-schepen,republiek_18
-5,5,Oud-burgemeester,republiek_19
-6,6,Volmacht ten Landdage namens het Kwartier Oostergo,republiek_20
-7,7,Volmacht ten Landdage namens het Kwartier Westergo,republiek_21
-8,8,Pensionaris honorair,republiek_22
+0,0,-,"['batfra_1', 'negentiende_eeuw_1', 'republiek_1']"
+1,1,Lid,['republiek_2']
+2,2,Oud-burgemeester,['republiek_19']
+3,3,Oud-schepen,['republiek_18']
+4,4,Pensionaris honorair,['republiek_22']
+5,5,Volmacht ten Landdage namens het Kwartier Oostergo,['republiek_20']
+6,6,Volmacht ten Landdage namens het Kwartier Westergo,['republiek_21']
+7,7,Volmacht ten Landdage namens het Kwartier Zevenwolden,['republiek_16']
+8,8,Volmacht ten Landdage namens het Kwartier der Steden,['republiek_17']

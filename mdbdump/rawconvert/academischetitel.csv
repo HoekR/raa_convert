@@ -1,12 +1,11 @@
 ,academischetitel_id,academischetitel,old_idacademischetitel
-0,0,,batfra_1
-1,1,dr.,batfra_3
-2,2,mr.,batfra_4
-3,3,lic.,batfra_5
-4,4,mr.dr.,batfra_6
-5,5,prof.dr.,batfra_7
-6,6,prof.mr.,batfra_8
-7,7,ds.,batfra_9
-8,8,prof.ds.,batfra_10
-9,9,prof.dr.mr.,negentiende_eeuw_7
-10,10,bac.,me_6
+0,0,bac.,['me_6']
+1,1,dr.,"['batfra_3', 'negentiende_eeuw_3', 'me_2', 'divperioden_3', 'republiek_3']"
+2,2,ds.,"['batfra_9', 'negentiende_eeuw_8']"
+3,3,lic.,"['batfra_5', 'negentiende_eeuw_10', 'me_5']"
+4,4,mr.,"['batfra_4', 'negentiende_eeuw_2', 'me_3', 'divperioden_4', 'republiek_4']"
+5,5,mr.dr.,"['batfra_6', 'negentiende_eeuw_4', 'republiek_6']"
+6,6,prof.dr.,"['batfra_7', 'negentiende_eeuw_5']"
+7,7,prof.dr.mr.,['negentiende_eeuw_7']
+8,8,prof.ds.,"['batfra_10', 'negentiende_eeuw_9']"
+9,9,prof.mr.,"['batfra_8', 'negentiende_eeuw_6']"

@@ -1,1 +1,6 @@
-{"raa_old": "mysql+pymysql://rik:X0chi@localhost/raa_old", "raa_out": "mysql+pymysql://rik:X0chi@localhost/raa_out2"}
+{"raa_old": "mysql+pymysql://rik:X0chi@localhost/raa_old", 
+"raa_out": "mysql+pymysql://rik:X0chi@localhost/raa_out20240416",
+"batfralokatie":"/Users/rikhoekstra/Downloads/ing_databases/batfratijd/instelling20240410.csv",
+"toe_dirs":["./original/brondata/Republiek/Institutionele toelichtingen Republiek/",
+            "./original/brondata/ME/Institutionele toelichtingen ME/",
+            "./original/brondata/Negentiende eeuw/Institutionele toelichtingen 19de eeuw/"]}

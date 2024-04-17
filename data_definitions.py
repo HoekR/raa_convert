@@ -310,6 +310,187 @@ nids = {k.lower():[x.lower() for x in v.get('oldids') or []] for k,v in tblregis
 #  'gewest': 'gewest',
 #  'aliassen':'alias'}
 
+exporttabellen = {'academischetitel':'academische_titel', 
+                  'adellijketitel':'adellijke_titel', 
+                  'aliassen':'alias', 
+                  'bron':'bron', 
+                  'bronregentdetails':'bron_details', 
+                  'college':'instelling', 
+                  'functie':'functie', 
+                  'lokaal':'lokaal', 
+                  'provinciaal':'provincie', 
+                  'regionaal':'regio', 
+                  'stand':'stand',
+                  'gewest':'gewest',
+                  'aanstelling':'aanstelling',
+                  'persoon':'persoon'}
+
+
+# and a bit of name cleanup
+columnmaps={
+"academischetitel": {
+    'academischetitel':'naam',
+    # 'old_idacademischetitel':'old_idacademischetitel',
+    'academischetitel_id':'id',
+    'id':'id'},
+
+"adellijketitel": {
+    'adellijketitel':'naam',
+    # 'old_idadellijketitel':'old_idadellijketitel',
+    'adellijketitel_id':'id',
+    'id':'id'},
+
+"aliassen": {
+    'alias':'naam',
+    # 'old_idpersoon':'old_idpersoon',
+    'regent_id':'persoon_id',
+    'id':'id'},
+
+"bron": {
+    'index':'id',
+    'bron':'naam',
+    # 'old_idbron':'old_idbron',
+    'bron_id':'id',
+    'id':'id'},
+
+"bronregentdetails": {
+    'id':'id',
+    'deel en paginanummer':'details',
+    # 'old_idregent':'old_idregent',
+    # 'old_idbron':'old_idbron',
+    'bron_id':'bron_id',
+    'regent_id':'regent_id'},
+
+"college": {
+    'college':'naam',
+    'periode':'periode',
+    # 'old_idcollege':'old_idcollege',
+    'college_id':'id',
+    'toelichting':'toelichting',
+    # 'id':'id'
+    },
+
+"functie": {
+    'functie':'naam',
+    'periode':'periode',
+    'lokaal':'lokaal',
+    # 'old_idfunctie':'old_idfunctie',
+    'functie_id':'id',
+    'id':'id'},
+
+"lokaal": {
+    'lokaal':'naam',
+    # 'old_idlokaal':'old_idlokaal',
+    'lokaal_id':'id',
+    'id':'id'},
+
+"provinciaal": {
+    'provincie':'naam',
+    # 'old_idprovincie':'old_idprovincie',
+    'provinciaal_id':'id',
+    'id':'id'},
+
+"regionaal": {
+    'regio':'naam',
+    # 'old_idregio':'old_idregio',
+    'regionaal_id':'id',
+    'id':'id'},
+
+"stand": {
+    'stand':'naam',
+    # 'old_idstand':'old_idstand',
+    'stand_id':'stand_id',
+    'id':'id'},
+
+"persoon": {
+    'adel':'adel',
+    'adelspredikaat':'adelspredikaat',
+    'doopjaar':'doopjaar',
+    'eindcontrole':'eindcontrole',
+    'geboortedag':'geboortedag',
+    'geboortejaar':'geboortejaar',
+    'geboortemaand':'geboortemaand',
+    'geboorteplaats':'geboorteplaats',
+    'geslachtsnaam':'geslachtsnaam',
+    'heerlijkheid':'heerlijkheid',
+    # 'old_idacademischetitel':'old_idacademischetitel',
+    # 'old_idadellijketitel':'old_idadellijketitel',
+    # 'old_idregent':'old_idregent',
+    'opmerkingen':'opmerkingen',
+    'overlijdensdag':'overlijdensdag',
+    'overlijdensjaar':'overlijdensjaar',
+    'overlijdensmaand':'overlijdensmaand',
+    'overlijdensplaats':'overlijdensplaats',
+    'periode':'periode',
+    'tussenvoegsel':'tussenvoegsel',
+    'voornaam':'voornaam',
+    #'regent_id':'id',
+    'persoon_id':'id',
+    'academischetitel_id':'academischetitel_id',
+    'adellijketitel_id':'adellijketitel_id',
+    'geboortedatum':'geboortedatum',
+    'overlijdensdatum':'overlijdensdatum',
+    'geboortedatum':'geboortedatum',
+    'overlijdensdatum':'overlijdensdatum',
+    'searchable':'searchable'},
+
+"aanstelling": {
+    'begindag':'begindag',
+    'beginjaar':'beginjaar',
+    'beginmaand':'beginmaand',
+    'einddag':'einddag',
+    'eindjaar':'eindjaar',
+    'eindmaand':'eindmaand',
+    'aanstelling_id':'aanstelling_id',
+    # 'old_id':'old_id',
+    # 'old_idcollege':'old_idcollege',
+    # 'old_idfunctie':'old_idfunctie',
+    # 'old_idregent':'old_idregent',
+    # 'old_lokaal':'old_lokaal',
+    # 'old_provinciaal':'old_provinciaal',
+    # 'old_regio':'old_regio',
+    # 'old_stand':'old_stand',
+    # 'old_vertegenwoordigend':'old_vertegenwoordigend',
+    'opmerkingen':'opmerkingen',
+    'periode':'periode',
+    'vertegenwoordigend':'vertegenwoordigend',
+    'college_id':'instelling_id',
+    'functie_id':'functie_id',
+    'lokaal_id':'lokaal_id',
+    'provinciaal_id':'provincie_id',
+    'regionaal_id':'regio_id',
+    'stand_id':'stand_id',
+    #'regent_id':'persoon_id',
+    'persoon_id':'persoon_id',
+    'van_als_bekend':'van_als_bekend',
+    'tot_als_bekend':'tot_als_bekend',
+    'van':'van',
+    'tot':'tot',
+    'id':'id'},
+    
+    'bronfunctiedetails':{
+        'idbron':'idbron', 
+        'id':'id',
+        'idbovenlokaalcollegeregentdetails':'idaanstelling', 
+        # 'old_idbron':'old_idbron',
+        # 'old_idbovenlokaalcollegeregentdetails':'old_idbovenlokaalcollegeregentdetails', 
+        'bron_id':'bron_id', 
+        'aanstelling_id':'aanstelling_id'},
+
+    'functiebovenlokaal':{
+        'functiebovenlokaal_id':'id',
+        'functiebovenlokaal':'functiebovenlokaal', 
+        # 'old_id functiebovenlokaal': 'old_id functiebovenlokaal'
+    },
+
+    'functielokaal':{
+        'functielokaal_id':'id',
+        'functielokaal':'functielokaal', 
+        # 'old_id functielokaal': 'old_id functielokaal'
+    }
+}
+
+
 
 # following are columns that are candidates for date mangling
 

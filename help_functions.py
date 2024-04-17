@@ -155,7 +155,7 @@ def get_unique_lower(tbln, joined_tables, uniq_per_table):
     else:
         case_insensitive_column = case_insensitive_unique_list(list(tbl[uniqcolumn].unique()))
         uniqtitels = pd.DataFrame(case_insensitive_column, columns=[uniqcolumn]).reset_index(drop=True)
-    uniqtitels['id'] = uniqtitels.index + 1 # 1 based indexing for sql compatibility
+    # uniqtitels['id'] = uniqtitels.index + 1 # 1 based indexing for sql compatibility
     # if tbln != 'persoon':
     #     clean_references[tbln] = uniqtitels # this is what we need for our final db
     try:
@@ -163,7 +163,7 @@ def get_unique_lower(tbln, joined_tables, uniq_per_table):
     except KeyError:
         print(uniqtitels.columns, tbl.columns)
     nwtable = nwtable.reset_index(drop=True)
-    nwtable[f'{tbln}_id'] = nwtable.id
+    nwtable[f'{tbln}_id'] = nwtable.index + 1
     return {'newtable':nwtable}
 
 

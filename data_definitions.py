@@ -441,7 +441,7 @@ columnmaps={
     'einddag':'einddag',
     'eindjaar':'eindjaar',
     'eindmaand':'eindmaand',
-    'aanstelling_id':'aanstelling_id',
+    'aanstelling_id':'id',
     # 'old_id':'old_id',
     # 'old_idcollege':'old_idcollege',
     # 'old_idfunctie':'old_idfunctie',

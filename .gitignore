@@ -1,2 +1,6 @@
 connection.txt
 original/brondata/ME/oud_me_regent-t.mdb
+.vscode
+__pycache__.*
+*.pyc
+Untitled.*

@@ -1,257 +1,385 @@
 	alias	IDPersoon
-0	D'Estruemont	474
-1	Gerrit van Gronsselt	481
-2	Richard Rengher	515
-3	Adrian de Roubais	519
-4	Louis Veury	536
-5	Tielman van Dulken	6
-6	Dirk van Utrecht	662
-7	Arend Boonenburch	683
-8	Viglius	243
-9	Simon d'Amont	330
-10	Casper Lievensz. van Hoochlande	370
-11	Heyme van de Ketel	12
-12	Guiset	1001
-13	Komen	718
-14	Schagen	1040
-15	Leoninus	1217
-16	Beka	435
-17	Honsteyn	683
-18	Casparus de Terra Alta	370
-19	Simon du Mont	330
-20	Simon de Mons	330
-21	Longolius	1217
-22	Tielman van Dullekem	6
-23	Jan Jelis	656
-24	Gerrit van Gronselle	481
-25	Gerard van Gronselle	482
-26	Grusset	1001
-27	Jean Louis de Mocheron	504
-28	Gerard Milert	505
-29	Richard Renigher	515
-30	Platea	527
-31	Johan Wordt	665
-32	Louis Vary	536
-33	Louis Pori	536
-34	Viglius Zuichemus ab Aytta	243
-35	Johan van Darth	673
-36	Leonard Stalberg	670
-37	Dirk van Weer	746
-38	Gerrit van den Zijl	622
-39	Vossius	965
-40	Van Middelburg	472
-41	Grudius	280
-42	Wieger Aytta van Swichum	243
-43	Andrieu de la Croix	565
-44	Oostervant	542
-45	Grandpré	629
-46	Christophe Dassonville	350
-47	Jacob Bossaert van Belle	552
-48	Jan van der Bouverien	443
-49	Roelof de Brouxelles	447
-50	Frans Coebel van der Loo	956
-51	Filips bastaard van Brabant	463
-52	Antoon van Bergen	1342
-53	Dismas van Bergen	436
-54	Hendrik van Bergen	437
-55	Jan van Bergen	346
-56	Jan van Bergen	348
-57	Grandpré	549
-58	Humbercourt	694
-59	Roeulx	251
-60	Chimay	455
-61	Aarschot	248
-62	Aarschot	255
-63	Roeulx	356
-64	Aarschot	252
-65	Engelbert van den Dalle	464
-66	Buren	362
-67	Nicolas Nicolai	280
-68	Everard Everaerts	327
-69	Louis du Chesne	618
-70	Boussu	344
-71	Boussu	424
-72	Bossu	344
-73	Bossu	424
-74	Casparus Levini Hogelandius	370
-75	Marets	318
-76	Hoogstraten	130
-77	Gavere	247
-78	Jean de Masuny	970
-79	Thomas Bokelaer	1
-80	Regius	1467
-81	Lodewijk van Gruuthuse	446
-82	Lodewijk van Gruythuyse	446
-83	Winchester	446
-84	Meindert Klaasz. van Haarlem	636
-85	Floris Paedzen van Leiden	643
-86	Mercurino Arborio	476
-87	NIeuwenaar	425
-88	Antoine Montjeu	1123
-89	Horn	253
-90	Hoorne	253
-91	Hachicourt	266
-92	René van Nassau	110
-93	Johan van Nassau-Katzenelnbogen	695
-94	Nicolaas Nicolai	472
-95	Grudius	109
-96	Nicolaas Everaerts	109
-97	Floris Paedzensz.	643
-98	Granvelle	347
-99	Bucquoy	1345
-100	Jean de Cortewille	461
-101	Granvelle	1474
-102	Neufville	257
-103	Jan van de Werve	582
-104	Bengaert Scay	551
-105	Scepperus	322
-106	Filips van der Spaengen	1130
-107	Glajon	345
-108	Lodewijk van Bloys	626
-109	Bartholomeus van der Zeuge	1062
-110	Rassenghien	256
-111	Praat	113
-112	Chrétien de Weert	73
-113	Banjaart Scey	551
-114	Boudewijn van Zweeten	600
-115	Dirk van Zweeten	575
-116	Dirk van Zweeten	646
-117	Boudijn van Swieten	600
-118	Dirk van Swieten	646
-119	Dirk van Swieten	575
-120	Hugo van Swieten	603
-121	Jan Bouwensz.	562
-122	Grote Prior	1504
-123	Wouter Jansz. van Zierikzee	596
-124	Jean Peeters	508
-125	Josse Laureys	492
-126	Josse Lauwreys	492
-127	Louis Velaire	981
-128	Jean Coomans	1307
-129	Jean van der Gherst	991
-130	Roussel	1105
-131	Le Bontechou	1104
-132	Humbercourt	1124
-133	Jean de Geuly	490
-134	Artur de Bourbon	1540
-135	Lienart de Potes	1542
-136	Guillaume le Gros	483
-137	Rogier	515
-138	Arnoud Bogaert	439
-139	Buren	369
-140	Beveren	1340
-141	Sempy	1341
-142	Molenbaix	246
-143	Montbarrey	242
-144	Ressegem	256
-145	Havré	355
-146	Hierges	357
-147	Bellem	338
-148	Stefaan Brants	302
-149	Courteville	1457
-150	Leonard Herdinck	293
-151	Piramyus	295
-152	Stratius	650
-153	Frederik van Keppel tot Verwolde	657
-154	Jacob Pieck van IJzendoorn	653
-155	Evert van Heeckeren tot Nettelhorst	664
-156	Adolf van Goer tot Caldenbroeck	677
-157	Hendrik in den Hoorn	380
-158	Radelantius	414
-159	Humpius van Emden	399
-160	Joannes Carolus	1007
-161	Hette van Hoxwier	372
-162	Van Boucamp	442
-163	Bousani	444
-164	Cornelis Bouwin	5
-165	Corneille de Muenincx	985
-166	Antoine de Branchion	1325
-167	Pierre de Breuil	969
-168	Montanus	407
-169	Adriaan Sandelijn	126
-170	Heiman van Mierop van de Ketel	12
-171	Antoine Michiel	601
-172	Cornelis Neostadius	86
-173	Louis de Back	432
-174	Louis de Vacq	432
-175	Peter van Apeldoren	666
-176	Peter van Appeldoren	666
-177	Rubais	519
-178	Jacob van Abcoude	631
-179	François de Berch	990
-180	Willem (van der) Cryp	909
-181	De Sancto Petro	11
-182	Bartold van Bassen genaamd Ernst	59
-183	Thomas Boickelaer	1
-184	Barthélemi le Febvre	1102
-185	Gillis de Caboeter	553
-186	Cornelis Jansz.	578
-187	Diderich von Westrom zu Langendonck	1223
-188	Druittius	992
-189	Filips Duclert	784
-190	Tielman van Dullekin	6
-191	Eerst van Ysendoren	398
-192	Jan Gelis	656
-193	Bartholt van Gendt	676
-194	Willem van Gendt	669
-195	George Rataleur	374
-196	George Voeth	678
-197	Gerard Muylaert	505
-198	Ghillam Scryvers	389
-199	Jacques de Gradebault	478
-200	Gerard van Gronsselt	482
-201	Jean Guillet	477
-202	Hendrikse	115
-203	Haio Hompius	399
-204	Hopperus	335
-205	Jacques Muysart	977
-206	Jan Bruyninck	328
-207	Jean Baers	971
-208	Jean Baptiste Berty	284
-209	Jelis Pieck	687
-210	Jean Jonnet	479
-211	Joris Themsicke	320
-212	Josse Cranevelt	655
-213	Josse Kevin	513
-214	Lanchals	395
-215	Philippe le Febre	988
-216	Filips le Noir	323
-217	Jeronimus Lettyn	659
-218	Pierre de Longneu	496
-219	Arend van Zevenbergen	616
-220	Louis van Beughem	384
-221	Loys Rataller	22
-222	Fernand de Lucerne	497
-223	Tristam de Lucerne	498
-224	Manke Jan	614
-225	Guillaume le Marquis	499
-226	Martinus de Narden	371
-227	Pierre de Mettenci	500
-228	Willem van Zaanden	570
-229	Middelburg	1322
-230	Jean Louis de Moucheron	504
-231	Jan van der Staten	527
-232	Jan Stoop	864
-233	Gossuin le Sauvage	539
-234	Johan Urd	665
-235	Johan van Niel	672
-236	Jean le Sauvage	525
-237	Jan van Bergen	973
-238	Dirk van Leiden	236
-239	Renesse	1027
-240	Reyer van der Does	17
-241	Hayo Riperdorn	660
-242	Jacques de Roeck	520
-243	Jean Rousseau	521
-244	Jan Engelsz. van Lezanen	907
-245	Johan Stalborch	658
-246	Hadrianus Marius	401
-247	Colaert van Comene	718
-248	Jan van den Berch	420
-249	Hendrik Lottemsz. van Zeelem	862
-250	Noircarmes	254
-251	Willem van Alkmaar	71
+0		379
+1	Lanchals	395
+2		399
+3		407
+4	Louis de Vacq	432
+5	Van Boucamp	442
+6	Bousani	444
+7	Jean de Cortewille	461
+8	D'Estruemont	474
+9	Jean Guillet	477
+10	Jacques de Gradebault	478
+11	Jean Jonnet	479
+12	Gerrit van Gronsselt	481
+13	Gerard van Gronsselt	482
+14	Pierre de Longneu	496
+15	Fernand de Lucerne	497
+16	Tristam de Lucerne	498
+17	Guillaume le Marquis	499
+18	Pierre de Mettenci	500
+19	Jean Louis de Moucheron	504
+20	Gerard Muylaert	505
+21	Filips le Noir	323
+22	Josse Kevin	513
+23	Richard Rengher	515
+24	Adrian de Roubais	519
+25	Jacques de Roeck	520
+26	Jean Rousseau	521
+27	Jan van der Staten	527
+28	Joris Themsicke	320
+29	Louis Veury	536
+30	Tielman van Dulken	6
+31	Gillis de Caboeter	553
+32	Cornelis Jansz.	578
+33	Willem van Zaanden	570
+34		631
+35		655
+36	Jan Gelis	656
+37	Johan Stalborch	658
+38	Jeronimus Lettyn	659
+39		662
+40	Johan Urd	665
+41	Willem van Gendt	669
+42	Johan van Niel	672
+43		676
+44	Arend Boonenburch	683
+45	Jelis Pieck	687
+46		678
+47		284
+48	Dionys van Wesenhagen	668
+49	Arend van Zevenbergen	616
+50	Antoine Michiel	601
+51	Manke Jan	614
+52	Wessel Gansfort (onzeker)	798
+53	Simon d'Amont	330
+54	Willem van Alkmaar	71
+55	Casper Lievensz. van Hoochlande	370
+56	Martinus de Narden	371
+57	George Rataleur	374
+58	De Sancto Petro	11
+59		384
+60	Hendrik Lottemsz. van Zeelem	862
+61	Jan Stoop	864
+62	Loys Rataller	22
+63	Jan Engelsz. van Lezanen	907
+64	Willem (van der) Cryp	909
+65	Evert van Ens	826
+66	Wulven	408
+67	Hendrikse	115
+68		389
+69	Amelius van Zuylen van Nijevelt	963
+70	Willem de Gouda	715
+71	Cornelis Bouwin	5
+72	Heyme van de Ketel	12
+73	Gerard van Loo	150
+74	Pierre de Breuil	969
+75	Jean Baers	971
+76	Jan van Bergen	973
+77	Hadrianus Marius	401
+78	Jacques Muysart	977
+79	Corneille de Muenincx	985
+80	Philippe le Febre	988
+81	Hopperus	335
+82	François de Berch	990
+83	Druittius	992
+84	Guiset	1001
+85	Pussius	1015
+86	Adriaan Sandelijn	126
+87	François de Gand	1037
+88	Schagen	1040
+89	Sanche van Lalaing	1043
+90		1072
+91		751
+92	Ludovicus	728
+93	Johannes Nisse	1075
+94	Potage	1076
+95	Johan Proys	719
+96	Henricus Raiscop	1077
+97	Gerardus Suckerraedt	1080
+98		1097
+99	Thomas Boickelaer	1
+100	Leoninus	1217
+101	Middelburg	1322
+102	Antoine de Branchion	1325
+103		666
+104	Reyer van der Does	17
+105	Reinier van Etten	1066
+106	Jan Bruyninck	328
+107	Bardesius	1219
+108	Nicasius de Silla	1246
+109		420
+110		784
+111	Blikkenburg	763
+112	Eerst van Ysendoorn	398
+113	Tyman ten Bosch	805
+114	Evert van Wytman	717
+115	Jacob van Witman	758
+116	Hayo Riperdorn	660
+117	Dirk van Leiden	236
+118	Willem de Bijtse	1405
+119	Diderich von Westrom zu Langendonck	1223
+120	Bartold van Bassen genaamd Ernst	59
+121	Rubais	519
+122		666
+123	Willem Baerdesen	1219
+124	Louis de Back	432
+125	Guillaume de Bisches	1405
+126	Guillaume Biche	1405
+127	Honsteyn	683
+128	Casparus de Terra Alta	370
+129	Simon du Mont	330
+130	Simon de Mons	330
+131	Longolius	1217
+132	Tielman van Dullekin	6
+133	Tielman van Dullekem	6
+134	Jan Jelis	656
+135	Gerrit van Gronselle	481
+136	Gerard van Gronselle	482
+137	Grusset	1001
+138		751
+139	Colaert van Comene	718
+140	Jean Louis de Mocheron	504
+141	Gerard Milert	505
+142	Neostadius	86
+143	Adriaan Puessens	1015
+144	Adriaan Puessin	1015
+145	Richard Renigher	515
+146	Platea	527
+147	Gerardus Zuckerode	1080
+148	Johan Wordt	665
+149	Louis Vary	536
+150	Louis Pori	536
+151	Viglius Zuichemus ab Aytta	243
+152	Heiman Mierop van de Ketel	12
+153	Walterus de Gouda	715
+154	Johan van Darth	673
+155	Leonard Stalberg	670
+156	Johan van Twickel de oude	811
+157		746
+158		622
+159	Vossius	965
+160	Van Middelburg	472
+161	Grudius	280
+162	Wieger Aytta van Swichum	243
+163	Andrieu de la Croix	565
+164	Oostervant	542
+165	Grandpré	629
+166	Christophe Dassonville	350
+167	Jacob Bossaert van Belle	552
+168	Jan van der Bouverien	443
+169	Roelof de Brouxelles	447
+170	Medina-Celi	349
+171	Frans Coebel van der Loo	956
+172	Filips bastaard van Brabant	463
+173	Antoon van Bergen	1342
+174	Dismas van Bergen	436
+175	Hendrik van Bergen	437
+176	Jan van Bergen	346
+177	Jan van Bergen	348
+178	Grandpré	549
+179		694
+180	Roeulx	251
+181	Chimay	455
+182	Aarschot	248
+183	Aarschot	255
+184	Roeulx	356
+185	Aarschot	252
+186	Engelbert van den Dalle	464
+187	Buren	362
+188	Nicolas Nicolai	280
+189	Louis du Chesne	618
+190	Liedekerke	367
+191	Boussu	344
+192	Boussu	424
+193	Bossu	344
+194	Bossu	424
+195	Casparus Levini Hogelandius	370
+196	Marets	318
+197	Hoogstraten	130
+198	Hoogstraten	361
+199	Arenberg	360
+200	Bucqouy	1345
+201	Gavere	247
+202	Jean de Masuny	970
+203	Thomas Bokelaer	1
+204	Regius	1467
+205	Lodewijk van Gruuthuse	446
+206	Lodewijk van Gruythuyse	446
+207	Winchester	446
+208	Meindert Klaasz. van Haarlem	636
+209	Floris Paedzen van Leiden	643
+210	Epinoy	359
+211	Mercurino Arborio	476
+212	NIeuwenaar	425
+213	Antoine Montjeu	1123
+214	Noircarmes	254
+215	Horn	253
+216	Hoorne	253
+217	Hachicourt	266
+218	Willem van Oranje	122
+219	René van Nassau	110
+220	Johan van Nassau-Katzenelnbogen	695
+221	Grote Prior	1046
+222	Nicolaas Nicolai	472
+223	Grudius	109
+224	Nicolaas Everaerts	109
+225	Floris Paedzensz.	643
+226	Granvelle	347
+227	Champagney	353
+228	Granvelle	1474
+229	Bartelmeus Partout	1051
+230	De Castello	1051
+231	Neufville	257
+232	Jan van de Werve	582
+233	Jean le Sauvage	525
+234	Gossuin le Sauvage	539
+235	Bengaert Scay	551
+236	Scepperus	322
+237	Filips van der Spaengen	1130
+238	Glajon	345
+239	Lodewijk van Bloys	626
+240	Bartholomeus van der Zeuge	1062
+241	Rassenghien	256
+242	Praat	113
+243	Chrétien de Weert	73
+244	Banjaart Scey	551
+245	Boudewijn van Zweeten	600
+246	Dirk van Zweeten	575
+247	Dirk van Zweeten	646
+248	Boudijn van Swieten	600
+249	Dirk van Swieten	646
+250	Dirk van Swieten	575
+251	Hugo van Swieten	603
 252	Thierry Jansz. van Woerden	1483
-253	Wulven	408
-254	Zosius	379
-255	Dionys van Wesenhagen	668
+253	Jan Bouwensz.	562
+254	Jacquemart van Asch	1520
+255	Jan van Steenbergen	1529
+256	Van den Broeke	1544
+257	Stephan Scherff	1554
+258	Steven Scherf	1554
+259	Anthonis de Lokere	1560
+260	Anthonis de Lonckere	1560
+261	Gerrit Pietersz d'Oude	1571
+262	Gerrit Pietersz l'Aisné	1571
+263	Jeronimus Bruynseels	1574
+264	Jacob Jansz van Velzen	1577
+265	Jacob Jansz van Haarlem	1577
+266		794
+267	genaamd Peereboem	692
+268		743
+269	Osdorp	1610
+270	Magister	568
+271	Lombise	1646
+272	drossaart van Diest, of heer van Mal.	95
+273	de jonker van Arkel.	1850
+274	Jan uten Waarde.	1861
+275	Jacob van Benthem.	1871
+276		1629
+277	Goedsot	1996
+278	van Heemskerk	2019
+279	van Heemskerk	2020
+280	Wouter van den Berge.	2115
+281	van Alkemade.	2388
+282	ook als tHert.	1702
+283	ook als tHert.	2057
+284	Jan van der Scaghe.	1828
+285	Jan van Beaumont, Jan van Blois	2455
+286	geheten van Engeland.	2457
+287	Jan van den Steen, Lem Scheve Nevenz.	2479
+288	geheten van Engeland.	2459
+289	Hendrik van Gheldenake.	2504
+290	ook als : Jan van den Briel, of Jan van Rapenburg.	114
+291	Willen Dullaert.	1627
+292	Jan van Ammers.	2290
+293	Hendrik heer Diederik Zayenz.	2443
+294	Lange Adriaan.	2572
+295	Jan Hendriksz. van Schoonhoven	153
+296	van Kest.	2635
+297	gez. Briel.	2670
+298	Viry	2617
+299		2624
+300	Joost van Minnen.	2687
+301	gezegd van Diemen.	2710
+302	(van Hogenhouck)	1035
+303	van der Campen, uten Campen.	2723
+304	Wouter van der Eycke, genaamd Van Heusden.	132
+305	van der Valk.	2619
+306	van Vianen.	2386
+307	genaamd Fallais.	2847
+308	Rijn, Rin.	1058
+309	Jan Meetteneye.	3052
+310	Jan Jan Duven zoonsz.	3079
+311	Montfoort van Zwieten.	2133
+312	van der Hameyden van den Abeele.	1578
+313	van der Hameyden van den Abeele.	1025
+314	Zegers d'Ydegom, heer van Wassenhove	1616
+315	ook als Willem Eggert van Gendt.	1971
+316	mr. Tielman van Striene.	2236
+317	Stadink Maasz. van Dubbelmonde.	2652
+318	van Varik.	3228
+319	Ghistelles	3512
+320	genaamd Vos.	3566
+321	Diepenhorst alias de Soos	3603
+322	Haastenberg.	3604
+323	bastaardzoon van Holland	3643
+324	Rycoult van den Broek.	3646
+325	Floris heren Dirks Bokelsbroeder.	3674
+326	van der Spange	3679
+327	Amelis van Amstel van Mijnden	1749
+328	Harbaren van Riede.	3767
+329	Dirk Verdoes.	3817
+330	Luter Teylinc	41
+331	ook Willem Arnoudsz.	3581
+332	Jan Willemsz. van der Borch.	3948
+333		3994
+334	Pijnsz.	1131
+335	Baert.	4136
+336	Huge heren Gerritsz. (van Schiedam).	4220
+337	Leen.	4344
+338	Jan Cornelis Pietersz.	2633
+339	Klaas Arendsz. Bartelmueusz.	4494
+340	Adolf van Wakken	4495
+341	ook als Bucquet	1562
+342	Jeronimus de Rollez.	198
+343	de Munt.	1519
+344	Hugo Duuk.	4579
+345	Engelbrecht bastaard van Duvenvoorde	2256
+346	Jacob Mauritsz.	1471
+347	Hendrik Mida.	606
+348	Widt	2676
+349	van Heemskerk	2275
+350	Jan Hendriksz. van der Goude	2330
+351	Tromperius.	5069
+352	Karel de Smytere	2794
+353		3371
+354	Willem Simonsz.	5138
+355	Dirk de Klerk.	2559
+356	Pieraart Assche	2641
+357	Molencamp.	1952
+358	Pieter Jansz. Rijswerkere.	2961
+359	Dever.	1860
+360		5330
+361		2544
+362	Ydo Jacobsz. (van der Tholen).	5365
+363	Komen of Commines	718
+364	Willem de bastaard van Beieren.	5444
+365	Rodenrijs/Kralingen.	2084
+366	Avenkind	2483
+367	Mogelijk dezelfde als Adriaan Pietersz.	2896
+368	Simon Sillemoer Klaasz. Schol	3442
+369	Huge Pietersz.	5191
+370	Mol	3113
+371	Klaas Taemsz.	1115
+372	Bantschon.	5668
+373	Jan met de bellen	1977
+374	van Oosterland.	5050
+375	Pieter van Renesse (van Beoostenzweene).	1027
+376	Viglius Zuichemus ab Aytta; Wieger Aytta van Swichum.	243
+377	Everard Everaerts.	327
+378	Cornelis Nieustadt, Neostadius, Nijestadt.	86
+379	Simon van Teilingen vanaf 1339.	1863
+380	Jacob Pauwelsz. Hallincq.	3559
+381	(Hoogstraat) (Gobburgenz.z.)	3102
+382	Gerard van Leiden.	1992
+383	van Genuchten.	3880

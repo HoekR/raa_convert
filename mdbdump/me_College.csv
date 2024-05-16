@@ -1,13 +1,23 @@
 	IDCollege	Periode	College	VolgnummerBasiscollege	Basis	Id
-0	83	0		0	0	0
-1	84	0	Raad van State (1531-1578)	0	0	0
-2	85	0	Schive Utrecht (1474-1477)	0	0	0
-3	2	0	Hof van Holland, Zeeland en West-Friesland (1428-1802)	0	0	0
-4	29	0	Hof van Gelre en Zutphen (1544-1588)	0	0	0
-5	40	0	Rekenkamer Gelre (1559-1588)	0	0	0
-6	24	0	Geheime Raad (1531-1578)	0	0	0
-7	28	0	Grote Raad (te Mechelen) (1473-1582)	0	0	0
-8	44	0	Raadkamer Gelre (1473-1477)	0	0	0
-9	25	0	Raad van Financiën (1531-1578)	0	0	0
-10	31	0	Hof van Utrecht (1530-1588)	0	0	0
-11	1	0	Rekenkamer Holland en Zeeland (1447-1572)	0	0	0
+0	1	0	Rekenkamer Holland	0	0	0
+1	2	0	Hof van Holland, Zeeland en West-Friesland (1428-1588)	0	0	0
+2	23	0	Raad van State	0	0	0
+3	24	0	Geheime Raad	0	0	0
+4	25	0	Raad van Financiën	0	0	0
+5	28	0	Grote Raad (te Mechelen)	0	0	0
+6	29	0	Hof van Gelre en Zutphen	0	0	0
+7	31	0	Hof van Utrecht	0	0	0
+8	40	0	Rekenkamer Gelre	0	0	0
+9	44	0	Raadkamer Gelre	0	0	0
+10	83	0	Grafelijkheid van Holland	0	0	0
+11	85	0	Grafelijkheid van Zeeland	0	0	0
+12	86	0	Staten-Generaal	0	0	0
+13	91	0	Kanselarij graven van Holland en Zeeland	0	0	0
+14	92	0	Hoge Raad van Holland en Zeeland (1582-1795)	0	1	0
+15	93	0	Hoge Raad van Holland en Zeeland (1582-1795)	0	0	0
+16	98	0		0	0	0
+17	99	0		0	0	0
+18	100	0		0	0	0
+19	101	0		0	0	0
+20	102	0	Staten van Holland	0	0	0
+21	103	0	schout van Rotterban	0	0	0

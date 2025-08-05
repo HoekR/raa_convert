@@ -13,7 +13,7 @@
 11	21	1	Hof van Friesland (15??-1795)	0.0	0	24
 12	22	1	Gedeputeerde Staten van Overijssel (1591-1795)	0.0	0	25
 13	26	1	Staten van Holland (1572-1795)	0.0	0	29
-14	27	1	Staten-Generaal der Verenigde Nederlanden (1588-1795)	0.0	0	30
+14	27	1	Staten-Generaal der Verenigde Nederlanden (1576-1795)	0.0	0	30
 15	28	1	Raad van State (1588-1795)	0.0	0	31
 16	29	1	Generaliteitsrekenkamer (1608-1799)	0.0	0	32
 17	30	1	Admiraliteit op de Maze (1586-1795)	0.0	0	33
@@ -78,43 +78,45 @@
 76	95	1	Vroedschap van Vlissingen		1	46
 77	96	1	College van Geëligeerden van Utrecht		1	47
 78	97	1	Ridderschap van Utrecht		1	48
-79	98	1	Vroedschap van Utrecht		1	49
-80	99	1	Vroedschap van Amersfoort		1	50
-81	100	1	Vroedschap van Rhenen		1	51
-82	101	1	"Vroedschap van Montfoort
+79	99	1	Vroedschap van Amersfoort		1	50
+80	100	1	Vroedschap van Rhenen		1	51
+81	101	1	"Vroedschap van Montfoort
 Vroedschap van Wijk bij Duurstede"		1	52
-83	102	1	Vroedschap van Leeuwarden		1	56
-84	103	1	Vroedschap van Bolsward		1	57
-85	104	1	Vroedschap van Franeker		1	58
-86	105	1	Vroedschap van Sneek		1	59
-87	106	1	Vroedschap van Dokkum		1	60
-88	107	1	Vroedschap van Harlingen		1	61
-89	108	1	Vroedschap van Stavoren		1	62
-90	109	1	Vroedschap van Sloten		1	63
-91	110	1	Vroedschap van Workum		1	64
-92	111	1	Vroedschap van IJlst		1	65
-93	112	1	Vroedschap van Hindeloopen		1	66
-94	116	1	Raad van Deventer		1	70
-95	117	1	Raad van Kampen		1	71
-96	118	1	Raad van Zwolle		1	72
-97	119	1	Raad van Groningen		1	73
-98	130	1	College van Superintendentie der Admiralteit (1589-1593)	0.0	0	0
-99	138	1	Provinciale Rekenkamer van Groningen (1596-1795)	0.0	0	0
-100	139	1	Gedeputeerde Staten van Groningen (1595-1795)	0.0	0	0
-101	142	1	Hof van Gelre en Zutphen (1588-1795)	0.0	0	0
-102	143	1	Hof van Utrecht (1588-1795)	0.0	0	0
-103	145	1	Gedeputeerde Staten van Utrecht (1577-1795)	0.0	0	0
-104	146	1	Staten van Utrecht	0.0	0	0
-105	160	1	Vroedschap van Wijk bij Duurstede	0.0	1	0
-106	161	1	Provinciale Rekenkamer van Gelderland (1581-1795)	0.0	0	0
-107	164	1	Gedeputeerde Staten van het Graafschap Zutphen (1598-1795)	0.0	0	0
-108	90	1	Vroedschap van Middelburg		1	41
-109	162	1	Gedeputeerde Staten van het Kwartier Veluwe (1580-1795)	0.0	0	0
-110	71	1	Vroedschap van Dordrecht	2.0	1	18
-111	93	1	Vroedschap van Tholen		1	44
-112	137	1	Grafelijkheidsrekenkamer van Holland (1588-1728)	0.0	0	0
-113	144	1	Kamer ter Finantie van Utrecht (1663-1795)	0.0	0	0
-114	163	1	Gedeputeerde Staten van het Kwartier Nijmegen (1593-1795)	0.0	0	0
-115	129	1	Ridderschap van Overijssel	0.0	1	0
-116	120	1	Ommelander Vergadering [onderverdelen in 3 kwartieren]		1	74
-117	140	1	Hoofdmannenkamer, vanaf 1749 Hoge Justitiekamer van Groningen (1594-1795)	0.0	0	0
+82	102	1	Vroedschap van Leeuwarden		1	56
+83	103	1	Vroedschap van Bolsward		1	57
+84	104	1	Vroedschap van Franeker		1	58
+85	105	1	Vroedschap van Sneek		1	59
+86	106	1	Vroedschap van Dokkum		1	60
+87	107	1	Vroedschap van Harlingen		1	61
+88	108	1	Vroedschap van Stavoren		1	62
+89	109	1	Vroedschap van Sloten		1	63
+90	110	1	Vroedschap van Workum		1	64
+91	111	1	Vroedschap van IJlst		1	65
+92	112	1	Vroedschap van Hindeloopen		1	66
+93	116	1	Raad van Deventer		1	70
+94	117	1	Raad van Kampen		1	71
+95	118	1	Raad van Zwolle		1	72
+96	119	1	Raad van Groningen		1	73
+97	130	1	College van Superintendentie der Admiralteit (1589-1593)	0.0	0	0
+98	138	1	Provinciale Rekenkamer van Groningen (1596-1795)	0.0	0	0
+99	139	1	Gedeputeerde Staten van Groningen (1595-1795)	0.0	0	0
+100	142	1	Hof van Gelre en Zutphen (1588-1795)	0.0	0	0
+101	143	1	Hof van Utrecht (1588-1795)	0.0	0	0
+102	145	1	Gedeputeerde Staten van Utrecht (1577-1795)	0.0	0	0
+103	146	1	Staten van Utrecht	0.0	0	0
+104	160	1	Vroedschap van Wijk bij Duurstede	0.0	1	0
+105	161	1	Provinciale Rekenkamer van Gelderland (1581-1795)	0.0	0	0
+106	164	1	Gedeputeerde Staten van het Graafschap Zutphen (1598-1795)	0.0	0	0
+107	167	1	Raad van Mons	0.0	1	0
+108	168	1	Raad van Brugge	0.0	1	0
+109	90	1	Vroedschap van Middelburg		1	41
+110	162	1	Gedeputeerde Staten van het Kwartier Veluwe (1580-1795)	0.0	0	0
+111	71	1	Vroedschap van Dordrecht	2.0	1	18
+112	93	1	Vroedschap van Tholen		1	44
+113	137	1	Grafelijkheidsrekenkamer van Holland (1588-1728)	0.0	0	0
+114	144	1	Kamer ter Finantie van Utrecht (1663-1795)	0.0	0	0
+115	163	1	Gedeputeerde Staten van het Kwartier Nijmegen (1593-1795)	0.0	0	0
+116	129	1	Ridderschap van Overijssel	0.0	1	0
+117	120	1	Ommelander Vergadering [onderverdelen in 3 kwartieren]		1	74
+118	140	1	Hoofdmannenkamer, vanaf 1749 Hoge Justitiekamer van Groningen (1594-1795)	0.0	0	0
+119	98	1	Raad/Vroedschap van Utrecht		1	49

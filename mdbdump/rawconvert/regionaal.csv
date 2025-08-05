@@ -10,21 +10,24 @@
 8,8,Kwartier Veluwe,['me_9']
 9,9,Kwartier Zutphen,['me_8']
 10,10,Middelburg en Zierikzee,['me_5']
-11,11,Nijmegen,"['me_12', 'republiek_13']"
+11,11,Nijmegen,['republiek_13']
 12,12,Ommelanden,['me_15']
-13,13,Oostergo,"['divperioden_10', 'republiek_1']"
-14,14,Overkwartier,['me_6']
-15,15,"Reimerswaal, Goes en Tholen",['me_4']
-16,16,Roermond,['me_16']
-17,17,Salland,['republiek_4']
-18,18,Souburg en Sommelsdijk,['me_2']
-19,19,Steden,['divperioden_13']
-20,20,Twente,['republiek_5']
-21,21,Veere en Vlissingen,['me_1']
-22,22,Veluwe,['republiek_10']
-23,23,Vollenhove,['republiek_6']
-24,24,Westergo,"['divperioden_11', 'republiek_2']"
-25,25,Westerkwartier,['republiek_9']
-26,26,Zevenwolden,"['divperioden_12', 'republiek_3']"
-27,27,Zutphen,"['me_17', 'republiek_11']"
-28,28,bannerheren,['me_11']
+13,13,Ommelanden van Groningen,['republiek_17']
+14,14,Oostergo,"['divperioden_10', 'republiek_1', 'republiek_friezen_10']"
+15,15,Overkwartier,['me_6']
+16,16,"Reimerswaal, Goes en Tholen",['me_4']
+17,17,Roermond,"['me_16', 'republiek_14']"
+18,18,Salland,['republiek_4']
+19,19,Souburg en Sommelsdijk,['me_2']
+20,20,Steden,"['divperioden_13', 'republiek_friezen_13']"
+21,21,Twente,['republiek_5']
+22,22,Veere en Vlissingen,['me_1']
+23,23,Veluwe/Arnhem,['republiek_10']
+24,24,Vollenhove,['republiek_6']
+25,25,Westergo,"['divperioden_11', 'republiek_2', 'republiek_friezen_11']"
+26,26,Westerkwartier,['republiek_9']
+27,27,Zevenwolden,"['divperioden_12', 'republiek_3', 'republiek_friezen_12']"
+28,28,Zutphen,['republiek_11']
+29,29,bannerheren,['me_11']
+30,30,stad Nijmegen,['me_12']
+31,31,stad Zutphen,['me_17']

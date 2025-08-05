@@ -22,14 +22,16 @@ def deldupids(joinedtable, val_column, old_id_column):
     tt = tt.rename(columns={'index':idname})
     return tt
 
-def make_idmapping(deduptable, old_id_column, is_nested=True):
+def make_idmapping(deduptable, old_id_column, id, is_nested=True):
     """make an id mapping from a deduplicated joined table
     note that there is a difference for tables with and without duplicate previous ('nested') ids"""
-    dtt = deduptable.to_dict() 
+    if not id: # hack for tables without previous id
+        id = old_id_column
+    dtt = deduptable #.to_dict() 
     if is_nested is True:
-        revdtt = {x:k for k,v in dtt[old_id_column].items() for x in v}
+        revdtt = {x:k for k,v in dtt[[id, old_id_column]].to_records(index=False) for x in v}
     else:
-        revdtt = {v:k for k,v in dtt[old_id_column].items()}
+        revdtt = {v:k for k,v in dtt[[id, old_id_column]].to_records(index=False)}
     return revdtt
 
 def alt_idmapping(deduptable, val_column, old_id_column):

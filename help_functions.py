@@ -3,6 +3,36 @@ import re
 import pandas as pd
 import numpy as np
 from collections import defaultdict, OrderedDict
+from sqlalchemy.engine import make_url
+
+from data_definitions import gewest_periods
+
+# MySQL databases that must never receive to_sql writes from the consolidate notebook.
+PROTECTED_MYSQL_DATABASES = frozenset({'raa_nw', 'raa_old'})
+
+
+def mysql_database_name(connection_string: str) -> str:
+    name = make_url(connection_string).database
+    if not name:
+        raise ValueError(f"No database name in connection URL: {connection_string!r}")
+    return name
+
+
+def assert_mysql_write_target(read_url: str, write_url: str, *, protected=None) -> str:
+    """Return the write database name or raise if the target is not safe."""
+    protected = protected or PROTECTED_MYSQL_DATABASES
+    read_db = mysql_database_name(read_url)
+    write_db = mysql_database_name(write_url)
+    if write_db in protected:
+        raise ValueError(
+            f"Refusing to write to protected MySQL database {write_db!r}. "
+            "Point connection.json raa_out at a new name, e.g. raa_nw_YYYYMMDD."
+        )
+    if write_db == read_db:
+        raise ValueError(
+            f"Refusing to write to the same database used for reads ({read_db!r})."
+        )
+    return write_db
 
 
 def sup(x):
@@ -177,6 +207,60 @@ def case_insensitive_unique_list(data):
         except AttributeError:
             pass
     return d.values()
+
+def load_gewest_tables(connection_string, periods=None) -> pd.DataFrame:
+    """Load and concatenate Gewest lookup tables for republiek-period MDBs."""
+    from sqlalchemy import create_engine, inspect
+
+    periods = periods or gewest_periods
+    engine = create_engine(connection_string)
+    table_names = {t.lower(): t for t in inspect(engine).get_table_names()}
+
+    def resolve_table(periode: str) -> str | None:
+        for candidate in (f'{periode}_Gewest', f'{periode}_gewest'):
+            if candidate.lower() in table_names:
+                return table_names[candidate.lower()]
+        if periode == 'republiek_friezen':
+            for candidate in ('republiek_Gewest', 'republiek_gewest'):
+                if candidate.lower() in table_names:
+                    return table_names[candidate.lower()]
+        return None
+
+    parts = []
+    for periode in periods:
+        sql_name = resolve_table(periode)
+        if sql_name is None:
+            print(f'no Gewest table for {periode}, skipping')
+            continue
+        print(f'getting {sql_name}')
+        dftable = pd.read_sql_table(table_name=sql_name, con=engine)
+        dftable = dftable.rename(columns={c: c.lower() for c in dftable.columns})
+        dftable.reset_index(inplace=True)
+        dftable['old_idgewest'] = dftable['idgewest'].astype('Int64').apply(
+            lambda x: f'{periode}_{x}'
+        )
+        parts.append(dftable)
+        print(f'adding gewest from {periode}')
+    if not parts:
+        raise ValueError('No Gewest tables loaded — check raa_old import')
+    return pd.concat(parts, ignore_index=True)
+
+
+def fix_republiek_gewest_provincie(aanstelling: pd.DataFrame) -> pd.DataFrame:
+    """Prefer gewest_id over provinciaal_id for republiek-period appointments.
+
+    In republiek MDBs the aanstelling.provinciaal field references Gewest, not
+    provinciaal. IDs 11-14 are reused in provinciaal for Southern Netherlands.
+    """
+    if 'gewest_id' not in aanstelling.columns or 'old_provinciaal' not in aanstelling.columns:
+        return aanstelling
+    out = aanstelling.copy()
+    old_prov = out['old_provinciaal'].astype('string')
+    for period in gewest_periods:
+        has_gewest = old_prov.str.startswith(f'{period}_', na=False) & out['gewest_id'].notna()
+        out.loc[has_gewest, 'provinciaal_id'] = pd.NA
+    return out
+
 
 def replace_ids(worktable=None, wtbln='', reftable=''):
     """replace reference ids in a worktable. We need to pass both worktable itself as its name

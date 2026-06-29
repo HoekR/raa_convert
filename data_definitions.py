@@ -2,7 +2,7 @@
 outdir = "./mdbdump/rawconvert"
 
 # this is a list of all tables per database
-# N.B. are there still tables missing????
+# Full per-period inventory documented in docs/CONVERSION_NOTES.md
 
 coll = {' batfra': ['AcademischeTitel',
               'AdellijkeTitel',
@@ -138,6 +138,9 @@ common_tables = ['AcademischeTitel',
  'BovenLokaalCollegeRegentDetails',
 ]
 
+# Periods whose MDBs include a Gewest lookup (provinciaal on aanstelling → gewest_id).
+gewest_periods = ['republiek', 'republiek_friezen']
+
 
 
 
@@ -230,6 +233,7 @@ tblregister = {
                       'functie': 'old_idfunctie',
                       'lokaal': 'old_lokaal',
                       'provinciaal': 'old_provinciaal',
+                      'gewest': 'old_provinciaal',
                       'regionaal': 'old_regio',
                       'stand': 'old_stand',
                       'persoon': 'old_idregent'},
@@ -288,6 +292,11 @@ tblregister = {
         'uniq': 'provincie',
         'is_reference': True,
         'oldids': ['IDprovincie']},
+      'gewest': {'id': 'gewest_id',
+        'old_id': 'old_idgewest',
+        'uniq': 'gewest',
+        'is_reference': True,
+        'oldids': ['IDGewest']},
       'regionaal': {'id':'regionaal_id',
         'old_id': 'old_idregio',
         'uniq': 'regio',
@@ -363,6 +372,7 @@ columnmaps={
     'alias':'naam',
     # 'old_idpersoon':'old_idpersoon',
     'regent_id':'persoon_id',
+    'persoon_id':'persoon_id',
     'id':'id'},
 
 "bron": {
@@ -378,7 +388,8 @@ columnmaps={
     # 'old_idregent':'old_idregent',
     # 'old_idbron':'old_idbron',
     'bron_id':'bron_id',
-    'regent_id':'persoon_id'},
+    'regent_id':'persoon_id',
+    'persoon_id':'persoon_id'},
 
 "college": {
     'college':'naam',
@@ -407,6 +418,11 @@ columnmaps={
     'provincie':'naam',
     # 'old_idprovincie':'old_idprovincie',
     'provinciaal_id':'id',
+    'id':'id'},
+
+"gewest": {
+    'gewest':'naam',
+    'gewest_id':'id',
     'id':'id'},
 
 "regionaal": {
@@ -449,9 +465,12 @@ columnmaps={
     'adellijketitel_id':'adellijketitel_id',
     'geboortedatum':'geboortedatum',
     'overlijdensdatum':'overlijdensdatum',
-    'geboortedatum':'geboortedatum',
-    'overlijdensdatum':'overlijdensdatum',
-    'searchable':'searchable'},
+    'geboortedatum_als_bekend':'geboortedatum_als_bekend',
+    'overlijdensdatum_als_bekend':'overlijdensdatum_als_bekend',
+    'onbepaaldgeboortedatum':'onbepaaldgeboortedatum',
+    'onbepaaldoverlijdensdatum':'onbepaaldoverlijdensdatum',
+    'searchable':'searchable',
+    'mark_for_delete':'mark_for_delete'},
 
 "aanstelling": {
     'begindag':'begindag',
@@ -477,6 +496,7 @@ columnmaps={
     'functie_id':'functie_id',
     'lokaal_id':'lokaal_id',
     'provinciaal_id':'provincie_id',
+    'gewest_id':'gewest_id',
     'regionaal_id':'regio_id',
     'stand_id':'stand_id',
     #'regent_id':'persoon_id',
@@ -485,7 +505,7 @@ columnmaps={
     'tot_als_bekend':'tot_als_bekend',
     'van':'van',
     'tot':'tot',
-    'id':'id'},
+    'mark_for_delete':'mark_for_delete'},
     
     'bronfunctiedetails':{
         'idbron':'idbron', 

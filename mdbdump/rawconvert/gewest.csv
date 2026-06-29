@@ -1,14 +1,14 @@
 ,gewest_id,gewest,old_idgewest
-0,0,-,"['batfra_1', 'republiek_1']"
-1,1,Friesland,['republiek_6']
-2,2,Gelderland,['republiek_8']
-3,3,Groningen,['republiek_2']
-4,4,H en Z,['republiek_10']
-5,5,Holland,['republiek_3']
-6,6,Oostergo,['republiek_11']
-7,7,Overijssel,['republiek_9']
-8,8,Steden,['republiek_14']
-9,9,Utrecht,['republiek_7']
-10,10,Westergo,['republiek_12']
-11,11,Zeeland,"['batfra_2', 'republiek_5']"
-12,12,Zevenwolden,['republiek_13']
+0,0,-,"['republiek_1', 'republiek_friezen_1']"
+1,1,Friesland,"['republiek_6', 'republiek_friezen_6']"
+2,2,Gelderland,"['republiek_8', 'republiek_friezen_8']"
+3,3,Groningen,"['republiek_2', 'republiek_friezen_2']"
+4,4,Holland,"['republiek_3', 'republiek_friezen_3']"
+5,5,Holland en Zeeland,"['republiek_10', 'republiek_friezen_10']"
+6,6,Oostergo,"['republiek_11', 'republiek_friezen_11']"
+7,7,Overijssel,"['republiek_9', 'republiek_friezen_9']"
+8,8,Steden van Friesland,"['republiek_14', 'republiek_friezen_14']"
+9,9,Utrecht,"['republiek_7', 'republiek_friezen_7']"
+10,10,Westergo,"['republiek_12', 'republiek_friezen_12']"
+11,11,Zeeland,"['republiek_5', 'republiek_friezen_5']"
+12,12,Zevenwolden,"['republiek_13', 'republiek_friezen_13']"

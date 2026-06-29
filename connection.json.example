@@ -1,0 +1,10 @@
+{
+  "raa_old": "mysql+pymysql://USER:PASSWORD@localhost/raa_old",
+  "raa_out": "mysql+pymysql://USER:PASSWORD@localhost/raa_nw_YYYYMMDD",
+  "batfralokatie": "/path/to/batfratijd/instelling20240410.csv",
+  "toe_dirs": [
+    "./original/brondata/Republiek/Institutionele toelichtingen Republiek/",
+    "./original/brondata/ME/Institutionele toelichtingen ME/",
+    "./original/brondata/Negentiende eeuw/Institutionele toelichtingen 19de eeuw/"
+  ]
+}
